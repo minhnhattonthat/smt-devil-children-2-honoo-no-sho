@@ -2442,7 +2442,7 @@
    3562
   ],
   "jp": "大昔に　死んだ[n]王様の　お墓の[n]宝を守る　デビル[n]宝をぬすまれると[n]目を　さまして[n]ドロボウをおそう[end]",
-  "en": "A devil guarding the treasure in an ancient king's tomb. If the treasure is stolen, it wakes and attacks the thief.[end]"
+  "en": "A demon guarding the treasure in an ancient king's tomb. If the treasure is stolen, it wakes and attacks the thief.[end]"
  },
  {
   "id": "M3563",
@@ -2472,7 +2472,7 @@
    3564
   ],
   "jp": "頭に　角が[n]生えた　カイリキで[n]ものしりなデビル[n]見た目はコワイが[n]自然を　愛する[n]優しい　性格[end]",
-  "en": "A super strong, wise devil with horns on its head. It looks scary, but it loves nature and is very gentle.[end]"
+  "en": "A super strong, wise demon with horns on its head. It looks scary, but it loves nature and is very gentle.[end]"
  },
  {
   "id": "M3565",
@@ -2487,7 +2487,7 @@
    3565
   ],
   "jp": "カイリキのウデを[n]たくさん　持つ[n]巨人の　デビル[n]その　カイリキを[n]おそれた　神に[n]フウインされた[end]",
-  "en": "A giant devil with many super strong arms. A god who feared its strength sealed it away.[end]"
+  "en": "A giant demon with many super strong arms. A god who feared its strength sealed it away.[end]"
  },
  {
   "id": "M3566",
@@ -2532,7 +2532,7 @@
    3568
   ],
   "jp": "母親を探すために[n]空を飛ぶ　鳥に[n]変身した赤ん坊の[n]ふくろう　デビル[n]泣き声は　人間の[n]赤ん坊と　同じ[end]",
-  "en": "An owl devil, once a baby who turned into a bird to fly off in search of its mom. Its cry sounds just like a human baby's.[end]"
+  "en": "An owl demon, once a baby who turned into a bird to fly off in search of its mom. Its cry sounds just like a human baby's.[end]"
  },
  {
   "id": "M3569",
@@ -2547,7 +2547,7 @@
    3569
   ],
   "jp": "ふれた　だけで[n]すべてを燃やして[n]しまう　１本足の[n]炎をはく　ツル[n]火事を　おこす[n]メイワクなデビル[end]",
-  "en": "A one-legged, fire-breathing crane that burns anything it touches. A pesky devil that starts fires.[end]"
+  "en": "A one-legged, fire-breathing crane that burns anything it touches. A pesky demon that starts fires.[end]"
  },
  {
   "id": "M3570",
@@ -2577,7 +2577,7 @@
    3571
   ],
   "jp": "鳥のような　長い[n]くちばしと　頭を[n]していて[n]死んだ人の　体を[n]ばらばらに　する[n]ひじょうなデビル[end]",
-  "en": "A heartless devil with a head and long beak like a bird's. It tears the bodies of the dead to pieces.[end]"
+  "en": "A heartless demon with a head and long beak like a bird's. It tears the bodies of the dead to pieces.[end]"
  },
  {
   "id": "M3572",
@@ -2622,7 +2622,7 @@
    3574
   ],
   "jp": "悪い　デビルは[n]絶対に　許さない[n]正義感ある　双子の[n]犬の　デビル[n]神社の結界を守る[n]番犬でも　ある[end]",
-  "en": "Twin dog devils with a strong sense of justice. They never forgive evil devils, and guard the barriers of shrines.[end]"
+  "en": "Twin dog demons with a strong sense of justice. They never forgive evil demons, and guard the barriers of shrines.[end]"
  },
  {
   "id": "M3575",
@@ -2967,7 +2967,7 @@
    3597
   ],
   "jp": "人の心に　入りこみ[n]悪いユウワクをする[n]小さな　デビル[n]でも　気が弱いから[n]ちょっと　おこると[n]すぐに　にげだす[end]",
-  "en": "A little devil that sneaks into people's hearts to tempt them. But it's timid and runs off if you get a bit mad.[end]"
+  "en": "A little demon that sneaks into people's hearts to tempt them. But it's timid and runs off if you get a bit mad.[end]"
  },
  {
   "id": "M3598",
@@ -2997,6 +2997,6 @@
    3599
   ],
   "jp": "神の力という意味の[n]勝利の　天使[n]世界を　守るために[n]武器を　もち[n]悪い　デビルを[n]さがしている[end]",
-  "en": "An angel of victory whose name means \"power of God.\" It bears arms and hunts evil devils to protect the world.[end]"
+  "en": "An angel of victory whose name means \"power of God.\" It bears arms and hunts evil demons to protect the world.[end]"
  }
 ]

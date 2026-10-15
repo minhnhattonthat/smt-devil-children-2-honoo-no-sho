@@ -20,6 +20,15 @@ def main(paths, dry=False):
                 continue
             i, en = line.split('\t', 1)
             fixes[i.strip()] = (en, '%s:%d' % (Path(p).name, k))
+    # a fixed name field also fixes every other field with the same Japanese
+    allf = []
+    for f in sorted(glob.glob(str(ROOT / 'script/**/*.json'), recursive=True)):
+        allf += [e for e in json.load(open(f, encoding='utf-8')) if e['kind'] == 'field']
+    jp_of = {e['id']: e['jp'] for e in allf}
+    fjp = {jp_of[i]: v for i, v in fixes.items() if i in jp_of}
+    for e in allf:
+        if e['jp'] in fjp and e['id'] not in fixes:
+            fixes[e['id']] = fjp[e['jp']]
     bad, n = 0, 0
     for f in sorted(glob.glob(str(ROOT / 'script/**/*.json'), recursive=True)):
         es = json.load(open(f, encoding='utf-8'))

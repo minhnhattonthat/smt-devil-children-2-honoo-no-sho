@@ -12,7 +12,7 @@
    3800
   ],
   "jp": "大きなウシの姿の[n]キョウアクなデビルで[n]カイリキのもちぬし[n]手にもったカナボウで[n]敵も味方も[n]ふきとばす[end]",
-  "en": "A vicious bull-shaped devil with incredible strength. Its iron club sends foes and friends alike flying.[end]"
+  "en": "A vicious bull-shaped demon with incredible strength. Its iron club sends foes and friends alike flying.[end]"
  },
  {
   "id": "M3801",
@@ -27,7 +27,7 @@
    3801
   ],
   "jp": "夜に　あらわれる[n]おそろしい　デビル[n]タマゴに　入った[n]神への　プレゼント[n]なにが入っているのか[n]だれも　知らない[end]",
-  "en": "A fearsome devil that appears at night. It brings the gods a present inside an egg, but nobody knows what's in it.[end]"
+  "en": "A fearsome demon that appears at night. It brings the gods a present inside an egg, but nobody knows what's in it.[end]"
  },
  {
   "id": "M3802",
@@ -42,7 +42,7 @@
    3802
   ],
   "jp": "まいにち　太陽が[n]あらわれるとともに[n]やってくる船のデビル[n]あの世と　この世の[n]さかいめを[n]通ることができる[end]",
-  "en": "A ship devil that comes every day as the sun rises. It can cross the border between this world and the next.[end]"
+  "en": "A ship demon that comes every day as the sun rises. It can cross the border between this world and the next.[end]"
  },
  {
   "id": "M3803",
@@ -57,7 +57,7 @@
    3803
   ],
   "jp": "熱い風に　乗せて[n]病気をはこんでくる[n]悪い　デビル[n]その病気に　かかると[n]ふつうの　方法では[n]なおせない[end]",
-  "en": "An evil devil that carries sickness on hot winds. Once you catch its sickness, normal methods can't cure it.[end]"
+  "en": "An evil demon that carries sickness on hot winds. Once you catch its sickness, normal methods can't cure it.[end]"
  },
  {
   "id": "M3804",
@@ -87,7 +87,7 @@
    3805
   ],
   "jp": "寒いところに[n]住んでいて[n]悪い病気を[n]水の中から　ひろめる[n]魚の姿の[n]とても　悪いデビル[end]",
-  "en": "A very evil, fish-shaped devil that lives in cold places and spreads terrible sickness through the water.[end]"
+  "en": "A very evil, fish-shaped demon that lives in cold places and spreads terrible sickness through the water.[end]"
  },
  {
   "id": "M3806",
@@ -102,7 +102,7 @@
    3806
   ],
   "jp": "人間に　武器と[n]魔法と　ケショウを[n]教えた　ナゾのデビル[n]人間を　助けようと[n]しているのかは[n]だれも　知らない[end]",
-  "en": "A mysterious devil that taught humans weapons, magic and makeup. Nobody knows if it is trying to help them.[end]"
+  "en": "A mysterious demon that taught humans weapons, magic and makeup. Nobody knows if it is trying to help them.[end]"
  },
  {
   "id": "M3807",
@@ -117,7 +117,7 @@
    3807
   ],
   "jp": "寒い地方に住んでいて[n]イワの中に入っている[n]６本の足を持っている[n]キョウリュウの[n]ような　姿の[n]悪い　デビル[end]",
-  "en": "An evil devil that lives inside rocks in cold lands. It looks like a dinosaur with six legs.[end]"
+  "en": "An evil demon that lives inside rocks in cold lands. It looks like a dinosaur with six legs.[end]"
  },
  {
   "id": "M3808",
@@ -132,7 +132,7 @@
    3808
   ],
   "jp": "商売はんじょうに[n]してくれるという[n]福の　神[n]釣っている　タイとは[n]何千年も　戦っている[n]ライバルらしい[end]",
-  "en": "A god of good fortune who brings business success. The sea bream he fishes is said to be his rival of thousands of years.[end]"
+  "en": "A god of good fortune who brings business success. He has apparently been battling the sea bream he fishes for thousands of years.[end]"
  },
  {
   "id": "M3809",
@@ -162,7 +162,7 @@
    3810
   ],
   "jp": "雪のつもる　場所に[n]住んでいる　デビル[n]ぼうっとしていると[n]とりつかれてしまうが[n]こまっている　人間を[n]助けてくれる時もある[end]",
-  "en": "A devil that lives in snowy places. Space out and it'll possess you, but sometimes it helps humans in trouble.[end]"
+  "en": "A demon that lives in snowy places. Space out and it'll possess you, but sometimes it helps humans in trouble.[end]"
  },
  {
   "id": "M3811",
@@ -177,7 +177,7 @@
    3811
   ],
   "jp": "火山の中に住んでいて[n]自分も　燃えている[n]ネズミの　デビル[n]カソの皮に[n]火をつけようとしても[n]絶対に　燃えない[end]",
-  "en": "A mouse devil that lives inside volcanoes and is on fire itself. Try to set a Kaso's fur alight and it never burns.[end]"
+  "en": "A mouse demon that lives inside volcanoes and is on fire itself. Try to set a Kaso's fur alight and it never burns.[end]"
  },
  {
   "id": "M3812",
@@ -207,7 +207,7 @@
    3813
   ],
   "jp": "強い力を持っていると[n]ウワサのナゾのデビル[n]人間にしれんをあたえ[n]それをのりこえた者は[n]新しい力を手に入れる[n]ことが　できるという[end]",
-  "en": "A mysterious devil rumored to be very powerful. It gives humans trials, and those who pass them gain new power.[end]"
+  "en": "A mysterious demon rumored to be very powerful. It gives humans trials, and those who pass them gain new power.[end]"
  },
  {
   "id": "M3814",
@@ -282,7 +282,7 @@
    3818
   ],
   "jp": "タマシイをもった[n]人形として　作られる[n]ハズだったのに[n]失敗して[n]不完全な体になった[n]かなしい　デビル[end]",
-  "en": "A sad devil that was meant to be a doll with a soul, but failed and ended up with an incomplete body.[end]"
+  "en": "A sad demon that was meant to be a doll with a soul, but failed and ended up with an incomplete body.[end]"
  },
  {
   "id": "M3819",
@@ -312,7 +312,7 @@
    3820
   ],
   "jp": "小さな　鬼のデビル[n]いつも　悪いことを[n]考えているから[n]気をつけないと[n]イタズラに[n]ひっかけられてしまう[end]",
-  "en": "A little ogre devil always thinking up mischief. If you're not careful, you'll fall for its pranks.[end]"
+  "en": "A little ogre demon always thinking up mischief. If you're not careful, you'll fall for its pranks.[end]"
  },
  {
   "id": "M3821",
@@ -327,7 +327,7 @@
    3821
   ],
   "jp": "人間に　たいじされた[n]悪いデビルのタマシイ[n]１体じゃ　弱いから[n]いつも　何体か[n]あつまってから[n]コウゲキしてくる[end]",
-  "en": "The soul of an evil devil defeated by humans. One alone is weak, so they always gang up before they attack.[end]"
+  "en": "The soul of an evil demon defeated by humans. One alone is weak, so they always gang up before they attack.[end]"
  },
  {
   "id": "M3822",
@@ -357,7 +357,7 @@
    3823
   ],
   "jp": "熱い風を　あやつって[n]病気をひろめた[n]悪い　デビル[n]長い　フウインから[n]めざめたが　力は[n]まだ　完全ではない[end]",
-  "en": "An evil devil that spread sickness by controlling hot winds. It woke from a long seal, but its power is not yet complete.[end]"
+  "en": "An evil demon that spread sickness by controlling hot winds. It woke from a long seal, but its power is not yet complete.[end]"
  },
  {
   "id": "M3824",
@@ -372,7 +372,7 @@
    3824
   ],
   "jp": "子供をさらって[n]食べていた[n]コワイデビル[n]フウインはとけたが[n]まだ　すべての力は[n]もどっていない[end]",
-  "en": "A scary devil that kidnapped and ate children. Its seal is broken, but not all of its power has returned.[end]"
+  "en": "A scary demon that kidnapped and ate children. Its seal is broken, but not all of its power has returned.[end]"
  },
  {
   "id": "M3825",
@@ -477,7 +477,7 @@
    3831
   ],
   "jp": "はるかな　昔に[n]悪さをして[n]フウインされた[n]身軽な　トラのデビル[n]まだ　本当の力は[n]めざめていない[end]",
-  "en": "A nimble tiger devil sealed away long ago for its misdeeds. Its true power has not yet awakened.[end]"
+  "en": "A nimble tiger demon sealed away long ago for its misdeeds. Its true power has not yet awakened.[end]"
  },
  {
   "id": "M3832",
@@ -2412,7 +2412,7 @@
    3960
   ],
   "jp": "氷の使徒につかえる[n]キョウボウなデビル[n]かなり　好戦的で[n]さからう者を[n]みつけると[n]すぐに殺してしまう[end]",
-  "en": "A savage devil who serves the Ice Apostle. It loves to fight and kills anyone who defies it on sight.[end]"
+  "en": "A savage demon who serves the Ice Apostle. It loves to fight and kills anyone who defies it on sight.[end]"
  },
  {
   "id": "M3961",
@@ -2532,7 +2532,7 @@
    3968
   ],
   "jp": "炎の使徒につかえる[n]ケモノのデビル[n]変身する　能力を[n]もっていて[n]ゼブルに変身していた[end]",
-  "en": "A beast devil who serves the Flame Apostle. It can change shape, and was disguised as Zebul.[end]"
+  "en": "A beast demon who serves the Flame Apostle. It can change shape, and was disguised as Zebul.[end]"
  },
  {
   "id": "M3969",
@@ -2547,7 +2547,7 @@
    3969
   ],
   "jp": "炎の使徒につかえる[n]オオカミのデビル[n]変身する　能力を[n]もっていて[n]フェゴールに[n]変身していた[end]",
-  "en": "A wolf devil who serves the Flame Apostle. It can change shape, and was disguised as Phegor.[end]"
+  "en": "A wolf demon who serves the Flame Apostle. It can change shape, and was disguised as Phegor.[end]"
  },
  {
   "id": "M3970",
@@ -2562,7 +2562,7 @@
    3970
   ],
   "jp": "炎の使徒につかえる[n]ししのデビル[n]変身する　能力を[n]もっていて[n]ベリトに変身していた[end]",
-  "en": "A lion devil who serves the Flame Apostle. It can change shape, and was disguised as Berith.[end]"
+  "en": "A lion demon who serves the Flame Apostle. It can change shape, and was disguised as Berith.[end]"
  },
  {
   "id": "M3971",
@@ -2577,7 +2577,7 @@
    3971
   ],
   "jp": "氷の使徒につかえる[n]炎の化身のデビル[n]話すことが少し[n]ニガテで　あまり[n]アタマがよくない[end]",
-  "en": "A devil of living flame who serves the Ice Apostle. It's not great at talking, and not very smart.[end]"
+  "en": "A demon of living flame who serves the Ice Apostle. It's not great at talking, and not very smart.[end]"
  },
  {
   "id": "M3972",
@@ -2592,7 +2592,7 @@
    3972
   ],
   "jp": "氷の使徒につかえる[n]ドラゴンのデビル[n]変身する　能力を[n]もっていて[n]エノクに変身していた[end]",
-  "en": "A dragon devil who serves the Ice Apostle. It can change shape, and was disguised as Enoch.[end]"
+  "en": "A dragon demon who serves the Ice Apostle. It can change shape, and was disguised as Enoch.[end]"
  },
  {
   "id": "M3973",
@@ -2607,7 +2607,7 @@
    3973
   ],
   "jp": "氷の使徒につかえる[n]ドラゴンのデビル[n]変身する　能力を[n]もっていて[n]サンダルフォンに[n]変身していた[end]",
-  "en": "A dragon devil who serves the Ice Apostle. It can change shape, and was disguised as Sandalphon.[end]"
+  "en": "A dragon demon who serves the Ice Apostle. It can change shape, and was disguised as Sandalphon.[end]"
  },
  {
   "id": "M3974",
@@ -2682,7 +2682,7 @@
    3978
   ],
   "jp": "失われた古代の力を[n]もつ　ナゾのデビル[n]魔法も技も　得意で[n]戦いにおいて[n]まけたことがないと[n]ウワサされる・・・[end]",
-  "en": "A mysterious devil with a lost ancient power. Skilled in magic and combat, it's rumored to have never lost a fight...[end]"
+  "en": "A mysterious demon with a lost ancient power. Skilled in magic and combat, it's rumored to have never lost a fight...[end]"
  },
  {
   "id": "M3979",
@@ -2727,7 +2727,7 @@
    3981
   ],
   "jp": "赤い馬に　のって[n]真紅の　ヨロイに[n]身を　つつみ[n]すさまじい剣技で[n]敵におそいかかる[n]デビルの　きし[end]",
-  "en": "A devil knight in crimson armor who rides a red horse and attacks foes with fearsome swordplay.[end]"
+  "en": "A demon knight in crimson armor who rides a red horse and attacks foes with fearsome swordplay.[end]"
  },
  {
   "id": "M3982",
@@ -2787,7 +2787,7 @@
    3985
   ],
   "jp": "ガンジョウな体を[n]もち　大きなシタを[n]だして　わらいだす[n]ヨウキなデビル[n]赤ちゃんが　大好きで[n]命にかえても　守る[end]",
-  "en": "A cheerful devil with a sturdy body that sticks out its big tongue and laughs. It loves babies and will guard them with its life.[end]"
+  "en": "A cheerful demon with a sturdy body that sticks out its big tongue and laughs. It loves babies and will guard them with its life.[end]"
  },
  {
   "id": "M3986",
@@ -2802,7 +2802,7 @@
    3986
   ],
   "jp": "ガンジョウな体を[n]もち　大きなシタを[n]だして　わらいだす[n]ヨウキなデビル[n]赤ちゃんが　大好きで[n]命にかえても　守る[end]",
-  "en": "A cheerful devil with a sturdy body that sticks out its big tongue and laughs. It loves babies and will guard them with its life.[end]"
+  "en": "A cheerful demon with a sturdy body that sticks out its big tongue and laughs. It loves babies and will guard them with its life.[end]"
  },
  {
   "id": "M3987",
@@ -2817,7 +2817,7 @@
    3987
   ],
   "jp": "真っ赤なかみの毛を[n]していて人間の言葉を[n]研究しているデビル[n]お酒が　大好きで[n]よっぱらうと[n]上手におどりだす[end]",
-  "en": "A red-haired devil that studies human language. It loves drinking, and dances well when drunk.[end]"
+  "en": "A red-haired demon that studies human language. It loves drinking, and dances well when drunk.[end]"
  },
  {
   "id": "M3988",
@@ -2832,7 +2832,7 @@
    3988
   ],
   "jp": "大きなシタを出し[n]人間をなめまわして[n]ビックリさせるのが[n]大好きなデビル[n]大きなシタはさわると[n]ヤケドするほど熱い[end]",
-  "en": "A devil that loves to stick out its big tongue and lick humans to startle them. Its tongue is hot enough to burn![end]"
+  "en": "A demon that loves to stick out its big tongue and lick humans to startle them. Its tongue is hot enough to burn![end]"
  },
  {
   "id": "M3989",

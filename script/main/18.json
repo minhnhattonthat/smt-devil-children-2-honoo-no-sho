@@ -57,7 +57,7 @@
    3603
   ],
   "jp": "大空を走る戦車に乗り[n]悪い　デビルや[n]悪い　人間を[n]こらしめる天使[n]体は金属のように光り[n]顔は　４つあるという[end]",
-  "en": "An angel who rides a chariot across the sky to punish bad devils and humans. Its body shines like metal, and it has four faces.[end]"
+  "en": "An angel who rides a chariot across the sky to punish bad demons and humans. Its body shines like metal, and it has four faces.[end]"
  },
  {
   "id": "M3604",
@@ -132,7 +132,7 @@
    3608
   ],
   "jp": "かわいい　えがおで[n]むじゃきに　笑い[n]氷の　魔法で[n]じゃれてくる[n]ユキダルマから[n]生まれた　デビル[end]",
-  "en": "A devil born from a snowman. With a cute smile and innocent laugh, it plays around with ice magic.[end]"
+  "en": "A demon born from a snowman. With a cute smile and innocent laugh, it plays around with ice magic.[end]"
  },
  {
   "id": "M3609",
@@ -147,7 +147,7 @@
    3609
   ],
   "jp": "長い　時間[n]飛び　続けたり[n]すごい　はやさで[n]走ることもできる[n]モモンガみたいな[n]ニンジャのデビル[end]",
-  "en": "A ninja devil like a flying squirrel. It can fly for a long time and run super fast.[end]"
+  "en": "A ninja demon like a flying squirrel. It can fly for a long time and run super fast.[end]"
  },
  {
   "id": "M3610",
@@ -177,7 +177,7 @@
    3611
   ],
   "jp": "ふぶきの　夜に[n]ユキオンナが[n]だいてあらわれる[n]雪で　できている[n]赤ちゃん　デビル[n]いつも鼻をたらしてる[end]",
-  "en": "A baby devil made of snow, carried in by the Yuki-Onna on snowy nights. Its nose is always runny.[end]"
+  "en": "A baby demon made of snow, carried in by the Yuki-Onna on snowy nights. Its nose is always runny.[end]"
  },
  {
   "id": "M3612",
@@ -192,7 +192,7 @@
    3612
   ],
   "jp": "ヤリと　タテを[n]持っている[n]地下の　神[n]どうどうとしていて[n]りりしい　姿の[n]プライド高いデビル[end]",
-  "en": "A god of the underground with a spear and shield. A proud devil with a dignified, noble look.[end]"
+  "en": "A god of the underground with a spear and shield. A proud demon with a dignified, noble look.[end]"
  },
  {
   "id": "M3613",
@@ -252,7 +252,7 @@
    3616
   ],
   "jp": "ヌマや森の　奥に住む[n]カボチャ頭の[n]炎の　デビル[n]人を　まどわし[n]そこなしヌマに[n]ひきずりこむ[end]",
-  "en": "A pumpkin-headed fire devil living deep in swamps and forests. It leads people astray and drags them into bottomless swamps.[end]"
+  "en": "A pumpkin-headed fire demon living deep in swamps and forests. It leads people astray and drags them into bottomless swamps.[end]"
  },
  {
   "id": "M3617",
@@ -312,7 +312,7 @@
    3620
   ],
   "jp": "ケルベロスと兄弟の[n]犬の　デビル[n]とても人情深いが[n]バトル　では[n]火炎を　はいて[n]りりしく　戦う[end]",
-  "en": "A dog devil and brother of Cerberus. It's very kind-hearted, but in battle it breathes fire and fights proudly.[end]"
+  "en": "A dog demon and brother of Cerberus. It's very kind-hearted, but in battle it breathes fire and fights proudly.[end]"
  },
  {
   "id": "M3621",
@@ -372,7 +372,7 @@
    3624
   ],
   "jp": "いつも　おなかを[n]すかせている[n]ツバサを　持った[n]女の子の　デビル[n]美しく　すんだ歌声が[n]聞く者をユウワクする[end]",
-  "en": "A winged girl devil who is always hungry. Her beautiful, clear singing voice tempts all who hear it.[end]"
+  "en": "A winged girl demon who is always hungry. Her beautiful, clear singing voice tempts all who hear it.[end]"
  },
  {
   "id": "M3625",
@@ -402,7 +402,7 @@
    3626
   ],
   "jp": "昼間は　森で[n]じっとしているが[n]夜に　なると[n]火の玉と　ともに[n]町を　さんぽする[n]陽気な　デビル[end]",
-  "en": "A cheerful devil that sits still in the forest by day, but strolls through town with fireballs at night.[end]"
+  "en": "A cheerful demon that sits still in the forest by day, but strolls through town with fireballs at night.[end]"
  },
  {
   "id": "M3627",
@@ -417,7 +417,7 @@
    3627
   ],
   "jp": "ゲイボルグという[n]ヤリを　持つ[n]きしの　デビル[n]まじめな性格で[n]約束は　絶対に[n]やぶらない[end]",
-  "en": "A knight devil who wields a spear called Gae Bolg. Very serious, he never breaks a promise.[end]"
+  "en": "A knight demon who wields a spear called Gae Bolg. Very serious, he never breaks a promise.[end]"
  },
  {
   "id": "M3628",
@@ -432,7 +432,7 @@
    3628
   ],
   "jp": "いつも　自分の[n]シッポを　くわえ[n]ぐるぐると回っている[n]意味の　無いことが[n]とても　大好きな[n]犬の　デビル[end]",
-  "en": "A dog devil that always spins in circles biting its own tail. It loves doing pointless things.[end]"
+  "en": "A dog demon that always spins in circles biting its own tail. It loves doing pointless things.[end]"
  },
  {
   "id": "M3629",
@@ -447,7 +447,7 @@
    3629
   ],
   "jp": "海に　あらわれ[n]美しい声で歌い[n]船乗りたちを[n]ユウワクして[n]船をしずめてしまう[n]ざんこくな　デビル[end]",
-  "en": "A cruel devil who appears at sea, tempting sailors with her beautiful voice and sinking their ships.[end]"
+  "en": "A cruel demon who appears at sea, tempting sailors with her beautiful voice and sinking their ships.[end]"
  },
  {
   "id": "M3630",
@@ -462,7 +462,7 @@
    3630
   ],
   "jp": "１度ケンカを[n]始めてしまうと[n]勝つまで　やめない[n]ひねくれもので[n]負けずギライな[n]トラの　デビル[end]",
-  "en": "A twisted tiger devil and a sore loser. Once it starts a fight, it won't stop until it wins.[end]"
+  "en": "A twisted tiger demon and a sore loser. Once it starts a fight, it won't stop until it wins.[end]"
  },
  {
   "id": "M3631",
@@ -777,7 +777,7 @@
    3651
   ],
   "jp": "眠れない夜に[n]人間の　前に[n]ヒツジが１ぴき[n]ヒツジが２ひきと[n]次々にあらわれて[n]眠らせるデビル[end]",
-  "en": "On sleepless nights, one sheep, then two sheep appear before people, one after another, to put them to sleep.[end]"
+  "en": "A demon that appears before people on sleepless nights as one sheep, then two sheep, and on and on, until they fall asleep.[end]"
  },
  {
   "id": "M3652",
@@ -2517,7 +2517,7 @@
    3767
   ],
   "jp": "遠い　昔に[n]フウインされた[n]人魚の　デビル[n]まだ　本当の[n]力は　めざめて[n]いない[end]",
-  "en": "A mermaid devil sealed away long ago. Its true power has not yet awakened.[end]"
+  "en": "A mermaid demon sealed away long ago. Its true power has not yet awakened.[end]"
  },
  {
   "id": "M3768",
@@ -2562,7 +2562,7 @@
    3770
   ],
   "jp": "イニシエの　昔に[n]人をユウワクして[n]フウインされた[n]ナゾの　デビル[n]ゾンビになっても[n]その力はすさまじい[end]",
-  "en": "A mysterious devil sealed away in ancient times for tempting humans. Even as a zombie, its power is fearsome.[end]"
+  "en": "A mysterious demon sealed away in ancient times for tempting humans. Even as a zombie, its power is fearsome.[end]"
  },
  {
   "id": "M3771",
@@ -2667,7 +2667,7 @@
    3777
   ],
   "jp": "１度　死んで[n]吸血鬼として復活した[n]悪い　デビル[n]自分をおいかけてくる[n]クルースニクと[n]何度も戦っている[end]",
-  "en": "An evil devil that died once and came back as a vampire. It fights Kresnik, who hunts it, again and again.[end]"
+  "en": "An evil demon that died once and came back as a vampire. It fights Kresnik, who hunts it, again and again.[end]"
  },
  {
   "id": "M3778",
@@ -2742,7 +2742,7 @@
    3782
   ],
   "jp": "マジックが　得意な[n]陽気な　デビル[n]キョウボウな　ウデを[n]ボウシから　よびだす[n]だけど自分が　その[n]ウデに　なぐられてる[end]",
-  "en": "A cheerful devil that's good at magic. It calls a violent arm out of its hat... but that arm keeps punching it.[end]"
+  "en": "A cheerful demon that's good at magic. It calls a violent arm out of its hat... but that arm keeps punching it.[end]"
  },
  {
   "id": "M3783",
@@ -2757,7 +2757,7 @@
    3783
   ],
   "jp": "人間の　子供を[n]さらって食べてしまう[n]悪い　デビル[n]口ぶえが上手で[n]その音で　旅人を[n]ユウワクする[end]",
-  "en": "An evil devil that kidnaps and eats human children. A great whistler, it lures travelers with the sound.[end]"
+  "en": "An evil demon that kidnaps and eats human children. A great whistler, it lures travelers with the sound.[end]"
  },
  {
   "id": "M3784",
@@ -2847,7 +2847,7 @@
    3789
   ],
   "jp": "海の中に住んでいる[n]巨大な　デビル[n]どんどん大きく[n]なっていて[n]世界よりも大きくなる[n]と言われている[end]",
-  "en": "A giant devil that lives in the sea. It keeps getting bigger and bigger, and they say it will grow bigger than the world.[end]"
+  "en": "A giant demon that lives in the sea. It keeps getting bigger and bigger, and they say it will grow bigger than the world.[end]"
  },
  {
   "id": "M3790",
@@ -2877,7 +2877,7 @@
    3791
   ],
   "jp": "雷と　いっしょに[n]空から　落ちてくると[n]いわれている[n]ネコのような　デビル[n]かわいいけど[n]さわると　しびれる[end]",
-  "en": "A catlike devil said to fall from the sky with the lightning. It's cute, but touch it and you'll get zapped.[end]"
+  "en": "A catlike demon said to fall from the sky with the lightning. It's cute, but touch it and you'll get zapped.[end]"
  },
  {
   "id": "M3792",
@@ -2892,7 +2892,7 @@
    3792
   ],
   "jp": "スイカ畑に住むという[n]スイカのもようのある[n]ブタのような　デビル[n]畑にきた　人間を[n]まるのみにしてしまう[n]食いしんぼう[end]",
-  "en": "A watermelon-striped, piglike devil said to live in watermelon fields. A glutton that swallows humans in its field whole.[end]"
+  "en": "A watermelon-striped, piglike demon said to live in watermelon fields. A glutton that swallows humans in its field whole.[end]"
  },
  {
   "id": "M3793",
@@ -2907,7 +2907,7 @@
    3793
   ],
   "jp": "目にも　とまらぬ[n]はやさで　走る[n]みがるな　デビル[n]どんな　デビルも[n]走る　はやさじゃ[n]かなわない[end]",
-  "en": "A nimble devil that runs faster than the eye can follow. No devil can beat it in a race.[end]"
+  "en": "A nimble demon that runs faster than the eye can follow. No demon can beat it in a race.[end]"
  },
  {
   "id": "M3794",

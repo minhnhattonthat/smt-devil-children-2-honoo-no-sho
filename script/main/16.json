@@ -267,7 +267,7 @@
    3217
   ],
   "jp": "氷柱で　敵１体に大ダメージ[end]",
-  "en": "Ice pillar: big damage to one foe.[end]"
+  "en": "Icicle: big damage to one foe.[end]"
  },
  {
   "id": "M3218",
@@ -342,7 +342,7 @@
    3222
   ],
   "jp": "敵味方全員に　雷がふりそそぐ[end]",
-  "en": "Lightning rains down on foes and allies alike.[end]"
+  "en": "Thunder rains down on foes and allies alike.[end]"
  },
  {
   "id": "M3223",
@@ -402,7 +402,7 @@
    3226
   ],
   "jp": "敵１体に小ダメージと命中率ダウン効果[end]",
-  "en": "Small damage + accuracy down to one foe.[end]"
+  "en": "Small damage + Accuracy down to one foe.[end]"
  },
  {
   "id": "M3227",
@@ -432,7 +432,7 @@
    3228
   ],
   "jp": "敵全体に中ダメージと命中率ダウン効果[end]",
-  "en": "Medium damage + accuracy down to all foes.[end]"
+  "en": "Medium damage + Accuracy down to all foes.[end]"
  },
  {
   "id": "M3229",
@@ -882,7 +882,7 @@
    3258
   ],
   "jp": "ミュート系デビルにのみ　大ダメージ[end]",
-  "en": "Big damage to Mute-type foes only.[end]"
+  "en": "Big damage to Mutant-type foes only.[end]"
  },
  {
   "id": "M3259",
