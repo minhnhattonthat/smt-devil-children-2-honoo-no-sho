@@ -29,8 +29,12 @@ def tokens(text):
         if part.startswith('['):
             yield ('c', part)
         else:
-            for w in re.split(r'( )', part):
-                if w:
+            for w in re.split(r'( +)', part):
+                if w == ' ':
+                    yield ('t', w)
+                elif w.startswith('  '):
+                    yield ('t', w)          # 2+ spaces = deliberate indent/centering: kept as text
+                elif w:
                     yield ('t', w)
 
 
@@ -53,12 +57,21 @@ def wrap(text, dialect='dlg'):
             line = 1
         x = 0
 
+    text = re.sub(r'\[n\](?=  )', '[N]', text)      # [n] before an indent (centred lines) stays a hard break
     for kind, tok in tokens(text):
         if kind == 'c':
+            if tok == '[N]':
+                tok = '[n]'
+                out.append('[n]' if line == 0 else '[wait][clr]')
+                line, x, pending_space = 1, 0, False
+                continue
             name = tok[1:-1].split(':')[0]
             if name == 'face':
                 face = tok != '[face:65535]'
                 limit = W_FACE if face else W_PLAIN
+            if name == 'n' and not (out and out[-1].endswith('[wait]')):
+                pending_space = True        # a bare [n] is only a hint: the wrapper places line breaks
+                continue
             if name == 'n':
                 if line == 0:
                     out.append(tok)
@@ -100,6 +113,35 @@ def wrap(text, dialect='dlg'):
         x += sp + w
         pending_space = False
     return ''.join(out), warn
+
+
+def fit(text, width):
+    """Greedy-wrap a non-dialogue message into lines of <= width px. Explicit [n] kept. Returns the text with
+    [n] breaks and the list of line widths."""
+    body = text[:-5] if text.endswith('[end]') else text
+    tail = text[len(body):]
+    out_lines = []
+    for para in body.split('[n]'):
+        cur, x, pend = '', 0, False
+        for kind, tok in tokens(para):
+            if kind == 'c':
+                cur += tok
+                if tok[1:-1].split(':')[0] in VAR_W:
+                    x += enc.text_width(tok, var_w=VAR_W)
+                continue
+            if tok == ' ':
+                pend = True
+                continue
+            w = enc.text_width(tok)
+            sp = enc.text_width(' ') if (pend and x) else 0
+            if x and x + sp + w > width:
+                out_lines.append((cur, x))
+                cur, x, sp = '', 0, 0
+            cur += (' ' if sp else '') + tok
+            x += sp + w
+            pend = False
+        out_lines.append((cur, x))
+    return '[n]'.join(l for l, _ in out_lines) + tail, [w for _, w in out_lines]
 
 
 def lines(wrapped):

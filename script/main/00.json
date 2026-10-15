@@ -12,7 +12,7 @@
    0
   ],
   "jp": "人間と[pause:60]　デビルの[pause:60][n]二つのチカラをもった[pause:30]　人間の子供[wait][page]それが　[pause:60]・・・[pause:60]　デビルチルドレン[wait][page]そのチカラは　時空をこえて[n]おさない子供たちに　伝えられ[wait][clr]世界の運命を　導くといわれている[wait][page]今から語られる　この物語は[n]世界の運命を　ゆだねられた少年の[wait][clr]勇気ある　冒険の記録である[wait][end]",
-  "en": ""
+  "en": "Humans and[pause:60] demons...[pause:60] A human child[n]who holds both their powers...[pause:30][wait][page]That child is...[pause:60] ...[pause:60] a DemiKid.[wait][page]That power reaches across time and space,[n]handed down to young children...[wait][clr]and it is said to guide the fate of the world.[wait][page]The story about to be told is the record[n]of a boy entrusted with the world's fate[wait][clr]and his brave adventure.[wait][end]"
  },
  {
   "id": "M0001",
@@ -27,7 +27,7 @@
    1
   ],
   "jp": "[f7:8]　　　　　　　　　光　　　　[pause:120][n]　　　　　それはチカラ・・・[pause:120][wait][e5]　　　　すべてを　つつみこみ[pause:120][n]　　　　そして　焼きつくす[pause:120][wait][e5]　　　その輝きの　するどさの前に[pause:120][n]　　立ち向かえるものは　なにもない[wait][f7:1][pause:120][e5][end]",
-  "en": ""
+  "en": "[f7:8]                         Light[pause:120][n]                That is power...[pause:120][wait][e5]            It embraces everything...[pause:120][n]            and burns it all away.[pause:120][wait][e5]       Before its piercing brilliance,[pause:120][n]       nothing can stand its ground.[wait][f7:1][pause:120][e5][end]"
  },
  {
   "id": "M0002",
@@ -42,7 +42,7 @@
    2
   ],
   "jp": "まだおさない　子供のおまえが[n]この光の彼方に　行こうというのか[wait][page]果てしのない　戦いが渦巻く[n]この世界の中に　旅立つのか？[wait][page]ならば　まず　名をなのるのだ[wait][end]",
-  "en": ""
+  "en": "You are still so young, child...[n]and yet you would go beyond this light?[wait][page]Will you set out into a world[n]where endless battles rage?[wait][page]Then first, tell me your name.[wait][end]"
  },
  {
   "id": "M0003",
@@ -57,7 +57,7 @@
    3
   ],
   "jp": "[f3]と　いうのか[wait][page]よかろう　それでは旅立つがよい[wait][n]この　光の彼方の世界へ・・・[wait][end]",
-  "en": ""
+  "en": "So you are called [f3].[wait][page]Very well. Then set out on your journey.[wait][n]Go, to the world beyond this light...[wait][end]"
  },
  {
   "id": "M0004",
@@ -72,7 +72,7 @@
    4
   ],
   "jp": "[name:9][face:45]パク　何してるのよ？[wait][page]また　ミカエルさまに[n]何か　たのまれたんでしょ[wait][end]",
-  "en": ""
+  "en": "[name:9][face:45]Paku, what are you up to?[wait][page]Lord Michael sent you on[n]another errand, didn't he?[wait][end]"
  },
  {
   "id": "M0005",
@@ -87,7 +87,7 @@
    5
   ],
   "jp": "[name:8][face:44]エッ！　マジッスか・・・[wait][page]何にも　ないッスよ[wait][page]ハーミルこそ　ルシファーさまから[n]何か　たのまれてんでしょ[wait][end]",
-  "en": ""
+  "en": "[name:8][face:44]Huh! No way, seriously...[wait][page]It's nothin', I swear![wait][page]What about you, Harmil? Bet Lord Lucifer[n]gave you some job too, huh?[wait][end]"
  },
  {
   "id": "M0006",
@@ -102,7 +102,7 @@
    6
   ],
   "jp": "[name:9][face:45]そんなこと　聞いて[n]どーすんのよ？[wait][end]",
-  "en": ""
+  "en": "[name:9][face:45]And what would you do[n]if I told you?[wait][end]"
  },
  {
   "id": "M0007",
@@ -117,7 +117,7 @@
    7
   ],
   "jp": "[name:8][face:44]エーッ　・・・！！[wait][n]イヤッ　なんでもないッス[wait][page]オレッ　ちょっと急ぐッスから[n]・・・　・・・　・・・[wait][end]",
-  "en": ""
+  "en": "[name:8][face:44]Whaaa... !![wait][n]Uh, n-nothing![wait][page]I-I'm kinda in a hurry, so...[n]... ... ...[wait][end]"
  },
  {
   "id": "M0008",
@@ -132,7 +132,7 @@
    8
   ],
   "jp": "[name:9][face:45]あいかわらずだね　パクって[wait][page]でも　あのオトボケが[n]パクなんだもんね[wait][page]アッ　こんなことしてられないわ[wait][n]急がなくっちゃ・・・[wait][page]デビルチルドレンを　見つけるのね[wait][end]",
-  "en": ""
+  "en": "[name:9][face:45]Same old Paku.[wait][page]But then, that airhead[n]wouldn't be Paku otherwise.[wait][page]Oh! I can't stand around like this.[wait][n]I have to hurry...[wait][page]I have to find the DemiKid.[wait][end]"
  },
  {
   "id": "M0009",
@@ -147,7 +147,7 @@
    9
   ],
   "jp": "・・・地震だっ！！[wait][end]",
-  "en": ""
+  "en": "...An earthquake!![wait][end]"
  },
  {
   "id": "M0010",
@@ -162,7 +162,7 @@
    10
   ],
   "jp": "[name:12][f3]　だいじょうぶ？[n]大きな地震だったわね・・・[wait][page]なんだか　外のようすも変なの[wait][n]空も　くらくなってきたし・・・[wait][end]",
-  "en": ""
+  "en": "[name:12][f3], are you all right?[n]That was a big earthquake...[wait][page]Things look strange outside, too.[wait][n]And the sky's getting dark...[wait][end]"
  },
  {
   "id": "M0011",
@@ -177,7 +177,7 @@
    11
   ],
   "jp": "[name:12][f3]　気をつけるのよ[wait][page]あんたって　いつも[wait][n]自分から　トラブルに[wait][clr]飛び込んでいくんだから[wait][end]",
-  "en": ""
+  "en": "[name:12][f3], be careful.[wait][page]You always go[wait][n]jumping headfirst[wait][clr]into trouble.[wait][end]"
  },
  {
   "id": "M0012",
@@ -192,7 +192,7 @@
    12
   ],
   "jp": "[name:12]あらっ　また地震だわ・・・[wait][page]やっぱり　しんぱいだわ[n]悪いことが　起こらなきゃいいけど[wait][end]",
-  "en": ""
+  "en": "[name:12]Oh my, another earthquake...[wait][page]I'm worried after all.[n]I hope nothing bad happens...[wait][end]"
  },
  {
   "id": "M0013",
@@ -207,7 +207,7 @@
    13
   ],
   "jp": "[name:12][f3]　・・・　・・・[wait][n]・・・　気をつけるのよ[wait][end]",
-  "en": ""
+  "en": "[name:12][f3]... ...[wait][n]...Be careful.[wait][end]"
  },
  {
   "id": "M0014",
@@ -222,7 +222,7 @@
    14
   ],
   "jp": "[name:19]ナマイキな　人間のこどもね[wait][n]でもサバキの時は　来たのです[wait][page]あなたがた　人間も[n]サバキを　受けて[wait][clr]ほろびていく　運命なのよ[wait][end]",
-  "en": ""
+  "en": "[name:19]What a cheeky human child.[wait][n]But the time of Judgment has come.[wait][page]You humans, too,[n]will face Judgment[wait][clr]and be destroyed. That is your fate.[wait][end]"
  },
  {
   "id": "M0015",
@@ -237,7 +237,7 @@
    15
   ],
   "jp": "２０××年　９月　トウキョウ[wait][end]",
-  "en": ""
+  "en": "September, 20XX. Tokyo.[wait][end]"
  },
  {
   "id": "M0016",
@@ -252,7 +252,7 @@
    16
   ],
   "jp": "サバキを受けるのは　そっちだぜ！[wait][end]",
-  "en": ""
+  "en": "You're the one who'll be judged!![wait][end]"
  },
  {
   "id": "M0017",
@@ -267,7 +267,7 @@
    17
   ],
   "jp": "[name:11]デビルチルドレン[n][f3]にしたがう[wait][clr]選ばれし　パートナー[wait][clr]ゴッドソルレオン　ランド参上！[wait][page]ひさしぶりだな　[f3][wait][page]どうやら　また[n]オレタチ　デビルのチカラが[wait][clr]必要に　なったみたいだな[wait][page]でも　そのままじゃあ[n]戦うことも　できないだろう[wait][page]さあ　これを受け取るがいい[wait][end]",
-  "en": ""
+  "en": "[name:11]Partner to the DemiKid[n][f3], the chosen one,[wait][clr]sworn to stand at his side...[wait][clr]God Sol Leon Rand is here![wait][page]Long time no see, [f3].[wait][page]Looks like once again[n]you need the power[wait][clr]of us demons.[wait][page]But you can't fight[n]the way you are now.[wait][page]Here, take this.[wait][end]"
  },
  {
   "id": "M0018",
@@ -282,7 +282,7 @@
    18
   ],
   "jp": "[name:11][face:39]見知らぬ　天使よ[wait][page]相手が悪かったと[wait][n]あきらめるんだな[wait][page][f3][n]あとは　まかせるぜ！[wait][end]",
-  "en": ""
+  "en": "[name:11][face:39]You, stranger angel...[wait][page]You picked the wrong fight.[wait][n]Better give up.[wait][page][f3],[n]I'll leave the rest to you![wait][end]"
  },
  {
   "id": "M0019",
@@ -297,7 +297,7 @@
    19
   ],
   "jp": "未使用[wait][end]",
-  "en": ""
+  "en": "Unused.[wait][end]"
  },
  {
   "id": "M0020",
@@ -312,7 +312,7 @@
    20
   ],
   "jp": "[name:19]くっ・・・　・・・[wait][n][f3]といったわね[wait][page]ハルマゲドンを　止めることは[wait][n]だれにも　できないのよ・・・[wait][end]",
-  "en": ""
+  "en": "[name:19]Ngh... ...[wait][n]So your name is [f3]...[wait][page]No one can stop[wait][n]Armageddon...[wait][end]"
  },
  {
   "id": "M0021",
@@ -327,7 +327,7 @@
    21
   ],
   "jp": "[name:1][face:39][f3]　しばらくだな[wait][page]どうやら　また[n]おまえのチカラが[wait][clr]必要とされる時が　来たようだぜ[wait][page]今度は　どんな旅になるやら[wait][n]さあ　それじゃあ行ってみるか[wait][page]おっと　言い忘れるところだったが[n]デビルがおそってくるところなら[wait][clr]いつものように　Ｒボタンで[wait][clr]オレの背中に乗ってくれ[wait][page]行きたいところへ早く行けるぞ[wait][page]それから　話があるときは[wait][n]Ｂボタンで　話かけてくれ[wait][page]なにか　アドバイスできるかも[n]しれないからな[wait][page]それじゃあ[n]新しい旅を　始めるとするか[wait][end]",
-  "en": ""
+  "en": "[name:1][face:39][f3], it's been a while.[wait][page]Looks like the time has come[n]when your power[wait][clr]is needed again.[wait][page]Wonder what kind of journey it'll be this time.[wait][n]Well, let's get going.[wait][page]Oops, almost forgot.[n]Anywhere demons attack,[wait][clr]press the R Button as usual[wait][clr]and hop on my back.[wait][page]You'll get where you want to go faster.[wait][page]And if you want to talk to me,[wait][n]press the B Button.[wait][page]I might be able to[n]give you some advice.[wait][page]All right then,[n]let's start our new journey![wait][end]"
  },
  {
   "id": "M0022",
@@ -342,7 +342,7 @@
    22
   ],
   "jp": "[name:6][f3]　気が付いた？[wait][page]デビルと天使の戦いにまきこまれて[n]人間が　おそわれているのよ[wait][end]",
-  "en": ""
+  "en": "[name:6][f3], you're awake?[wait][page]People are getting caught in the war[n]between demons and angels and attacked![wait][end]"
  },
  {
   "id": "M0023",
@@ -357,7 +357,7 @@
    23
   ],
   "jp": "[name:0]ああ・・・[n]戦いを　やめさせないと[wait][clr]きずついていく人間が[wait][clr]どんどん　ふえていくぜ[wait][end]",
-  "en": ""
+  "en": "[name:0]Yeah...[n]If we don't stop this fight,[wait][clr]more and more people[wait][clr]are going to get hurt.[wait][end]"
  },
  {
   "id": "M0024",
@@ -372,7 +372,7 @@
    24
   ],
   "jp": "[name:6]そうね・・・　・・・[wait][page]このままだと　本当に[n]世界が　ほろびてしまうかも・・・[wait][end]",
-  "en": ""
+  "en": "[name:6]You're right... ...[wait][page]At this rate,[n]the world really might be destroyed...[wait][end]"
  },
  {
   "id": "M0025",
@@ -387,7 +387,7 @@
    25
   ],
   "jp": "[name:0]くそー・・・[wait][page]天使とデビルたちが　始めた[n]戦いに　まきこまれて[wait][clr]人間が　きずついていくなんて[wait][clr]ゆるせないぜ！[wait][end]",
-  "en": ""
+  "en": "[name:0]Dammit...[wait][page]People getting hurt,[n]dragged into a war[wait][clr]the angels and demons started...[wait][clr]I won't let it happen![wait][end]"
  },
  {
   "id": "M0026",
@@ -401,8 +401,8 @@
   "idx": [
    26
   ],
-  "jp": "[name:6]それだけじゃないの・・・[wait][page]うわさでは　天使たちが[n]子供を　厘れ去っているって・・・[wait][end]",
-  "en": ""
+  "jp": "[name:6]それだけじゃないの・・・[wait][page]うわさでは　天使たちが[n]子供を　連れ去っているって・・・[wait][end]",
+  "en": "[name:6]That's not all...[wait][page]There are rumors that the angels[n]are taking children away...[wait][end]"
  },
  {
   "id": "M0027",
@@ -417,7 +417,7 @@
    27
   ],
   "jp": "タイヘンダー！！[wait][end]",
-  "en": ""
+  "en": "Big trouble!![wait][end]"
  },
  {
   "id": "M0028",
@@ -431,8 +431,8 @@
   "idx": [
    28
   ],
-  "jp": "校庭に　変な建物があらわれたんだ！[wait][page]天使が　いっぱい出てきて[n]子供たちを　その中に厘れて行くんだ[wait][end]",
-  "en": ""
+  "jp": "校庭に　変な建物があらわれたんだ！[wait][page]天使が　いっぱい出てきて[n]子供たちを　その中に連れて行くんだ[wait][end]",
+  "en": "A weird building showed up in the schoolyard![wait][page]Tons of angels came out[n]and they're taking kids inside it![wait][end]"
  },
  {
   "id": "M0029",
@@ -446,8 +446,8 @@
   "idx": [
    29
   ],
-  "jp": "[name:6][face:2][f3]　行かなきゃ！[wait][page]子供たちを　厘れて行くなんて[n]ゼッタイ　やめさせなきゃ！！[wait][end]",
-  "en": ""
+  "jp": "[name:6][face:2][f3]　行かなきゃ！[wait][page]子供たちを　連れて行くなんて[n]ゼッタイ　やめさせなきゃ！！[wait][end]",
+  "en": "[name:6][face:2][f3], we have to go![wait][page]Taking children away...[n]we've got to stop them, no matter what!![wait][end]"
  },
  {
   "id": "M0030",
@@ -462,7 +462,7 @@
    30
   ],
   "jp": "[name:13][face:22]現れましたね　[f3][wait][end]",
-  "en": ""
+  "en": "[name:13][face:22]So you've come, [f3].[wait][end]"
  },
  {
   "id": "M0031",
@@ -477,7 +477,7 @@
    31
   ],
   "jp": "[name:13]待っていたのですよ[wait][page]あなたにステキな[n]おくりものを　するためにね[wait][end]",
-  "en": ""
+  "en": "[name:13]I have been waiting for you.[wait][page]I wanted to give you[n]a lovely present.[wait][end]"
  },
  {
   "id": "M0032",
@@ -491,8 +491,8 @@
   "idx": [
    32
   ],
-  "jp": "[name:0]おまえは　ダレだ！？[wait][page]天使たちは　なぜ子供たちを[n]厘れて行くんだ？[wait][end]",
-  "en": ""
+  "jp": "[name:0]おまえは　ダレだ！？[wait][page]天使たちは　なぜ子供たちを[n]連れて行くんだ？[wait][end]",
+  "en": "[name:0]Who are you!?[wait][page]Why are the angels[n]taking the kids?[wait][end]"
  },
  {
   "id": "M0033",
@@ -507,7 +507,7 @@
    33
   ],
   "jp": "[name:13][face:22]私の名は　メフィスト[wait][page]子供たちのことは　心配ありません[wait][page]天使たちが　キチンと[n]お世話していますから[wait][end]",
-  "en": ""
+  "en": "[name:13][face:22]My name is Mephisto.[wait][page]You needn't worry about the children.[wait][page]The angels are taking[n]very good care of them.[wait][end]"
  },
  {
   "id": "M0034",
@@ -522,7 +522,7 @@
    34
   ],
   "jp": "[name:0][face:1]フザケルナ！！[wait][page]子供たちを　返せ！[wait][n]さもないと　コウカイするぞ！[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Don't mess with me!![wait][page]Give the kids back![wait][n]Or you'll be sorry![wait][end]"
  },
  {
   "id": "M0035",
@@ -537,7 +537,7 @@
    35
   ],
   "jp": "[name:13]ふふふ・・・　コウカイねえ・・・[wait][page]それは　このおくりものを[n]受け取ってからに[wait][clr]してもらいましょうか・・・[wait][end]",
-  "en": ""
+  "en": "[name:13]Heh heh heh... Sorry, you say...[wait][page]Then please, accept[n]this present first,[wait][clr]and we shall see who is sorry...[wait][end]"
  },
  {
   "id": "M0036",
@@ -552,7 +552,7 @@
    36
   ],
   "jp": "メフィストは　ゆっくりと[n]両手を上げて[wait][clr][f3]に　かざした[wait][end]",
-  "en": ""
+  "en": "Mephisto slowly[n]raised both hands[wait][clr]and held them over [f3].[wait][end]"
  },
  {
   "id": "M0037",
@@ -567,7 +567,7 @@
    37
   ],
   "jp": "[name:0]なんだ　一体どういうつもりだ[wait][page]うっ・・・　なんだこれは？[wait][end]",
-  "en": ""
+  "en": "[name:0]Hey, what are you trying to pull?[wait][page]Ugh... What is this?[wait][end]"
  },
  {
   "id": "M0038",
@@ -582,7 +582,7 @@
    38
   ],
   "jp": "メフィストの　となえる[n]じゅもんの言葉とともに[wait][clr]まわりの空気が　光り始める[wait][end]",
-  "en": ""
+  "en": "As Mephisto chanted[n]the words of a spell,[wait][clr]the air around them began to glow.[wait][end]"
  },
  {
   "id": "M0039",
@@ -597,7 +597,7 @@
    39
   ],
   "jp": "[f3]のまわりが[n]光で　包まれていく・・・[wait][end]",
-  "en": ""
+  "en": "Light began to wrap[n]around [f3]...[wait][end]"
  },
  {
   "id": "M0040",
@@ -612,7 +612,7 @@
    40
   ],
   "jp": "光が[f3]の[n]体を　包みかくす！！[wait][end]",
-  "en": ""
+  "en": "The light swallowed[n][f3] whole!![wait][end]"
  },
  {
   "id": "M0041",
@@ -627,7 +627,7 @@
    41
   ],
   "jp": "[name:1][f3]　どうした！！？[wait][page]うっ・・・　どうしたんだ？[wait][n]オレの体から　チカラがぬけていく[wait][end]",
-  "en": ""
+  "en": "[name:1][f3], what's wrong!!?[wait][page]Ugh... What's happening?[wait][n]My power is draining away...[wait][end]"
  },
  {
   "id": "M0042",
@@ -642,7 +642,7 @@
    42
   ],
   "jp": "[name:1]くそっ・・・[n]オレのチカラが　うばわれて[wait][clr]ランクが　さがってしまったぜ[wait][end]",
-  "en": ""
+  "en": "[name:1]Dammit...[n]My power's been stolen...[wait][clr]my rank went down![wait][end]"
  },
  {
   "id": "M0043",
@@ -657,7 +657,7 @@
    43
   ],
   "jp": "[name:13]ハハハハハ　どうだね[n]ステキな　おくりものだろう[wait][page]さあ　新しい旅のはじまりを[wait][n]祝福したまえ！！[wait][end]",
-  "en": ""
+  "en": "[name:13]Ha ha ha ha ha! How do you like it?[n]A lovely present, is it not?[wait][page]Now then, celebrate[wait][n]the start of your new journey!![wait][end]"
  },
  {
   "id": "M0044",
@@ -672,7 +672,7 @@
    44
   ],
   "jp": "来ましたね　デビルチルドレン[wait][page]チカラを失った　あなたに[n]ワタシを倒すことが　できますか？[wait][end]",
-  "en": ""
+  "en": "So you've come, DemiKid.[wait][page]You have lost your power.[n]Can you really defeat me?[wait][end]"
  },
  {
   "id": "M0045",
@@ -686,8 +686,8 @@
   "idx": [
    45
   ],
-  "jp": "[name:0][face:1]まて　その前に[n]聞きたいことがある[wait][page]レナを　そして子供たちを[wait][n]どこに　厘れて行ったんだ！？[wait][end]",
-  "en": ""
+  "jp": "[name:0][face:1]まて　その前に[n]聞きたいことがある[wait][page]レナを　そして子供たちを[wait][n]どこに　連れて行ったんだ！？[wait][end]",
+  "en": "[name:0][face:1]Wait. Before that,[n]I want to ask you something.[wait][page]Lena... and the kids...[wait][n]Where did you take them!?[wait][end]"
  },
  {
   "id": "M0046",
@@ -701,8 +701,8 @@
   "idx": [
    46
   ],
-  "jp": "子供たちは　聖なる戦いを[n]行うために　厘れて行かれたのです[wait][page]でも　[f3][wait][n]あなたが　それを見ることはない[wait][page]なぜなら　あなたの旅は[n]ここで　終わるのですから！[wait][end]",
-  "en": ""
+  "jp": "子供たちは　聖なる戦いを[n]行うために　連れて行かれたのです[wait][page]でも　[f3][wait][n]あなたが　それを見ることはない[wait][page]なぜなら　あなたの旅は[n]ここで　終わるのですから！[wait][end]",
+  "en": "The children were taken[n]to fight in the holy war.[wait][page]But, [f3],[wait][n]you will never see it.[wait][page]Because your journey[n]ends right here!![wait][end]"
  },
  {
   "id": "M0047",
@@ -716,8 +716,8 @@
   "idx": [
    47
   ],
-  "jp": "[name:0][face:1]さあ　天使よ答えろ！[wait][page]レナと子供たちを[n]どこに　厘れて行ったんだ？[wait][end]",
-  "en": ""
+  "jp": "[name:0][face:1]さあ　天使よ答えろ！[wait][page]レナと子供たちを[n]どこに　連れて行ったんだ？[wait][end]",
+  "en": "[name:0][face:1]Now answer me, angel![wait][page]Where did you take[n]Lena and the kids?[wait][end]"
  },
  {
   "id": "M0048",
@@ -732,7 +732,7 @@
    48
   ],
   "jp": "・・・　・・・　・・・[wait][page]・・・　魔界　・・・[wait][n]果てしのない　戦いの場[wait][page][f3]よ[n]心して　行くがいい・・・[wait][end]",
-  "en": ""
+  "en": "... ... ...[wait][page]...The Demon World...[wait][n]a place of endless battle...[wait][page][f3]...[n]go with a steady heart...[wait][end]"
  },
  {
   "id": "M0049",
@@ -747,7 +747,7 @@
    49
   ],
   "jp": "[name:9][face:45]パク　あんた　デビルチルドレンを[n]さがしてるんでしょ・・・[wait][end]",
-  "en": ""
+  "en": "[name:9][face:45]Paku, you're looking for[n]the DemiKid, aren't you...[wait][end]"
  },
  {
   "id": "M0050",
@@ -762,7 +762,7 @@
    50
   ],
   "jp": "[name:8][face:44]えっ　ハーミル　マジッスか[wait][page]どーして　知ってるッスか？[wait][end]",
-  "en": ""
+  "en": "[name:8][face:44]Whoa, Harmil, seriously?[wait][page]How'd you know that?[wait][end]"
  },
  {
   "id": "M0051",
@@ -777,7 +777,7 @@
    51
   ],
   "jp": "[name:9][face:45]ふふふ　・・・ヤッパリ・・・[wait][n]あんたって　ショージキよね[wait][page]ゴホービに　教えてあげるわ[wait][page]あんたが　さがしてる[n]デビルチルドレンは　[wait][clr]あんたの　うしろに来てるわよ[wait][page]それじゃあね　うまくやんのよ[wait][end]",
-  "en": ""
+  "en": "[name:9][face:45]Heh heh... I knew it...[wait][n]You're such an open book.[wait][page]As a reward, I'll tell you.[wait][page]The DemiKid[n]you're looking for... [wait][clr]is right behind you.[wait][page]See ya. Don't mess it up.[wait][end]"
  },
  {
   "id": "M0052",
@@ -792,7 +792,7 @@
    52
   ],
   "jp": "[name:8][face:44]えーっとオレ　パクっていうッス[wait][page]これから　いろんな所で[n]会うッスけど　ヨロシクッス[wait][end]",
-  "en": ""
+  "en": "[name:8][face:44]Uh, the name's Paku.[wait][page]We're gonna meet up[n]in lots of places, so... nice to meetcha![wait][end]"
  },
  {
   "id": "M0053",
@@ -807,7 +807,7 @@
    53
   ],
   "jp": "[name:0][face:1]空が　・・・？？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]The sky... ??[wait][end]"
  },
  {
   "id": "M0054",
@@ -822,7 +822,7 @@
    54
   ],
   "jp": "不気味な雲が[n]空を　おおいつくしている[wait][end]",
-  "en": ""
+  "en": "Eerie clouds[n]are covering the whole sky.[wait][end]"
  },
  {
   "id": "M0055",
@@ -837,7 +837,7 @@
    55
   ],
   "jp": "[name:0][face:1]かあさん　オレ[n]ちょっと　見てくるよ[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Mom, I'm gonna[n]go check it out.[wait][end]"
  },
  {
   "id": "M0056",
@@ -852,7 +852,7 @@
    56
   ],
   "jp": "[name:12][f3]　だいじょうぶ？[wait][n]でも　とめたってダメね[wait][page]あんたって　一度決めたら[wait][n]なに言ったって　きかないものね[wait][page]でも　気をつけて行くのよ[wait][end]",
-  "en": ""
+  "en": "[name:12][f3], will you be all right?[wait][n]But it's no use stopping you, is it?[wait][page]Once you make up your mind,[wait][n]you never listen to a word I say.[wait][page]Just be careful out there.[wait][end]"
  },
  {
   "id": "M0057",
@@ -867,7 +867,7 @@
    57
   ],
   "jp": "黒い雲が　空を[n]おおいはじめている[wait][page]なにかが　飛んでいるが[wait][n]遠くて　よく見えない[wait][end]",
-  "en": ""
+  "en": "Black clouds are starting[n]to cover the sky.[wait][page]Something is flying up there,[wait][n]but it's too far away to see.[wait][end]"
  },
  {
   "id": "M0058",
@@ -882,7 +882,7 @@
    58
   ],
   "jp": "[name:10][face:32][f3]　ひさしぶりだな[wait][page]また　デビルのチカラが[n]必要な時が　来たようだぜ[wait][end]",
-  "en": ""
+  "en": "[name:10][face:32][f3], long time no see.[wait][page]Looks like the time has come[n]when demon power is needed again.[wait][end]"
  },
  {
   "id": "M0059",
@@ -897,7 +897,7 @@
    59
   ],
   "jp": "さあ　もう一度戦いなさい[wait][end]",
-  "en": ""
+  "en": "Now, fight once more.[wait][end]"
  },
  {
   "id": "M0060",
@@ -912,7 +912,7 @@
    60
   ],
   "jp": "[name:14]まっていたよ！　デビルチルドレン[wait][page]この先は[n]通すわけには　いかないからね！[wait][end]",
-  "en": ""
+  "en": "[name:14]I've been waiting for you, DemiKid![wait][page]I can't let you[n]go any farther![wait][end]"
  },
  {
   "id": "M0061",
@@ -927,7 +927,7 @@
    61
   ],
   "jp": "[name:0][face:1]おまえは　ダレだ？[wait][page]なぜ　オレの行く手を[n]はばもうとするのだ？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Who are you?[wait][page]Why are you trying[n]to block my way?[wait][end]"
  },
  {
   "id": "M0062",
@@ -942,7 +942,7 @@
    62
   ],
   "jp": "[name:14]ワタシは　ラクシュミ[wait][n]ハルマゲドンを　戦う[wait][clr]天使のなかの　一人さ[wait][page][f3]　あなたを[n]ここから先に　行かせないように[wait][clr]ワタシに命令したのは　レナなのよ[wait][end]",
-  "en": ""
+  "en": "[name:14]I am Lakshmi,[wait][n]one of the angels[wait][clr]fighting in Armageddon.[wait][page][f3], the one who ordered me[n]not to let you past this point...[wait][clr]was Lena.[wait][end]"
  },
  {
   "id": "M0063",
@@ -956,8 +956,8 @@
   "idx": [
    63
   ],
-  "jp": "[name:0]レナが　・・・？[wait][page]ふざけた事を　言うな！[wait][page]レナが　そんなことを[n]言うわけが　ないぜ！[wait][page]レナを　どこに[n]厘れて行ったんだ？[wait][end]",
-  "en": ""
+  "jp": "[name:0]レナが　・・・？[wait][page]ふざけた事を　言うな！[wait][page]レナが　そんなことを[n]言うわけが　ないぜ！[wait][page]レナを　どこに[n]連れて行ったんだ？[wait][end]",
+  "en": "[name:0]Lena... ?[wait][page]Don't give me that![wait][page]Lena would never[n]say something like that![wait][page]Where did you[n]take Lena?[wait][end]"
  },
  {
   "id": "M0064",
@@ -972,7 +972,7 @@
    64
   ],
   "jp": "[name:14]それを知りたければ[n]わたしを　たおすことね[wait][page]イクワヨ　デビルチルドレン[wait][end]",
-  "en": ""
+  "en": "[name:14]If you want to know,[n]you'll have to beat me.[wait][page]Here I come, DemiKid.[wait][end]"
  },
  {
   "id": "M0065",
@@ -987,7 +987,7 @@
    65
   ],
   "jp": "[name:14][f3][wait][n]レナは　もう戻ってこないさ[wait][page]オマエが　いくらさがしても[n]二度と　レナに会うことはないさ[wait][end]",
-  "en": ""
+  "en": "[name:14][f3],[wait][n]Lena isn't coming back.[wait][page]No matter how hard you look,[n]you'll never see Lena again.[wait][end]"
  },
  {
   "id": "M0066",
@@ -1002,7 +1002,7 @@
    66
   ],
   "jp": "レナハ　ワタシタチノタメニ[wait][n]イキテイクノヨ・・・[wait][end]",
-  "en": ""
+  "en": "LENA WILL LIVE[wait][n]FOR US...[wait][end]"
  },
  {
   "id": "M0067",
@@ -1017,7 +1017,7 @@
    67
   ],
   "jp": "レナハ　・・・　・・・[wait][n]ワタシタチノ　タタカイノ[wait][clr]ダイジナナカマ　ナノダカラ[wait][end]",
-  "en": ""
+  "en": "LENA IS... ... ...[wait][n]A PRECIOUS COMRADE[wait][clr]IN OUR BATTLE.[wait][end]"
  },
  {
   "id": "M0068",
@@ -1031,8 +1031,8 @@
   "idx": [
    68
   ],
-  "jp": "[name:8][face:44]あっ　[f3][wait][page]ルシファーさまが[n]ダークパレスで　まってるッス[wait][page]ルシファーさまなら[n]天使たちに厘れて行かれた[wait][clr]子供たちのことを　知ってるッス[wait][end]",
-  "en": ""
+  "jp": "[name:8][face:44]あっ　[f3][wait][page]ルシファーさまが[n]ダークパレスで　まってるッス[wait][page]ルシファーさまなら[n]天使たちに連れて行かれた[wait][clr]子供たちのことを　知ってるッス[wait][end]",
+  "en": "[name:8][face:44]Oh, [f3]![wait][page]Lord Lucifer's waiting[n]for you at the Dark Palace![wait][page]Lord Lucifer knows all about[n]the kids the angels[wait][clr]took away, y'know![wait][end]"
  },
  {
   "id": "M0069",
@@ -1047,7 +1047,7 @@
    69
   ],
   "jp": "[name:14]また来たのね　[f3][wait][page]レナのゆくえを　知りたければ[n]わたしを　たおすことね[wait][end]",
-  "en": ""
+  "en": "[name:14]Back again, [f3]?[wait][page]If you want to know where Lena is,[n]you'll have to beat me.[wait][end]"
  },
  {
   "id": "M0070",
@@ -1064,7 +1064,7 @@
    71
   ],
   "jp": "[name:15][face:4]ひさしぶりだな[n][f3][wait][end]",
-  "en": ""
+  "en": "[name:15][face:4]It has been a long time,[n][f3].[wait][end]"
  },
  {
   "id": "M0072",
@@ -1079,7 +1079,7 @@
    72
   ],
   "jp": "[name:15]話は　聞いている[wait][page]レナをさらったのは[n]魔界で　戦いを始めた[wait][clr]天使たちだ[wait][end]",
-  "en": ""
+  "en": "[name:15]I have heard what happened.[wait][page]Those who took Lena[n]are the angels who began[wait][clr]a war in the Demon World.[wait][end]"
  },
  {
   "id": "M0073",
@@ -1094,7 +1094,7 @@
    73
   ],
   "jp": "[name:0]どうして　天使たちが[n]魔界で　戦いを・・・？[wait][end]",
-  "en": ""
+  "en": "[name:0]Why would angels[n]fight in the Demon World...?[wait][end]"
  },
  {
   "id": "M0074",
@@ -1109,7 +1109,7 @@
    74
   ],
   "jp": "[name:15]この世界の終わりにおこる[n]最後の戦い　ハルマゲドン[wait][page]彼らは　それを[n]聖なる戦いとよんで[wait][clr]最後の時まで戦いつづけようとする[wait][end]",
-  "en": ""
+  "en": "[name:15]The final battle that comes[n]at the end of this world: Armageddon.[wait][page]They call it[n]the Holy War,[wait][clr]and mean to fight on to the very end.[wait][end]"
  },
  {
   "id": "M0075",
@@ -1123,8 +1123,8 @@
   "idx": [
    75
   ],
-  "jp": "[name:0]ハルマゲドン・・・？[wait][page]だけど　それがオレタチと[n]何の関係があるんだ[wait][page]なんで子供たちが・・・レナが[n]厘れて行かれなきゃならないんだ[wait][end]",
-  "en": ""
+  "jp": "[name:0]ハルマゲドン・・・？[wait][page]だけど　それがオレタチと[n]何の関係があるんだ[wait][page]なんで子供たちが・・・レナが[n]連れて行かれなきゃならないんだ[wait][end]",
+  "en": "[name:0]Armageddon...?[wait][page]But what does that have to do[n]with us?[wait][page]Why did the kids... why did Lena[n]have to be taken away?[wait][end]"
  },
  {
   "id": "M0076",
@@ -1413,7 +1413,7 @@
    96
   ],
   "jp": "開発中[wait][end]",
-  "en": ""
+  "en": "In development.[wait][end]"
  },
  {
   "id": "M0097",
@@ -2198,7 +2198,7 @@
   "idx": [
    151
   ],
-  "jp": "そうだよな・・・[wait][n]天使たちが　おれたちの中の[wait][clr]一人を　厘れて行こうとした時[wait][clr]レナが　自分が行くって・・・[wait][page]アイツ・・・　おれたちのために[n]天使の言うとおりにしたんだよ[wait][end]",
+  "jp": "そうだよな・・・[wait][n]天使たちが　おれたちの中の[wait][clr]一人を　連れて行こうとした時[wait][clr]レナが　自分が行くって・・・[wait][page]アイツ・・・　おれたちのために[n]天使の言うとおりにしたんだよ[wait][end]",
   "en": ""
  },
  {
@@ -2303,7 +2303,7 @@
   "idx": [
    158
   ],
-  "jp": "[name:0][face:1]レナは　オレがたすけに行く！[wait][page]でも　みんなをどうやって[n]厘れて行けばいいんだ？[wait][page]それに原宿は　戦いが[n]起こっているし・・・[wait][page]どこか安全な場所を　見つけなきゃ[wait][end]",
+  "jp": "[name:0][face:1]レナは　オレがたすけに行く！[wait][page]でも　みんなをどうやって[n]連れて行けばいいんだ？[wait][page]それに原宿は　戦いが[n]起こっているし・・・[wait][page]どこか安全な場所を　見つけなきゃ[wait][end]",
   "en": ""
  },
  {

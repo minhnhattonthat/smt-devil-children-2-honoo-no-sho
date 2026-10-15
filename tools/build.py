@@ -11,6 +11,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import enc
+import forms
 import mkfont
 import wrap as W
 
@@ -127,8 +128,13 @@ def build(mode='en', only=None, out=OUT):
         try:
             if e['kind'] == 'msg':
                 text = en
-                if e.get('dialect', 'dlg') == 'dlg':
+                f = forms.form_of(e)
+                if f == 'dlg':
                     text, _ = W.wrap(en)
+                elif f == 'prompt':
+                    text, _ = W.fit(en, forms.LINE_W)
+                elif f == 'ddesc':
+                    text, _ = W.fit(en, forms.DDESC_W)
                 data = enc.encode_msg(text, e.get('dialect', 'dlg'))
                 at = space.put(data)
                 for s in e['slots']:
