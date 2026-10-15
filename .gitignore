@@ -1,0 +1,12 @@
+rom/
+build/
+work/
+dist/
+release/
+tools/mesen/
+tools/armips/
+__pycache__/
+*.pyc
+*.mss
+*.sav
+*.gba
