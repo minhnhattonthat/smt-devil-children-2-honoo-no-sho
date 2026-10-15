@@ -1,5 +1,6 @@
 """Apply reviewer fixes: fixes/*.tsv lines `id<TAB>English` (later files win). Each fix must pass the lint.
-python -X utf8 tools/apply_fixes.py [files...]     (default: every fixes/*.tsv, in name order)
+python -X utf8 tools/apply_fixes.py [files...] [--dry]   (default: every fixes/*.tsv, in name order;
+       --dry validates without writing script/)
 """
 import glob, json, sys
 from pathlib import Path
@@ -10,7 +11,7 @@ import lint
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def main(paths):
+def main(paths, dry=False):
     fixes = {}
     for p in paths or sorted(glob.glob(str(ROOT / 'fixes/*.tsv'))):
         for k, line in enumerate(open(p, encoding='utf-8-sig'), 1):
@@ -35,7 +36,7 @@ def main(paths):
                     e['en'] = en
                     ch = True
                     n += 1
-        if ch:
+        if ch and not dry:
             with open(f, 'w', encoding='utf-8', newline='\n') as fh:
                 json.dump(es, fh, ensure_ascii=False, indent=1)
                 fh.write('\n')
@@ -47,4 +48,5 @@ def main(paths):
 
 
 if __name__ == '__main__':
-    sys.exit(main(sys.argv[1:]))
+    args = [x for x in sys.argv[1:] if x != '--dry']
+    sys.exit(main(args, dry='--dry' in sys.argv))

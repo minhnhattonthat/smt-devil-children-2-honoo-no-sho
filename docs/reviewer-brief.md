@@ -28,3 +28,9 @@ translation quality. Return the report as your final message.
 Each: `id - JP gist - problem - suggested EN` (give the full corrected EN for Critical/Important, keeping every control code).
 ### Assessment
 Approved | Needs fixes - one sentence why.
+
+## Fix file (do this after the report)
+Write your Critical + Important fixes (not Minor) with the Write tool to `fixes/r_<first batch>.tsv`, one line per entry:
+`id<TAB>full corrected English` (all control codes kept). Validate with
+`python -X utf8 tools/apply_fixes.py fixes/r_<first batch>.tsv --dry` until it prints `0 problems`. Do not edit any
+other file. The controller applies the fixes.

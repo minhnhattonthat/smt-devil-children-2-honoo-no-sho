@@ -1663,7 +1663,7 @@
    517
   ],
   "jp": "[name:6]チガウヨ！！　止まらないのは[wait][n]いつだって　[f3]の[wait][clr]ほうなんだから[wait][page]マッ　わたしのおかげで[wait][n][f3]は　いつも[wait][clr]楽しんでるんだから[wait][end]",
-  "en": "[name:6]NOT TRUE!! The one who never stops[wait][n]is always [f3],[wait][clr]not me.[wait][page]Well, thanks to me,[wait][n][f3] always[wait][clr]has a blast.[wait][end]"
+  "en": "[name:6]No way!! The one who never stops[wait][n]is always [f3],[wait][clr]not me.[wait][page]Well, thanks to me,[wait][n][f3] always[wait][clr]has a blast.[wait][end]"
  },
  {
   "id": "M0518",
@@ -1768,7 +1768,7 @@
    524
   ],
   "jp": "みんな　どうもアリガトウ！！[wait][page]これからも　デビチルを[wait][n]　ヨ　ロ　シ　ク　ね[wait][end]",
-  "en": "Thanks so much, everybody!![wait][page]Keep on enjoying DemiKids,[wait][n] o k a y ?[wait][end]"
+  "en": "Thanks so much, everybody!![wait][page]Please keep supporting DemiKids,[wait][n] o k a y?[wait][end]"
  },
  {
   "id": "M0525",
@@ -2219,7 +2219,7 @@
    561
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]未来の天界へと　その身をいざなう[wait][clr]時のゲート・・・[wait][page]未来の世界をかえるのは　現代での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
-  "en": "O you who inherit the power of light...[wait][page]Beyond lies the Time Gate, which shall carry you across the wall of time to the Heaven of the future...[wait][clr]...[wait][page]What changes the world of the future is what you do in the present...[wait][page]Steel yourself before you go...[wait][end]"
+  "en": "O you who inherit the power of light...[wait][page]Beyond lies a gate that shall carry you across the wall of time to the Heaven of the future,[wait][clr]the Time Gate...[wait][page]What changes the world of the future is what you do in the present...[wait][page]Steel yourself before you go...[wait][end]"
  },
  {
   "id": "M0562",
@@ -2234,7 +2234,7 @@
    562
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]過去のギンヌンガガップへと[wait][clr]その身をいざなう　時のゲート・・・[wait][page]現代の世界をかえるのは　過去での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
-  "en": "O you who inherit the power of light...[wait][page]Beyond lies the Time Gate, which shall carry you across the wall of time to the Ginnungagap of the past...[wait][clr]...[wait][page]What changes the world of the present is what you do in the past...[wait][page]Steel yourself before you go...[wait][end]"
+  "en": "O you who inherit the power of light...[wait][page]Beyond lies a gate that shall carry you across the wall of time to the Ginnungagap of the past,[wait][clr]the Time Gate...[wait][page]What changes the world of the present is what you do in the past...[wait][page]Steel yourself before you go...[wait][end]"
  },
  {
   "id": "M0563",

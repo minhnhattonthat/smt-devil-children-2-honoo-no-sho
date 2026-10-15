@@ -12,7 +12,7 @@
    600
   ],
   "jp": "アクマの像が　[f3]を[n]にらみつける！！[wait][end]",
-  "en": "The demon statue glares at [f3]!![wait][end]"
+  "en": "The devil statue glares at [f3]!![wait][end]"
  },
  {
   "id": "M0601",
@@ -57,7 +57,7 @@
    603
   ],
   "jp": "アクマの像は　あとかたもなく[n]消えさった・・・！！[wait][end]",
-  "en": "The demon statue vanished without a trace...!![wait][end]"
+  "en": "The devil statue vanished without a trace...!![wait][end]"
  },
  {
   "id": "M0604",
@@ -132,7 +132,7 @@
    608
   ],
   "jp": "この迷宮に　足をふみいれた者につぐ[wait][page]チカラなき者が　進もうとすれば[n]アクマの像が　命をうばうだろう[wait][end]",
-  "en": "To all who set foot in this labyrinth:[wait][page]should the powerless try to advance, the demon statues shall take their lives.[wait][end]"
+  "en": "To all who set foot in this labyrinth:[wait][page]should the powerless try to advance, the devil statues shall take their lives.[wait][end]"
  },
  {
   "id": "M0609",
@@ -852,7 +852,7 @@
    656
   ],
   "jp": "カード　『時の女神』『？？？』[n]『戦乙女』『ハエの王』を手に入れた[wait][end]",
-  "en": "Got the cards \"Goddess of Time,\" \"???,\" \"Valkyrie,\" and \"Lord of the Flies.\"[wait][end]"
+  "en": "Got the cards \"Time Goddess,\" \"???,\" \"Battle Maiden,\" and \"Lord of Flies.\"[wait][end]"
  },
  {
   "id": "M0657",
@@ -1137,7 +1137,7 @@
    675
   ],
   "jp": "[name:1][face:255][f3]！[n]なんだか　いやなヨカンがするぜ[wait][page]はやく　小学校へいこうぜ！！[wait][end]",
-  "en": "[name:1][face:255][f3]! I've got a bad feeling about this.[wait][page]Let's hurry to the school!![wait][end]"
+  "en": "[name:1][face:255][f3]! I've got a bad feeling about this.[wait][page]Let's hurry to Harajuku Elementary!![wait][end]"
  },
  {
   "id": "M0676",
@@ -1167,7 +1167,7 @@
    677
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]未来の原宿へと　その身をいざなう[wait][clr]時のゲート・・・[wait][page]未来の世界をかえるのは　現代での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
-  "en": "O you who inherit the power of light...[wait][page]Beyond lies the Time Gate, which shall carry you across the wall of time to the Harajuku of the future...[wait][clr]...[wait][page]What changes the world of the future is what you do in the present...[wait][page]Steel yourself before you go...[wait][end]"
+  "en": "O you who inherit the power of light...[wait][page]Beyond lies a gate that shall carry you across the wall of time to the Harajuku of the future,[wait][clr]the Time Gate...[wait][page]What changes the world of the future is what you do in the present...[wait][page]Steel yourself before you go...[wait][end]"
  },
  {
   "id": "M0678",
@@ -1182,7 +1182,7 @@
    678
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]未来の魔界へと　その身をいざなう[wait][clr]時のゲート・・・[wait][page]未来の世界をかえるのは　現代での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
-  "en": "O you who inherit the power of light...[wait][page]Beyond lies the Time Gate, which shall carry you across the wall of time to the Demon World of the future...[wait][clr]...[wait][page]What changes the world of the future is what you do in the present...[wait][page]Steel yourself before you go...[wait][end]"
+  "en": "O you who inherit the power of light...[wait][page]Beyond lies a gate that shall carry you across the wall of time to the Demon World of the future,[wait][clr]the Time Gate...[wait][page]What changes the world of the future is what you do in the present...[wait][page]Steel yourself before you go...[wait][end]"
  },
  {
   "id": "M0679",
@@ -2007,7 +2007,7 @@
    733
   ],
   "jp": "[name:8][face:44]こんごとも　よろしくッス！[wait][end]",
-  "en": "[name:8][face:44]Count on me from now on, y'know![wait][end]"
+  "en": "[name:8][face:44]I look forward to working with you, y'know![wait][end]"
  },
  {
   "id": "M0734",
@@ -2097,7 +2097,7 @@
    739
   ],
   "jp": "[name:36]ん？　何か言ったか？[n]まぁ　いいか[wait][page]なぁ　聞いてくれよ[n]デビルチルドレン[wait][page]まったく　オレさまとしたことが[n]兄弟のサンダルフォンと[wait][clr]メルキセデクに化けたデビルに[wait][clr]はめられてよぉ[wait][page]さすがに　あそこまでそっくりだと[n]うたがいもしなかった・・・[wait][page]まぁ　気が付いた時には[n]石像になっていたんだがな[wait][page]おかげで　こんなさむい場所に[n]つれて　こられちまった[wait][page]なぁ　デビルチルドレン[n]オレさまを　ナカマにしないか？[wait][page]オレさまを　はめたやつに[n]リベンジしたいんだ！！[wait][end]",
-  "en": "[name:36]Hm? Did you say something? Eh, whatever.[wait][page]Hey, listen to this, DemiKid.[wait][page]Can you believe it? Me, of all angels, tricked by devils disguised[wait][clr]as my brothers Sandalphon[wait][clr]and Melchizedek![wait][page]They looked so much alike, I never even suspected a thing...[wait][page]By the time I figured it out, I'd been turned into a statue.[wait][page]And thanks to that, they hauled me off to this freezing place.[wait][page]Hey, DemiKid, why don't you make me your ally?[wait][page]I want revenge on the guys who tricked me!![wait][end]"
+  "en": "[name:36]Hm? Did you say something? Eh, whatever.[wait][page]Hey, listen to this, DemiKid.[wait][page]Can you believe it? Me, of all angels, tricked by demons disguised[wait][clr]as my brothers Sandalphon[wait][clr]and Melchizedek![wait][page]They looked so much alike, I never even suspected a thing...[wait][page]By the time I figured it out, I'd been turned into a statue.[wait][page]And thanks to that, they hauled me off to this freezing place.[wait][page]Hey, DemiKid, why don't you make me your ally?[wait][page]I want revenge on the guys who tricked me!![wait][end]"
  },
  {
   "id": "M0740",
@@ -2322,7 +2322,7 @@
    754
   ],
   "jp": "デリーが　ナカマになった！[wait][end]",
-  "en": "Delhi became your ally![wait][end]"
+  "en": "Delly became your ally![wait][end]"
  },
  {
   "id": "M0755",

@@ -935,7 +935,7 @@
    266
   ],
   "jp": "[name:50]オレはただ　氷の使徒さまの[n]命令に　したがっただけだ[wait][page]これ以上のことを　知りたければ[n]オレを　たおすことだな！[wait][page]イクゾ！！　デビルチルドレン[wait][end]",
-  "en": "[name:50]I was only following the Ice Apostle's orders.[wait][page]If you want to know more, you'll have to beat me!![wait][page]HERE I COME!! DemiKid![wait][end]"
+  "en": "[name:50]I was only following the great Ice Apostle's orders.[wait][page]If you want to know more, you'll have to beat me!![wait][page]Here I come!! DemiKid![wait][end]"
  },
  {
   "id": "M0267",
@@ -984,7 +984,7 @@
    271
   ],
   "jp": "[name:49]氷の使徒さまの　ご命令だ[wait][page]レナの事は　あきらめて[n]おとなしく　自分の世界へ帰れ[wait][page]さもなければ　ここで[n]眠っていてもらうことになる[wait][end]",
-  "en": "[name:49]The Ice Apostle commands it.[wait][page]Give up on Lena and go back to your own world quietly.[wait][page]Otherwise, I'll have to put you to sleep right here.[wait][end]"
+  "en": "[name:49]The great Ice Apostle commands it.[wait][page]Give up on Lena and go back to your own world quietly.[wait][page]Otherwise, I'll have to put you to sleep right here.[wait][end]"
  },
  {
   "id": "M0272",
@@ -1840,7 +1840,7 @@
    348
   ],
   "jp": "[name:26]戦いのせいで[n]お父さんもお母さんも[wait][clr]いなくなっちゃったの[wait][page]セクねえちゃんも[n]どこかにいって　帰ってこないの[wait][end]",
-  "en": "[name:26]Because of the fighting, my mom and dad[wait][clr]are gone.[wait][page]And big sister Sek went off somewhere and never came back.[wait][end]"
+  "en": "[name:26]Because of the fighting, my mom and dad[wait][clr]are gone.[wait][page]And Sis Sek went off somewhere and never came back.[wait][end]"
  },
  {
   "id": "M0349",
@@ -1930,7 +1930,7 @@
    354
   ],
   "jp": "[name:26]ちがうよ！　セクねえちゃん！！[wait][page]このひと　わたしを[n]助けようと　してくれてるの[wait][end]",
-  "en": "[name:26]No, Sek! He's not like that!![wait][page]He's trying to help me.[wait][end]"
+  "en": "[name:26]No, Sis Sek! He's not like that!![wait][page]He's trying to help me.[wait][end]"
  },
  {
   "id": "M0355",
@@ -2445,7 +2445,7 @@
    397
   ],
   "jp": "ダメダッ　チコクダー！！[wait][end]",
-  "en": "OH NO, I'M GONNA BE LATE!![wait][end]"
+  "en": "Oh no, I'm gonna be late!![wait][end]"
  },
  {
   "id": "M0398",

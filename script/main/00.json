@@ -1824,7 +1824,7 @@
    126
   ],
   "jp": "[name:9]さあ二人とも　しっかりするのよ！！[wait][page]ユメの中から　ヌケダシナサイ！！[wait][end]",
-  "en": "[name:9]Come on, you two, pull yourselves together!![wait][page]BREAK OUT OF THE DREAM!![wait][end]"
+  "en": "[name:9]Come on, you two, pull yourselves together!![wait][page]Snap out of that dream!![wait][end]"
  },
  {
   "id": "M0127",
@@ -1839,7 +1839,7 @@
    127
   ],
   "jp": "[name:8][face:44][f3][n]アキラの　入っていった扉の[wait][clr]左にある　青い扉のむこうに[wait][clr]天界へのゲートが　あるッス[wait][page]それから　天界に行ったら[n]天使長のミカエルさまに[wait][clr]会いに行くといいッスよ[wait][page]ミカエルさまなら[n]天界に行った　レナのことも[wait][clr]知ってるはずッス[wait][end]",
-  "en": "[name:8][face:44][f3], beyond the blue door to the left[wait][clr]of the door Akira went through,[wait][clr]there's a gate to Heaven.[wait][page]And when you get to Heaven,[wait][clr]go see Lord Michael, Chief of the Angels, y'know.[wait][page]Lord Michael oughta know about Lena,[wait][clr]since she went to Heaven, dude.[wait][end]"
+  "en": "[name:8][face:44][f3], beyond the blue door to the left[wait][clr]of the door Akira went through,[wait][clr]there's a gate to Heaven.[wait][page]And when you get to Heaven,[wait][clr]go see Lord Michael, the Chief Angel, y'know.[wait][page]Lord Michael oughta know about Lena,[wait][clr]since she went to Heaven, dude.[wait][end]"
  },
  {
   "id": "M0128",
@@ -2049,7 +2049,7 @@
    141
   ],
   "jp": "[name:0]あなたが　天使長ミカエルですね[wait][page]一体なぜ　天使とデビルは[n]戦っているのですか？[wait][end]",
-  "en": "[name:0]And you're Michael, Chief of the Angels.[wait][page]Why are the angels and demons fighting?[wait][end]"
+  "en": "[name:0]And you're Michael, the Chief Angel.[wait][page]Why are the angels and demons fighting?[wait][end]"
  },
  {
   "id": "M0142",
