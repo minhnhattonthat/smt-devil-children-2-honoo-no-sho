@@ -208,12 +208,15 @@ def build(mode='en', only=None, out=OUT, arrays=True):
                 rom[off:off + stride] = bytes([1, longnames[name]]) + b'\x00' * (stride - 2)
             ranges.append((base, base + stride * len(names)))
     if mode != 'identity' and only is None:
-        import menulabels
-        for idx, blob in menulabels.gen().items():
+        import menulabels, itemtabs
+        gfx = [((menulabels.TABLE + 4 * idx,), blob) for idx, blob in menulabels.gen().items()]
+        gfx.append(itemtabs.gen())
+        gfx.append(itemtabs.gen_bg())
+        for slots, blob in gfx:
             at = space.put(blob, align=4)
-            so = menulabels.TABLE + 4 * idx
-            struct.pack_into('<I', rom, so, 0x08000000 + at)
-            ranges.append((so, so + 4))
+            for so in slots:
+                struct.pack_into('<I', rom, so, 0x08000000 + at)
+                ranges.append((so, so + 4))
     if len(longnames) > 256:
         errors.append('more than 256 long names (%d)' % len(longnames))
     ranges.append((TEXT_BASE, space.p))
