@@ -26,7 +26,14 @@ TEXT_BASE = 0x810000           # relocated text goes here (engine + fonts live a
 PATCHES = [
     (0x0FA3B4, 'Ｊｉｎ　　　　　'),     # default hero name (was ジン), 8 units
 ]
-MARK ='The quick brown fox jumps over the lazy dog while five boxing wizards jump quickly. '
+# Packed fixed-stride name arrays read by getters (0x08038298 race, 0x080382C0 element): the caller copies the
+# element's units, so each element becomes the 2-byte long-name escape 01 nn (+ zero pad) -> any English length.
+ARRAYS = [
+    (0x27585C, 8, ['God', 'Devil', 'Angel', 'Dragon', 'Bird', 'Beast', 'Oni', 'Spirit', 'Fiend', 'Mutant', 'Zombie',
+                   'Boss', 'Monster']),
+    (0x2758C4, 2, ['Light', 'Dark', 'Fire', 'Water', 'Earth', 'Wind', 'Thunder', 'Ice']),
+]
+MARK = 'The quick brown fox jumps over the lazy dog while five boxing wizards jump quickly. '
 
 
 def load_script():
@@ -188,6 +195,19 @@ def build(mode='en', only=None, out=OUT):
                 layout[e['id']] = off
         except Exception as x:
             errors.append('%s %s: %s' % (e['_file'], e['id'], x))
+    if mode != 'identity' and only is None:
+        for base, stride, names in ARRAYS:
+            for i, name in enumerate(names):
+                if name not in longnames:
+                    k = len(longnames)
+                    at = space.put(enc.encode_str(name))
+                    struct.pack_into('<I', rom, LONGNAMES + 4 * k, 0x08000000 + at)
+                    longnames[name] = k
+                off = base + stride * i
+                rom[off:off + stride] = bytes([1, longnames[name]]) + b'\x00' * (stride - 2)
+            ranges.append((base, base + stride * len(names)))
+    if len(longnames) > 256:
+        errors.append('more than 256 long names (%d)' % len(longnames))
     ranges.append((TEXT_BASE, space.p))
     if errors:
         print('\n'.join(errors[:40]))
