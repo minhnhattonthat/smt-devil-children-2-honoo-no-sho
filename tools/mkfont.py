@@ -30,6 +30,48 @@ def gen_en12():
     return '\n'.join(out) + '\n'
 
 
+EN8_FROM_GAME = dict([(ord(c), 50 + i) for i, c in enumerate('0123456789')] +
+                     [(ord(c), 60 + i) for i, c in enumerate('ABCDEFGHIJKLMNOPQRSTUVWXYZ')] +
+                     [(ord(c), 86 + i) for i, c in enumerate('abcdefghijklmnopqrstuvwxyz')] +
+                     [(ord('!'), 6), (ord('?'), 5), (ord(':'), 4), (ord('/'), 9), (ord('~'), 10), (ord('('), 11),
+                      (ord(')'), 12), (ord('+'), 21), (ord('-'), 22), (ord('$'), 26), (ord('%'), 27), (ord('&'), 28),
+                      (ord('*'), 29), (ord('@'), 30), (ord('['), 19), (ord(']'), 20)])
+EN8_HAND = {  # 8 rows each; glyphs the game font lacks
+    0x20: ['...'] * 8,
+    0x2E: ['..', '..', '..', '..', '..', '..', '#.', '..'],
+    0x2C: ['..', '..', '..', '..', '..', '#.', '#.', '..'],
+    0x27: ['#.', '#.', '..', '..', '..', '..', '..', '..'],
+    0x22: ['#.#.', '#.#.', '....', '....', '....', '....', '....', '....'],
+    0x3B: ['..', '..', '#.', '..', '..', '#.', '#.', '..'],
+    0x3D: ['....', '....', '###.', '....', '###.', '....', '....', '....'],
+    0x3C: ['....', '..#.', '.#..', '#...', '.#..', '..#.', '....', '....'],
+    0x3E: ['....', '#...', '.#..', '..#.', '.#..', '#...', '....', '....'],
+    0x5F: ['....', '....', '....', '....', '....', '....', '....', '###.'],
+    0x23: ['......', '.#.#..', '#####.', '.#.#..', '#####.', '.#.#..', '......', '......'],
+    0x5E: ['.#..', '#.#.', '....', '....', '....', '....', '....', '....'],
+}
+
+
+def gen_en8():
+    sys.path.insert(0, str(ROOT / 'tools'))
+    import font as F
+    rom = (ROOT / 'rom/honoo.gba').read_bytes()
+    out = []
+    for c in range(0x20, 0x7F):
+        if c in EN8_HAND:
+            rows = EN8_HAND[c]
+        elif c in EN8_FROM_GAME:
+            g = F.glyph(rom, F.FONTS['f8'], EN8_FROM_GAME[c])
+            cols = [x for x in range(8) if any(g[y][x] for y in range(8))]
+            x0, x1 = (cols[0], cols[-1]) if cols else (0, 1)
+            rows = [''.join('#' if g[y][x] else '.' for x in range(x0, x1 + 1)) + '.' for y in range(8)]
+        else:
+            rows = ['#.#.', '.#..', '#.#.', '....', '....', '....', '....', '....']   # placeholder
+        out.append('= %02X %d' % (c, len(rows[0])))
+        out += rows
+    return '\n'.join(out) + '\n'
+
+
 def load(path, h):
     """-> {code: (width, rows[list of str])}"""
     g = {}
@@ -56,5 +98,5 @@ if __name__ == '__main__':
     if p.exists() and not a.force:
         sys.exit('%s exists (hand-edited?); use --force to regenerate' % p)
     p.parent.mkdir(exist_ok=True)
-    p.write_text({'en12': gen_en12}[a.name](), encoding='utf-8', newline='\n')
+    p.write_text({'en12': gen_en12, 'en8': gen_en8}[a.name](), encoding='utf-8', newline='\n')
     print('wrote', p)
