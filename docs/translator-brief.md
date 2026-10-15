@@ -9,6 +9,8 @@ Repo root: H:\translation\batch\projects\smt-devil-children-2-honoo-no-sho (run 
 ## Read first
 1. `docs/style-reference.md` - voices and approved example pairs (the prologue). Match this voice.
 2. `glossary.md` - binding names and terms (Avoid column = banned spellings; the check enforces it).
+3. `docs/names.md` - binding English for every demon, skill, item and ability name already translated. Search it (Grep)
+   for each name you meet in your batch instead of inventing a new spelling.
 
 ## Input: `work/tl/<batch>.tsv`
 `id<TAB>speaker<TAB>form<TAB>limit<TAB>Japanese<TAB>ref`
@@ -41,7 +43,12 @@ Exceptions allowed: `♥` and the Macca sign `〒` (keep `〒` before a money nu
   - `label`: name/place/shout, one line, pixel limit given.
   - `btl`: battle message; `[f5]` = acting demon's name, `[ef]` = item/skill name, `[ec]` = number (no argument in battle text).
   - `str`: menu text, byte limit given (1 byte per English char). If "relocatable", it may be longer, but keep menus tight.
-  - `field`: a 16-byte name (demon, skill, item...): max 15 characters AND 96 px.
+  - `field`: a 16-byte name (demon, skill, item...): max 96 px (any length in characters; names over 16 chars are stored through an escape). In field batches the `speaker` column
+    gives the category (demon / skill / item / combo skill / enemy/NPC record / passive ability). Each Japanese name
+    appears once; the build copies it to every duplicate. Demons: the official Atlus English spelling of the mainline
+    SMT / Persona games (Cerberus, Jack Frost, Pyro Jack, Pixie, Kaiwan...). Spells: SMT names (Agi, Agilao, Bufu,
+    Zio, Zan, Dia, Media, Patra, Tarukaja...). Kana-only skill names: short natural English (きずぐすり = Medicine).
+    Dev placeholders (ダミー123, ■予備■) -> "Dummy 123", "(reserve)".
 - Width: proportional font, about 4.5 px per lowercase char (i 2px, m 8px, W 9px). Check with the tool below.
 
 ## Validate
@@ -55,7 +62,8 @@ Dry-run one line: `python -X utf8 tools/wrap.py "text"` prints the wrapped lines
   Jack Frost, Cerberus...). Never abbreviate to fit; if impossible, keep meaning and report `LONG: id`.
 - Honorifics dropped (さま -> Lord/Lady for Michael/Lucifer and similar masters; otherwise plain names). Given name first.
 - Punctuation: 「」『』 -> "..." (no quotes around a simple item name); ・・・ -> `...`; ！！ -> `!!`; ？！ -> `?!`;
-  katakana-only speech (robotic/creepy voices) -> ALL CAPS. Kana-only words for kids stay simple English.
+  katakana-only speech -> ALL CAPS only for robotic/possessed/eerie voices (e.g. brainwashed children, the Ice Apostle's
+  minions); ordinary katakana emphasis or slang shouts stay in normal case. Check the glossary's "Decisions" section. Kana-only words for kids stay simple English.
 - Mistakes already caught: making Rand sound formal (he's a cocky, warm big-brother type); dropping `[pause:N]` codes; turning
   `[wait][n]` into `[wait][page]`.
 

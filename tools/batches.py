@@ -64,7 +64,7 @@ def cmd_split(a):
     todo, auto_files = [], set()
     for f, es in files.items():
         for e in es:
-            if e.get('en'):
+            if e.get('en') or e.get('keep'):
                 continue
             if e['jp'] in AUTO and e['kind'] != 'field':
                 e['en'] = AUTO[e['jp']]
@@ -172,6 +172,17 @@ def cmd_merge(a):
         for e in es:
             if e['id'] in out and (a.force or not lint.check_entry(e, out[e['id']])):
                 e['en'] = out[e['id']]
+                changed.add(f)
+    # name fields are batched once per unique JP: copy the English to every other field with the same JP
+    byjp = {}
+    for es in files.values():
+        for e in es:
+            if e['kind'] == 'field' and e['id'] in out:
+                byjp[e['jp']] = e['en']
+    for f, es in files.items():
+        for e in es:
+            if e['kind'] == 'field' and not e.get('en') and e['jp'] in byjp:
+                e['en'] = byjp[e['jp']]
                 changed.add(f)
     save(files, changed)
     print('merged %s into %d files' % (a.batch, len(changed)))

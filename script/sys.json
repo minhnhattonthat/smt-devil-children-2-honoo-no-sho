@@ -432,7 +432,9 @@
   ],
   "idx": [],
   "jp": "あいうえおかきくけこ[n]さしすせそたちつてと[n]なにぬねのはひふへほ[n]まみむめもや　ゆ　よ[n]らりるれろわ　を　ん[n]ぁぃぅぇぉっゃゅょ　[end]",
-  "en": ""
+  "en": "",
+  "keep": true,
+  "notes": "name-entry character grid: kept (it is the input charset)"
  },
  {
   "id": "T277824",
@@ -448,7 +450,9 @@
   ],
   "idx": [],
   "jp": "アイウエオカキクケコ[n]サシスセソタチツテト[n]ナニヌネノハヒフヘホ[n]マミムメモヤ　ユ　ヨ[n]ラリルレロワ　ヲ　ン[n]ァィゥェォッャュョヴ[end]",
-  "en": ""
+  "en": "",
+  "keep": true,
+  "notes": "name-entry character grid: kept (it is the input charset)"
  },
  {
   "id": "T2778A8",
@@ -464,7 +468,9 @@
   ],
   "idx": [],
   "jp": "ＡＢＣＤＥＦＧＨＩＪ[n]ＫＬＭＮＯＰＱＲＳＴ[n]ＵＶＷＸＹＺ　　　　[n]ａｂｃｄｅｆｇｈｉｊ[n]ｋｌｍｎｏｐｑｒｓｔ[n]ｕｖｗｘｙｚ　　　　[end]",
-  "en": ""
+  "en": "",
+  "keep": true,
+  "notes": "name-entry character grid: kept (it is the input charset)"
  },
  {
   "id": "T27792C",
@@ -480,7 +486,9 @@
   ],
   "idx": [],
   "jp": "１２３４５[n]６７８９０[n]ΓΔΘΛΞ[n]ΠΣΦΨΩ[n]￥＄〒＆～[n]－？！・♥　[end]",
-  "en": ""
+  "en": "",
+  "keep": true,
+  "notes": "name-entry character grid: kept (it is the input charset)"
  },
  {
   "id": "T277976",
@@ -496,7 +504,9 @@
   ],
   "idx": [],
   "jp": "がぎぐげご[n]ざじずぜぞ[n]だぢづでど[n]ばびぶべぼ[n]ぱぴぷぺぽ[n]（）∀♪∞[end]",
-  "en": ""
+  "en": "",
+  "keep": true,
+  "notes": "name-entry character grid: kept (it is the input charset)"
  },
  {
   "id": "T2779BE",
@@ -512,6 +522,8 @@
   ],
   "idx": [],
   "jp": "ガギグゲゴ[n]ザジズゼゾ[n]ダヂヅデド[n]バビブベボ[n]パピプペポ[n]○×△□◇[end]",
-  "en": ""
+  "en": "",
+  "keep": true,
+  "notes": "name-entry character grid: kept (it is the input charset)"
  }
 ]

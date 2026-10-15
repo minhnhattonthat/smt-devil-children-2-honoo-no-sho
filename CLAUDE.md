@@ -4,21 +4,29 @@ Skill: translate-retro-game (H:/translation/batch/.claude/skills/translate-retro
 Batch brief: H:/translation/batch/projects/BATCH_BRIEF.md (all rulings pre-approved; never push/publish).
 
 ## Commands (run from repo root)
-- Build:    `python -X utf8 tools/build.py` -> build/honoo_en.gba (not yet)
+- Build:    `python -X utf8 tools/build.py` -> build/honoo_en.gba (`--marker` id build, `--identity`, `--only ID,ID`)
 - Check:    `python -X utf8 tools/check.py` (pytest + lint; pre-commit runs it)
 - Smoke:    `python -X utf8 H:/translation/batch/.claude/skills/translate-retro-game/scripts/emu.py build/honoo_en.gba --out work/qa/smoke --frames 2400 --smoke`
+- Intro route: `--route-str "600 -;6 start;120 -;6 a;120 -;6 a;120 -;6 a" --frames 6000 --mash 50 --mash-key a` (dialogue from ~f3700)
+- Translation: `tools/batches.py split|check bNNN|merge bNNN|status`; brief docs/translator-brief.md; style docs/style-reference.md.
+  Batch files in work/tl (gitignored; merged English lives in script/*.json). Extract: `tools/extract.py` (never --force: clobbers en).
 - Release:  (not yet) BPS via skill bps.py; release/<slug>_en.zip local only.
 
 ## Paths
-- Original ROM: `rom/honoo.gba` (copy of the No-Intro file in rom/; 8 MiB, SHA-1 8c29d692..., header DEBITIRUFLAMB, SRAM save).
-- Reference only: `rom/ref/ice_ref.gba` = Koori no Sho (Book of Ice, BDYJ) with someone's English proto patch, 16 MiB.
-- Emulator: `tools/mesen/` (MesenCE 2.2.1 + gba_bios). armips: `tools/armips/`. Both gitignored.
-- Table `tbl/jp.tbl` (glyph code -> char; built by tools/mktbl.py from tools/ocr_font.py). Codec `tools/codec.py`. Fonts `tools/font.py`.
+- Original ROM: `rom/honoo.gba` (8 MiB, SHA-1 8c29d692..., DEBITIRUFLAMB, SRAM save). Ref only: `rom/ref/ice_ref.gba`
+  (Book of Ice + English proto patch; tools/refice.py -> work/ref_en.json hints).
+- Emulator `tools/mesen/` (MesenCE 2.2.1 + gba_bios), armips `tools/armips/` (gitignored).
+- Table `tbl/jp.tbl` (tools/mktbl.py). Codec `tools/codec.py`, English enc `tools/enc.py`, wrap `tools/wrap.py`, forms `tools/forms.py`.
+- Engine `asm/engine.asm` (VWF hook in DrawString 0x080C20E8), fonts `font/en12.txt`, `font/en8.txt` (hand-editable).
 - RE notes: `docs/re/README.md`.
 
 ## Rulings
-- Edit source only with Edit/Write tools. Honorifics dropped (register), given-name-first. Official SMT / DemiKids English names.
-  Credits English. Graphics text in scope. Full names, engine work before abbreviation.
+- Edit source only with Edit/Write tools. Honorifics dropped, given-name-first, DemiKids official names (glossary.md).
+  Credits English. Graphics text in scope. Full names; engine work before abbreviation.
+- Freeze tools/{enc,wrap,forms,lint}.py and font/*.txt while translator agents run (widths!).
 
-## Status
-- Step 0 done (emu boots original). Phase 1 recon in progress: encoding, controls, fonts, main table done (docs/re/README.md).
+## Status (2026-10-16)
+- Done: Step 0, recon (encoding, fonts, all text located), extraction (4910 msgs, 517 strs, 1719 fields), VWF engine, marker build
+  boots through intro to field, pilot b000 merged; batches b001-b055 split; b001-b004 dispatched.
+- Next: dispatch remaining batches; English name entry screen; debug states (menus, battle, shops); graphics survey; width gate
+  for desc/ddesc/choice/menus/fields (provisional limits in tools/forms.py).

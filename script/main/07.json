@@ -12,7 +12,7 @@
    1400
   ],
   "jp": "[name:54]アンタたち・・・強いなぁ[wait][page]ペクヨンのぼっちゃんも[n]やられっちまうワケだぜ[wait][page]アンタらなら　あの方にも[n]勝てるかもな！[wait][page]・・・　・・・　・・・[wait][page]ヨシ！！決めた！！！[n]オレさまも　ついていってやるよ！[wait][end]",
-  "en": ""
+  "en": "[name:54]You guys... are tough, huh.[wait][page]No wonder little master Paekyong got whupped.[wait][page]You lot might even beat that one![wait][page]... ... ...[wait][page]All right!! I've decided!!! I'm comin' with you![wait][end]"
  },
  {
   "id": "M1401",
@@ -27,7 +27,7 @@
    1401
   ],
   "jp": "[name:54]オレさまは　オロファト！[n]よろしくな！！[wait][end]",
-  "en": ""
+  "en": "[name:54]I'm the great Orofat! Good to have ya!![wait][end]"
  },
  {
   "id": "M1402",
@@ -42,7 +42,7 @@
    1402
   ],
   "jp": "オロファトが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Orofat became your ally![wait][end]"
  },
  {
   "id": "M1403",
@@ -57,7 +57,7 @@
    1403
   ],
   "jp": "[name:54]オイオイ・・・[n]ナカマが　いっぱいじゃないか[wait][page]オレさまを　ナカマにしないと[n]ここは　通らせてやらねぇからな[wait][page]ナカマに　できるようにしてから[n]またこいよ[wait][end]",
-  "en": ""
+  "en": "[name:54]Hey, hey... You've got too many allies![wait][page]Unless you make me your ally, I ain't lettin' you through.[wait][page]Make room for me, then come back.[wait][end]"
  },
  {
   "id": "M1404",
@@ -72,7 +72,7 @@
    1404
   ],
   "jp": "[name:54]いいな！[wait][page]ちゃんと　オレさまを[n]ナカマにできるようにしてこいよ[wait][end]",
-  "en": ""
+  "en": "[name:54]Got it![wait][page]Make sure you've got room for me when you come back.[wait][end]"
  },
  {
   "id": "M1405",
@@ -87,7 +87,7 @@
    1405
   ],
   "jp": "[name:54]また来たのかい！？[n]こりない連中だねぇ～[wait][page]どうせ　またオレさまに[n]負けるんだけどな～[wait][page]まぁ　仕方ないから[n]相手　してやるよ[wait][end]",
-  "en": ""
+  "en": "[name:54]Back again?! You guys never learn, huh~[wait][page]You're just gonna lose to me again anyway~[wait][page]Well, can't be helped. I'll take you on.[wait][end]"
  },
  {
   "id": "M1406",
@@ -102,7 +102,7 @@
    1406
   ],
   "jp": "[name:54]こんどは　ナカマに入れるかい？[wait][end]",
-  "en": ""
+  "en": "[name:54]So, can I join you this time?[wait][end]"
  },
  {
   "id": "M1407",
@@ -117,7 +117,7 @@
    1407
   ],
   "jp": "[name:18]ひさしぶりですね・・・[n]デビルチルドレン　[f3][wait][page]よく　ここまで[n]たどりつきました・・・[wait][page]さぁ！！[n]アナタのチカラを見せてください！！[wait][page]そしてワタシをこえてみせるのです！[wait][end]",
-  "en": ""
+  "en": "[name:18]It has been a long time... DemiKid [f3].[wait][page]You did well to make it this far...[wait][page]Now!! Show me your power!![wait][page]And prove that you can surpass me![wait][end]"
  },
  {
   "id": "M1408",
@@ -132,7 +132,7 @@
    1408
   ],
   "jp": "[name:0][face:1]ミカエル！！[wait][page]オレたちの全力をもって[n]オマエを　こえてみせる！！[wait][page]いくぞ！！[n][f2]！！！！！[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Michael!![wait][page]With everything we've got, we're gonna get past you!![wait][page]Here we go!! [f2]!!!!![wait][end]"
  },
  {
   "id": "M1409",
@@ -147,7 +147,7 @@
    1409
   ],
   "jp": "[name:18]まさか・・・[n]このワタシが負けるとは・・・[wait][page]デビルチルドレン・・・[n]そのチカラ　本物ですね・・・[wait][page][f3]よ・・・[n]ワタシをナカマにしてください[wait][page]アナタと　いっしょに旅をすれば[n]ワタシも　強くなれるでしょう[wait][end]",
-  "en": ""
+  "en": "[name:18]I cannot believe it...I, of all beings, defeated...[wait][page]DemiKid...your power is the real thing...[wait][page][f3]...please, make me your ally.[wait][page]If I travel together with you, I too can grow stronger.[wait][end]"
  },
  {
   "id": "M1410",
@@ -162,7 +162,7 @@
    1410
   ],
   "jp": "[name:18]ワタシは　天使の長・・・[n]大天使ミカエル・・・[wait][page]ワタシのチカラを[n]みせてあげましょう・・・[wait][end]",
-  "en": ""
+  "en": "[name:18]I am the chief of the angels... the archangel Michael...[wait][page]Allow me to show you my power...[wait][end]"
  },
  {
   "id": "M1411",
@@ -177,7 +177,7 @@
    1411
   ],
   "jp": "ミカエルが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Michael joined you![wait][end]"
  },
  {
   "id": "M1412",
@@ -192,7 +192,7 @@
    1412
   ],
   "jp": "[name:18]ナカマが　いっぱいなようですね[wait][page]ワタシがナカマになれるように[n]せいりして　またここにきてください[wait][end]",
-  "en": ""
+  "en": "[name:18]It seems you have too many allies.[wait][page]Please make room so that I can join you, then come back here.[wait][end]"
  },
  {
   "id": "M1413",
@@ -207,7 +207,7 @@
    1413
   ],
   "jp": "[name:18]さぁ！[n]本当のチカラを　みせてください！！[wait][end]",
-  "en": ""
+  "en": "[name:18]Now! Show me your true power!![wait][end]"
  },
  {
   "id": "M1414",
@@ -222,7 +222,7 @@
    1414
   ],
   "jp": "[name:18]さぁ　ワタシを[n]ナカマにしてください！[wait][end]",
-  "en": ""
+  "en": "[name:18]Now, please make me your ally![wait][end]"
  },
  {
   "id": "M1415",
@@ -237,7 +237,7 @@
    1415
   ],
   "jp": "[name:1][face:255][f3]！！[n]この上には　用事がないぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]!! We've got no business up there![wait][end]"
  },
  {
   "id": "M1416",
@@ -252,7 +252,7 @@
    1416
   ],
   "jp": "[name:1][face:255]知らない人の家だろ！？[n]かってに入ったら　おこられるぞ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]That's some stranger's house, isn't it?! You'll get yelled at if you just barge in.[wait][end]"
  },
  {
   "id": "M1417",
@@ -267,7 +267,7 @@
    1417
   ],
   "jp": "[name:30]今の　オマエには[n]この先に　進むシカクがない・・・[wait][page]そうそうに　たちされ・・・[wait][end]",
-  "en": ""
+  "en": "[name:30]As you are now, you are not worthy to go any further...[wait][page]Leave this place at once...[wait][end]"
  },
  {
   "id": "M1418",
@@ -282,7 +282,7 @@
    1418
   ],
   "jp": "すさまじい　チカラで[n]おしかえされた・・・！！[wait][end]",
-  "en": ""
+  "en": "You were pushed back by a tremendous power...!![wait][end]"
  },
  {
   "id": "M1419",
@@ -297,7 +297,7 @@
    1419
   ],
   "jp": "まったく　もう・・・[wait][page]こんなところで　１人で[n]門番をやられるなんて・・・[wait][page]ついてないわ・・・[wait][end]",
-  "en": ""
+  "en": "Honestly, really...[wait][page]Stuck guarding a gate in a place like this, all by myself...[wait][page]Just my luck...[wait][end]"
  },
  {
   "id": "M1420",
@@ -312,7 +312,7 @@
    1420
   ],
   "jp": "アナタたち！！[n]ココにちかよっては　いけません！！[wait][page]門番が　ワタシだったからいいものの[n]ほかの天使に見つかったら[wait][clr]つかまっちゃうわよ！[wait][page]ほら　はやくあっちに行きなさい！[wait][end]",
-  "en": ""
+  "en": "You two!! You mustn't come near here!![wait][page]It's a good thing I'm the one on guard. If any other angel finds you,[wait][clr]you'll be captured![wait][page]Go on, hurry along now![wait][end]"
  },
  {
   "id": "M1421",
@@ -327,7 +327,7 @@
    1421
   ],
   "jp": "[name:30]ハァ・・・こまったわ・・・[n]どうしましょう・・・[wait][end]",
-  "en": ""
+  "en": "[name:30]Sigh... What a mess... What should I do...[wait][end]"
  },
  {
   "id": "M1422",
@@ -342,7 +342,7 @@
    1422
   ],
   "jp": "[name:30]ちょっと！！[n]そこの　あなた！！[wait][end]",
-  "en": ""
+  "en": "[name:30]Hey!! You there!![wait][end]"
  },
  {
   "id": "M1423",
@@ -357,7 +357,7 @@
    1423
   ],
   "jp": "[name:0][face:1]ん？　オレのこと？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Huh? You mean me?[wait][end]"
  },
  {
   "id": "M1424",
@@ -372,7 +372,7 @@
    1424
   ],
   "jp": "[name:30]そうよ！　そこのあなたよ！[wait][end]",
-  "en": ""
+  "en": "[name:30]Yes! You, right there![wait][end]"
  },
  {
   "id": "M1425",
@@ -387,7 +387,7 @@
    1425
   ],
   "jp": "[name:55]ワタシは　ヴィーヴル[n]よろしくね・・・[wait][page]アナタたち・・・ずいぶんと[n]強そうに　みえるわ・・・[wait][end]",
-  "en": ""
+  "en": "[name:55]I'm Vouivre. Nice to meet you...[wait][page]You two... you look pretty strong...[wait][end]"
  },
  {
   "id": "M1426",
@@ -402,7 +402,7 @@
    1426
   ],
   "jp": "[name:0][face:1]まぁね！[n]で　いったいなんなんだ？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]You bet! So, what's this all about?[wait][end]"
  },
  {
   "id": "M1427",
@@ -417,7 +417,7 @@
    1427
   ],
   "jp": "[name:55]そんなに　あせると[n]女の子に　きらわれちゃうぞ[wait][end]",
-  "en": ""
+  "en": "[name:55]If you're that impatient, the girls won't like you.[wait][end]"
  },
  {
   "id": "M1428",
@@ -432,7 +432,7 @@
    1428
   ],
   "jp": "[name:0][face:1]・・・　・・・　・・・[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]... ... ...[wait][end]"
  },
  {
   "id": "M1429",
@@ -447,7 +447,7 @@
    1429
   ],
   "jp": "[name:55]ま・まぁ　じょうだんは[n]おいといて・・・[wait][page]じつは　ワタシ・・・[n]とってもこまっているの・・・[wait][page]スネーフィヨルから東にいったところに[n]フヴェルゲルミルっていう[wait][clr]きれいな　泉があるの・・・[wait][page]このまえ　その泉で遊んでいたら[n]ワタシが　とっても大事にしてる[wait][clr]リュウのルビーっていう　宝石を[clr]泉に落としてしまったの・・・[wait][page]その宝石がないと　デビルとしての[n]チカラをだせないの・・・[wait][page]ねぇ・・・[wait][page]その宝石・・・もってきてくれない？[wait][end]",
-  "en": ""
+  "en": "[name:55]W-well, jokes aside...[wait][page]The truth is... I'm in big trouble...[wait][page]East of Snaefjoll, there's a place called Hvergelmir[wait][clr]with a beautiful spring...[wait][page]The other day, I was playing at that spring, and a precious jewel of mine,[wait][clr]called the Dragon Ruby,[clr]fell into the water...[wait][page]Without that jewel, I can't use my powers as a demon...[wait][page]Hey...[wait][page]Won't you... bring that jewel back for me?[wait][end]"
  },
  {
   "id": "M1430",
@@ -462,7 +462,7 @@
    1430
   ],
   "jp": "[name:0][face:1]えっ！！[n]・・・　・・・　・・・[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Huh?! ... ... ...[wait][end]"
  },
  {
   "id": "M1431",
@@ -477,7 +477,7 @@
    1431
   ],
   "jp": "[name:55]こんなキレイなおねーさんの[n]おねがい・・・きいてくれないの？[wait][end]",
-  "en": ""
+  "en": "[name:55]You won't grant a favor for a pretty big sister like me?[wait][end]"
  },
  {
   "id": "M1432",
@@ -492,7 +492,7 @@
    1432
   ],
   "jp": "わかりました・・・[n]・・・　・・・　・・・[end]",
-  "en": ""
+  "en": "All right...[n]... ... ...[end]"
  },
  {
   "id": "M1433",
@@ -507,7 +507,7 @@
    1433
   ],
   "jp": "[name:55]フフフ・・・いい子ね[wait][page]それじゃ　気をつけてね[wait][end]",
-  "en": ""
+  "en": "[name:55]Heh heh heh... Good boy.[wait][page]Well then, be careful.[wait][end]"
  },
  {
   "id": "M1434",
@@ -522,7 +522,7 @@
    1434
   ],
   "jp": "[name:55]フーン・・・[wait][page]ま　さ　か・・・[wait][n]ことわらないわよねぇ・・・[wait][end]",
-  "en": ""
+  "en": "[name:55]Hmmm...[wait][page]Don't tell me...[wait][n]you're going to say no...[wait][end]"
  },
  {
   "id": "M1435",
@@ -537,7 +537,7 @@
    1435
   ],
   "jp": "[name:55]いってらっしゃーい[wait][end]",
-  "en": ""
+  "en": "[name:55]Have a nice trip![wait][end]"
  },
  {
   "id": "M1436",
@@ -552,7 +552,7 @@
    1436
   ],
   "jp": "[name:55]フヴェルゲルミルには[n]スネーフィヨルの東からいけるわ[wait][page]その１番　おくに　泉があるの[wait][page]そこに　必ず　リュウのルビーは[n]あるはずよ・・・[wait][end]",
-  "en": ""
+  "en": "[name:55]You can get to Hvergelmir from the east side of Snaefjoll.[wait][page]The spring is at the very back.[wait][page]The Dragon Ruby has to be in there...[wait][end]"
  },
  {
   "id": "M1437",
@@ -567,7 +567,7 @@
    1437
   ],
   "jp": "[name:55]それよ！それ！！[wait][page]それが　リュウのルビーよ！！[wait][page]うわぁ！！！[n]まさか　本当にもってくるなんて！！[wait][page]本当に　ありがとう・・・[wait][page]おねえさん・・・うれしいわ・・・[n]ありがとう・・・ね[wait][page]チュッ！[wait][end]",
-  "en": ""
+  "en": "[name:55]That's it! That's the one!![wait][page]That's the Dragon Ruby!![wait][page]Wow!!! I can't believe you really brought it!![wait][page]Thank you so much...[wait][page]Big sis is so happy... Thank you... really.[wait][page]Smooch![wait][end]"
  },
  {
   "id": "M1438",
@@ -582,7 +582,7 @@
    1438
   ],
   "jp": "[f3]は[n]リュウのルビーを　てわたした・・・[wait][end]",
-  "en": ""
+  "en": "[f3] handed over the Dragon Ruby...[wait][end]"
  },
  {
   "id": "M1439",
@@ -597,7 +597,7 @@
    1439
   ],
   "jp": "[name:55]それじゃあね・・・[n]本当に　ありがとう・・・[wait][end]",
-  "en": ""
+  "en": "[name:55]Bye now... Thank you so much...[wait][end]"
  },
  {
   "id": "M1440",
@@ -612,7 +612,7 @@
    1440
   ],
   "jp": "[name:55]ちょ　ちょっと！！[n]どこ　いくのよ！！[wait][page]フヴェルゲルミルは[n]そっちじゃないわよ！！[wait][end]",
-  "en": ""
+  "en": "[name:55]H-hey!! Where are you going?![wait][page]Hvergelmir isn't that way!![wait][end]"
  },
  {
   "id": "M1441",
@@ -627,7 +627,7 @@
    1441
   ],
   "jp": "何かが　キラキラ光っている・・・！[wait][end]",
-  "en": ""
+  "en": "Something is sparkling...![wait][end]"
  },
  {
   "id": "M1442",
@@ -642,7 +642,7 @@
    1442
   ],
   "jp": "おっと　この先は通行止めだ[wait][page]落石が　はげしいんでな[n]まぁ　しばらくしたら　おちつくだろ[wait][page]わるいんだが　それまでは[n]いれてやるわけには　いかないんだ[wait][end]",
-  "en": ""
+  "en": "Whoa, the road's closed past here.[wait][page]There's a lot of falling rock. Well, it oughta settle down after a while.[wait][page]Sorry, but till then I can't let you through.[wait][end]"
  },
  {
   "id": "M1443",
@@ -657,7 +657,7 @@
    1443
   ],
   "jp": "ここは　氷の使徒さまの城だ！[n]用がないなら　ここをされ！！[wait][end]",
-  "en": ""
+  "en": "This is the castle of the great Ice Apostle! If you have no business here, be gone!![wait][end]"
  },
  {
   "id": "M1444",
@@ -672,7 +672,7 @@
    1444
   ],
   "jp": "[name:47]ナカマが　いっぱいのようだ[n]でなおしてこい！[wait][end]",
-  "en": ""
+  "en": "[name:47]You seem to have too many allies. Come back later![wait][end]"
  },
  {
   "id": "M1445",
@@ -687,7 +687,7 @@
    1445
   ],
   "jp": "[name:47]ナカマが[n]いっぱいじゃないだろうな[wait][end]",
-  "en": ""
+  "en": "[name:47]You don't have too many allies, do you?[wait][end]"
  },
  {
   "id": "M1446",
@@ -702,7 +702,7 @@
    1446
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]過去の天界へと　その身をいざなう[wait][clr]時のゲート・・・[wait][page]現代の世界をかえるのは　過去での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
-  "en": ""
+  "en": "O you who inherit the power of light...[wait][page]Beyond lies the Time Gate, which shall carry you across the wall of time to the Heaven of the past...[wait][clr]...[wait][page]What changes the world of the present is what you do in the past...[wait][page]Steel yourself before you go...[wait][end]"
  },
  {
   "id": "M1447",
@@ -717,7 +717,7 @@
    1447
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]過去の魔界へと　その身をいざなう[wait][clr]時のゲート・・・[wait][page]現代の世界をかえるのは　過去での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
-  "en": ""
+  "en": "O you who inherit the power of light...[wait][page]Beyond lies the Time Gate, which shall carry you across the wall of time to the Demon World of the past...[wait][clr]...[wait][page]What changes the world of the present is what you do in the past...[wait][page]Steel yourself before you go...[wait][end]"
  },
  {
   "id": "M1448",
@@ -732,7 +732,7 @@
    1448
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]過去のニフルヘイムへと[wait][clr]その身をいざなう　時のゲート[wait][page]現代の世界をかえるのは　過去での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
-  "en": ""
+  "en": "O you who inherit the power of light...[wait][page]Beyond lies the Time Gate, which shall carry you across the wall of time[wait][clr]to the Niflheim of the past.[wait][page]What changes the world of the present is what you do in the past...[wait][page]Steel yourself before you go...[wait][end]"
  },
  {
   "id": "M1449",
@@ -747,7 +747,7 @@
    1449
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　氷の世界[n]ニフルヘイムへと[wait][clr]その身をいざなう　時のゲートだ[wait][page]気を　つけてすすむがいい・・・[wait][end]",
-  "en": ""
+  "en": "O you who inherit the power of light...[wait][page]Beyond here is the Time Gate that leads you to the icy world[wait][clr]of Niflheim.[wait][page]Go forward with care...[wait][end]"
  },
  {
   "id": "M1450",
@@ -762,7 +762,7 @@
    1450
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　氷の世界[n]ニフルヘイムへと[wait][clr]その身をいざなう　時のゲートだ[wait][page]気を　つけてすすむがいい・・・[wait][end]",
-  "en": ""
+  "en": "O you who inherit the power of light...[wait][page]Beyond here is the Time Gate that leads you to the icy world[wait][clr]of Niflheim.[wait][page]Go forward with care...[wait][end]"
  },
  {
   "id": "M1451",
@@ -777,7 +777,7 @@
    1451
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　氷の世界[n]ニフルヘイムへと[wait][clr]その身をいざなう　時のゲートだ[wait][page]気を　つけてすすむがいい・・・[wait][end]",
-  "en": ""
+  "en": "O you who inherit the power of light...[wait][page]Beyond here is the Time Gate that leads you to the icy world[wait][clr]of Niflheim.[wait][page]Go forward with care...[wait][end]"
  },
  {
   "id": "M1452",
@@ -792,7 +792,7 @@
    1452
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　新たな　時の間へと[n]その身をいざなう　時のゲートだ[wait][page]気を　つけてすすむがいい・・・[wait][end]",
-  "en": ""
+  "en": "O you who inherit the power of light...[wait][page]Beyond here is the Time Gate that leads you to a new Hall of Time.[wait][page]Go forward with care...[wait][end]"
  },
  {
   "id": "M1453",
@@ -807,7 +807,7 @@
    1453
   ],
   "jp": "マッカが　足りないようだ・・・[wait][end]",
-  "en": ""
+  "en": "You don't seem to have enough Macca...[wait][end]"
  },
  {
   "id": "M1454",
@@ -822,7 +822,7 @@
    1454
   ],
   "jp": "[name:1][face:255][f3][n]ユダンするなよ！[wait][page]なんだか　アヤシイふんいきが[n]するぜ・・・・[wait][page]まるで　これから世界が[n]終わりそうなふんいきが・・・[wait][page][f3]！[wait][page]いまのうちに　わからないことが[n]あるのなら　教えてやるぜ[wait][page]何か　あるのか？[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3], don't let your guard down![wait][page]Something feels fishy around here...[wait][page]Like the world's about to end or something...[wait][page][f3]![wait][page]If there's anything you don't get, I'll teach you while there's still time.[wait][page]Got anything?[wait][end]"
  },
  {
   "id": "M1455",
@@ -837,7 +837,7 @@
    1455
   ],
   "jp": "　とりあえず　いまはいい[n]　ナカマについて[n]　バトルについて[end]",
-  "en": ""
+  "en": "Nothing for now[n]About allies[n]About battles[end]"
  },
  {
   "id": "M1456",
@@ -852,7 +852,7 @@
    1456
   ],
   "jp": "[name:1][face:255]デビルを　ナカマにする方法は[n]バトルのときに　こうしょうの[wait][clr]コマンドをえらんでテキのデビルと[clr]こうしょうするのが　かんたんだ[wait][page]こうしょうする　こっちのナカマと[n]あいてのデビルの　あいしょうで[wait][clr]ナカマになったり[clr]しっぱいしたりする[wait][page]だけど　ナカマがいなきゃ[n]デビルと　たたかっていけないぞ[wait][page]それとナカマがいっぱいになったら[n]ヴィネセンターをりようするんだ[wait][page]ヴィネセンターは　ナカマを[n]あずかってくれる所さ[wait][page]ちなみに　ヴィネコンの[n]『アクセス』コマンドから[wait][clr]ヴィネセンターとつうしんできる[wait][page]もっと　聞きたいか？[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]The easiest way to make a demon your ally is to pick the Talk[wait][clr]command in battle and talk with[clr]the enemy demon.[wait][page]Depending on how well your ally who's talking gets along with the other demon,[wait][clr]it'll join you,[clr]or it won't work out.[wait][page]But without allies, you can't fight demons.[wait][page]And when you've got too many allies, use the Vine Center.[wait][page]The Vine Center is a place that keeps your allies for you.[wait][page]By the way, you can contact the Vine Center from the Vinecom's[wait][clr]\"Access\" command.[wait][page]Wanna hear more?[wait][end]"
  },
  {
   "id": "M1457",
@@ -867,7 +867,7 @@
    1457
   ],
   "jp": "　とりあえず　いまはいい[n]　ナカマについて　もうすこし[n]　バトルについて[end]",
-  "en": ""
+  "en": "Nothing for now[n]More about allies[n]About battles[end]"
  },
  {
   "id": "M1458",
@@ -882,7 +882,7 @@
    1458
   ],
   "jp": "[name:1][face:255]ナカマは　バトルをしてるだけじゃ[n]強くなることは　ないんだ[wait][page]ナカマを強くするには[n]アヤシイ館で　ナカマを[wait][clr]合体　させるのがいいぜ[wait][page]他にも　くんれんじょってのが[n]どこかにあるはずだから[wait][clr]そこに　ナカマをあずけて[wait][clr]強くしてもらうのも　いい[wait][page]まぁ　お金がかかるがな[wait][page]もっと　聞きたいか？[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Your allies won't get stronger just by fighting battles.[wait][page]To make allies stronger, try fusing them[wait][clr]at the Spooky Mansion.[wait][page]There should also be a training center somewhere,[wait][clr]so you could leave your allies there[wait][clr]and have 'em trained up, too.[wait][page]It costs money, though.[wait][page]Wanna hear more?[wait][end]"
  },
  {
   "id": "M1459",
@@ -897,7 +897,7 @@
    1459
   ],
   "jp": "　とりあえず　いまはいい[n]　合体について[n]　バトルについて[end]",
-  "en": ""
+  "en": "Nothing for now[n]About fusion[n]About battles[end]"
  },
  {
   "id": "M1460",
@@ -912,7 +912,7 @@
    1460
   ],
   "jp": "[name:1][face:255]種族合体は　ちがうナカマを[n]合体させて　新しいナカマを[wait][clr]つくって　ナカマを強くするんだ[wait][page]くわしいことは　館のフランケンが[n]教えてくれると　思うぜ[wait][page]そうだ！！[n]そういえば・・・[wait][page]オレが　強くなるには[n]ただ戦っているだけじゃダメだぜ[wait][page]オレにも　ナカマを合体させるんだ[n]そうすれば　ドンドン強くなる[wait][page]でも　オレにナカマを[n]合体させるときはよく考えるんだ[wait][page]合体させる　デビルのぞくせいで[n]オレがどんなふうに強くなるのか[wait][clr]決まるんだ[wait][page]何か　ほかにききたいか？[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Race fusion means fusing different allies together to make a new ally[wait][clr]and power up your team.[wait][page]I bet Franken at the mansion can teach you the details.[wait][page]Oh yeah!! Now that I think of it...[wait][page]I won't get stronger just by fighting, either.[wait][page]You gotta fuse allies into me, too. Then I'll get stronger and stronger.[wait][page]But think hard before you fuse an ally into me.[wait][page]The attribute of the demon you fuse decides how I get stronger,[wait][clr]see.[wait][page]Anything else you wanna ask?[wait][end]"
  },
  {
   "id": "M1461",
@@ -927,7 +927,7 @@
    1461
   ],
   "jp": "[name:1][face:255][f3]のかわりに[n]たたかうのが　ナカマのやくめさ[wait][page]デビライザーに　いれておいた[n]ナカマがじゅんばんに　バトルに[wait][clr]さんかするんだ[wait][page]キゼツしたナカマは[n]デビライザーの中に[wait][clr]入ったままだから　ちりょうやに[clr]なおしてもらえよ[wait][page]それと　実はな・・・[wait][page]デビルチルドレンだけが[n]つかうことができる[wait][clr]新しい　武器ができたんだ！[wait][page]それが　『カード』さ！[wait][page]この『カード』ってやつは[n]ひめられた　チカラをもっていて[wait][clr]そのチカラを　かいほうできるのは[clr]デビルチルドレンだけなんだ[wait][page]でも　『カード』はとても[n]強力だから　１回のバトルで[wait][clr]１枚しか　使うことができない[wait][page]よく　考えてつかえよ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]An ally's job is to fight in your place, [f3].[wait][page]The allies you've put in your Demiloc take part in battle[wait][clr]one after another.[wait][page]Allies who get knocked out stay inside the Demiloc,[wait][clr]so get 'em fixed up[clr]at the clinic.[wait][page]And actually...[wait][page]there's a new weapon that only DemiKids[wait][clr]can use![wait][page]It's called \"Cards\"![wait][page]These \"Cards\" hold hidden power,[wait][clr]and only DemiKids can[clr]unleash it.[wait][page]But \"Cards\" are really strong, so in one battle[wait][clr]you can only use one.[wait][page]Think hard before you use 'em![wait][end]"
  },
  {
   "id": "M1462",
@@ -942,7 +942,7 @@
    1462
   ],
   "jp": "[name:1][face:255]歩いている時に[n]オレと　話したかったら[wait][clr]Ｂボタンを　押してくれ[wait][page]それから　デビルがおそってくる[n]所だったら　オレに乗れるぜ[wait][page]乗りたかったら　Ｒボタンを[n]押してみてくれ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]If you wanna talk to me while you're walking around,[wait][clr]press the B Button.[wait][page]And in places where demons attack, you can ride on me.[wait][page]If you wanna ride, try pressing the R Button.[wait][end]"
  },
  {
   "id": "M1463",
@@ -957,7 +957,7 @@
    1463
   ],
   "jp": "[name:1][face:255]チカラは　なくなったが[n]ユウキまでは　うしなってないぞ！[wait][page][f3]！[n]さきへ　すすもう！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]I lost my power, but I haven't lost my courage![wait][page][f3]! Let's keep going!![wait][end]"
  },
  {
   "id": "M1464",
@@ -972,7 +972,7 @@
    1464
   ],
   "jp": "[name:1][face:255]レナがシンパイだ！[n]先を　いそごう！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]I'm worried about Lena! Let's hurry![wait][end]"
  },
  {
   "id": "M1465",
@@ -987,7 +987,7 @@
    1465
   ],
   "jp": "[name:1][face:255]パクとハーミルか・・・[wait][page]これから　いろんなところで[n]会いそうだな！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Paku and Harmil, huh...[wait][page]Feels like we're gonna run into them all over the place![wait][end]"
  },
  {
   "id": "M1466",
@@ -1002,7 +1002,7 @@
    1466
   ],
   "jp": "[name:1][face:255][f3]！[n]レナはきっとだまされてるんだ！[wait][page]はやく　たすけにいこうぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! I bet Lena's being tricked![wait][page]Let's go save her, quick!![wait][end]"
  },
  {
   "id": "M1467",
@@ -1017,7 +1017,7 @@
    1467
   ],
   "jp": "[name:1][face:255]パクの話では　ルシファーさまが[n]天使にさらわれた　子供たちの[wait][clr]ゆくえを知っているみたいだな！[wait][page]ルシファーさまに[n]会いに行こうぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]From what Paku said, sounds like Lord Lucifer knows where the angels[wait][clr]took the kids they kidnapped![wait][page]Let's go see Lord Lucifer![wait][end]"
  },
  {
   "id": "M1468",
@@ -1032,7 +1032,7 @@
    1468
   ],
   "jp": "[name:1][face:255]ルシファーさまにもらった[n]キングライザーをうまくつかって[wait][clr]バビロンの迷宮をめざそうぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Make good use of the King Riser Lord Lucifer gave us,[wait][clr]and let's head for the Labyrinth of Babylon![wait][end]"
  },
  {
   "id": "M1469",
@@ -1047,7 +1047,7 @@
    1469
   ],
   "jp": "[name:1][face:255]レナのようすが　おかしかったな[n]いったいどうしたんだろう・・・[wait][page]・・・　・・・　・・・[wait][page]考えても　はじまらないな！[n]レナを　おいかけよう[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Lena was acting weird. What happened to her...?[wait][page]... ... ...[wait][page]Thinking about it won't get us anywhere! Let's go after Lena.[wait][end]"
  },
  {
   "id": "M1470",
@@ -1062,7 +1062,7 @@
    1470
   ],
   "jp": "[name:1][face:255]レナが　エンゼルチルドレン？[n]いったい　何がおきるんだ・・・[wait][page][f3]！[n]はやく　ミカエルさまに[wait][clr]会いに行こうぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Lena's an AngelKid? What on earth is going on...?[wait][page][f3]! Let's hurry and go see[wait][clr]Lord Michael!![wait][end]"
  },
  {
   "id": "M1471",
@@ -1077,7 +1077,7 @@
    1471
   ],
   "jp": "[name:1][face:255]ミカエルさまのいうとおり[n]ハイエストピークへ行こうぜ！[wait][page]ハイエストピークは[n]エデンの都から行けるはずだ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Let's head to Highest Peak, like Lord Michael said![wait][page]We should be able to get to Highest Peak from the City of Eden![wait][end]"
  },
  {
   "id": "M1472",
@@ -1092,7 +1092,7 @@
    1472
   ],
   "jp": "[name:1][face:255]天界に　何かがおきているのは[n]たしかだな・・・[wait][page]さぁ　いこう！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Something's definitely going on in Heaven...[wait][page]Come on, let's go![wait][end]"
  },
  {
   "id": "M1473",
@@ -1107,7 +1107,7 @@
    1473
   ],
   "jp": "[name:1][face:255]いったい　どうなっているんだ？[n][f3]　行こう！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]What the heck is going on? [f3], let's go!![wait][end]"
  },
  {
   "id": "M1474",
@@ -1122,7 +1122,7 @@
    1474
   ],
   "jp": "[name:1][face:255]パクが　ナカマになってくれて[n]心強いな！[wait][page]さぁ　先をいそごう！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Having Paku join us sure makes me feel better![wait][page]Come on, let's hurry![wait][end]"
  },
  {
   "id": "M1475",
@@ -1137,7 +1137,7 @@
    1475
   ],
   "jp": "[name:1][face:255]考えてもしかたない！[n]いくぞ　[f3]！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]No use thinking about it! Let's go, [f3]![wait][end]"
  },
  {
   "id": "M1476",
@@ -1152,7 +1152,7 @@
    1476
   ],
   "jp": "[name:1][face:255][f3]！[n]もたもたしているヒマはないぞ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! We've got no time to dawdle![wait][end]"
  },
  {
   "id": "M1477",
@@ -1167,7 +1167,7 @@
    1477
   ],
   "jp": "[name:1][face:255]まだ　オレたちが行ってない[n]場所が　あるはずだ！[wait][page]そこをさぐれば[n]きっと　道はひらけるさ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]There's gotta be someplace we haven't been yet![wait][page]If we check it out, I bet we'll find a way forward![wait][end]"
  },
  {
   "id": "M1478",
@@ -1182,7 +1182,7 @@
    1478
   ],
   "jp": "[name:1][face:255]氷の使徒・・・　・・・[wait][page][f3][n]立ち止まっているヒマはないぞ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]The Ice Apostle... ...[wait][page][f3], we've got no time to stand around![wait][end]"
  },
  {
   "id": "M1479",
@@ -1197,7 +1197,7 @@
    1479
   ],
   "jp": "[name:1][face:255][f3]！！[wait][page]ここで　足を止めたら[n]ダレが　世界を守れるんだ！？[wait][page]いくぞ！[f3]！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]!![wait][page]If we stop here, who's gonna protect the world?![wait][page]Let's go! [f3]![wait][end]"
  },
  {
   "id": "M1480",
@@ -1212,7 +1212,7 @@
    1480
   ],
   "jp": "[name:1][face:255]世界中を旅したら[n]新しい　ナカマがふえるかもな！[wait][page]さぁ　いこうぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]If we travel all over the world, maybe we'll get some new allies![wait][page]Come on, let's go!![wait][end]"
  },
  {
   "id": "M1481",
@@ -1227,7 +1227,7 @@
    1481
   ],
   "jp": "イラッシャイマセ[n]コチラハ　ギンコウデス[wait][end]",
-  "en": ""
+  "en": "WELCOME. THIS IS THE BANK.[wait][end]"
  },
  {
   "id": "M1482",
@@ -1242,7 +1242,7 @@
    1482
   ],
   "jp": "[name:61][face:18]よく　きたな[n]ここは　アヤシイ館だ・・・[wait][page]ナカマを合体してやる・・・[wait][end]",
-  "en": ""
+  "en": "[name:61][face:18]So you came... This is the Spooky Mansion...[wait][page]I will fuse your allies...[wait][end]"
  },
  {
   "id": "M1483",
@@ -1257,7 +1257,7 @@
    1483
   ],
   "jp": "[name:64][face:19]よく　きたな・・・[n]ここは　アヤシイ工房・・・[wait][page]マソウアイテムと　ナカマを[n]合体させて　新しい技を[wait][clr]おぼえさせることがカノウだ[wait][end]",
-  "en": ""
+  "en": "[name:64][face:19]So you came... This is the Spooky Workshop...[wait][page]Here you can fuse Arcane Items with your allies[wait][clr]to make them learn new skills.[wait][end]"
  },
  {
   "id": "M1484",
@@ -1272,7 +1272,7 @@
    1484
   ],
   "jp": "[name:63][face:43]いらっしゃい・・・[n]ここは　アヤシイ博物館・・・[wait][page]化石を合体して　デビルを[n]よみがえらせることが　できるわ[wait][end]",
-  "en": ""
+  "en": "[name:63][face:43]Welcome... This is the Spooky Museum...[wait][page]Fuse fossils here, and you can bring demons back to life.[wait][end]"
  },
  {
   "id": "M1485",
@@ -1287,7 +1287,7 @@
    1485
   ],
   "jp": "[name:64][face:19]よくきたな！[n]ここは　デビルくんれんじょだ！[wait][page]ナカマを強くしたいなら[n]オレに　まかせときな！[wait][end]",
-  "en": ""
+  "en": "[name:64][face:19]Welcome! This is the Demon Training Center![wait][page]If you want your allies stronger, leave it to me![wait][end]"
  },
  {
   "id": "M1486",
@@ -1302,7 +1302,7 @@
    1486
   ],
   "jp": "ようこそいらっしゃいました[n]ここは　あなたのデビルライフを[wait][clr]サポートする　まかせて安心[clr]ヴィネセンターです[wait][end]",
-  "en": ""
+  "en": "Welcome, and thank you for coming! This is the Vine Center,[wait][clr]your trusted support[clr]for your demon life![wait][end]"
  },
  {
   "id": "M1487",
@@ -1317,7 +1317,7 @@
    1487
   ],
   "jp": "いらっしゃいませ！[wait][page]ここでは　ボウケンにかかせない[n]アイテムを売っています[wait][end]",
-  "en": ""
+  "en": "Welcome![wait][page]We sell items no adventure can do without.[wait][end]"
  },
  {
   "id": "M1488",
@@ -1332,7 +1332,7 @@
    1488
   ],
   "jp": "いらっしゃいませ！[wait][page]新しい町へ　行ったら[n]さいしょに　ショップを[wait][clr]チェックすることをおすすめしますよ[wait][page]では　何か　買っていってください[wait][end]",
-  "en": ""
+  "en": "Welcome![wait][page]When you reach a new town, I recommend checking[wait][clr]the shop first thing.[wait][page]So, please buy something![wait][end]"
  },
  {
   "id": "M1489",
@@ -1347,7 +1347,7 @@
    1489
   ],
   "jp": "そなえあれば　うれいなし！[n]ちゃんと　じゅんびすれば[wait][clr]旅をしても　安心ですよ[wait][page]ぜひ　買い物をしていってくださいね[wait][end]",
-  "en": ""
+  "en": "Better safe than sorry! If you prepare properly,[wait][clr]you can travel without worry.[wait][page]Please do some shopping![wait][end]"
  },
  {
   "id": "M1490",
@@ -1362,7 +1362,7 @@
    1490
   ],
   "jp": "あら　アナタは・・・[n]デビルチルドレンですね！[wait][page]だったら　いろいろと[n]ボウケンをするでしょうから[wait][clr]アイテムは　かかせませんよ！[wait][end]",
-  "en": ""
+  "en": "Oh, you're... a DemiKid, aren't you![wait][page]Then you'll be going on all sorts of adventures,[wait][clr]so you can't do without items![wait][end]"
  },
  {
   "id": "M1491",
@@ -1377,7 +1377,7 @@
    1491
   ],
   "jp": "いらっしゃいませ[wait][page]お客さん　ちゃんとマップを[n]買ったほうがいいですよ[wait][page]マップがあれば　今まで　であった[n]デビルがどこにすんでいるか[wait][clr]すぐに　わかります！[wait][page]おすすめのアイテムです！[wait][end]",
-  "en": ""
+  "en": "Welcome.[wait][page]You really ought to buy a map, sir.[wait][page]With a map, you can tell right away where the demons[wait][clr]you've met so far live![wait][page]It's an item I recommend![wait][end]"
  },
  {
   "id": "M1492",
@@ -1392,7 +1392,7 @@
    1492
   ],
   "jp": "カードアイテムってごぞんじですか？[wait][page]戦うときに使うことができるんですよ[n]買っておいてソンは無いとおもいます[wait][end]",
-  "en": ""
+  "en": "Have you heard of Card Items?[wait][page]You can use them in battle. You won't lose out by buying some.[wait][end]"
  },
  {
   "id": "M1493",
@@ -1407,7 +1407,7 @@
    1493
   ],
   "jp": "いらっしゃいませ！[wait][page]ながい旅には　ハプニングが[n]つきものです[wait][page]キチンと　ジュンビをされたほうが[n]よいかと　おもいます[wait][end]",
-  "en": ""
+  "en": "Welcome![wait][page]Long journeys always come with surprises.[wait][page]I think it's best to be well prepared.[wait][end]"
  },
  {
   "id": "M1494",
@@ -1422,7 +1422,7 @@
    1494
   ],
   "jp": "この風の天使の町からいける[n]風の風穴は　火の天使の町に[wait][clr]つうじているんですけど[clr]たぶん　まよいますから[wait][clr]回復アイテムをたくさん[clr]買っておいたほうが　いいですよ[wait][end]",
-  "en": ""
+  "en": "The Wind Cavern, reachable from this Town of Wind Angels,[wait][clr]leads to the Town of Fire Angels,[clr]but you'll probably get lost,[wait][clr]so you'd better buy[clr]lots of recovery items.[wait][end]"
  },
  {
   "id": "M1495",
@@ -1437,7 +1437,7 @@
    1495
   ],
   "jp": "お客さん[n]マソウアイテムは知ってます？[wait][page]マソウアイテムは　もっているだけじゃ[n]宝のもちぐされですよ[wait][page]ちゃんと　アヤシイ工房へいって[n]マソウ合体するんですよ[wait][page]話は　それくらいにして[n]何か　ごようですか？[wait][end]",
-  "en": ""
+  "en": "Say, do you know about Arcane Items?[wait][page]Just holding on to Arcane Items is a waste of a treasure.[wait][page]Be sure to go to the Spooky Workshop and do an Arcane Fusion.[wait][page]Well, enough about that. What can I do for you?[wait][end]"
  },
  {
   "id": "M1496",
@@ -1452,7 +1452,7 @@
    1496
   ],
   "jp": "いらっしゃいませ！[wait][page]天界は広いですから[n]テンシのつばさは　買っておいて[wait][clr]ソンはないとおもいますよ[wait][end]",
-  "en": ""
+  "en": "Welcome![wait][page]Heaven is a big place, so you won't lose out[wait][clr]by buying some Angel Wings.[wait][end]"
  },
  {
   "id": "M1497",
@@ -1467,7 +1467,7 @@
    1497
   ],
   "jp": "いらっしゃいませ[wait][page]ここには旅にやくだつ[n]アイテムをとりそろえてあります[wait][page]見ていってくださいね[wait][end]",
-  "en": ""
+  "en": "Welcome.[wait][page]We have all kinds of items that are handy on a journey.[wait][page]Please take a look![wait][end]"
  },
  {
   "id": "M1498",
@@ -1482,7 +1482,7 @@
    1498
   ],
   "jp": "何かあったときのために[n]ジュンビしておくと　いいですよ[wait][end]",
-  "en": ""
+  "en": "It's a good idea to be prepared in case something happens.[wait][end]"
  },
  {
   "id": "M1499",
@@ -1497,7 +1497,7 @@
    1499
   ],
   "jp": "いらっしゃいませ！[n]ここはアイテムを売ってますよ[wait][page]いろいろ　とりそろえているので[n]見ていってくださいね[wait][end]",
-  "en": ""
+  "en": "Welcome! We sell items here.[wait][page]We've got all sorts, so please take a look![wait][end]"
  },
  {
   "id": "M1500",
@@ -1512,7 +1512,7 @@
    1500
   ],
   "jp": "ドモヴォーイ[n]ケルピー[n]ベス[end]",
-  "en": ""
+  "en": "Domovoi[n]Kelpie[n]Bes[end]"
  },
  {
   "id": "M1501",
@@ -1527,7 +1527,7 @@
    1501
   ],
   "jp": "[name:70]ツィツィミトルはどんな女神？[wait][end]",
-  "en": ""
+  "en": "[name:70]What kind of goddess is Tzitzimitl?[wait][end]"
  },
  {
   "id": "M1502",
@@ -1542,7 +1542,7 @@
    1502
   ],
   "jp": "昼の女神[n]夕方の女神[n]夜の女神[end]",
-  "en": ""
+  "en": "Goddess of day[n]Goddess of dusk[n]Goddess of night[end]"
  },
  {
   "id": "M1503",
@@ -1557,7 +1557,7 @@
    1503
   ],
   "jp": "[name:70]ホヤウカムイは　日本の[n]どこに住んでいる？[wait][end]",
-  "en": ""
+  "en": "[name:70]Where in Japan does Hoyau Kamui live?[wait][end]"
  },
  {
   "id": "M1504",
@@ -1572,7 +1572,7 @@
    1504
   ],
   "jp": "おきなわ[n]ほっかいどう[n]とうきょう[end]",
-  "en": ""
+  "en": "Okinawa[n]Hokkaido[n]Tokyo[end]"
  },
  {
   "id": "M1505",
@@ -1587,7 +1587,7 @@
    1505
   ],
   "jp": "[name:70]ワニの背中のギザギザは[n]どのデビルのせいで　そうなった？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which demon is to blame for the bumps on a crocodile's back?[wait][end]"
  },
  {
   "id": "M1506",
@@ -1602,7 +1602,7 @@
    1506
   ],
   "jp": "グランガチ[n]オロファト[n]ピクシー[end]",
-  "en": ""
+  "en": "Grangach[n]Orofat[n]Pixie[end]"
  },
  {
   "id": "M1507",
@@ -1617,7 +1617,7 @@
    1507
   ],
   "jp": "[name:70]ツクヨミ　スサノオの兄弟は[n]次のうち　ダレ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which of these is a sibling of Tsukuyomi and Susano-o?[wait][end]"
  },
  {
   "id": "M1508",
@@ -1632,7 +1632,7 @@
    1508
   ],
   "jp": "アメノウズメ[n]ラクシュミ[n]アマテラス[end]",
-  "en": ""
+  "en": "Ame-no-Uzume[n]Lakshmi[n]Amaterasu[end]"
  },
  {
   "id": "M1509",
@@ -1647,7 +1647,7 @@
    1509
   ],
   "jp": "[name:70]カッパが悪いことをすると[n]どのデビルに　変身する？[wait][end]",
-  "en": ""
+  "en": "[name:70]When a Kappa does bad things, which demon does it turn into?[wait][end]"
  },
  {
   "id": "M1510",
@@ -1662,7 +1662,7 @@
    1510
   ],
   "jp": "サゴジョウ[n]すいこ[n]スーパーカッパ[end]",
-  "en": ""
+  "en": "Sagojou[n]Suiko[n]Super Kappa[end]"
  },
  {
   "id": "M1511",
@@ -1677,7 +1677,7 @@
    1511
   ],
   "jp": "[name:70]ハヌマーンととても仲がよくて[n]いっしょに仕事をしているデビルは？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which demon is good friends with Hanuman and works with him?[wait][end]"
  },
  {
   "id": "M1512",
@@ -1692,7 +1692,7 @@
    1512
   ],
   "jp": "ソンゴクウ[n]アイラーヴァタ[n]オンコット[end]",
-  "en": ""
+  "en": "Son Goku[n]Airavata[n]Onkot[end]"
  },
  {
   "id": "M1513",
@@ -1707,7 +1707,7 @@
    1513
   ],
   "jp": "[name:70]ロキのおくさんはダレ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Who is Loki's wife?[wait][end]"
  },
  {
   "id": "M1514",
@@ -1722,7 +1722,7 @@
    1514
   ],
   "jp": "アングルボダ[n]ツィツィミトル[n]ワルキューレ[end]",
-  "en": ""
+  "en": "Angrboda[n]Tzitzimitl[n]Valkyrie[end]"
  },
  {
   "id": "M1515",
@@ -1737,7 +1737,7 @@
    1515
   ],
   "jp": "[name:70]ヘケトはどんな顔をしたデビル？[wait][end]",
-  "en": ""
+  "en": "[name:70]What does Heqet's face look like?[wait][end]"
  },
  {
   "id": "M1516",
@@ -1752,7 +1752,7 @@
    1516
   ],
   "jp": "カエル[n]ネコ[n]ワニ[end]",
-  "en": ""
+  "en": "Frog[n]Cat[n]Crocodile[end]"
  },
  {
   "id": "M1517",
@@ -1767,7 +1767,7 @@
    1517
   ],
   "jp": "[name:70]ユグドラシルという大きな木の[n]若葉を食べてしまうのは？[wait][end]",
-  "en": ""
+  "en": "[name:70]Who eats the young leaves of the great tree Yggdrasil?[wait][end]"
  },
  {
   "id": "M1518",
@@ -1782,7 +1782,7 @@
    1518
   ],
   "jp": "クロークルワッハ[n]ダーイン[n]ベヒモス[end]",
-  "en": ""
+  "en": "Crom Cruach[n]Dain[n]Behemoth[end]"
  },
  {
   "id": "M1519",
@@ -1797,7 +1797,7 @@
    1519
   ],
   "jp": "[name:70]フギンとムニンはダレのかたに[n]とまっている？[wait][end]",
-  "en": ""
+  "en": "[name:70]On whose shoulders do Hugin and Munin perch?[wait][end]"
  },
  {
   "id": "M1520",
@@ -1812,7 +1812,7 @@
    1520
   ],
   "jp": "ロキ[n]トール[n]オーディン[end]",
-  "en": ""
+  "en": "Loki[n]Thor[n]Odin[end]"
  },
  {
   "id": "M1521",
@@ -1827,7 +1827,7 @@
    1521
   ],
   "jp": "[name:70]ゲンクロウは　どんなデビル？[wait][end]",
-  "en": ""
+  "en": "[name:70]What kind of demon is Genkuro?[wait][end]"
  },
  {
   "id": "M1522",
@@ -1842,7 +1842,7 @@
    1522
   ],
   "jp": "キツネ[n]イタチ[n]タヌキ[end]",
-  "en": ""
+  "en": "Fox[n]Weasel[n]Raccoon dog[end]"
  },
  {
   "id": "M1523",
@@ -1857,7 +1857,7 @@
    1523
   ],
   "jp": "[name:70]ベナンガルはなにを守っている？[wait][end]",
-  "en": ""
+  "en": "[name:70]What does Benangal guard?[wait][end]"
  },
  {
   "id": "M1524",
@@ -1872,7 +1872,7 @@
    1524
   ],
   "jp": "さとう[n]みずあめ[n]ハチミツ[end]",
-  "en": ""
+  "en": "Sugar[n]Syrup[n]Honey[end]"
  },
  {
   "id": "M1525",
@@ -1887,7 +1887,7 @@
    1525
   ],
   "jp": "[name:70]太陽をたべてしまうという[n]オオカミはどれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which wolf is said to eat the sun?[wait][end]"
  },
  {
   "id": "M1526",
@@ -1902,7 +1902,7 @@
    1526
   ],
   "jp": "ハティ[n]スコール[n]フェンリル[end]",
-  "en": ""
+  "en": "Hati[n]Skoll[n]Fenrir[end]"
  },
  {
   "id": "M1527",
@@ -1917,7 +1917,7 @@
    1527
   ],
   "jp": "[name:70]ルーグののる　ウマはどれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which horse does Lugh ride?[wait][end]"
  },
  {
   "id": "M1528",
@@ -1932,7 +1932,7 @@
    1528
   ],
   "jp": "アンヴァル[n]スレイプニル[n]フリンファクシ[end]",
-  "en": ""
+  "en": "Aonbarr[n]Sleipnir[n]Hrimfaxi[end]"
  },
  {
   "id": "M1529",
@@ -1947,7 +1947,7 @@
    1529
   ],
   "jp": "[name:70]ケルベロスや　オルトロスを[n]うんだデビルは　だれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which demon gave birth to Cerberus and Orthrus?[wait][end]"
  },
  {
   "id": "M1530",
@@ -1962,7 +1962,7 @@
    1530
   ],
   "jp": "キュベレ[n]エキドナ[n]フーリー[end]",
-  "en": ""
+  "en": "Cybele[n]Echidna[n]Houri[end]"
  },
  {
   "id": "M1531",
@@ -1977,7 +1977,7 @@
    1531
   ],
   "jp": "[name:70]ヴィーヴルのひたいにある[n]宝石は　どれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which jewel is on Vouivre's forehead?[wait][end]"
  },
  {
   "id": "M1532",
@@ -1992,7 +1992,7 @@
    1532
   ],
   "jp": "赤いルビー[n]黒いしんじゅ[n]かがやくダイヤ[end]",
-  "en": ""
+  "en": "Red ruby[n]Black pearl[n]Shining diamond[end]"
  },
  {
   "id": "M1533",
@@ -2007,7 +2007,7 @@
    1533
   ],
   "jp": "[name:70]バロールの子供は　だれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Who is Balor's child?[wait][end]"
  },
  {
   "id": "M1534",
@@ -2022,7 +2022,7 @@
    1534
   ],
   "jp": "クーフーリン[n]ルーグ[n]ヌァザ[end]",
-  "en": ""
+  "en": "Cu Chulainn[n]Lugh[n]Nuada[end]"
  },
  {
   "id": "M1535",
@@ -2037,7 +2037,7 @@
    1535
   ],
   "jp": "[name:70]ドモヴォーイが得意なことは？[wait][end]",
-  "en": ""
+  "en": "[name:70]What is Domovoi good at?[wait][end]"
  },
  {
   "id": "M1536",
@@ -2052,7 +2052,7 @@
    1536
   ],
   "jp": "火をはくこと[n]変身すること[n]空を飛ぶこと[end]",
-  "en": ""
+  "en": "Breathing fire[n]Shapeshifting[n]Flying[end]"
  },
  {
   "id": "M1537",
@@ -2067,7 +2067,7 @@
    1537
   ],
   "jp": "[name:70]プッツはどんな木にすんでいる？[wait][end]",
-  "en": ""
+  "en": "[name:70]What kind of tree does Putz live in?[wait][end]"
  },
  {
   "id": "M1538",
@@ -2082,7 +2082,7 @@
    1538
   ],
   "jp": "けやきの木[n]ヤシの木[n]モミの木[end]",
-  "en": ""
+  "en": "Zelkova tree[n]Palm tree[n]Fir tree[end]"
  },
  {
   "id": "M1539",
@@ -2097,7 +2097,7 @@
    1539
   ],
   "jp": "[name:70]とってもさみしがりやさんなデビルは？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which demon gets really, really lonely?[wait][end]"
  },
  {
   "id": "M1540",
@@ -2112,7 +2112,7 @@
    1540
   ],
   "jp": "ブッカブー[n]スクーグスロー[n]アエロファンテ[end]",
-  "en": ""
+  "en": "Buccaboo[n]Skogsra[n]Aerophante[end]"
  },
  {
   "id": "M1541",
@@ -2127,7 +2127,7 @@
    1541
   ],
   "jp": "[name:70]サソリのすがたをしたデビルはだれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which demon has the form of a scorpion?[wait][end]"
  },
  {
   "id": "M1542",
@@ -2142,7 +2142,7 @@
    1542
   ],
   "jp": "ヴィーヴル[n]ヴォロス[n]バビルザク[end]",
-  "en": ""
+  "en": "Vouivre[n]Volos[n]Pabilsag[end]"
  },
  {
   "id": "M1543",
@@ -2157,7 +2157,7 @@
    1543
   ],
   "jp": "[name:70]しょうじょうはどんな動物のデビル？[wait][end]",
-  "en": ""
+  "en": "[name:70]What animal is the demon Shoujou?[wait][end]"
  },
  {
   "id": "M1544",
@@ -2172,7 +2172,7 @@
    1544
   ],
   "jp": "オランウータン[n]マントヒヒ[n]マウンテンゴリラ[end]",
-  "en": ""
+  "en": "Orangutan[n]Mandrill[n]Mountain gorilla[end]"
  },
  {
   "id": "M1545",
@@ -2187,7 +2187,7 @@
    1545
   ],
   "jp": "[name:70]アナベルグのすんでいる場所はどこ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Where does Annaberg live?[wait][end]"
  },
  {
   "id": "M1546",
@@ -2202,7 +2202,7 @@
    1546
   ],
   "jp": "森林の中[n]鉱山の中[n]深海の中[end]",
-  "en": ""
+  "en": "In a forest[n]In a mine[n]In the deep sea[end]"
  },
  {
   "id": "M1547",
@@ -2217,7 +2217,7 @@
    1547
   ],
   "jp": "[name:70]時の女神　ノルンは　ヴェルザンディ[n]ウルドと　もう１人はだれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]The Norns, goddesses of time, are Verdandi, Urd and who else?[wait][end]"
  },
  {
   "id": "M1548",
@@ -2232,7 +2232,7 @@
    1548
   ],
   "jp": "スクルド[n]モコイ[n]ジークフリート[end]",
-  "en": ""
+  "en": "Skuld[n]Mokoi[n]Siegfried[end]"
  },
  {
   "id": "M1549",
@@ -2247,7 +2247,7 @@
    1549
   ],
   "jp": "[name:70]しつれんをして　ショックで[n]死んでしまい　デビルになったのは？[wait][end]",
-  "en": ""
+  "en": "[name:70]Who died of shock from a broken heart and became a demon?[wait][end]"
  },
  {
   "id": "M1550",
@@ -2262,7 +2262,7 @@
    1550
   ],
   "jp": "ミズチ[n]ネコマタ[n]キヨヒメ[end]",
-  "en": ""
+  "en": "Mizuchi[n]Nekomata[n]Kiyohime[end]"
  },
  {
   "id": "M1551",
@@ -2277,7 +2277,7 @@
    1551
   ],
   "jp": "[name:70]イタチのすがたをした　デビルはだれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which demon has the form of a weasel?[wait][end]"
  },
  {
   "id": "M1552",
@@ -2292,7 +2292,7 @@
    1552
   ],
   "jp": "カマイタチ[n]ヴァジェット[n]ヴォロス[end]",
-  "en": ""
+  "en": "Kamaitachi[n]Wadjet[n]Volos[end]"
  },
  {
   "id": "M1553",
@@ -2307,7 +2307,7 @@
    1553
   ],
   "jp": "[name:70]ナマケモノの前にあらわれて[n]びっくりさせるデビルは？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which demon pops up in front of lazybones to give them a scare?[wait][end]"
  },
  {
   "id": "M1554",
@@ -2322,7 +2322,7 @@
    1554
   ],
   "jp": "キャク[n]おんもらき[n]キリン[end]",
-  "en": ""
+  "en": "Kyaku[n]Onmoraki[n]Kirin[end]"
  },
  {
   "id": "M1555",
@@ -2337,7 +2337,7 @@
    1555
   ],
   "jp": "[name:70]ペクヨンは　何色のドラゴン？[wait][end]",
-  "en": ""
+  "en": "[name:70]What color of dragon is Baekyong?[wait][end]"
  },
  {
   "id": "M1556",
@@ -2352,7 +2352,7 @@
    1556
   ],
   "jp": "黒い色[n]白い色[n]青い色[end]",
-  "en": ""
+  "en": "Black[n]White[n]Blue[end]"
  },
  {
   "id": "M1557",
@@ -2367,7 +2367,7 @@
    1557
   ],
   "jp": "[name:70]ガルーダは[n]どんな神さまをのせている？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which god does Garuda carry?[wait][end]"
  },
  {
   "id": "M1558",
@@ -2382,7 +2382,7 @@
    1558
   ],
   "jp": "カーリー[n]ヴィシュヌ[n]シヴァ[end]",
-  "en": ""
+  "en": "Kali[n]Vishnu[n]Shiva[end]"
  },
  {
   "id": "M1559",
@@ -2397,7 +2397,7 @@
    1559
   ],
   "jp": "[name:70]ソンゴクウは　チョハッカイと[n]あと１人　だれと旅をした？[wait][end]",
-  "en": ""
+  "en": "[name:70]Son Goku traveled with Cho Hakkai and who else?[wait][end]"
  },
  {
   "id": "M1560",
@@ -2412,7 +2412,7 @@
    1560
   ],
   "jp": "カッパ[n]すいこ[n]サゴジョウ[end]",
-  "en": ""
+  "en": "Kappa[n]Suiko[n]Sagojou[end]"
  },
  {
   "id": "M1561",
@@ -2427,7 +2427,7 @@
    1561
   ],
   "jp": "[name:70]クラーケンは　どんなデビル？[wait][end]",
-  "en": ""
+  "en": "[name:70]What kind of demon is Kraken?[wait][end]"
  },
  {
   "id": "M1562",
@@ -2442,7 +2442,7 @@
    1562
   ],
   "jp": "タコ[n]イカ[n]クジラ[end]",
-  "en": ""
+  "en": "Octopus[n]Squid[n]Whale[end]"
  },
  {
   "id": "M1563",
@@ -2457,7 +2457,7 @@
    1563
   ],
   "jp": "[name:70]ハーピー３姉妹は　オキュペテー[n]ケライノーと　あと１人はだれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]The three Harpy sisters are Ocypete, Celaeno and who else?[wait][end]"
  },
  {
   "id": "M1564",
@@ -2472,7 +2472,7 @@
    1564
   ],
   "jp": "アエロー[n]アエロファンテ[n]ジーナファイロ[end]",
-  "en": ""
+  "en": "Aello[n]Aerophante[n]Guiafairo[end]"
  },
  {
   "id": "M1565",
@@ -2487,7 +2487,7 @@
    1565
   ],
   "jp": "[name:70]ヤロヴィートは[n]どんなものを持っている？[wait][end]",
-  "en": ""
+  "en": "[name:70]What does Jarovit carry?[wait][end]"
  },
  {
   "id": "M1566",
@@ -2502,7 +2502,7 @@
    1566
   ],
   "jp": "魔法のたて[n]魔法のけん[n]魔法のつえ[end]",
-  "en": ""
+  "en": "Magic shield[n]Magic sword[n]Magic staff[end]"
  },
  {
   "id": "M1567",
@@ -2517,7 +2517,7 @@
    1567
   ],
   "jp": "[name:70]ヴェスタは　何の神さま？[wait][end]",
-  "en": ""
+  "en": "[name:70]What is Vesta the goddess of?[wait][end]"
  },
  {
   "id": "M1568",
@@ -2532,7 +2532,7 @@
    1568
   ],
   "jp": "やかん[n]かまど[n]なべ[end]",
-  "en": ""
+  "en": "Kettles[n]The hearth[n]Pots[end]"
  },
  {
   "id": "M1569",
@@ -2547,7 +2547,7 @@
    1569
   ],
   "jp": "[name:70]フレイアはどんな動物となかよし？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which animal is Freya friends with?[wait][end]"
  },
  {
   "id": "M1570",
@@ -2562,7 +2562,7 @@
    1570
   ],
   "jp": "イヌ[n]ライオン[n]ネコ[end]",
-  "en": ""
+  "en": "Dogs[n]Lions[n]Cats[end]"
  },
  {
   "id": "M1571",
@@ -2577,7 +2577,7 @@
    1571
   ],
   "jp": "[name:70]この中で　ゾウのすがたをしていない[n]デビルはだれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which of these demons is NOT shaped like an elephant?[wait][end]"
  },
  {
   "id": "M1572",
@@ -2592,7 +2592,7 @@
    1572
   ],
   "jp": "アエロファンテ[n]ギリメカラ[n]スレイプニル[end]",
-  "en": ""
+  "en": "Aerophante[n]Girimehkala[n]Sleipnir[end]"
  },
  {
   "id": "M1573",
@@ -2607,7 +2607,7 @@
    1573
   ],
   "jp": "[name:70]タロスは　どんなカラダをしている？[wait][end]",
-  "en": ""
+  "en": "[name:70]What is Talos's body made of?[wait][end]"
  },
  {
   "id": "M1574",
@@ -2622,7 +2622,7 @@
    1574
   ],
   "jp": "こうてつのカラダ[n]せいどうのカラダ[n]アルミのカラダ[end]",
-  "en": ""
+  "en": "Steel[n]Bronze[n]Aluminum[end]"
  },
  {
   "id": "M1575",
@@ -2637,7 +2637,7 @@
    1575
   ],
   "jp": "[name:70]いっすんぼうしがもっている[n]カタナは　つぎのうちどれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which of these is the sword Issun-boshi carries?[wait][end]"
  },
  {
   "id": "M1576",
@@ -2652,7 +2652,7 @@
    1576
   ],
   "jp": "ハチのはり[n]まちばり[n]ちゅうしゃばり[end]",
-  "en": ""
+  "en": "A bee's stinger[n]A sewing pin[n]A syringe needle[end]"
  },
  {
   "id": "M1577",
@@ -2667,7 +2667,7 @@
    1577
   ],
   "jp": "[name:70]なまけものを決して許さない[n]まじめなデビルは　だれ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which hardworking demon never forgives lazybones?[wait][end]"
  },
  {
   "id": "M1578",
@@ -2682,7 +2682,7 @@
    1578
   ],
   "jp": "ポレヴィーク[n]スヴェントヴィト[n]ペルーン[end]",
-  "en": ""
+  "en": "Polevik[n]Svantovit[n]Perun[end]"
  },
  {
   "id": "M1579",
@@ -2697,7 +2697,7 @@
    1579
   ],
   "jp": "[name:70]セイレーンは　何をするのが好き？[wait][end]",
-  "en": ""
+  "en": "[name:70]What does Siren love to do?[wait][end]"
  },
  {
   "id": "M1580",
@@ -2712,7 +2712,7 @@
    1580
   ],
   "jp": "おしゃべり[n]おどりをおどる[n]歌をうたう[end]",
-  "en": ""
+  "en": "Chatting[n]Dancing[n]Singing[end]"
  },
  {
   "id": "M1581",
@@ -2727,7 +2727,7 @@
    1581
   ],
   "jp": "[name:70]テスカポリトカの　顔のカガミは[n]どんなもので　できている？[wait][end]",
-  "en": ""
+  "en": "[name:70]What is the mirror on Tezcatlipoca's face made of?[wait][end]"
  },
  {
   "id": "M1582",
@@ -2742,7 +2742,7 @@
    1582
   ],
   "jp": "黒い石[n]黒い鉄[n]黒い宝石[end]",
-  "en": ""
+  "en": "Black stone[n]Black iron[n]Black gems[end]"
  },
  {
   "id": "M1583",
@@ -2757,7 +2757,7 @@
    1583
   ],
   "jp": "[name:70]アエロファンテは　何色のゾウ？[wait][end]",
-  "en": ""
+  "en": "[name:70]What color of elephant is Aerophante?[wait][end]"
  },
  {
   "id": "M1584",
@@ -2772,7 +2772,7 @@
    1584
   ],
   "jp": "黄色いゾウ[n]ピンクのゾウ[n]赤いゾウ[end]",
-  "en": ""
+  "en": "Yellow[n]Pink[n]Red[end]"
  },
  {
   "id": "M1585",
@@ -2787,7 +2787,7 @@
    1585
   ],
   "jp": "[name:70]オルゴイコルコイは[n]どのサバクにすんでいる？[wait][end]",
-  "en": ""
+  "en": "[name:70]Which desert does Olgoi-Khorkhoi live in?[wait][end]"
  },
  {
   "id": "M1586",

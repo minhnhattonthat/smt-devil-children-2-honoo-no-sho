@@ -1139,7 +1139,7 @@
    76
   ],
   "jp": "[name:15]彼らが　レナをどうしようというのか[n]私にも　わからない[wait][page]それを知るためには[n]この魔界で天使たちが集まる[wait][clr]バビロンの迷宮に行くしかない[wait][end]",
-  "en": ""
+  "en": "[name:15]What they intend to do with Lena, even I do not know.[wait][page]To learn that, you must go where the angels gather in this Demon World...[wait][clr]the Labyrinth of Babylon.[wait][end]"
  },
  {
   "id": "M0077",
@@ -1154,7 +1154,7 @@
    77
   ],
   "jp": "[name:0]バビロンの迷宮・・・[wait][end]",
-  "en": ""
+  "en": "[name:0]The Labyrinth of Babylon...[wait][end]"
  },
  {
   "id": "M0078",
@@ -1169,7 +1169,7 @@
    78
   ],
   "jp": "[name:15]地下世界のアンヌンの町から[n]バビロンの迷宮への道がある[wait][end]",
-  "en": ""
+  "en": "[name:15]From the town of Annwn in the Underworld, there is a road to the Labyrinth of Babylon.[wait][end]"
  },
  {
   "id": "M0079",
@@ -1184,7 +1184,7 @@
    79
   ],
   "jp": "[name:0]わかった[wait][page]そこに　行ってみる[wait][end]",
-  "en": ""
+  "en": "[name:0]Got it.[wait][page]I'll go check it out.[wait][end]"
  },
  {
   "id": "M0080",
@@ -1199,7 +1199,7 @@
    80
   ],
   "jp": "[name:15][face:4]気をつけて行けよ[n][f3][wait][page]私には　この戦いが[n]ハルマゲドンだと　思えないのだ[wait][page]そうだ　[f3][n]これを　持っていくがいい[wait][end]",
-  "en": ""
+  "en": "[name:15][face:4]Be careful out there, [f3].[wait][page]I cannot believe this battle is truly Armageddon.[wait][page]Yes, [f3]... take this with you.[wait][end]"
  },
  {
   "id": "M0081",
@@ -1214,7 +1214,7 @@
    81
   ],
   "jp": "[f3]は[n]キングライザーを　手に入れた[wait][end]",
-  "en": ""
+  "en": "[f3] got the King Riser![wait][end]"
  },
  {
   "id": "M0082",
@@ -1229,7 +1229,7 @@
    82
   ],
   "jp": "[name:15][face:4]では　気をつけてな[wait][end]",
-  "en": ""
+  "en": "[name:15][face:4]Now then, take care.[wait][end]"
  },
  {
   "id": "M0083",
@@ -1248,7 +1248,7 @@
    85
   ],
   "jp": "[name:8][face:44]あっ　[f3][wait][page]ルシファーさまに　会ったッスか[wait][page]えっ　バビロンの迷宮[wait][page]それなら　このセントラルランドの[n]南の出口から　行けるッスよ[wait][end]",
-  "en": ""
+  "en": "[name:8][face:44]Oh, [f3]![wait][page]You saw Lord Lucifer, huh?[wait][page]Whoa, the Labyrinth of Babylon?[wait][page]Then you can get there from the south exit of Central Land, y'know.[wait][end]"
  },
  {
   "id": "M0086",
@@ -1263,7 +1263,7 @@
    86
   ],
   "jp": "[name:16]わらわは　キヨヒメ[wait][n]大天使エノクさまに　仕えるもの[wait][end]",
-  "en": ""
+  "en": "[name:16]I am Kiyohime,[wait][n]servant of the Archangel, Lord Enoch.[wait][end]"
  },
  {
   "id": "M0087",
@@ -1278,7 +1278,7 @@
    87
   ],
   "jp": "[name:0]キヨヒメ・・・[wait][n]レナは　どこだ？[wait][end]",
-  "en": ""
+  "en": "[name:0]Kiyohime...[wait][n]Where's Lena?[wait][end]"
  },
  {
   "id": "M0088",
@@ -1293,7 +1293,7 @@
    88
   ],
   "jp": "[name:16]レナ・・・？[wait][n]ああ　あのコムスメか[wait][page]あのようなものなど　知らぬ[wait][end]",
-  "en": ""
+  "en": "[name:16]Lena...?[wait][n]Ah, that little brat.[wait][page]I know nothing of such a creature.[wait][end]"
  },
  {
   "id": "M0089",
@@ -1308,7 +1308,7 @@
    89
   ],
   "jp": "[name:0]ふざけるな！[wait][n]レナは　ここにいるはずだ！[wait][page]いったい　どこにかくした！？[wait][end]",
-  "en": ""
+  "en": "[name:0]Don't mess with me![wait][n]Lena's supposed to be here![wait][page]Where'd you hide her!?[wait][end]"
  },
  {
   "id": "M0090",
@@ -1323,7 +1323,7 @@
    90
   ],
   "jp": "[name:16]かくした・・・？[wait][n]人聞きの悪い・・・[wait][page]あのようなコムスメなど[n]何のやくに立つことがあろう[wait][page]だが　聞きたければ聞かせてやろう[n]このわらわに　勝てばな・・・[wait][end]",
-  "en": ""
+  "en": "[name:16]Hide...?[wait][n]How rude...[wait][page]What use could a little brat like that ever be?[wait][page]But if you wish to hear, I shall tell you... if you can defeat me...[wait][end]"
  },
  {
   "id": "M0091",
@@ -1338,7 +1338,7 @@
    91
   ],
   "jp": "[name:16]デビルチルドレン[wait][n]勝負じゃ！！[wait][end]",
-  "en": ""
+  "en": "[name:16]DemiKid...[wait][n]Face me!![wait][end]"
  },
  {
   "id": "M0092",
@@ -1353,7 +1353,7 @@
    92
   ],
   "jp": "[name:16]わらわが　負けるなど[wait][n]信じられぬわ・・・[wait][end]",
-  "en": ""
+  "en": "[name:16]That I could lose...[wait][n]I cannot believe it...[wait][end]"
  },
  {
   "id": "M0093",
@@ -1368,7 +1368,7 @@
    93
   ],
   "jp": "[name:16]レナのことが　聞きたいのかえ？[wait][end]",
-  "en": ""
+  "en": "[name:16]So you wish to hear about Lena?[wait][end]"
  },
  {
   "id": "M0094",
@@ -1383,7 +1383,7 @@
    94
   ],
   "jp": "レナナラ　コノオクニイルハズ[wait][page]フフフ・・・[n]ジブンノメデ　タシカメルガイイ[wait][page]レナノ　カワリハテタスガタヲ[wait][end]",
-  "en": ""
+  "en": "IF IT IS LENA YOU SEEK, SHE SHOULD BE FURTHER IN.[wait][page]HEH HEH HEH... SEE FOR YOURSELF[wait][page]HOW LENA HAS CHANGED...[wait][end]"
  },
  {
   "id": "M0095",
@@ -1398,7 +1398,7 @@
    95
   ],
   "jp": "[name:16]また　来たのかえ？[wait][end]",
-  "en": ""
+  "en": "[name:16]Back again, are you?[wait][end]"
  },
  {
   "id": "M0096",
@@ -1434,7 +1434,7 @@
    100
   ],
   "jp": "[name:6]ふふふ　・・・ヤッパリ・・・[wait][n][f3]だったのね[wait][end]",
-  "en": ""
+  "en": "[name:6]Heh heh... I knew it...[wait][n]So it was you, [f3].[wait][end]"
  },
  {
   "id": "M0101",
@@ -1449,7 +1449,7 @@
    101
   ],
   "jp": "[name:0]レナ　さがしたぜ！[wait][page]もう　ダイジョーブだ[wait][n]さあ　帰ろうぜ！[wait][end]",
-  "en": ""
+  "en": "[name:0]Lena, I've been looking for you![wait][page]It's okay now.[wait][n]C'mon, let's go home![wait][end]"
  },
  {
   "id": "M0102",
@@ -1464,7 +1464,7 @@
    102
   ],
   "jp": "[name:6]帰るって・・・　・・・[wait][n]・・・　・・・　どこへ？[wait][end]",
-  "en": ""
+  "en": "[name:6]Home... ...[wait][n]... ... where?[wait][end]"
  },
  {
   "id": "M0103",
@@ -1479,7 +1479,7 @@
    103
   ],
   "jp": "[name:0]ナニ　言ってんだよ！[wait][page]原宿に　決まってんじゃないか[wait][n]なに　ねぼけてんだよ！[wait][end]",
-  "en": ""
+  "en": "[name:0]What're you talking about![wait][page]Harajuku, obviously![wait][n]Are you still half asleep!?[wait][end]"
  },
  {
   "id": "M0104",
@@ -1494,7 +1494,7 @@
    104
   ],
   "jp": "[name:6]アタシ　カエラナイ・・・[wait][n]ココニ　イルワ・・・[wait][end]",
-  "en": ""
+  "en": "[name:6]I'M NOT GOING BACK...[wait][n]I'M STAYING HERE...[wait][end]"
  },
  {
   "id": "M0105",
@@ -1509,7 +1509,7 @@
    105
   ],
   "jp": "[name:0]なんだって！！[wait][page]レナ　おまえ・・・[wait][n]どうしちゃったんだよ！[wait][end]",
-  "en": ""
+  "en": "[name:0]What!![wait][page]Lena, what's...[wait][n]what happened to you!?[wait][end]"
  },
  {
   "id": "M0106",
@@ -1524,7 +1524,7 @@
    106
   ],
   "jp": "[name:6]どうもしてないわ・・・[wait][page]ワタシネ・・・[wait][n]天使たちに　気に入られたみたいなの[wait][end]",
-  "en": ""
+  "en": "[name:6]Nothing happened to me...[wait][page]You see...[wait][n]it seems the angels have taken a liking to me.[wait][end]"
  },
  {
   "id": "M0107",
@@ -1539,7 +1539,7 @@
    107
   ],
   "jp": "[name:0]天使に　気に入られた・・・[wait][page]ふざけんなよ　レナ[wait][n]それにほかの子供たちも[wait][clr]助けなきゃ　ダメじゃないか！[wait][end]",
-  "en": ""
+  "en": "[name:0]The angels took a liking to you...[wait][page]Quit kidding around, Lena![wait][n]Besides, we've got to save[wait][clr]the other kids too!![wait][end]"
  },
  {
   "id": "M0108",
@@ -1554,7 +1554,7 @@
    108
   ],
   "jp": "[name:6]ほかの子供たち・・・？？？[wait][page]ああ　あの子達も[wait][n]天使たちと　いっしょがいいのよ[wait][end]",
-  "en": ""
+  "en": "[name:6]The other kids...???[wait][page]Oh, them? They'd rather[wait][n]be with the angels too.[wait][end]"
  },
  {
   "id": "M0109",
@@ -1569,7 +1569,7 @@
    109
   ],
   "jp": "[name:0]まだ　そんなこと　言ってんのか[wait][page]だったら　これから[n]どうするってんだよ！！[wait][end]",
-  "en": ""
+  "en": "[name:0]You're still saying that!?[wait][page]Then what are you gonna do now!![wait][end]"
  },
  {
   "id": "M0110",
@@ -1584,7 +1584,7 @@
    110
   ],
   "jp": "[name:6][face:2][f3]　もういいのよ[wait][page]もうこれ以上　ついて来ないで[wait][page]おとなしく　原宿に帰って[wait][page]私のことは　心配しなくていいから[wait][end]",
-  "en": ""
+  "en": "[name:6][face:2][f3], it's enough.[wait][page]Don't follow me any farther.[wait][page]Just be good and go back to Harajuku.[wait][page]You don't need to worry about me.[wait][end]"
  },
  {
   "id": "M0111",
@@ -1599,7 +1599,7 @@
    111
   ],
   "jp": "[name:0][face:1]アッ　レナ　マテヨッ！！[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Ah! Lena, wait up!![wait][end]"
  },
  {
   "id": "M0112",
@@ -1614,7 +1614,7 @@
    112
   ],
   "jp": "[name:13]また会ったな　[f3][wait][n]失ったチカラを　とりもどすのも[wait][clr]楽ではあるまい[wait][end]",
-  "en": ""
+  "en": "[name:13]We meet again, [f3].[wait][n]Regaining the power you lost[wait][clr]must be no easy task.[wait][end]"
  },
  {
   "id": "M0113",
@@ -1629,7 +1629,7 @@
    113
   ],
   "jp": "[name:0]おまえは　メフィスト！[wait][page]おまえたちは　いったい[n]レナに　何をしたんだ！？[wait][end]",
-  "en": ""
+  "en": "[name:0]You're Mephisto![wait][page]What did you people do to Lena!?[wait][end]"
  },
  {
   "id": "M0114",
@@ -1644,7 +1644,7 @@
    114
   ],
   "jp": "[name:13]フフフ・・・[wait][n]別に　何も・・・　・・・[wait][page]レナは　天使と共に[n]ハルマゲドンを戦うと決めたのだ[wait][page]さあ　どこまで強くなったのか[n]この私が　たしかめてやろう[wait][end]",
-  "en": ""
+  "en": "[name:13]Heh heh heh...[wait][n]Nothing in particular... ...[wait][page]Lena has chosen to fight in Armageddon alongside the angels.[wait][page]Now, I shall see for myself just how strong you have become.[wait][end]"
  },
  {
   "id": "M0115",
@@ -1659,7 +1659,7 @@
    115
   ],
   "jp": "[name:13][f3]・・・[n]まだ戦いは　終わっていないぞ[wait][page]さあ　もう一度・・・[wait][n]戦いを　始めるのだ・・・[wait][end]",
-  "en": ""
+  "en": "[name:13][f3]... the battle is not over yet.[wait][page]Come, once more...[wait][n]let the battle begin...[wait][end]"
  },
  {
   "id": "M0116",
@@ -1674,7 +1674,7 @@
    116
   ],
   "jp": "[name:8]ダメッスよ　[f3][wait][page]それは　メフィストじゃないッス[wait][page]ハーミル　この二人を[n]ユメから　さますッスよ[wait][end]",
-  "en": ""
+  "en": "[name:8]No good, [f3]![wait][page]That ain't Mephisto, dude![wait][page]Harmil, let's wake these two up from their dream![wait][end]"
  },
  {
   "id": "M0117",
@@ -1689,7 +1689,7 @@
    117
   ],
   "jp": "[name:9]わかってるわよ　パク！[wait][end]",
-  "en": ""
+  "en": "[name:9]I know, Paku![wait][end]"
  },
  {
   "id": "M0118",
@@ -1704,7 +1704,7 @@
    118
   ],
   "jp": "[name:13]・・・　・・・　・・・[wait][end]",
-  "en": ""
+  "en": "[name:13]... ... ...[wait][end]"
  },
  {
   "id": "M0119",
@@ -1719,7 +1719,7 @@
    119
   ],
   "jp": "[name:5]・・・　・・・　・・・[wait][page][f3]　おまえだったのか[wait][end]",
-  "en": ""
+  "en": "[name:5]... ... ...[wait][page]So it was you, [f3].[wait][end]"
  },
  {
   "id": "M0120",
@@ -1734,7 +1734,7 @@
    120
   ],
   "jp": "[name:0][face:1]くそっ　アキラじゃないか！[wait][page]どうなっているんだ！？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Dammit, it's Akira![wait][page]What's going on!?[wait][end]"
  },
  {
   "id": "M0121",
@@ -1749,7 +1749,7 @@
    121
   ],
   "jp": "[name:9][face:45]もうだいじょうぶよ　二人とも[wait][page]あなたたちは[n]ユメを見せられたのよ[wait][page]戦いのユメをね[wait][end]",
-  "en": ""
+  "en": "[name:9][face:45]It's all right now, you two.[wait][page]You were made to see a dream.[wait][page]A dream of battle.[wait][end]"
  },
  {
   "id": "M0122",
@@ -1764,7 +1764,7 @@
    122
   ],
   "jp": "[name:5][face:0][f3]・・・オレは[n]魔界へ行かなくちゃならない[wait][page]天使とデビルの戦いを[n]やめさせるために・・・[wait][end]",
-  "en": ""
+  "en": "[name:5][face:0][f3]... I have to go to the Demon World.[wait][page]To stop the war between angels and demons...[wait][end]"
  },
  {
   "id": "M0123",
@@ -1779,7 +1779,7 @@
    123
   ],
   "jp": "[name:8][face:44][f3][n]アキラは　魔界に行くッス[wait][page]アンタは[n]天界に行かなきゃダメッスよ[wait][end]",
-  "en": ""
+  "en": "[name:8][face:44][f3], Akira's headin' to the Demon World.[wait][page]You gotta go to Heaven, y'know.[wait][end]"
  },
  {
   "id": "M0124",
@@ -1794,7 +1794,7 @@
    124
   ],
   "jp": "[name:5][face:0][f3][n]レナのことは　まかせたぜ[wait][end]",
-  "en": ""
+  "en": "[name:5][face:0][f3], I'm leaving Lena to you.[wait][end]"
  },
  {
   "id": "M0125",
@@ -1809,7 +1809,7 @@
    125
   ],
   "jp": "[name:13]もう一度　戦うと言うのか？[wait][end]",
-  "en": ""
+  "en": "[name:13]You wish to fight once more?[wait][end]"
  },
  {
   "id": "M0126",
@@ -1824,7 +1824,7 @@
    126
   ],
   "jp": "[name:9]さあ二人とも　しっかりするのよ！！[wait][page]ユメの中から　ヌケダシナサイ！！[wait][end]",
-  "en": ""
+  "en": "[name:9]Come on, you two, pull yourselves together!![wait][page]BREAK OUT OF THE DREAM!![wait][end]"
  },
  {
   "id": "M0127",
@@ -1839,7 +1839,7 @@
    127
   ],
   "jp": "[name:8][face:44][f3][n]アキラの　入っていった扉の[wait][clr]左にある　青い扉のむこうに[wait][clr]天界へのゲートが　あるッス[wait][page]それから　天界に行ったら[n]天使長のミカエルさまに[wait][clr]会いに行くといいッスよ[wait][page]ミカエルさまなら[n]天界に行った　レナのことも[wait][clr]知ってるはずッス[wait][end]",
-  "en": ""
+  "en": "[name:8][face:44][f3], beyond the blue door to the left[wait][clr]of the door Akira went through,[wait][clr]there's a gate to Heaven.[wait][page]And when you get to Heaven,[wait][clr]go see Lord Michael, Chief of the Angels, y'know.[wait][page]Lord Michael oughta know about Lena,[wait][clr]since she went to Heaven, dude.[wait][end]"
  },
  {
   "id": "M0128",
@@ -1854,7 +1854,7 @@
    128
   ],
   "jp": "[name:0][face:1]そこにいるのは　ダレだ？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Who's there?[wait][end]"
  },
  {
   "id": "M0129",
@@ -1869,7 +1869,7 @@
    129
   ],
   "jp": "[name:6]あたしよ　[f3][wait][n]・・・　・・・　・・・[wait][end]",
-  "en": ""
+  "en": "[name:6]It's me, [f3].[wait][n]... ... ...[wait][end]"
  },
  {
   "id": "M0130",
@@ -1884,7 +1884,7 @@
    130
   ],
   "jp": "[name:0]レナ！！　レナじゃないか[wait][page]よかった！！[wait][n]やっと　見つけたぜ！！[wait][page]ほかの子供たちは　どうした？[wait][page]それに　オマエ[wait][n]なんでそんな服　きてるんだよ？[wait][end]",
-  "en": ""
+  "en": "[name:0]Lena!! It's you, Lena![wait][page]Thank goodness!![wait][n]I finally found you!![wait][page]What happened to the other kids?[wait][page]And you...[wait][n]why're you wearing those clothes?[wait][end]"
  },
  {
   "id": "M0131",
@@ -1899,7 +1899,7 @@
    131
   ],
   "jp": "[name:6][f3]　もういいから[n]追いかけてこないで[wait][end]",
-  "en": ""
+  "en": "[name:6][f3], that's enough. Stop chasing me.[wait][end]"
  },
  {
   "id": "M0132",
@@ -1914,7 +1914,7 @@
    132
   ],
   "jp": "[name:0]レナ　なに言ってんだよ[wait][n]・・・　・・・　・・・[wait][page]オマエ　ほんとにレナなのか？[wait][end]",
-  "en": ""
+  "en": "[name:0]Lena, what're you saying?[wait][n]... ... ...[wait][page]Are you... really Lena?[wait][end]"
  },
  {
   "id": "M0133",
@@ -1929,7 +1929,7 @@
    133
   ],
   "jp": "[name:6]そうよ　私はレナ・・・[wait][page]天使と人間のチカラをもった[wait][n]エンゼルチルドレン　レナよ[wait][end]",
-  "en": ""
+  "en": "[name:6]Yes. I am Lena...[wait][page]With the powers of both angel and human...[wait][n]I'm Lena the AngelKid.[wait][end]"
  },
  {
   "id": "M0134",
@@ -1944,7 +1944,7 @@
    134
   ],
   "jp": "[name:0]エンゼルチルドレン　・・・[wait][page]レナ　おまえ一体・・・？[wait][end]",
-  "en": ""
+  "en": "[name:0]AngelKid...[wait][page]Lena, what in the world...?[wait][end]"
  },
  {
   "id": "M0135",
@@ -1959,7 +1959,7 @@
    135
   ],
   "jp": "[name:6]天使たちは　わたしに[wait][n]天使のチカラを　あたえたのよ[wait][page]そして　天使をナカマにして[wait][n]かれらといっしょに[wait][clr]ハルマゲドンを　戦うように[wait][clr]してくれたのよ[wait][end]",
-  "en": ""
+  "en": "[name:6]The angels gave me[wait][n]the power of angels.[wait][page]And they let me make angels my allies,[wait][n]so that I could join them[wait][clr]and fight in Armageddon.[wait][clr]They did that for me.[wait][end]"
  },
  {
   "id": "M0136",
@@ -1974,7 +1974,7 @@
    136
   ],
   "jp": "[name:0]天使といっしょに[n]ハルマゲドンを　戦う・・・？[wait][end]",
-  "en": ""
+  "en": "[name:0]Fight in Armageddon alongside the angels...?[wait][end]"
  },
  {
   "id": "M0137",
@@ -1989,7 +1989,7 @@
    137
   ],
   "jp": "[name:0]なに言ってんだ　レナ！[wait][page]オマエ　自分の言ってることが[n]わかってんのか！！？[wait][page]さらわれた子供たちは[n]どうするんだよ！！？[wait][end]",
-  "en": ""
+  "en": "[name:0]What're you saying, Lena![wait][page]Do you even know what you're saying!!?[wait][page]What about the kids who were kidnapped!!?[wait][end]"
  },
  {
   "id": "M0138",
@@ -2004,7 +2004,7 @@
    138
   ],
   "jp": "[name:17]デビルチルドレン　[f3][wait][page]おうわさは　かねがね[n]うかがっておりますが・・・[wait][page]見せていただきましょうか[wait][n]あなたの　本当のチカラを・・・[wait][end]",
-  "en": ""
+  "en": "[name:17]DemiKid [f3]...[wait][page]I have heard a great deal about you...[wait][page]Now, kindly show me[wait][n]your true power...[wait][end]"
  },
  {
   "id": "M0139",
@@ -2019,7 +2019,7 @@
    139
   ],
   "jp": "[name:6][face:2][f3]　強いわね[wait][page]今日は　このまま[n]引き下がるけど[wait][page]この次は　そうはいかないわよ[wait][end]",
-  "en": ""
+  "en": "[name:6][face:2][f3], you're strong.[wait][page]I'll back off for today,[wait][page]but next time it won't be so easy.[wait][end]"
  },
  {
   "id": "M0140",
@@ -2034,7 +2034,7 @@
    140
   ],
   "jp": "[name:18][face:21]あなたが　[f3]ですね[wait][end]",
-  "en": ""
+  "en": "[name:18][face:21]You must be [f3].[wait][end]"
  },
  {
   "id": "M0141",
@@ -2049,7 +2049,7 @@
    141
   ],
   "jp": "[name:0]あなたが　天使長ミカエルですね[wait][page]一体なぜ　天使とデビルは[n]戦っているのですか？[wait][end]",
-  "en": ""
+  "en": "[name:0]And you're Michael, Chief of the Angels.[wait][page]Why are the angels and demons fighting?[wait][end]"
  },
  {
   "id": "M0142",
@@ -2064,7 +2064,7 @@
    142
   ],
   "jp": "[name:18]この天界に　魔界から[n]ディープホールの魔王ゼブルの[wait][clr]配下のデビルが　攻めてきたのです[wait][page]しかし　デビルたちの話では[n]この天界から　魔界に[wait][clr]攻め込んだ天使たちがいたという[wait][page]それが　ハイエストピークにすむ[n]大天使エノクのひきいる天使なのです[wait][end]",
-  "en": ""
+  "en": "[name:18]Heaven was attacked from the Demon World[wait][clr]by demons serving Zebul, Demon Lord of the Deep Hole.[wait][page]But according to the demons, angels from Heaven[wait][clr]had invaded the Demon World.[wait][page]Those were angels led by the Archangel Enoch, who lives on Highest Peak.[wait][end]"
  },
  {
   "id": "M0143",
@@ -2079,7 +2079,7 @@
    143
   ],
   "jp": "[name:0]ディープホールのゼブルと[wait][n]ハイエストピークのエノクが[wait][clr]戦っている・・・[wait][page]それじゃあ　レナは[n]ハイエストピークにいるのか・・・？[wait][end]",
-  "en": ""
+  "en": "[name:0]Zebul of the Deep Hole[wait][n]and Enoch of Highest Peak[wait][clr]are at war...[wait][page]Then is Lena on Highest Peak...?[wait][end]"
  },
  {
   "id": "M0144",
@@ -2094,7 +2094,7 @@
    144
   ],
   "jp": "[name:18]おそらくは・・・[wait][page]レナは　ハルマゲドンに[n]まきこまれてしまったのです[wait][page]天使のチカラをあたえられ[n]デビルと戦うことに・・・[wait][end]",
-  "en": ""
+  "en": "[name:18]Most likely...[wait][page]Lena has been dragged into Armageddon.[wait][page]Given the power of angels, and made to fight the demons...[wait][end]"
  },
  {
   "id": "M0145",
@@ -2109,7 +2109,7 @@
    145
   ],
   "jp": "[name:0]ちがう・・・！！[wait][page]あれは　オレの知っている[wait][n]レナじゃない！！[wait][page]あいつは　戦いなんか[n]だいキライだった・・・[wait][page]そんなレナが　あんな風に[n]戦いを　のぞむわけがない[wait][end]",
-  "en": ""
+  "en": "[name:0]No...!![wait][page]That's not the Lena[wait][n]I know!![wait][page]She hated fighting more than anything...[wait][page]There's no way Lena would want to fight like that.[wait][end]"
  },
  {
   "id": "M0146",
@@ -2124,7 +2124,7 @@
    146
   ],
   "jp": "[name:18]たしかに　こんどのハルマゲドンは[n]どこかオカシイのです[wait][page]エノクとて　本当は[n]戦いを起こすような天使ではない[wait][page][f3][n]ハイエストピークに行って[wait][clr]レナに会いなさい[wait][page]そうすれば　今度の[n]ハルマゲドンが　なぜ起こったのか[wait][clr]わかるかも　しれませんから[wait][end]",
-  "en": ""
+  "en": "[name:18]Indeed, something about this Armageddon is strange.[wait][page]Even Enoch is not truly an angel who would start a war.[wait][page][f3], go to Highest Peak[wait][clr]and meet Lena.[wait][page]If you do, you may understand why this Armageddon[wait][clr]has come about.[wait][end]"
  },
  {
   "id": "M0147",
@@ -2139,7 +2139,7 @@
    147
   ],
   "jp": "[name:18][face:21]ハイエストピークは[n]火の天使の町から南にある[wait][clr]エデンの都から　行けるはずです[wait][page][f3][n]気をつけて　行くのですよ[wait][end]",
-  "en": ""
+  "en": "[name:18][face:21]You should be able to reach Highest Peak from the City of Eden,[wait][clr]south of the Town of Fire Angels.[wait][page][f3], take care as you go.[wait][end]"
  },
  {
   "id": "M0148",
@@ -2154,7 +2154,7 @@
    148
   ],
   "jp": "[name:6][face:2][f3]　また来たのね[wait][page]エンゼルチルドレンのチカラを[wait][n]もう一度　見せてあげるわ[wait][end]",
-  "en": ""
+  "en": "[name:6][face:2][f3], you came again.[wait][page]I'll show you the power of an AngelKid[wait][n]one more time.[wait][end]"
  },
  {
   "id": "M0149",
@@ -2169,7 +2169,7 @@
    149
   ],
   "jp": "[name:18][face:21][f3][n]話は　聞きました[wait][page]エノクが　何者かと[n]いれかわっていたとは・・・[wait][end]",
-  "en": ""
+  "en": "[name:18][face:21][f3], I have heard the story.[wait][page]To think Enoch had been switched with someone else...[wait][end]"
  },
  {
   "id": "M0150",
@@ -2184,7 +2184,7 @@
    150
   ],
   "jp": "だって　レナは[n]わたしたちのために　天使たちの[wait][clr]言うとおりに　したのよ[wait][end]",
-  "en": ""
+  "en": "But Lena did it for us. She did[wait][clr]what the angels told her.[wait][end]"
  },
  {
   "id": "M0151",
@@ -2199,7 +2199,7 @@
    151
   ],
   "jp": "そうだよな・・・[wait][n]天使たちが　おれたちの中の[wait][clr]一人を　連れて行こうとした時[wait][clr]レナが　自分が行くって・・・[wait][page]アイツ・・・　おれたちのために[n]天使の言うとおりにしたんだよ[wait][end]",
-  "en": ""
+  "en": "Yeah...[wait][n]When the angels tried to take[wait][clr]one of us away,[wait][clr]Lena said she'd go instead...[wait][page]She... did what the angels said, for our sake.[wait][end]"
  },
  {
   "id": "M0152",
@@ -2214,7 +2214,7 @@
    152
   ],
   "jp": "アッ　[f3]！[wait][end]",
-  "en": ""
+  "en": "Ah, [f3]![wait][end]"
  },
  {
   "id": "M0153",
@@ -2229,7 +2229,7 @@
    153
   ],
   "jp": "たすけに来てくれたのね[wait][end]",
-  "en": ""
+  "en": "You came to save us![wait][end]"
  },
  {
   "id": "M0154",
@@ -2244,7 +2244,7 @@
    154
   ],
   "jp": "[name:0][face:1]ああ　もうだいじょうぶだぜ[wait][page]みんな　ここから出て行くんだ！[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Yeah, you're safe now.[wait][page]Everybody, get out of here![wait][end]"
  },
  {
   "id": "M0155",
@@ -2259,7 +2259,7 @@
    155
   ],
   "jp": "だけど　レナが・・・[wait][end]",
-  "en": ""
+  "en": "But Lena...[wait][end]"
  },
  {
   "id": "M0156",
@@ -2274,7 +2274,7 @@
    156
   ],
   "jp": "そうよ　レナがこの奥で[n]天使たちと　いっしょにいるわ[wait][end]",
-  "en": ""
+  "en": "Yeah, Lena's further in, with the angels.[wait][end]"
  },
  {
   "id": "M0157",
@@ -2289,7 +2289,7 @@
    157
   ],
   "jp": "それに　ぼくたちだけじゃあ[n]どこに行けばいいのか[wait][clr]わからないよ・・・[wait][end]",
-  "en": ""
+  "en": "Besides, on our own we wouldn't know[wait][clr]where to go...[wait][end]"
  },
  {
   "id": "M0158",
@@ -2304,7 +2304,7 @@
    158
   ],
   "jp": "[name:0][face:1]レナは　オレがたすけに行く！[wait][page]でも　みんなをどうやって[n]連れて行けばいいんだ？[wait][page]それに原宿は　戦いが[n]起こっているし・・・[wait][page]どこか安全な場所を　見つけなきゃ[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]I'll go save Lena![wait][page]But how am I supposed to take everyone with me?[wait][page]And there's fighting going on in Harajuku...[wait][page]I've gotta find somewhere safe.[wait][end]"
  },
  {
   "id": "M0159",
@@ -2319,7 +2319,7 @@
    159
   ],
   "jp": "[name:6]あなたには　関係ないわ[wait][end]",
-  "en": ""
+  "en": "[name:6]That has nothing to do with you.[wait][end]"
  },
  {
   "id": "M0160",
@@ -2334,7 +2334,7 @@
    160
   ],
   "jp": "[name:40]わたしは　メルキセデク[wait][page]エノクさまと　ともに[n]ハルマゲドンを　戦うもの[wait][page]人間のオマエが[n]何のために　あらわれたのだ！？[wait][end]",
-  "en": ""
+  "en": "[name:40]I am Melchizedek.[wait][page]I fight in Armageddon alongside Lord Enoch.[wait][page]Human, why have you shown yourself here!?[wait][end]"
  },
  {
   "id": "M0161",
@@ -2349,7 +2349,7 @@
    161
   ],
   "jp": "[name:0]おまえたちのために[n]戦いにまきこまれた　友達を[wait][clr]さがしにきたんだ[wait][page]メルキセデク[n]子供たちと　レナはどこだ？[wait][end]",
-  "en": ""
+  "en": "[name:0]My friends got dragged into your war,[wait][clr]and I came looking for them![wait][page]Melchizedek, where are the kids and Lena?[wait][end]"
  },
  {
   "id": "M0162",
@@ -2364,7 +2364,7 @@
    162
   ],
   "jp": "[name:40]そうか　おまえが[n]デビルチルドレンか・・・[wait][page]そうとわかれば　すんなりと[n]ここを　通すわけにはいかぬ[wait][page]ここで　おとなしく[n]眠りにつくがいい[wait][end]",
-  "en": ""
+  "en": "[name:40]I see. So you are the DemiKid...[wait][page]Knowing that, I cannot simply let you pass.[wait][page]Now, sleep quietly here.[wait][end]"
  },
  {
   "id": "M0163",
@@ -2379,7 +2379,7 @@
    163
   ],
   "jp": "[name:40]デビルチルドレンか・・・[wait][page]だが　そのチカラをもってしても[n]われらを　止めることはできまい[wait][end]",
-  "en": ""
+  "en": "[name:40]A DemiKid...[wait][page]Yet even with that power, you cannot stop us.[wait][end]"
  },
  {
   "id": "M0164",
@@ -2394,7 +2394,7 @@
    164
   ],
   "jp": "ワレラハ　コオリノシトニ[n]ツカエルモノ・・・[wait][page]オワリノナイ　タタカイコソ[n]ワレラガ　サダメナノダ[wait][page]デビルチルドレンヨ[n]マタ　アオウゾ[wait][end]",
-  "en": ""
+  "en": "WE SERVE THE ICE APOSTLE...[wait][page]ENDLESS BATTLE IS OUR DESTINY.[wait][page]DEMIKID... WE SHALL MEET AGAIN.[wait][end]"
  },
  {
   "id": "M0165",
@@ -2409,7 +2409,7 @@
    165
   ],
   "jp": "[name:40]また　来たのか・・・[wait][page]この先には[n]行かせるわけには　いかないのだ！[wait][end]",
-  "en": ""
+  "en": "[name:40]You again...?[wait][page]I cannot let you go any farther![wait][end]"
  },
  {
   "id": "M0166",
@@ -2424,7 +2424,7 @@
    166
   ],
   "jp": "[name:0][face:1][f2]　聞いたか？[wait][page]天使から　変身したやつが[n]コオリノシトに　つかえていると[wait][clr]言ったことばを・・・？[wait][page]コオリノシトとは[n]だれのことなんだ？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1][f2], did you hear that?[wait][page]That guy who changed from an angel said he serves the Ice Apostle...[wait][clr]Did you catch that...?[wait][page]Who is this Ice Apostle, anyway?[wait][end]"
  },
  {
   "id": "M0167",
@@ -2439,7 +2439,7 @@
    167
   ],
   "jp": "[name:1][face:255]さあな・・・　コオリノシトか？[wait][page]だが　[f3][n]いまはそのことより　レナと[wait][clr]子供たちのことが　ダイジだ[wait][page]レナたちは　きっとここにいるぜ！[wait][n]はやく　さがしだそうぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Beats me... The Ice Apostle, huh?[wait][page]But right now, [f3], what matters is Lena and[wait][clr]the kids.[wait][page]I bet Lena and the others are here![wait][n]Let's hurry up and find 'em![wait][end]"
  },
  {
   "id": "M0168",
@@ -2454,7 +2454,7 @@
    168
   ],
   "jp": "[name:6][f3]　私の天使と[wait][n]戦ってみる・・・？[wait][page]レミエル！[n]デビルチルドレンが　お呼びよ[wait][end]",
-  "en": ""
+  "en": "[name:6][f3], want to try[wait][n]fighting my angel...?[wait][page]Remiel! The DemiKid is asking for you.[wait][end]"
  },
  {
   "id": "M0169",
@@ -2469,7 +2469,7 @@
    169
   ],
   "jp": "[name:0]おまえら・・・　・・・[wait][n]レナにいったい　何をしたんだ！？[wait][page]レナをこんなふうに　しやがって[wait][page]ぜったいに　ゆるさねえからな！！[wait][end]",
-  "en": ""
+  "en": "[name:0]You guys... ...[wait][n]What the heck did you do to Lena?![wait][page]Turning Lena into this...[wait][page]I'll never forgive you!![wait][end]"
  },
  {
   "id": "M0170",
@@ -2484,7 +2484,7 @@
    170
   ],
   "jp": "[name:39]待っていたぞ　[f3][wait][page]エンゼルチルドレンのレナが[n]言っていたとおりのチカラが[wait][clr]オマエにあるかどうか[wait][clr]ここで　ためさせてもらおう[wait][end]",
-  "en": ""
+  "en": "[name:39]I have been waiting for you, [f3].[wait][page]The power that Lena the AngelKid spoke of...[wait][clr]whether you truly have it...[wait][clr]I shall test that here.[wait][end]"
  },
  {
   "id": "M0171",
@@ -2499,7 +2499,7 @@
    171
   ],
   "jp": "[name:0]レナは　どこだ！？[wait][page]おまえたちは　何のために[n]レナを　戦いにまきこんだんだ？[wait][end]",
-  "en": ""
+  "en": "[name:0]Where's Lena?![wait][page]Why did you drag Lena into your fight?[wait][end]"
  },
  {
   "id": "M0172",
@@ -2514,7 +2514,7 @@
    172
   ],
   "jp": "[name:39]レナは　エンゼルのチカラを[n]手に入れたのだ[wait][page]われらと共に[n]戦うことを　のぞんだのだ[wait][end]",
-  "en": ""
+  "en": "[name:39]Lena has gained the power of the angels.[wait][page]She wished to fight alongside us.[wait][end]"
  },
  {
   "id": "M0173",
@@ -2529,7 +2529,7 @@
    173
   ],
   "jp": "[name:39]・・・　・・・　・・・[wait][end]",
-  "en": ""
+  "en": "[name:39]... ... ...[wait][end]"
  },
  {
   "id": "M0174",
@@ -2544,7 +2544,7 @@
    174
   ],
   "jp": "ワレラガ　セカイ　ニフルヘイムヘ[n]モドルトキガ　キタヨウダナ[wait][page]デビルチルドレンヨ[n]コノツギハ・・・[wait][clr]コオリノセカイデ　アオウ[wait][end]",
-  "en": ""
+  "en": "IT SEEMS THE TIME HAS COME TO RETURN TO OUR WORLD, NIFLHEIM.[wait][page]DEMIKID... NEXT TIME...[wait][clr]WE SHALL MEET IN THE WORLD OF ICE.[wait][end]"
  },
  {
   "id": "M0175",
@@ -2559,7 +2559,7 @@
    175
   ],
   "jp": "[name:39]また　たおされに来たのか[wait][end]",
-  "en": ""
+  "en": "[name:39]Have you come to be defeated again?[wait][end]"
  },
  {
   "id": "M0176",
@@ -2574,7 +2574,7 @@
    176
   ],
   "jp": "[name:1][face:255]ニフルヘイムに　もどるだと？[wait][page][f3]　どうやら[n]この戦いを　おこしたやつらは[wait][clr]別の世界から　来たのかもな！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Return to Niflheim?[wait][page][f3], looks like the guys who started this fight[wait][clr]might've come from another world![wait][end]"
  },
  {
   "id": "M0177",
@@ -2595,7 +2595,7 @@
    180
   ],
   "jp": "[name:36]ワタシは　大天使エノク[wait][page]ハルマゲドンを戦い[wait][n]この世界の　最後のすがたを[wait][clr]出現させる　大天使なのです[wait][end]",
-  "en": ""
+  "en": "[name:36]I am the archangel Enoch.[wait][page]I fight in Armageddon[wait][n]as the archangel who will bring forth[wait][clr]the final form of this world.[wait][end]"
  },
  {
   "id": "M0181",
@@ -2610,7 +2610,7 @@
    181
   ],
   "jp": "[name:0]おまえたちの戦いのために[n]どれだけのデビルや天使が[wait][clr]苦しんでいることか・・・[wait][end]",
-  "en": ""
+  "en": "[name:0]Because of your war, so many demons and angels...[wait][clr]are suffering...[wait][end]"
  },
  {
   "id": "M0182",
@@ -2625,7 +2625,7 @@
    182
   ],
   "jp": "[name:36]あなたが　どう思おうと[n]われわれには　戦う理由があるのです[wait][page]そして　魔界のゼブルも[n]戦うことを　のぞんでいるのです[wait][end]",
-  "en": ""
+  "en": "[name:36]Whatever you may think, we have our reasons to fight.[wait][page]And Zebul of the Demon World desires battle as well.[wait][end]"
  },
  {
   "id": "M0183",
@@ -2640,7 +2640,7 @@
    183
   ],
   "jp": "[name:36]わたしの　氷のチカラを[n]打ち破るとは・・・[wait][end]",
-  "en": ""
+  "en": "[name:36]To think you would shatter my power of ice...[wait][end]"
  },
  {
   "id": "M0184",
@@ -2655,7 +2655,7 @@
    184
   ],
   "jp": "オマエノモツ　チカラハ[n]ホノオノチカラ　ナノカ・・・？[wait][page]ダガ　モウオソイ・・・[wait][page]ミテクルガイイ・・・[wait][page]オマエタチノ　セカイガ[n]ホロビテイク　スガタヲ[wait][end]",
-  "en": ""
+  "en": "THE POWER YOU HOLD... IS IT THE POWER OF FLAME...?[wait][page]BUT IT IS TOO LATE...[wait][page]GO AND SEE...[wait][page]YOUR WORLD AS IT FALLS TO RUIN.[wait][end]"
  },
  {
   "id": "M0185",
@@ -2670,7 +2670,7 @@
    185
   ],
   "jp": "[name:36]この大天使エノクを[n]たおせるチカラが　あるのですか？[wait][end]",
-  "en": ""
+  "en": "[name:36]Do you truly have the power to defeat me, the archangel Enoch?[wait][end]"
  },
  {
   "id": "M0186",
@@ -2685,7 +2685,7 @@
    186
   ],
   "jp": "エノクは　何かを落としていった[wait][end]",
-  "en": ""
+  "en": "Enoch dropped something.[wait][end]"
  },
  {
   "id": "M0187",
@@ -2700,7 +2700,7 @@
    187
   ],
   "jp": "[name:0]それに　レナを[n]あんな姿に　してしまうなんて[wait][page]どんな　理由があろうと[n]オレには　ゆるす事ができないぜ[wait][end]",
-  "en": ""
+  "en": "[name:0]And turning Lena into that...[wait][page]Whatever your reason, there's no way I can forgive that.[wait][end]"
  },
  {
   "id": "M0188",
@@ -2719,7 +2719,7 @@
    190
   ],
   "jp": "[name:6][face:2][f3][n]なんだか　変よ・・・[wait][end]",
-  "en": ""
+  "en": "[name:6][face:2][f3], something's weird...[wait][end]"
  },
  {
   "id": "M0191",
@@ -2734,7 +2734,7 @@
    191
   ],
   "jp": "[name:0][face:1]レナじゃないか・・・[wait][n]どうしたんだ・・・？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Hey, it's Lena...[wait][n]What's wrong...?[wait][end]"
  },
  {
   "id": "M0192",
@@ -2749,7 +2749,7 @@
    192
   ],
   "jp": "[name:6]地震は　起きるし[wait][n]空は　黒い雲が広がって[wait][clr]カミナリまで　鳴り出すし・・・[wait][page]まるで・・・[wait][end]",
-  "en": ""
+  "en": "[name:6]There are earthquakes,[wait][n]black clouds are spreading across the sky,[wait][clr]and now there's even thunder...[wait][page]It's like...[wait][end]"
  },
  {
   "id": "M0193",
@@ -2764,7 +2764,7 @@
    193
   ],
   "jp": "[name:0]まるで・・・何なんだよ・・・？[wait][page]まさか　世界が終わるなんて[n]言い出すんじゃないだろうな[wait][end]",
-  "en": ""
+  "en": "[name:0]It's like... what...?[wait][page]Don't tell me you're gonna say the world's ending.[wait][end]"
  },
  {
   "id": "M0194",
@@ -2779,7 +2779,7 @@
    194
   ],
   "jp": "[name:6]まさか　・・・[wait][n]でも　なんだかイヤな感じなのよ[wait][page]外に出てみれば　わかるわよ[wait][end]",
-  "en": ""
+  "en": "[name:6]Of course not...[wait][n]But I've got a bad feeling about this.[wait][page]Go outside and you'll see.[wait][end]"
  },
  {
   "id": "M0195",
@@ -2794,7 +2794,7 @@
    195
   ],
   "jp": "[name:6]世界がほろびる　最終戦争・・・！？[wait][end]",
-  "en": ""
+  "en": "[name:6]The final war that destroys the world...?![wait][end]"
  },
  {
   "id": "M0196",
@@ -2809,7 +2809,7 @@
    196
   ],
   "jp": "[name:6][face:2][f3]　どうする？[wait][page]あの天使が　言っていたような[n]最後の戦いが　始まったら[wait][clr]ギセイになるのは　子供たちよ[wait][page]わたし　学校に行ってみるわ[wait][end]",
-  "en": ""
+  "en": "[name:6][face:2][f3], what do we do?[wait][page]If the final battle that angel talked about begins,[wait][clr]the kids will be the victims.[wait][page]I'm going to check on the school.[wait][end]"
  },
  {
   "id": "M0197",
@@ -2824,7 +2824,7 @@
    197
   ],
   "jp": "[f3]は[n]ヴィネコンを　受け取った！[wait][end]",
-  "en": ""
+  "en": "[f3] received the Vinecom![wait][end]"
  },
  {
   "id": "M0198",
@@ -2843,6 +2843,6 @@
    200
   ],
   "jp": "この世界は　ほろびるのです！[wait][end]",
-  "en": ""
+  "en": "This world shall perish![wait][end]"
  }
 ]

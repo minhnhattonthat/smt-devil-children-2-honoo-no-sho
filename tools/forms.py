@@ -9,7 +9,7 @@ Forms (msg entries are classified from their JP and main-table index):
   label   short single text (names, places, battle shouts): <= max(JP px, 96) px, 1 line.
   btl     battle-preprocessed message: lines <= 216 px (provisional).
   str     menu byte string: <= cap bytes (in place) unless it has pointer slots; px <= max(JP px, 48).
-  field   16-byte name field: <= 15 chars, <= 96 px (12 px font) and <= 72 px (8 px font) (provisional).
+  field   16-byte name field: <= 16 chars, <= 96 px (12 px font) and <= 72 px (8 px font) (provisional).
 """
 import re
 
@@ -68,5 +68,5 @@ def limit_text(e):
     if f == 'str':
         return '<=%d bytes%s' % (e['cap'] - 1, ' (or longer: relocatable)' if e['slots'] else '')
     if f == 'field':
-        return '<=15 chars, <=96px'
+        return '<=96px'
     return ''

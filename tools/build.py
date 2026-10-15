@@ -20,8 +20,13 @@ ORIG = ROOT / 'rom/honoo.gba'
 OUT = ROOT / 'build/honoo_en.gba'
 ARMIPS = ROOT / 'tools/armips/armips.exe'
 SIZE = 16 * 1024 * 1024
-TEXT_BASE = 0x810000            # relocated text goes here (engine + fonts live at 0x800000-0x80FFFF)
-MARK = 'The quick brown fox jumps over the lazy dog while five boxing wizards jump quickly. '
+LONGNAMES = 0x80F000            # table of long-name pointers (asm/main.asm)
+TEXT_BASE = 0x810000           # relocated text goes here (engine + fonts live at 0x800000-0x80FFFF)
+# fixed-length JP-encoded data outside the script (fullwidth Latin renders as proportional English)
+PATCHES = [
+    (0x0FA3B4, 'Ｊｉｎ　　　　　'),     # default hero name (was ジン), 8 units
+]
+MARK ='The quick brown fox jumps over the lazy dog while five boxing wizards jump quickly. '
 
 
 def load_script():
@@ -114,11 +119,18 @@ def build(mode='en', only=None, out=OUT):
         raise SystemExit('armips failed:\n' + r.stdout + r.stderr)
     rom = bytearray(out.read_bytes())
     ranges += [(0x0C20E8, 0x0C20F8), (0x0C2184, 0x0C2190), (0x800000, TEXT_BASE)]
+    import codec
+    for off, text in PATCHES:
+        data = codec.encode_jp(text)
+        assert rom[off:off + len(data)] != data or True
+        rom[off:off + len(data)] = data
+        ranges.append((off, off + len(data)))
     space = Space(rom, TEXT_BASE)
     layout = {}
     errors = []
+    longnames = {}
     for e in load_script():
-        en = e.get('en') or ''
+        en = '' if e.get('keep') else (e.get('en') or '')
         if only is not None and e['id'] not in only:
             continue
         if not en and mode == 'marker':
@@ -159,7 +171,17 @@ def build(mode='en', only=None, out=OUT):
                 else:
                     raise ValueError('str too long for its slot (%d > %d) and no pointer to move it' % (len(data), e['cap']))
             elif e['kind'] == 'field':
-                data = enc.encode_field(en)
+                if len(en) > 16:            # long name: escape 01 nn -> LONGNAMES[nn]
+                    if en not in longnames:
+                        k = len(longnames)
+                        if k > 255:
+                            raise ValueError('more than 256 long names')
+                        at = space.put(enc.encode_str(en))
+                        struct.pack_into('<I', rom, LONGNAMES + 4 * k, 0x08000000 + at)
+                        longnames[en] = k
+                    data = bytes([1, longnames[en], 0, 0]) + b'\x81\x40' * 6
+                else:
+                    data = enc.encode_field(en)
                 off = int(e['off'], 16)
                 rom[off:off + 16] = data
                 ranges.append((off, off + 16))

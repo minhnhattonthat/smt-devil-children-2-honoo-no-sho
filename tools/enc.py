@@ -128,6 +128,8 @@ def encode_str(text):
 
 def encode_field(text, size=16):
     b = encode_str(text)            # includes the 0 terminator
+    if len(b) == size + 1:          # exactly 16 chars: no terminator, like a full 8-glyph JP name
+        return b[:size]
     if len(b) % 2:
         b += b'\x00'
     if len(b) > size:

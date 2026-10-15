@@ -14,7 +14,7 @@ import wrap as W
 
 ROOT = Path(__file__).resolve().parents[1]
 JP_RE = re.compile(r'[぀-ヿ一-鿿！-～]')
-ALLOWED_GLYPHS = set('♥〒♪')          # JP-font glyphs kept on purpose (heart, Macca sign, note)
+ALLOWED_GLYPHS = set('♥〒♪●▼■◆◇○◎△▽□→←↑↓')   # JP-font symbol glyphs kept on purpose (icons, Macca sign)
 CTRL_RE = re.compile(r'\[([a-z0-9]+)((?::\d+)*)\]')
 FREE = {'n'}
 
@@ -107,7 +107,10 @@ def check_entry(e, en):
             errs.append(str(x))
     elif e['kind'] == 'field':
         try:
-            enc.encode_field(en)
+            if len(en) <= 16:
+                enc.encode_field(en)
+            else:
+                enc.encode_str(en)          # long names go through the 01 nn escape (build.py)
         except ValueError as x:
             errs.append(str(x))
         w = enc.text_width(en)
@@ -121,7 +124,7 @@ def main():
     for f in sorted(glob.glob(str(ROOT / 'script/**/*.json'), recursive=True)):
         for e in json.load(open(f, encoding='utf-8')):
             ntot += 1
-            if not e.get('en'):
+            if not e.get('en') or e.get('keep'):
                 continue
             ntr += 1
             for x in check_entry(e, e['en']):

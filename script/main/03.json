@@ -12,7 +12,7 @@
    600
   ],
   "jp": "アクマの像が　[f3]を[n]にらみつける！！[wait][end]",
-  "en": ""
+  "en": "The demon statue glares at [f3]!![wait][end]"
  },
  {
   "id": "M0601",
@@ -27,7 +27,7 @@
    601
   ],
   "jp": "[name:1][face:255][f3]！　気をつけろ！！[n]くるぞ！！！！！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! Watch out!! Here it comes!!!!!![wait][end]"
  },
  {
   "id": "M0602",
@@ -42,7 +42,7 @@
    602
   ],
   "jp": "デビルが　おそってきた！！[wait][end]",
-  "en": ""
+  "en": "Demons attack!![wait][end]"
  },
  {
   "id": "M0603",
@@ -57,7 +57,7 @@
    603
   ],
   "jp": "アクマの像は　あとかたもなく[n]消えさった・・・！！[wait][end]",
-  "en": ""
+  "en": "The demon statue vanished without a trace...!![wait][end]"
  },
  {
   "id": "M0604",
@@ -72,7 +72,7 @@
    604
   ],
   "jp": "トビラが　ひらいた！！[wait][end]",
-  "en": ""
+  "en": "The door opened!![wait][end]"
  },
  {
   "id": "M0605",
@@ -87,7 +87,7 @@
    605
   ],
   "jp": "トビラは　何かのチカラで[n]ふうじられているようだ・・・[wait][end]",
-  "en": ""
+  "en": "The door seems to be sealed by some kind of power...[wait][end]"
  },
  {
   "id": "M0606",
@@ -102,7 +102,7 @@
    606
   ],
   "jp": "おいしそうな水が　わいている・・・[n]のんでみますか？[fb:0][end]",
-  "en": ""
+  "en": "Tasty-looking water is welling up... Drink some?[fb:0][end]"
  },
  {
   "id": "M0607",
@@ -117,7 +117,7 @@
    607
   ],
   "jp": "全員の　ＨＰ・ＭＰが　回復した！！[wait][end]",
-  "en": ""
+  "en": "Everyone's HP and MP were restored!![wait][end]"
  },
  {
   "id": "M0608",
@@ -132,7 +132,7 @@
    608
   ],
   "jp": "この迷宮に　足をふみいれた者につぐ[wait][page]チカラなき者が　進もうとすれば[n]アクマの像が　命をうばうだろう[wait][end]",
-  "en": ""
+  "en": "To all who set foot in this labyrinth:[wait][page]should the powerless try to advance, the demon statues shall take their lives.[wait][end]"
  },
  {
   "id": "M0609",
@@ -147,7 +147,7 @@
    609
   ],
   "jp": "[name:1][face:255]なんだか[n]よくわからないけど・・・[wait][page]まぁ　そのへんを調べれば[n]きっと　道はひらけるさ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]I don't really get it, but...[wait][page]eh, if we search around, I bet we'll find a way through![wait][end]"
  },
  {
   "id": "M0610",
@@ -162,7 +162,7 @@
    610
   ],
   "jp": "この上には　用事がない・・・[wait][end]",
-  "en": ""
+  "en": "Nothing to do up there...[wait][end]"
  },
  {
   "id": "M0611",
@@ -177,7 +177,7 @@
    611
   ],
   "jp": "知らない人の家だ・・・[n]カッテに入ったら　おこられる[wait][end]",
-  "en": ""
+  "en": "It's a stranger's house... You'd get in trouble barging in.[wait][end]"
  },
  {
   "id": "M0612",
@@ -192,7 +192,7 @@
    612
   ],
   "jp": "強大な　魔力が　うずまいている・・・[wait][end]",
-  "en": ""
+  "en": "Immense magic power is swirling here...[wait][end]"
  },
  {
   "id": "M0613",
@@ -207,7 +207,7 @@
    613
   ],
   "jp": "[name:1][face:255][f3]！！[wait][page]もしかしたら　あのタマゴを[n]ここに　おくんじゃないのか！？[wait][page]おいてみようぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]!![wait][page]Maybe we're supposed to put that egg here!?[wait][page]Let's try it!![wait][end]"
  },
  {
   "id": "M0614",
@@ -222,7 +222,7 @@
    614
   ],
   "jp": "タマゴを　おいてみますか？[fb:0][end]",
-  "en": ""
+  "en": "Put the egg here?[fb:0][end]"
  },
  {
   "id": "M0615",
@@ -237,7 +237,7 @@
    615
   ],
   "jp": "[f3]は[n]タマゴをおいてみた[wait][end]",
-  "en": ""
+  "en": "[f3] put the egg down.[wait][end]"
  },
  {
   "id": "M0616",
@@ -252,7 +252,7 @@
    616
   ],
   "jp": "タマゴが　魔力を[n]キュウシュウしている・・・！！[wait][end]",
-  "en": ""
+  "en": "The egg is absorbing magic power...!![wait][end]"
  },
  {
   "id": "M0617",
@@ -267,7 +267,7 @@
    617
   ],
   "jp": "タマゴは　まだ　かえりそうにない[wait][end]",
-  "en": ""
+  "en": "The egg doesn't look ready to hatch yet.[wait][end]"
  },
  {
   "id": "M0618",
@@ -282,7 +282,7 @@
    618
   ],
   "jp": "おい！　にいちゃん！[n]いいところに　きたね！！[wait][page]オレさ・・・[n]いいもん持ってるんだけど・・・[wait][page]買わないかい？[fb:0][end]",
-  "en": ""
+  "en": "Hey! Kid! You came at just the right time!![wait][page]See... I got somethin' real nice here...[wait][page]Wanna buy it?[fb:0][end]"
  },
  {
   "id": "M0619",
@@ -297,7 +297,7 @@
    619
   ],
   "jp": "はなしが　わかるじゃねぇか[n]じゃあ　コウショウセイリツだ[wait][page]ほらよ[n]こいつは『アクマのタマゴ』ってんだ[wait][page]魔力を　キュウシュウして[n]成長するらしいぜ[wait][page]でも　タマゴがかえるまでは　時間も[n]魔力も　たくさん必要だぜ[wait][page]魔界のどこかに　魔力がわいている[n]場所があるって話らしいけどな[wait][page]まぁ　気がむいたら　探してみるんだな[wait][end]",
-  "en": ""
+  "en": "Now you're talkin'. Deal's a deal.[wait][page]Here ya go. This here's a \"Devil Egg.\"[wait][page]Word is it grows by soakin' up magic power.[wait][page]But it takes lotsa time and lotsa magic power before it hatches.[wait][page]They say there's places somewhere in the Demon World where magic power wells up.[wait][page]Eh, go look for 'em if you feel like it.[wait][end]"
  },
  {
   "id": "M0620",
@@ -312,7 +312,7 @@
    620
   ],
   "jp": "[f3]は[n]３０００マッカ　しはらった[wait][end]",
-  "en": ""
+  "en": "[f3] paid 3000 Macca.[wait][end]"
  },
  {
   "id": "M0621",
@@ -327,7 +327,7 @@
    621
   ],
   "jp": "[f4]を　手に入れた！！[wait][end]",
-  "en": ""
+  "en": "Got [f4]!![wait][end]"
  },
  {
   "id": "M0622",
@@ -342,7 +342,7 @@
    622
   ],
   "jp": "そんなこと　いわないで・・・な[n]安くしてやるから　かっとけって[fb:0][end]",
-  "en": ""
+  "en": "Aw, don't be like that... I'll give ya a discount, so just buy it.[fb:0][end]"
  },
  {
   "id": "M0623",
@@ -357,7 +357,7 @@
    623
   ],
   "jp": "[f3]は[n]２０００マッカ　しはらった[wait][end]",
-  "en": ""
+  "en": "[f3] paid 2000 Macca.[wait][end]"
  },
  {
   "id": "M0624",
@@ -372,7 +372,7 @@
    624
   ],
   "jp": "しかたねぇなー・・・[n]これで　さいごのねさげだぞ！！[wait][page]どうするんだ！？[fb:0][end]",
-  "en": ""
+  "en": "Ugh, fine... This is my final markdown!![wait][page]So what's it gonna be!?[fb:0][end]"
  },
  {
   "id": "M0625",
@@ -387,7 +387,7 @@
    625
   ],
   "jp": "[f3]は[n]１０００マッカ　しはらった[wait][end]",
-  "en": ""
+  "en": "[f3] paid 1000 Macca.[wait][end]"
  },
  {
   "id": "M0626",
@@ -402,7 +402,7 @@
    626
   ],
   "jp": "なんでい！[n]あっちにいきやがれ[wait][end]",
-  "en": ""
+  "en": "Hmph! Get lost, then.[wait][end]"
  },
  {
   "id": "M0627",
@@ -417,7 +417,7 @@
    627
   ],
   "jp": "ん？・・・[n]金　もってないじゃねーか！？[wait][page]ああ　やめやめ！！[n]もっと　金ためてこいよ！[wait][end]",
-  "en": ""
+  "en": "Huh?... You ain't got the money!?[wait][page]Forget it, forget it!! Go save up some more cash![wait][end]"
  },
  {
   "id": "M0628",
@@ -432,7 +432,7 @@
    628
   ],
   "jp": "タマゴが　うごいている！！[wait][end]",
-  "en": ""
+  "en": "The egg is moving!![wait][end]"
  },
  {
   "id": "M0629",
@@ -447,7 +447,7 @@
    629
   ],
   "jp": "[name:1][face:255]タマゴが　かえりそうだぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]The egg's about to hatch!![wait][end]"
  },
  {
   "id": "M0630",
@@ -462,7 +462,7 @@
    630
   ],
   "jp": "タマゴが　かえった！！！！[wait][end]",
-  "en": ""
+  "en": "The egg hatched!!!![wait][end]"
  },
  {
   "id": "M0631",
@@ -477,7 +477,7 @@
    631
   ],
   "jp": "[name:1][face:255][f3]・・・[wait][page]もしかして　こいつ　ナカマに[n]なりたがってるんじゃ・・・[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]...[wait][page]Hey, maybe this little guy wants to be our ally...[wait][end]"
  },
  {
   "id": "M0632",
@@ -492,7 +492,7 @@
    632
   ],
   "jp": "ナカマに　しますか？[fb:0][end]",
-  "en": ""
+  "en": "Make it an ally?[fb:0][end]"
  },
  {
   "id": "M0633",
@@ -507,7 +507,7 @@
    633
   ],
   "jp": "ヘケトが　ナカマになった！！[wait][end]",
-  "en": ""
+  "en": "Heqet became an ally!![wait][end]"
  },
  {
   "id": "M0634",
@@ -522,7 +522,7 @@
    634
   ],
   "jp": "デビルは　かなしいかおをしている[wait][end]",
-  "en": ""
+  "en": "The demon looks sad.[wait][end]"
  },
  {
   "id": "M0635",
@@ -537,7 +537,7 @@
    635
   ],
   "jp": "[name:1][face:255]ナカマ　いっぱいみたいだ[n]ナカマを　セイリしてこようぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Looks like we've got a full party. Let's go sort out our allies![wait][end]"
  },
  {
   "id": "M0636",
@@ -552,7 +552,7 @@
    636
   ],
   "jp": "もう　うるもんはないよ[n]かってくれて　ありがとな[wait][end]",
-  "en": ""
+  "en": "Got nothin' left to sell. Thanks for buyin'![wait][end]"
  },
  {
   "id": "M0637",
@@ -567,7 +567,7 @@
    637
   ],
   "jp": "『　宝くじ自動ハンバイキ　』[n]『　１枚　５００マッカ　』[wait][end]",
-  "en": ""
+  "en": "\"Lottery Ticket Vending Machine\" \"500 Macca per ticket\"[wait][end]"
  },
  {
   "id": "M0638",
@@ -582,7 +582,7 @@
    638
   ],
   "jp": "宝くじを　かいますか？[fb:0][end]",
-  "en": ""
+  "en": "Buy a lottery ticket?[fb:0][end]"
  },
  {
   "id": "M0639",
@@ -612,7 +612,7 @@
    640
   ],
   "jp": "どうぞ　お取りください[n]ありがとう　ございました・・・[wait][end]",
-  "en": ""
+  "en": "Please take your ticket. Thank you very much...[wait][end]"
  },
  {
   "id": "M0641",
@@ -627,7 +627,7 @@
    641
   ],
   "jp": "『　宝くじは　うりきれました・・・』[wait][end]",
-  "en": ""
+  "en": "\"Lottery tickets are sold out...\"[wait][end]"
  },
  {
   "id": "M0642",
@@ -642,7 +642,7 @@
    642
   ],
   "jp": "『　番号を　いれてください　』[wait][end]",
-  "en": ""
+  "en": "\"Please enter a number.\"[wait][end]"
  },
  {
   "id": "M0643",
@@ -657,7 +657,7 @@
    643
   ],
   "jp": "[f3]は[n]５００マッカ　しはらった[wait][end]",
-  "en": ""
+  "en": "[f3] paid 500 Macca.[wait][end]"
  },
  {
   "id": "M0644",
@@ -672,7 +672,7 @@
    644
   ],
   "jp": "何か　書いてある・・・[wait][end]",
-  "en": ""
+  "en": "Something is written here...[wait][end]"
  },
  {
   "id": "M0645",
@@ -687,7 +687,7 @@
    645
   ],
   "jp": "『　宝くじ　当選番号　』[n]『　１１０２０４０５　』[wait][page]景品の交換は　そこから[n]右へ　まっすぐ！[wait][end]",
-  "en": ""
+  "en": "\"Lottery Winning Number\" \"11020405\"[wait][page]Prize exchange: from here, go straight to the right![wait][end]"
  },
  {
   "id": "M0646",
@@ -702,7 +702,7 @@
    646
   ],
   "jp": "[name:1][face:255]なぁ　[f3]・・・[n]宝くじって　なんだ？[wait][page]ま！　いちおう　おぼえて[n]おいたほうが　いいかもな！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Hey, [f3]... What's a lottery?[wait][page]Well! Might be a good idea to remember that number anyway![wait][end]"
  },
  {
   "id": "M0647",
@@ -717,7 +717,7 @@
    647
   ],
   "jp": "文字がかすれて　読めない・・・[wait][end]",
-  "en": ""
+  "en": "The letters are worn away. You can't read it...[wait][end]"
  },
  {
   "id": "M0648",
@@ -732,7 +732,7 @@
    648
   ],
   "jp": "いらっしゃい[n]宝くじの　景品交換かい？[fb:0][end]",
-  "en": ""
+  "en": "Welcome! Here to claim a lottery prize?[fb:0][end]"
  },
  {
   "id": "M0649",
@@ -747,7 +747,7 @@
    649
   ],
   "jp": "じゃあ　宝くじを[n]みせてもらおうかな？[wait][end]",
-  "en": ""
+  "en": "Then let's have a look at your ticket.[wait][end]"
  },
  {
   "id": "M0650",
@@ -762,7 +762,7 @@
    650
   ],
   "jp": "あー・・・ざんねん・・・[n]はずれみたいだね[wait][page]じゃあ　それは[n]こっちで　ショブンしておくね[wait][end]",
-  "en": ""
+  "en": "Aww... too bad... Looks like a loser.[wait][page]I'll get rid of that for you, then.[wait][end]"
  },
  {
   "id": "M0651",
@@ -777,7 +777,7 @@
    651
   ],
   "jp": "そうそう　これはザンネンショウだよ[wait][end]",
-  "en": ""
+  "en": "Oh, right, here's a consolation prize.[wait][end]"
  },
  {
   "id": "M0652",
@@ -792,7 +792,7 @@
    652
   ],
   "jp": "[f3]は[n]はずれの宝くじを　手わたした[wait][end]",
-  "en": ""
+  "en": "[f3] handed over the losing ticket.[wait][end]"
  },
  {
   "id": "M0653",
@@ -807,7 +807,7 @@
    653
   ],
   "jp": "そうかい[n]それじゃ　またきてくれよな[wait][end]",
-  "en": ""
+  "en": "I see. Well, come again![wait][end]"
  },
  {
   "id": "M0654",
@@ -822,7 +822,7 @@
    654
   ],
   "jp": "あれ？[n]宝くじを　もってないみたいだね[wait][page]じゃあ　宝くじを手に入れたら[n]また　きてくれよ[wait][end]",
-  "en": ""
+  "en": "Huh? Looks like you don't have a lottery ticket.[wait][page]Come back once you've got one, then.[wait][end]"
  },
  {
   "id": "M0655",
@@ -837,7 +837,7 @@
    655
   ],
   "jp": "おお！！[n]大当たり～！！！[wait][page]すごいねー！！[n]じゃあ　これが景品だよ！！[wait][end]",
-  "en": ""
+  "en": "Whoa!! Jackpot~!!![wait][page]Amazing!! Here's your prize, then!![wait][end]"
  },
  {
   "id": "M0656",
@@ -852,7 +852,7 @@
    656
   ],
   "jp": "カード　『時の女神』『？？？』[n]『戦乙女』『ハエの王』を手に入れた[wait][end]",
-  "en": ""
+  "en": "Got the cards \"Goddess of Time,\" \"???,\" \"Valkyrie,\" and \"Lord of the Flies.\"[wait][end]"
  },
  {
   "id": "M0657",
@@ -867,7 +867,7 @@
    657
   ],
   "jp": "じゃあ　その当たりくじは[n]こっちで　ショブンしておくね[wait][end]",
-  "en": ""
+  "en": "I'll take care of that winning ticket for you, then.[wait][end]"
  },
  {
   "id": "M0658",
@@ -882,7 +882,7 @@
    658
   ],
   "jp": "[f3]は[n]当たりの宝くじを　手わたした[wait][end]",
-  "en": ""
+  "en": "[f3] handed over the winning ticket.[wait][end]"
  },
  {
   "id": "M0659",
@@ -897,7 +897,7 @@
    659
   ],
   "jp": "[name:1][face:255]ちょっと　まってくれ！！[wait][page]カラダが・・・・！！！！[n]カラダが　アツイ！！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Wait a sec!![wait][page]My body...!!!! My body's burning up!!![wait][end]"
  },
  {
   "id": "M0660",
@@ -912,7 +912,7 @@
    660
   ],
   "jp": "[f2]の　カラダに[n]新たなチカラが　あふれている！！[wait][end]",
-  "en": ""
+  "en": "New power is overflowing in [f2]'s body!![wait][end]"
  },
  {
   "id": "M0661",
@@ -927,7 +927,7 @@
    661
   ],
   "jp": "レイセイに　チカラをうけとめろ！[n]そのチカラを　のみこむんだ！！！[end]",
-  "en": ""
+  "en": "Calmly accept the power![n]Swallow that power whole!!![end]"
  },
  {
   "id": "M0662",
@@ -942,7 +942,7 @@
    662
   ],
   "jp": "[f2]の　体の中から[n]わきおこるチカラによって[wait][clr][f2]が変化する！[wait][end]",
-  "en": ""
+  "en": "The power welling up from within [f2][wait][clr]transforms [f2]![wait][end]"
  },
  {
   "id": "M0663",
@@ -957,7 +957,7 @@
    663
   ],
   "jp": "[f2]が[n]ランクアップした[wait][end]",
-  "en": ""
+  "en": "[f2] ranked up![wait][end]"
  },
  {
   "id": "M0664",
@@ -972,7 +972,7 @@
    664
   ],
   "jp": "[name:1][face:255]・・・チカラが　あふれてるぜ！[wait][page][f3]！[n]またせてしまったな！[wait][page]さぁ　先を　いそごうぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]...Power's overflowing in me![wait][page][f3]! Sorry to keep you waiting![wait][page]C'mon, let's hurry on ahead![wait][end]"
  },
  {
   "id": "M0665",
@@ -1002,7 +1002,7 @@
    666
   ],
   "jp": "見えないチカラで　はじかれる！！[wait][end]",
-  "en": ""
+  "en": "Repelled by an invisible force!![wait][end]"
  },
  {
   "id": "M0667",
@@ -1017,7 +1017,7 @@
    667
   ],
   "jp": "どうやら　闇のチカラで[n]フウインされているようだ[wait][end]",
-  "en": ""
+  "en": "It seems to be sealed by the power of darkness.[wait][end]"
  },
  {
   "id": "M0668",
@@ -1032,7 +1032,7 @@
    668
   ],
   "jp": "ゼブルさまの命により　ここより先は[n]だれも　とおすことはできない！！[wait][page]あっちへ　いけ！！[wait][end]",
-  "en": ""
+  "en": "By order of Lord Zebul, no one may pass beyond this point!![wait][page]Go away!![wait][end]"
  },
  {
   "id": "M0669",
@@ -1047,7 +1047,7 @@
    669
   ],
   "jp": "ここから先は　だれもとおさないホー[n]ゼブルさまの　命令なんだホー[wait][end]",
-  "en": ""
+  "en": "Nobody gets past here, hee-ho. It's Lord Zebul's orders, hee-ho.[wait][end]"
  },
  {
   "id": "M0670",
@@ -1062,7 +1062,7 @@
    670
   ],
   "jp": "[name:1][face:255][f3]！！[n]いったい　どこにいくんだ！？[wait][page]ルシファーさまのところへ[n]行くほうが　先だろ？[wait][page]はやく　いこうぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]!! Where are you going!?[wait][page]Shouldn't we go see Lord Lucifer first?[wait][page]Let's hurry!![wait][end]"
  },
  {
   "id": "M0671",
@@ -1077,7 +1077,7 @@
    671
   ],
   "jp": "岩で　道がふさがれている[n]とおれそうにない・・・[wait][end]",
-  "en": ""
+  "en": "Rocks are blocking the path. Can't get through...[wait][end]"
  },
  {
   "id": "M0672",
@@ -1092,7 +1092,7 @@
    672
   ],
   "jp": "これより先は　シンニュウキンシだ[n]そうそうに　たちさってくれ[wait][end]",
-  "en": ""
+  "en": "No trespassing beyond this point. Kindly leave at once.[wait][end]"
  },
  {
   "id": "M0673",
@@ -1107,7 +1107,7 @@
    673
   ],
   "jp": "悪いんだが　ここから先は[n]だれも　とおしてはならんのだ[wait][end]",
-  "en": ""
+  "en": "Sorry, but I can't let anyone through here.[wait][end]"
  },
  {
   "id": "M0674",
@@ -1122,7 +1122,7 @@
    674
   ],
   "jp": "[name:1][face:255][f3]！！[n]いったい　どこにいくんだ！？[wait][page]ミカエルさまのところへ[n]行くほうが　先だろ？[wait][page]はやく　いこうぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]!! Where are you going!?[wait][page]Shouldn't we go see Lord Michael first?[wait][page]Let's hurry!![wait][end]"
  },
  {
   "id": "M0675",
@@ -1137,7 +1137,7 @@
    675
   ],
   "jp": "[name:1][face:255][f3]！[n]なんだか　いやなヨカンがするぜ[wait][page]はやく　小学校へいこうぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! I've got a bad feeling about this.[wait][page]Let's hurry to the school!![wait][end]"
  },
  {
   "id": "M0676",
@@ -1152,7 +1152,7 @@
    676
   ],
   "jp": "[name:1][face:255]より道を　しているヒマはないぜ！[n]先を　いそごう！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]We don't have time for detours! Let's hurry on![wait][end]"
  },
  {
   "id": "M0677",
@@ -1167,7 +1167,7 @@
    677
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]未来の原宿へと　その身をいざなう[wait][clr]時のゲート・・・[wait][page]未来の世界をかえるのは　現代での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
-  "en": ""
+  "en": "O you who inherit the power of light...[wait][page]Beyond lies the Time Gate, which shall carry you across the wall of time to the Harajuku of the future...[wait][clr]...[wait][page]What changes the world of the future is what you do in the present...[wait][page]Steel yourself before you go...[wait][end]"
  },
  {
   "id": "M0678",
@@ -1182,7 +1182,7 @@
    678
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]未来の魔界へと　その身をいざなう[wait][clr]時のゲート・・・[wait][page]未来の世界をかえるのは　現代での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
-  "en": ""
+  "en": "O you who inherit the power of light...[wait][page]Beyond lies the Time Gate, which shall carry you across the wall of time to the Demon World of the future...[wait][clr]...[wait][page]What changes the world of the future is what you do in the present...[wait][page]Steel yourself before you go...[wait][end]"
  },
  {
   "id": "M0679",
@@ -1197,7 +1197,7 @@
    679
   ],
   "jp": "宝くじ　当選番号[n]近日　発表！！[wait][page]宝くじは　原宿大通りの　自動[n]はんばいきで　はんばいしております[wait][page]お早めに　お買い求め下さい[wait][end]",
-  "en": ""
+  "en": "Lottery winning number to be announced soon!![wait][page]Lottery tickets are sold at the vending machine on Harajuku's main street.[wait][page]Get yours early![wait][end]"
  },
  {
   "id": "M0680",
@@ -1212,7 +1212,7 @@
    680
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　おまえの世界[n]原宿へと　その身をいざなう[wait][clr]時のゲートだ・・・[wait][page]気を　つけてすすむがいい・・・[wait][end]",
-  "en": ""
+  "en": "O you who inherit the power of light...[wait][page]Beyond lies the gate of time that shall carry you to your own world,[wait][clr]Harajuku...[wait][page]Proceed with care...[wait][end]"
  },
  {
   "id": "M0681",
@@ -1227,7 +1227,7 @@
    681
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　アクマの世界[n]魔界へと　その身をいざなう[wait][clr]時のゲート・・・[wait][page]気を　つけてすすむがいい・・・[wait][end]",
-  "en": ""
+  "en": "You who inherit the power of light...[wait][page]Beyond here lies the world of demons. This is the Time Gate[wait][clr]that leads you to the Demon World...[wait][page]Go forward with care...[wait][end]"
  },
  {
   "id": "M0682",
@@ -1242,7 +1242,7 @@
    682
   ],
   "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　天使の世界[n]天界へと　その身をいざなう[wait][clr]時のゲート・・・[wait][page]気を　つけてすすむがいい・・・[wait][end]",
-  "en": ""
+  "en": "You who inherit the power of light...[wait][page]Beyond here lies the world of angels. This is the Time Gate[wait][clr]that leads you to Heaven...[wait][page]Go forward with care...[wait][end]"
  },
  {
   "id": "M0683",
@@ -1257,7 +1257,7 @@
    683
   ],
   "jp": "時のゲートのチカラで[n]時のカベを　こえていく・・・！！[wait][end]",
-  "en": ""
+  "en": "By the power of the Time Gate, you cross the wall of time...!![wait][end]"
  },
  {
   "id": "M0684",
@@ -1272,7 +1272,7 @@
    684
   ],
   "jp": "スイッチが　あります[n]おしますか？[fb:0][end]",
-  "en": ""
+  "en": "There's a switch here.[n]Press it?[fb:0][end]"
  },
  {
   "id": "M0685",
@@ -1287,7 +1287,7 @@
    685
   ],
   "jp": "炎が消えた！！[wait][end]",
-  "en": ""
+  "en": "The flames went out!![wait][end]"
  },
  {
   "id": "M0686",
@@ -1302,7 +1302,7 @@
    686
   ],
   "jp": "何も　反応しない・・・[wait][end]",
-  "en": ""
+  "en": "Nothing happens...[wait][end]"
  },
  {
   "id": "M0687",
@@ -1317,7 +1317,7 @@
    687
   ],
   "jp": "[name:0][face:1]うあ！！[wait][page]あつくて　これ以上進めない・・・[n]どうしようかな・・・[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Whoa!![wait][page]It's too hot to go any farther... What should I do...[wait][end]"
  },
  {
   "id": "M0688",
@@ -1332,7 +1332,7 @@
    688
   ],
   "jp": "どこかで　音がした・・・！[wait][end]",
-  "en": ""
+  "en": "You heard a sound somewhere...![wait][end]"
  },
  {
   "id": "M0689",
@@ -1347,7 +1347,7 @@
    689
   ],
   "jp": "ムラサキは　赤と青を　まぜると[n]動き出す・・・[wait][end]",
-  "en": ""
+  "en": "Purple starts moving when red and blue are mixed...[wait][end]"
  },
  {
   "id": "M0690",
@@ -1362,7 +1362,7 @@
    690
   ],
   "jp": "[name:1][face:255]ん？[wait][page][f3]！！[n]ユカに　へんなミゾがあるぜ？[wait][page]何か　しかけがあるはずだ！[n]調べてみようぜ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Hm?[wait][page][f3]!! There's a weird groove in the floor![wait][page]There's gotta be some kind of trick to it! Let's check it out.[wait][end]"
  },
  {
   "id": "M0691",
@@ -1377,7 +1377,7 @@
    691
   ],
   "jp": "[name:1][face:255]『赤』と『青』？？[n]ムラサキは目の前の石像だよな？[wait][page][f3]　調べてみようぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]\"Red\" and \"blue\"?? Purple must be that statue right in front of us, huh?[wait][page][f3], let's check it out!![wait][end]"
  },
  {
   "id": "M0692",
@@ -1392,7 +1392,7 @@
    692
   ],
   "jp": "石像が動いた！！[wait][end]",
-  "en": ""
+  "en": "The statue moved!![wait][end]"
  },
  {
   "id": "M0693",
@@ -1407,7 +1407,7 @@
    693
   ],
   "jp": "かんし石像の動きが　とまった・・・！[wait][end]",
-  "en": ""
+  "en": "The watcher statues stopped moving...![wait][end]"
  },
  {
   "id": "M0694",
@@ -1422,7 +1422,7 @@
    694
   ],
   "jp": "石像は　止まっている・・・[wait][end]",
-  "en": ""
+  "en": "The statue isn't moving...[wait][end]"
  },
  {
   "id": "M0695",
@@ -1437,7 +1437,7 @@
    695
   ],
   "jp": "[name:30]なに！？[n]なにか　ようなの！？[wait][page]ようが　ないなら[n]こないで　ちょうだい！！！[wait][end]",
-  "en": ""
+  "en": "[name:30]What!? What do you want!?[wait][page]If you don't want anything, then don't come here!!![wait][end]"
  },
  {
   "id": "M0696",
@@ -1452,7 +1452,7 @@
    696
   ],
   "jp": "すさまじい　チカラで[n]おしかえされた！！[wait][end]",
-  "en": ""
+  "en": "You were pushed back by a tremendous force!![wait][end]"
  },
  {
   "id": "M0697",
@@ -1467,7 +1467,7 @@
    697
   ],
   "jp": "[name:30]ん？・・・ちょっと　まって！！[n]なんだか　なつかしい感じがするわ[wait][page]なかに入っても　いいわよ[wait][end]",
-  "en": ""
+  "en": "[name:30]Hm?... Wait a minute!! Something about you feels so familiar...[wait][page]All right, you may come in.[wait][end]"
  },
  {
   "id": "M0698",
@@ -1482,7 +1482,7 @@
    698
   ],
   "jp": "[name:31]私の名前は　アマテラス・・・[wait][page]あなた・・・[n]私の弟達を　ナカマにしてるみたいね[wait][page]そんなチカラを　持っているのは[n]デビルチルドレンしかいないはず[wait][end]",
-  "en": ""
+  "en": "[name:31]My name is Amaterasu...[wait][page]You... It seems you've made allies of my little brothers.[wait][page]Only a DemiKid could have that kind of power.[wait][end]"
  },
  {
   "id": "M0699",
@@ -1497,7 +1497,7 @@
    699
   ],
   "jp": "[name:31]！！！[n]あなたたち！！！[wait][end]",
-  "en": ""
+  "en": "[name:31]!!! You two!!![wait][end]"
  },
  {
   "id": "M0700",
@@ -1512,7 +1512,7 @@
    700
   ],
   "jp": "[name:32]ひさしぶりだね　ねえさん[wait][page]オレたち　デビルチルドレンの[n]ナカマになったんだ！[wait][end]",
-  "en": ""
+  "en": "[name:32]Long time no see, Sis.[wait][page]We've become allies of the DemiKid![wait][end]"
  },
  {
   "id": "M0701",
@@ -1527,7 +1527,7 @@
    701
   ],
   "jp": "[name:33]そうなんだ！[n]ねえさんも　いっしょにこないかい？[wait][end]",
-  "en": ""
+  "en": "[name:33]That's right! Sis, why don't you come with us too?[wait][end]"
  },
  {
   "id": "M0702",
@@ -1542,7 +1542,7 @@
    702
   ],
   "jp": "[name:31]そう・・・そういうことだったの[wait][page]ねえさんが　どれだけ心配したか[n]わかっていないのね・・・・・・[wait][page]まぁ　いいわ[wait][page]それは　許すとして・・・[n]デビルチルドレン！！[wait][page]ナカマになるのは　かまわないけど[n]私の弟達を　ナカマにするほどの[wait][clr]チカラ　みせてもらうわ！！[wait][page]そんな　カンタンにはナカマに[n]ならないわよ！！[wait][end]",
-  "en": ""
+  "en": "[name:31]I see... So that's what this was about.[wait][page]You have no idea how worried your big sister was...[wait][page]Oh, well.[wait][page]I'll forgive you for that... But DemiKid!![wait][page]I don't mind becoming your ally, but show me the power[wait][clr]that made my little brothers your allies!![wait][page]I won't become your ally that easily!![wait][end]"
  },
  {
   "id": "M0703",
@@ -1557,7 +1557,7 @@
    703
   ],
   "jp": "[name:31]まけたわ・・・[n]あなたのチカラは　本物のようね[wait][page]いさぎよく　ナカマになるわ[wait][end]",
-  "en": ""
+  "en": "[name:31]I lost... Your power seems to be the real thing.[wait][page]I'll gracefully become your ally.[wait][end]"
  },
  {
   "id": "M0704",
@@ -1572,7 +1572,7 @@
    704
   ],
   "jp": "[name:31]デビルチルドレンも[n]たいしたことないわね[wait][page]でなおしてらっしゃい！！[wait][end]",
-  "en": ""
+  "en": "[name:31]So the DemiKid is nothing special after all.[wait][page]Come back when you're ready!![wait][end]"
  },
  {
   "id": "M0705",
@@ -1587,7 +1587,7 @@
    705
   ],
   "jp": "[name:31]あら・・・[wait][page]ナカマが　いっぱいみたいね・・・[n]せいりしてから　でなおしなさい[wait][end]",
-  "en": ""
+  "en": "[name:31]Oh my...[wait][page]It seems you have too many allies... Sort them out, then come back.[wait][end]"
  },
  {
   "id": "M0706",
@@ -1602,7 +1602,7 @@
    706
   ],
   "jp": "[name:31]では　あらためて・・・[wait][page]私の名前は　アマテラス・・・[n]今後とも　よろしく・・・[wait][end]",
-  "en": ""
+  "en": "[name:31]Then, once more...[wait][page]My name is Amaterasu... I look forward to working with you...[wait][end]"
  },
  {
   "id": "M0707",
@@ -1617,7 +1617,7 @@
    707
   ],
   "jp": "[name:32]さてと　ねえさんも[n]ナカマになったことだし・・・[wait][end]",
-  "en": ""
+  "en": "[name:32]Well, now that Sis has become an ally too...[wait][end]"
  },
  {
   "id": "M0708",
@@ -1632,7 +1632,7 @@
    708
   ],
   "jp": "[name:33]ライザーに　もどるとするか[n]じゃあな　[f3]！！[wait][page]がんばって　戦おうぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:33]Guess we'll head back into the Demiloc. See ya, [f3]!![wait][page]Let's fight hard together!![wait][end]"
  },
  {
   "id": "M0709",
@@ -1647,7 +1647,7 @@
    709
   ],
   "jp": "[name:31]さぁ　こんどは　たのしませて[n]ちょうだいよ！！[wait][end]",
-  "en": ""
+  "en": "[name:31]Now then, this time make sure you entertain me!![wait][end]"
  },
  {
   "id": "M0710",
@@ -1662,7 +1662,7 @@
    710
   ],
   "jp": "[name:35]こんにちわ[n]ワシは　ルロウの合体研究家じゃ[wait][page]実は　おもしろい伝説を聞いてのぉ[wait][page]それが　本当なのかたしかめたくて[n]旅を続けているわけじゃ[wait][end]",
-  "en": ""
+  "en": "[name:35]Hello there. I am a wandering Fusion Researcher.[wait][page]You see, I heard an interesting legend.[wait][page]I've been traveling to find out whether it's really true.[wait][end]"
  },
  {
   "id": "M0711",
@@ -1677,7 +1677,7 @@
    711
   ],
   "jp": "[name:0][face:1]伝説って　どんなものなんだ？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]What kind of legend is it?[wait][end]"
  },
  {
   "id": "M0712",
@@ -1692,7 +1692,7 @@
    712
   ],
   "jp": "[name:35]よくぞ　きいてくれた！！[n]いいか・・・こんな伝説じゃ・・・[wait][page]『赤の雪だるま　黄の雪だるま[n]　緑の雪だるま・・・[wait][clr]　すべてがそろえばキセキがおきる』[wait][page]ふしぎじゃろ？[wait][end]",
-  "en": ""
+  "en": "[name:35]So glad you asked!! Listen... The legend goes like this...[wait][page]\"The red snowman, the yellow snowman, the green snowman...[wait][clr]bring them all together and a miracle will happen.\"[wait][page]Mysterious, eh?[wait][end]"
  },
  {
   "id": "M0713",
@@ -1707,7 +1707,7 @@
    713
   ],
   "jp": "[name:0][face:1]ふ～ん・・・[n]雪だるまねぇ・・・[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Hmm... Snowmen, huh...[wait][end]"
  },
  {
   "id": "M0714",
@@ -1722,7 +1722,7 @@
    714
   ],
   "jp": "[name:0][face:1]雪だるまっていえばフロストだよな[wait][page]オレ　３しゅるいのフロストを[n]ナカマにしてるぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Speaking of snowmen, that's gotta be Frosts.[wait][page]I've got three kinds of Frosts as allies!![wait][end]"
  },
  {
   "id": "M0715",
@@ -1737,7 +1737,7 @@
    715
   ],
   "jp": "[name:35]なんと！？[wait][page]もし　よかったらじゃが[n]ワシに　合体させてくれないか？[fb:0][end]",
-  "en": ""
+  "en": "[name:35]What did you say!?[wait][page]If you don't mind, would you let me fuse them?[fb:0][end]"
  },
  {
   "id": "M0716",
@@ -1752,7 +1752,7 @@
    716
   ],
   "jp": "イチゴフロストが　現れた[wait][end]",
-  "en": ""
+  "en": "Strawberry Frost appeared.[wait][end]"
  },
  {
   "id": "M0717",
@@ -1767,7 +1767,7 @@
    717
   ],
   "jp": "メロンフロストが　現れた[wait][end]",
-  "en": ""
+  "en": "Melon Frost appeared.[wait][end]"
  },
  {
   "id": "M0718",
@@ -1782,7 +1782,7 @@
    718
   ],
   "jp": "レモンフロストが　現れた[wait][end]",
-  "en": ""
+  "en": "Lemon Frost appeared.[wait][end]"
  },
  {
   "id": "M0719",
@@ -1797,7 +1797,7 @@
    719
   ],
   "jp": "フロストトリオが　現れた[wait][end]",
-  "en": ""
+  "en": "The Frost Trio appeared.[wait][end]"
  },
  {
   "id": "M0720",
@@ -1812,7 +1812,7 @@
    720
   ],
   "jp": "[name:35]ちょっと変わった　デビルじゃな[wait][page]なには　ともあれ[n]合体させてくれて　ありがとう[wait][page]伝説がとけて　うれしいわい[n]それじゃ　よい旅をつづけなされ[wait][end]",
-  "en": ""
+  "en": "[name:35]Quite an unusual demon, that.[wait][page]In any case, thank you for letting me fuse them.[wait][page]I'm delighted the legend is solved. Well then, safe travels to you.[wait][end]"
  },
  {
   "id": "M0721",
@@ -1827,7 +1827,7 @@
    721
   ],
   "jp": "[name:35]そうか　ザンネンじゃが仕方ないわな[n]気が変わったら　声をかけてくれよ[wait][end]",
-  "en": ""
+  "en": "[name:35]I see. A pity, but it can't be helped. If you change your mind, just call on me.[wait][end]"
  },
  {
   "id": "M0722",
@@ -1842,7 +1842,7 @@
    722
   ],
   "jp": "[name:8]あ！[n][f3]じゃないッスか[wait][page]なんでも　ないッスよ！？[n]なにかしたッスか？[wait][end]",
-  "en": ""
+  "en": "[name:8]Ah! If it isn't [f3], y'know![wait][page]Nothin's going on, I swear!? Did I do somethin'?[wait][end]"
  },
  {
   "id": "M0723",
@@ -1857,7 +1857,7 @@
    723
   ],
   "jp": "[name:0]パク！[n]いったい　どうしたんだ！？[wait][end]",
-  "en": ""
+  "en": "[name:0]Paku! What's wrong with you!?[wait][end]"
  },
  {
   "id": "M0724",
@@ -1872,7 +1872,7 @@
    724
   ],
   "jp": "[name:8]こまったッスね・・・[wait][end]",
-  "en": ""
+  "en": "[name:8]Man, I'm in a real jam, y'know...[wait][end]"
  },
  {
   "id": "M0725",
@@ -1887,7 +1887,7 @@
    725
   ],
   "jp": "[name:0]本当かよ？[wait][page]『こまったッス』とか[n]言ってたの　きこえたぜ？[wait][end]",
-  "en": ""
+  "en": "[name:0]Really?[wait][page]'Cause I heard you say \"I'm in a jam.\"[wait][end]"
  },
  {
   "id": "M0726",
@@ -1902,7 +1902,7 @@
    726
   ],
   "jp": "[name:8]う・・・聞こえてたッスか[n]じつは・・・ミカエルさまに[wait][page][f3]に　ついていけって[n]言われたッスよ・・・[wait][end]",
-  "en": ""
+  "en": "[name:8]Ugh... You heard that, huh? Thing is... Lord Michael[wait][page]told me to go along with [f3], y'know...[wait][end]"
  },
  {
   "id": "M0727",
@@ -1917,7 +1917,7 @@
    727
   ],
   "jp": "[name:0]じゃあ　いっしょにいこうぜ！[wait][end]",
-  "en": ""
+  "en": "[name:0]Then let's go together![wait][end]"
  },
  {
   "id": "M0728",
@@ -1932,7 +1932,7 @@
    728
   ],
   "jp": "[name:8]まじッスか！？[n]いっしょに　いくッスか！？[wait][page]・・・でも・・・・[wait][end]",
-  "en": ""
+  "en": "[name:8]Whoa, seriously!? We're goin' together!?[wait][page]...But.....[wait][end]"
  },
  {
   "id": "M0729",
@@ -1947,7 +1947,7 @@
    729
   ],
   "jp": "[name:0]でも・・・？[n]どうしたんだ？　パク？[wait][end]",
-  "en": ""
+  "en": "[name:0]But...? What's wrong, Paku?[wait][end]"
  },
  {
   "id": "M0730",
@@ -1962,7 +1962,7 @@
    730
   ],
   "jp": "[name:8]なんでも　ないッスよ・・・[wait][page]ついて　いくッス・・・[n]はぁ～・・・[wait][end]",
-  "en": ""
+  "en": "[name:8]It's nothin', I swear...[wait][page]I'll tag along... Haaah...[wait][end]"
  },
  {
   "id": "M0731",
@@ -1977,7 +1977,7 @@
    731
   ],
   "jp": "[name:0]もしかして・・・[n]旅に出るのが　こわいのか？[wait][end]",
-  "en": ""
+  "en": "[name:0]Wait... Are you scared to go on a journey?[wait][end]"
  },
  {
   "id": "M0732",
@@ -1992,7 +1992,7 @@
    732
   ],
   "jp": "[name:8]そ・そんなことないッス！[wait][page]いくッス！！[n]マジ　いくッス！！[wait][end]",
-  "en": ""
+  "en": "[name:8]N-no way, dude![wait][page]I'm goin'!! Seriously goin'!![wait][end]"
  },
  {
   "id": "M0733",
@@ -2007,7 +2007,7 @@
    733
   ],
   "jp": "[name:8][face:44]こんごとも　よろしくッス！[wait][end]",
-  "en": ""
+  "en": "[name:8][face:44]Count on me from now on, y'know![wait][end]"
  },
  {
   "id": "M0734",
@@ -2022,7 +2022,7 @@
    734
   ],
   "jp": "[name:8][face:44]ナカマが　いっぱいみたいッス[wait][page]ナカマを　いれられるようにして[n]もどってきてほしいッス！[wait][end]",
-  "en": ""
+  "en": "[name:8][face:44]Looks like you've got too many allies, y'know.[wait][page]Make some room for more and come back, 'kay?[wait][end]"
  },
  {
   "id": "M0735",
@@ -2037,7 +2037,7 @@
    735
   ],
   "jp": "[name:8][face:44]ナカマ　せいりしてきたッスか？[wait][end]",
-  "en": ""
+  "en": "[name:8][face:44]Sorted out your allies yet?[wait][end]"
  },
  {
   "id": "M0736",
@@ -2052,7 +2052,7 @@
    736
   ],
   "jp": "[name:0][face:1]ん？　なんだこれ？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Hm? What's this?[wait][end]"
  },
  {
   "id": "M0737",
@@ -2067,7 +2067,7 @@
    737
   ],
   "jp": "[name:30]オマエ！！[wait][page]オマエ　天使の聖水もってるな！[n]そいつを　オレさまにかけろ！！[wait][end]",
-  "en": ""
+  "en": "[name:30]You!![wait][page]You've got Angel's Holy Water! Pour it on me, the great me!![wait][end]"
  },
  {
   "id": "M0738",
@@ -2082,7 +2082,7 @@
    738
   ],
   "jp": "[name:30]フー・・・[n]たすかったぜ・・・[wait][page]さむくて　こごえ死ぬかと[n]おもったが・・・たすかった・・・[wait][page]レイを言うぞ　少年[wait][page]オマエが　天界にくることがあれば[wait][page]ん・・・・？[wait][page]オマエ　デビルチルドレンじゃねぇか！[wait][page]オレさまの名は　エノク[n]天界をすべる　天使だ[wait][end]",
-  "en": ""
+  "en": "[name:30]Phew... That saved me...[wait][page]It was so cold I thought I'd freeze to death... but you saved me...[wait][page]You have my thanks, boy.[wait][page]If you ever come to Heaven...[wait][page]Hm....?[wait][page]Hey, you're a DemiKid![wait][page]The name's Enoch, the angel who rules Heaven![wait][end]"
  },
  {
   "id": "M0739",
@@ -2097,7 +2097,7 @@
    739
   ],
   "jp": "[name:36]ん？　何か言ったか？[n]まぁ　いいか[wait][page]なぁ　聞いてくれよ[n]デビルチルドレン[wait][page]まったく　オレさまとしたことが[n]兄弟のサンダルフォンと[wait][clr]メルキセデクに化けたデビルに[wait][clr]はめられてよぉ[wait][page]さすがに　あそこまでそっくりだと[n]うたがいもしなかった・・・[wait][page]まぁ　気が付いた時には[n]石像になっていたんだがな[wait][page]おかげで　こんなさむい場所に[n]つれて　こられちまった[wait][page]なぁ　デビルチルドレン[n]オレさまを　ナカマにしないか？[wait][page]オレさまを　はめたやつに[n]リベンジしたいんだ！！[wait][end]",
-  "en": ""
+  "en": "[name:36]Hm? Did you say something? Eh, whatever.[wait][page]Hey, listen to this, DemiKid.[wait][page]Can you believe it? Me, of all angels, tricked by devils disguised[wait][clr]as my brothers Sandalphon[wait][clr]and Melchizedek![wait][page]They looked so much alike, I never even suspected a thing...[wait][page]By the time I figured it out, I'd been turned into a statue.[wait][page]And thanks to that, they hauled me off to this freezing place.[wait][page]Hey, DemiKid, why don't you make me your ally?[wait][page]I want revenge on the guys who tricked me!![wait][end]"
  },
  {
   "id": "M0740",
@@ -2112,7 +2112,7 @@
    740
   ],
   "jp": "[name:36]よし！[n]よろしくな　デビルチルドレン[wait][end]",
-  "en": ""
+  "en": "[name:36]All right! I'm counting on you, DemiKid.[wait][end]"
  },
  {
   "id": "M0741",
@@ -2127,7 +2127,7 @@
    741
   ],
   "jp": "エノクが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Enoch became your ally![wait][end]"
  },
  {
   "id": "M0742",
@@ -2142,7 +2142,7 @@
    742
   ],
   "jp": "[name:36]なら　仕方ねぇか・・・[n]ナカマにしたければ　またこいよ！[wait][end]",
-  "en": ""
+  "en": "[name:36]Well, guess it can't be helped... If you want me as an ally, come back again![wait][end]"
  },
  {
   "id": "M0743",
@@ -2157,7 +2157,7 @@
    743
   ],
   "jp": "[name:36]ナカマが　いっぱいじゃねぇか！[wait][page]ナカマを　いれられるようにして[n]もどってこいよ！[wait][end]",
-  "en": ""
+  "en": "[name:36]You've got way too many allies![wait][page]Make some room for more and come back![wait][end]"
  },
  {
   "id": "M0744",
@@ -2172,7 +2172,7 @@
    744
   ],
   "jp": "[name:1][face:255]まて！[f3]！[n]だれか　くるぞ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Wait, [f3]! Someone's coming![wait][end]"
  },
  {
   "id": "M0745",
@@ -2187,7 +2187,7 @@
    745
   ],
   "jp": "[name:17]デビルチルドレン・・・[wait][page]まさか・・・こんなところで[n]お会いするとは・・・[wait][page]話はきいてます・・・[wait][page]ワタシの　したがっていたエノクさまは[n]ニセモノだったという・・・[wait][end]",
-  "en": ""
+  "en": "[name:17]DemiKid...[wait][page]I never thought... I would meet you in a place like this...[wait][page]I have heard the story...[wait][page]That the Lord Enoch I served was a fake...[wait][end]"
  },
  {
   "id": "M0746",
@@ -2202,7 +2202,7 @@
    746
   ],
   "jp": "[name:0][face:1]レミエル・・・[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Remiel...[wait][end]"
  },
  {
   "id": "M0747",
@@ -2217,7 +2217,7 @@
    747
   ],
   "jp": "[name:17]レナさまは　あのニセモノの[n]エノクの言葉を　信じて[wait][clr]この氷の世界に[wait][clr]足をふみいれたようです・・・[wait][page]ワタシにも　レナさまのゆくえは[n]わかりません・・・[wait][page]ワタシが　エノクさまをニセモノと[n]気が付いていれば　止めることも[wait][clr]できたのに・・・[wait][page]ワタシはどうしたら良いのです？[n]このままでは　何も信じられません[wait][end]",
-  "en": ""
+  "en": "[name:17]It seems Lady Lena believed the words of that fake Enoch[wait][clr]and set foot[wait][clr]in this world of ice...[wait][page]Even I do not know where Lady Lena has gone...[wait][page]Had I realized Lord Enoch was a fake, I could have[wait][clr]stopped it...[wait][page]What should I do? At this rate, I cannot believe in anything.[wait][end]"
  },
  {
   "id": "M0748",
@@ -2232,7 +2232,7 @@
    748
   ],
   "jp": "[name:0][face:1]・・・　・・・　・・・[wait][page]オレを信じろ！[wait][page]オレはオレだ！[n]何も変わらない！！[wait][page]レミエル！[wait][page]オレはレナを　とりもどす！[n]オマエのチカラを　かしてくれ！[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]... ... ...[wait][page]Believe in me![wait][page]I'm still me! Nothing's changed!![wait][page]Remiel![wait][page]I'm getting Lena back! Lend me your power![wait][end]"
  },
  {
   "id": "M0749",
@@ -2247,7 +2247,7 @@
    749
   ],
   "jp": "[name:17]ワタシのチカラが必要・・・[n]そう言ってくれるのですね[wait][page]ならば　このレミエル・・・[wait][page][f3]のために[n]チカラを　かしましょう！！[wait][end]",
-  "en": ""
+  "en": "[name:17]You need my power... You would say that to me...[wait][page]Then I, Remiel...[wait][page]will lend my power to [f3]!![wait][end]"
  },
  {
   "id": "M0750",
@@ -2262,7 +2262,7 @@
    750
   ],
   "jp": "何かが　草むらからとびだしてきた！！[wait][end]",
-  "en": ""
+  "en": "Something jumped out of the bushes!![wait][end]"
  },
  {
   "id": "M0751",
@@ -2277,7 +2277,7 @@
    751
   ],
   "jp": "[name:30]わお！　デビルチルドレンだー！[n]はじめてみたよ！！[wait][page]なーんか　つよそうだねー[wait][page]ケイヤクの言葉を　言えば[n]ナカマになってあげてもいいかもね[wait][end]",
-  "en": ""
+  "en": "[name:30]Wow! A DemiKid! It's my first time seeing one!![wait][page]You look kinda strong~[wait][page]If you say the password, maybe I'll become your ally.[wait][end]"
  },
  {
   "id": "M0752",
@@ -2307,7 +2307,7 @@
    753
   ],
   "jp": "[name:30]・・・　・・・　・・・[wait][page]うんうん　その通り！！[n]ボク　ナカマになるよ！！[wait][end]",
-  "en": ""
+  "en": "[name:30]... ... ...[wait][page]Yup, yup, that's right!! I'll be your ally!![wait][end]"
  },
  {
   "id": "M0754",
@@ -2322,7 +2322,7 @@
    754
   ],
   "jp": "デリーが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Delhi became your ally![wait][end]"
  },
  {
   "id": "M0755",
@@ -2337,7 +2337,7 @@
    755
   ],
   "jp": "[name:30]・・・　・・・　・・・[wait][page]あれ！？[n]それ　まちがってるよ[wait][page]ケイヤクの言葉が　わかったら[n]また　きてねー[wait][end]",
-  "en": ""
+  "en": "[name:30]... ... ...[wait][page]Huh!? That's wrong.[wait][page]Come back once you figure out the password~[wait][end]"
  },
  {
   "id": "M0756",
@@ -2352,7 +2352,7 @@
    756
   ],
   "jp": "[name:30]げげ！？[n]ナカマが　いっぱいだよー[wait][page]ナカマを　いれられるようにして[n]もどってきてねー[wait][end]",
-  "en": ""
+  "en": "[name:30]Yikes!? You've got too many allies~[wait][page]Make some room for more and come back~[wait][end]"
  },
  {
   "id": "M0757",
@@ -2367,7 +2367,7 @@
    757
   ],
   "jp": "ド　ド　ド　ド　ド　ド　ド！！[wait][end]",
-  "en": ""
+  "en": "Thud thud thud thud thud thud thud!![wait][end]"
  },
  {
   "id": "M0758",
@@ -2382,7 +2382,7 @@
    758
   ],
   "jp": "ド　ド　ド　ド　ド　ド　ド　ド[n]ド　ド　ド　ド　ド　ド　ド　ド！！[wait][end]",
-  "en": ""
+  "en": "Thud thud thud thud thud thud thud thud thud thud thud thud thud thud thud thud!![wait][end]"
  },
  {
   "id": "M0759",
@@ -2397,7 +2397,7 @@
    759
   ],
   "jp": "[name:1][face:255]なんだ！？[n]なにか　くるぞ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]What!? Something's coming!![wait][end]"
  },
  {
   "id": "M0760",
@@ -2412,7 +2412,7 @@
    760
   ],
   "jp": "[name:30]ヘイヘイヘイ！！！[n]オレを　よびだしたのはボーイかい？[wait][end]",
-  "en": ""
+  "en": "[name:30]Hey hey hey!!! Are you the one who summoned me, boy?[wait][end]"
  },
  {
   "id": "M0761",
@@ -2427,7 +2427,7 @@
    761
   ],
   "jp": "[name:0][face:1]よびだしたおぼえは[n]あんまりないけど・・・[wait][page]やっぱり　オレになるのかな？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]I don't really remember summoning you...[wait][page]But I guess that means me, huh?[wait][end]"
  },
  {
   "id": "M0762",
@@ -2442,7 +2442,7 @@
    762
   ],
   "jp": "[name:30]オイ　オイ・・・[n]たのむぜ　ボーイ・・・[wait][page]自分で　よびだしておいて[n]それは　ないだろう？[wait][page]まぁ　いいとするか！！[n]ちいさいことに　こだわらないのが[wait][clr]かっこいい　デビルだしな！！！[wait][page]さぁ！　さっそく[n]ケイヤクの言葉を　言えよ！[wait][end]",
-  "en": ""
+  "en": "[name:30]Whoa, whoa... Gimme a break, boy...[wait][page]You summon me yourself and then say that? Not cool![wait][page]Ah, never mind!! Not sweating the small stuff[wait][clr]is what makes a demon cool!!![wait][page]Now! Hurry up and say the password![wait][end]"
  },
  {
   "id": "M0763",
@@ -2472,7 +2472,7 @@
    764
   ],
   "jp": "[name:30]・・・　・・・　・・・[wait][page]ヘイ！　ボーイ！！[n]ザッツ　ライト！！！！[wait][page]その通り！！[n]ナカマに　なってやるぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:30]... ... ...[wait][page]Hey! Boy!! That's right!!!![wait][page]Exactly!! I'll be your ally!![wait][end]"
  },
  {
   "id": "M0765",
@@ -2487,7 +2487,7 @@
    765
   ],
   "jp": "ドルンが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Dorn became your ally![wait][end]"
  },
  {
   "id": "M0766",
@@ -2502,7 +2502,7 @@
    766
   ],
   "jp": "[name:30]・・・　・・・　・・・[wait][page]ボーイ！！[n]それは　ミステイク！！[wait][page]まちがいだぜ！[wait][page]ケイヤクの言葉が　わかったら[n]また　くるんだぜ！！[wait][page]じゃーな　アディオス！！[wait][end]",
-  "en": ""
+  "en": "[name:30]... ... ...[wait][page]Boy!! That's a mistake!![wait][page]You got it wrong![wait][page]Come back once you figure out the password!![wait][page]See ya, adios!![wait][end]"
  },
  {
   "id": "M0767",
@@ -2517,7 +2517,7 @@
    767
   ],
   "jp": "[name:0][face:1]なんだか　おもしろい[n]デビルだな・・・[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]What a funny demon...[wait][end]"
  },
  {
   "id": "M0768",
@@ -2532,7 +2532,7 @@
    768
   ],
   "jp": "[name:0][face:1]おもしろくて　たのもしい[n]デビルが　ナカマになったな[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]A funny and reliable demon joined us![wait][end]"
  },
  {
   "id": "M0769",
@@ -2547,7 +2547,7 @@
    769
   ],
   "jp": "[name:30]ホワッツ！？[n]ボーイ！！　ナカマがいっぱいだぜ[wait][page]オレを　ナカマにできるようにして[n]かならず　もどってくるんだぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:30]Whaaat?! Boy!! Your party's packed, man![wait][page]Make room so I can join ya, and come back for sure!![wait][end]"
  },
  {
   "id": "M0770",
@@ -2562,7 +2562,7 @@
    770
   ],
   "jp": "[name:30]ぬぬぬぬ・・・[n]こまったでゲス・・・[wait][end]",
-  "en": ""
+  "en": "[name:30]Nnnngh... This is a pickle, yessiree...[wait][end]"
  },
  {
   "id": "M0771",
@@ -2577,7 +2577,7 @@
    771
   ],
   "jp": "[name:30]ヌガ！！！！！！！！[wait][page]オイラに　きづかれずに[n]せっきんするとは・・・もしや！！[wait][page]おぬし　なにかのたつじんでゲスな！？[wait][end]",
-  "en": ""
+  "en": "[name:30]GAAAAH!![wait][page]Sneakin' up on me without me noticin'... Could it be?![wait][page]You must be some kinda expert, yessiree!?[wait][end]"
  },
  {
   "id": "M0772",
@@ -2592,7 +2592,7 @@
    772
   ],
   "jp": "[name:0][face:1]たつじんじゃないと　おもうけど[n]いったい　どうしたんだい？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]I don't think I'm an expert... What's going on, anyway?[wait][end]"
  },
  {
   "id": "M0773",
@@ -2607,7 +2607,7 @@
    773
   ],
   "jp": "[name:30]その　けんきょさ！！[n]さすがは　たつじんでゲス！！[wait][page]じつは　大事なものを　修行者の道で[n]落としてしまったのでゲス[wait][end]",
-  "en": ""
+  "en": "[name:30]Such modesty!! A true expert, yessiree!![wait][page]Truth is, I dropped somethin' important on the Ascetic's Path.[wait][end]"
  },
  {
   "id": "M0774",
@@ -2622,7 +2622,7 @@
    774
   ],
   "jp": "[name:0][face:1]大事なもの？[n]いったい　どんな物なんだ？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Something important? What kind of thing?[wait][end]"
  },
  {
   "id": "M0775",
@@ -2637,7 +2637,7 @@
    775
   ],
   "jp": "[name:30]『時計のふりこ』と『時計のはり』[n]『時計のはぐるま』でゲス！！[wait][page]修行者の道にすむ　デビルたちは[n]めずらしいものが　大好きだから[wait][clr]きっと　ひろって　そのまま[clr]ネコババしてると　おもうでゲス！！[wait][page]はじを　しのんでおねがいするゲス！[wait][page]たつじん！！[wait][page]オイラの　大事なものを[n]とりかえしてきてくれないでゲスか？[wait][end]",
-  "en": ""
+  "en": "[name:30]The Clock Pendulum, the Clock Hand and the Clock Gear, yessiree!![wait][page]The demons livin' on the Ascetic's Path love rare stuff, so[wait][clr]I bet they picked 'em up and[clr]kept 'em for themselves, yessiree!![wait][page]I'm swallowin' my pride to ask ya this![wait][page]Expert!![wait][page]Won't ya get my precious things back for me?[wait][end]"
  },
  {
   "id": "M0776",
@@ -2652,7 +2652,7 @@
    776
   ],
   "jp": "どうする？[fb:0][end]",
-  "en": ""
+  "en": "What will you do?[fb:0][end]"
  },
  {
   "id": "M0777",
@@ -2667,7 +2667,7 @@
    777
   ],
   "jp": "[name:30]本当でゲスか！？[n]ありがとうでゲス！！[wait][page]『時計のふりこ』と『時計のはり』[n]『時計のはぐるま』でゲスよ！！[wait][page]よろしく　たのむでゲス！！[wait][end]",
-  "en": ""
+  "en": "[name:30]Really!? Thank ya kindly, yessiree!![wait][page]The Clock Pendulum, the Clock Hand and the Clock Gear!![wait][page]I'm countin' on ya, yessiree!![wait][end]"
  },
  {
   "id": "M0778",
@@ -2682,7 +2682,7 @@
    778
   ],
   "jp": "[name:30]『時計のふりこ』と『時計のはり』[n]『時計のはぐるま』でゲスよ！！[wait][page]修行者の道の　デビルたちが[n]もっていると　おもうでゲス！！[wait][page]よろしく　たのむでゲス！！[wait][end]",
-  "en": ""
+  "en": "[name:30]The Clock Pendulum, the Clock Hand and the Clock Gear!![wait][page]I bet the demons on the Ascetic's Path have 'em, yessiree!![wait][page]I'm countin' on ya, yessiree!![wait][end]"
  },
  {
   "id": "M0779",
@@ -2697,7 +2697,7 @@
    779
   ],
   "jp": "[name:30]気が　変わったでゲスか！？[fb:0][end]",
-  "en": ""
+  "en": "[name:30]Did ya change your mind, yessiree!?[fb:0][end]"
  },
  {
   "id": "M0780",
@@ -2712,7 +2712,7 @@
    780
   ],
   "jp": "[name:30]そうでゲスか・・・[n]ザンネンでゲス・・・[wait][end]",
-  "en": ""
+  "en": "[name:30]Is that so... What a shame, yessiree...[wait][end]"
  },
  {
   "id": "M0781",
@@ -2727,7 +2727,7 @@
    781
   ],
   "jp": "[name:30]ああ！！！[n]それは・・・・[wait][page]さすが　たつじん！！！[n]もってきてくれたんでゲスね！！[wait][page]ありがとうでゲス！！！！！！[wait][end]",
-  "en": ""
+  "en": "[name:30]Ahh!!! Those are...[wait][page]That's an expert for ya!!! You brought 'em back!![wait][page]Thank ya kindly, yessiree!!![wait][end]"
  },
  {
   "id": "M0782",
@@ -2742,7 +2742,7 @@
    782
   ],
   "jp": "[f3]は　３つのアイテムを[n]デビルに　てわたした[wait][end]",
-  "en": ""
+  "en": "[f3] handed the three items to the demon.[wait][end]"
  },
  {
   "id": "M0783",
@@ -2757,7 +2757,7 @@
    783
   ],
   "jp": "[name:30]ちょっと　まってほしいでゲス[wait][end]",
-  "en": ""
+  "en": "[name:30]Hold on just a sec, yessiree.[wait][end]"
  },
  {
   "id": "M0784",
@@ -2772,7 +2772,7 @@
    784
   ],
   "jp": "[name:30]すこし　目をつぶっていてほしいでゲス[wait][end]",
-  "en": ""
+  "en": "[name:30]Close your eyes for a bit, yessiree.[wait][end]"
  },
  {
   "id": "M0785",
@@ -2787,7 +2787,7 @@
    785
   ],
   "jp": "[name:30]ハッハッハ！！[n]またせたでゲスな！！[wait][page]オイラの名前は　ク・・・・[wait][page]おっと　おもわず[n]名のって　しまうところだったゲス[wait][page]名前は　ナカマになるまで[n]ヒミツでゲス！！[wait][page]さぁ　ケイヤクの言葉を言うでゲス！！[wait][end]",
-  "en": ""
+  "en": "[name:30]Ha ha ha!! Sorry to keep ya waitin'!![wait][page]My name is Cl...[wait][page]Whoops, I almost went and told ya my name![wait][page]My name stays a secret till I'm your ally, yessiree!![wait][page]Now, say the password, yessiree!![wait][end]"
  },
  {
   "id": "M0786",
@@ -2817,7 +2817,7 @@
    787
   ],
   "jp": "[name:30]・・・　・・・　・・・[wait][page]正解でゲス！！！！[n]いっしょに　戦うでゲス！！[wait][end]",
-  "en": ""
+  "en": "[name:30]... ... ...[wait][page]That's right, yessiree!!!! Let's fight together!![wait][end]"
  },
  {
   "id": "M0788",
@@ -2832,7 +2832,7 @@
    788
   ],
   "jp": "クロックスが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Clocks became your ally![wait][end]"
  },
  {
   "id": "M0789",
@@ -2847,7 +2847,7 @@
    789
   ],
   "jp": "[name:30]・・・　・・・　・・・[wait][page]なんと！[n]たつじん！！　それはまちがいでゲス[wait][page]ケイヤクの言葉が　わかったら[n]またくるでゲスよ！[wait][end]",
-  "en": ""
+  "en": "[name:30]... ... ...[wait][page]Whaaat! Expert!! That's wrong, yessiree.[wait][page]Come back once ya know the password![wait][end]"
  },
  {
   "id": "M0790",
@@ -2862,7 +2862,7 @@
    790
   ],
   "jp": "[name:30]なんと！[n]ナカマが　いっぱいでゲスよ！？[wait][page]オイラを　ナカマにできるようにして[n]またくるでゲスよ！！[wait][end]",
-  "en": ""
+  "en": "[name:30]Whaaat! Your party's full, yessiree!?[wait][page]Make room so ya can take me on, and come back!![wait][end]"
  },
  {
   "id": "M0791",
@@ -2877,7 +2877,7 @@
    791
   ],
   "jp": "[name:30]ぜんぶ　そろってないでゲス！！[wait][page]全部　そろってからもってきて[n]ほしいでゲス[wait][end]",
-  "en": ""
+  "en": "[name:30]That ain't all of 'em, yessiree!![wait][page]Bring 'em to me once ya got the whole set.[wait][end]"
  },
  {
   "id": "M0792",
@@ -2892,7 +2892,7 @@
    792
   ],
   "jp": "[name:30]ゴソ　ゴソ・・・[wait][page]あれ！？・・・おかしいでゲス？？[n]はいらないでゲス・・・[wait][page]フン！！！[n]はいったでゲスな！！[wait][page]きっと　びっくりするでゲス・・・[n]ムフフフフでゲス[wait][end]",
-  "en": ""
+  "en": "[name:30]Rummage, rummage...[wait][page]Huh!? That's weird, yessiree?? It won't go in...[wait][page]Hmph!!! There, it's in!![wait][page]You're gonna be so surprised... Mwa ha ha ha![wait][end]"
  },
  {
   "id": "M0793",
@@ -2907,7 +2907,7 @@
    793
   ],
   "jp": "デビルチルドレンも[n]たいしたことないッチー！[wait][page]でなおして　くるッチー！！[wait][end]",
-  "en": ""
+  "en": "DemiKids ain't so tough after all, chee![wait][page]Go back and try again, chee!![wait][end]"
  },
  {
   "id": "M0794",
@@ -2922,7 +2922,7 @@
    794
   ],
   "jp": "[name:1][face:255]なんだ！？[n]なにかが　あらわれるぞ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]What!? Something's showing up!![wait][end]"
  },
  {
   "id": "M0795",
@@ -2937,7 +2937,7 @@
    795
   ],
   "jp": "[name:30]ワレをよびだしたは　ヌシか・・・[n]なにようだ・・・？[wait][end]",
-  "en": ""
+  "en": "[name:30]Is it you who summoned me... What is thy business...?[wait][end]"
  },
  {
   "id": "M0796",
@@ -2952,7 +2952,7 @@
    796
   ],
   "jp": "[name:30]・・・・！！[n]ようもなく　ワレをよんだのか！！[wait][page]・・・クックック！！！[wait][end]",
-  "en": ""
+  "en": "[name:30]...!! You summoned me for no reason at all!![wait][page]...Heh heh heh!!![wait][end]"
  },
  {
   "id": "M0797",
@@ -2967,7 +2967,7 @@
    797
   ],
   "jp": "[name:0][face:1]？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]?[wait][end]"
  },
  {
   "id": "M0798",
@@ -2982,7 +2982,7 @@
    798
   ],
   "jp": "[name:30]ハッハッハッハ！！！！！[n]ヌシ！　なかなかおもしろいぞ！[wait][page]ナカマになってやっても　かまわないが[n]ワレとしても　おいそれと[wait][clr]ナカマになってやるわけには　いかん[wait][end]",
-  "en": ""
+  "en": "[name:30]Ha ha ha ha!!!!! You! You are quite amusing![wait][page]I would not mind joining you, but even so, I cannot[wait][clr]simply join you so easily.[wait][end]"
  },
  {
   "id": "M0799",
@@ -2997,6 +2997,6 @@
    799
   ],
   "jp": "[name:0][face:1]いったいどうしたら　いいんだ？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]So what am I supposed to do?[wait][end]"
  }
 ]

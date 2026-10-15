@@ -37,18 +37,38 @@ LineHeight      equ 0x080C21A1      ; () -> current font glyph height
 .align 4
 DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     push    {r4-r7, lr}
-    sub     sp, #8
+    sub     sp, #12
     mov     r4, r0
     mov     r5, r1
     mov     r6, r2
     mov     r7, r3
     str     r2, [sp]                ; x at start (advance)
     str     r2, [sp, #4]            ; x at line start
+    mov     r0, #0
+    str     r0, [sp, #8]            ; return pointer after a long-name escape (0 = none)
 @@loop:
     ldrb    r0, [r5]
     add     r5, #1
     cmp     r0, #0
+    bne     @@notend
+    ldr     r0, [sp, #8]            ; end of an expanded long name: resume the outer string
+    cmp     r0, #0
     beq     @@done
+    mov     r5, r0
+    mov     r0, #0
+    str     r0, [sp, #8]
+    b       @@loop
+@@notend:
+    cmp     r0, #0x01               ; 01 nn = long name nn (names longer than a 16-byte record field)
+    bne     @@notlong
+    ldrb    r0, [r5]
+    add     r5, #1
+    str     r5, [sp, #8]
+    lsl     r0, r0, #2
+    ldr     r1, =LONGNAMES
+    ldr     r5, [r1, r0]
+    b       @@loop
+@@notlong:
     cmp     r0, #0x0A
     bne     @@notlf
     ldr     r6, [sp, #4]
@@ -65,6 +85,7 @@ DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     cmp     r0, #0x20
     blo     @@loop
     ; ---- English glyph: swap in the matching English font object, draw index = byte
+@@ascii:
     mov     r1, r0                  ; code
     ldr     r2, =CUR_FONT
     ldr     r3, [r2]
@@ -95,6 +116,31 @@ DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     ldrb    r0, [r5]
     add     r5, #1
     orr     r1, r0
+    ; fullwidth Latin letters (glyphs 60-85 = A-Z, 86-111 = a-z; codes 81xx) draw as proportional ASCII,
+    ; so names typed on the ABC page of the name entry screen look like English text
+    lsr     r2, r1, #8
+    cmp     r2, #0x81
+    bne     @@jpdraw
+    mov     r2, r0
+    sub     r2, #0x40
+    cmp     r0, #0x80
+    blo     @@nolo
+    sub     r2, #1
+@@nolo:
+    cmp     r2, #60
+    blo     @@jpdraw
+    cmp     r2, #111
+    bhi     @@jpdraw
+    cmp     r2, #86
+    bhs     @@lower
+    add     r2, #('A' - 60)
+    mov     r0, r2
+    b       @@ascii
+@@lower:
+    add     r2, #('a' - 86)
+    mov     r0, r2
+    b       @@ascii
+@@jpdraw:
     mov     r0, r4
     mov     r2, r6
     mov     r3, r7
@@ -110,7 +156,7 @@ DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     sub     r0, r6, r0
     ldr     r1, =LAST_ADV
     str     r0, [r1]
-    add     sp, #8
+    add     sp, #12
     pop     {r4-r7}
     pop     {r0}
     bx      r0

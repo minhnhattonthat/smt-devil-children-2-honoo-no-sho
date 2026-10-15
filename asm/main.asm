@@ -4,6 +4,7 @@
 .open "build/honoo_en.gba", 0x08000000
 
 ENGINE_BASE     equ 0x08800000
+LONGNAMES       equ 0x0880F000      ; 256 u32 pointers, filled by tools/build.py (long names of 16-byte fields)
 
 .include "asm/engine.asm"
 

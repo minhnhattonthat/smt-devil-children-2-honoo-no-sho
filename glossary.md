@@ -115,4 +115,72 @@ The lint enforces the Avoid column.
 | ミーミルの泉 | Mimir's Spring | | | |
 | ダークノース | Dark North | | | |
 
+| バビロンの迷宮 | Labyrinth of Babylon | | | |
+| アンヌン(の町) | Annwn (Town of Annwn) | | | |
+| 地下世界 | the Underworld | | | |
+| 火/水/土/風の天使の町 | Town of Fire/Water/Earth/Wind Angels | | | |
+| エデンの都 | City of Eden | | | |
+| 時のゲート | Time Gate | | | |
+| アウドムラの町 | Town of Audhumla | | | |
+| ノルズリ/スズリ/アウスト/ベストリのホコラ | Nordri/Sudri/Austri/Vestri Shrine | | dwarf names | Vestry |
+| 原宿地下街 | Harajuku underground mall | | | |
+
 ## Decisions from earlier batches
+| JP | EN | max | notes | Avoid |
+|---|---|---|---|---|
+| エンゼルチルドレン | AngelKid(s) | | matches DemiKid | Angel Child, Angel Children |
+| 天使長 | Chief Angel | | | |
+| 大天使 | archangel | | | |
+| 魔王 | Demon Lord | | | |
+| 大いなる世界 | the Great World | | | |
+| アクマのカギ | Devil Key | | | |
+| トラポート | Traport | | | |
+| ～ねえちゃん (Sek, Farha) | Sis Sek / Sis Farha | | | |
+| 氷の使徒さま | the great Ice Apostle | | no "Lord" except Michael/Lucifer-level masters | |
+| エノクさま | Lord Enoch | | | |
+| ケイヤクの言葉 | password | | the phrase a demon asks for before it joins | contract words |
+| 合体研究家 | Fusion Researcher | | ルロウの合体研究家 = the wandering Fusion Researcher | Fusion Expert |
+| ルロウのタミ | the Wanderers (流浪の民) | | ルロウのタミの村 = Village of the Wanderers | |
+| 天使の聖水 | Angel's Holy Water | | | |
+| アクマのタマゴ | Devil Egg | | | |
+| 時計のふりこ/はり/はぐるま | Clock Pendulum / Clock Hand / Clock Gear | | | |
+| ～フロスト (イチゴ/メロン/レモン) | Strawberry/Melon/Lemon Frost; フロストトリオ = Frost Trio | | | |
+| イネルスタウン | Inels Town | | | |
+| 光の紋章 | Light Crest | | | |
+| 修行者の道 / 修行者の村 | Ascetic's Path / Ascetics' Village | | | |
+| ナカマがいっぱい | "You have too many allies" | | standard full-party line | |
+| ライザー (alone) | Demiloc | | | |
+| こんごとも よろしく (demon joins) | "I look forward to working with you!" | | SMT stock join line; keep identical everywhere | |
+| スネーフィヨル / ニザフィヨル / ソールフィヨル | Snaefjoll / Nidafjoll / Solfjoll | | | |
+| フヴェルゲルミル | Hvergelmir | | | |
+| ゼーレ平原 | Seele Plains | | | |
+| 風の風穴 | Wind Cavern | | | |
+| 洞寓 (～の洞寓) | Grotto (Hermit's Grotto, Guardian's Grotto) | | | |
+| 火の機械山 | Fire Machine Mountain | | | |
+| 土の樹海 | Earth Forest | | | |
+| ミッドキングダム | Mid Kingdom | | | |
+| アケロンリバー | Acheron River | | | |
+| 落とし穴の森 | Forest of Pitfalls | | | |
+| 城下町 | castle town | | | |
+| かんし兵 | sentry | | | |
+| ヨウヘイ | mercenary | | | |
+| チャクラドリンク | Chakra Drink | | | |
+| 大魔王ルシファーさま | Lucifer, the Great Demon Lord | | | |
+| フロスト語尾 ～ホー | ", hee-ho" | | Jack Frost family tic | |
+| ～ッチー tic | ", chee!" | | | |
+| ～でゲス (Clocks) | ", yessiree" | | | |
+| お兄ちゃん (kids/fairies to Jin) | mister | | | |
+| アヤシイ館 / 工房 / 博物館 | Spooky Mansion / Spooky Workshop / Spooky Museum | | | Mysterious Mansion |
+| デビルくんれんじょ / くんれんじょ | Demon Training Center / training center | | | |
+| マソウ (魔装) | Arcane (Arcane Item, Arcane Fusion) | | | |
+| カードアイテム | Card Item | | | |
+| 種族合体 | race fusion | | | |
+| ちりょうや | clinic | | | |
+| リュウのルビー | Dragon Ruby | | | |
+| テンシのつばさ | Angel Wing | | | |
+| たからのちず | Treasure Map | | | |
+| デビダスマスター | DemiDex Master | | | |
+| イサク / テークシス | Isaac / Teksis | | | |
+| しょくりゅう | Shokuryu | | (Zhu Long) keep Shokuryu as the game's own reading | |
+- Katakana-only speech: ALL CAPS only for robotic, possessed or eerie voices. Normal katakana emphasis or slang shouts stay
+  in normal case (use ! or italics-free emphasis).

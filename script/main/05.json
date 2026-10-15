@@ -14,7 +14,7 @@
    1001
   ],
   "jp": "いてて・・・！[wait][page]ずっと　空の天使やアクマを見てたら[n]くびがいたくなっちゃったよ・・・[wait][page]スゲーな[n]天使やアクマって[wait][clr]ホントにいるんだ・・・！[wait][clr]はじめてみたぜ！[wait][end]",
-  "en": ""
+  "en": "Ow ow...![wait][page]My neck's all stiff from staring at the angels and devils in the sky...[wait][page]That's amazing! Angels and devils[wait][clr]really exist...![wait][clr]First time I've ever seen 'em![wait][end]"
  },
  {
   "id": "M1002",
@@ -29,7 +29,7 @@
    1002
   ],
   "jp": "いたたた・・・[page]天使とアクマの戦いに[n]まきこまれちゃった・・・[wait][page]地下街のちりょうやに[n]行かなくちゃ・・・[wait][page]地下街のちりょうやは[n]アクマだろうが　天使だろうが[wait][clr]どんなヤツでも　なおすらしいからね[wait][end]",
-  "en": ""
+  "en": "Ow ow ow...[page]I got caught up in the fight between the angels and devils...[wait][page]I have to get to the clinic in the underground mall...[wait][page]They say the clinic in the underground mall will patch up devils, angels,[wait][clr]anybody at all.[wait][end]"
  },
  {
   "id": "M1003",
@@ -44,7 +44,7 @@
    1003
   ],
   "jp": "ここは　地下街の入り口です[wait][page]ナカマを強くする合体屋と[n]体力を回復するホテル[wait][page]おやくだちアイテムが[n]いっぱいのショップは[wait][clr]ここを下りてスグ！！[wait][page]・・・え？わたし？[wait][page]わたしは　ただのバイトよ[n]ヨビコミをたのまれたの[wait][end]",
-  "en": ""
+  "en": "This is the entrance to the underground mall![wait][page]The Fusion Shop that makes your allies stronger, the hotel that restores your health,[wait][page]and the shop that's packed with handy items[wait][clr]are right down these stairs!![wait][page]...Huh? Me?[wait][page]I'm just a part-timer. They hired me to call in customers.[wait][end]"
  },
  {
   "id": "M1004",
@@ -59,7 +59,7 @@
    1004
   ],
   "jp": "天使が人をおそうなんて・・・！[wait][page]ショックだわ・・・[n]わたし　天使のファンだったのに！！[wait][end]",
-  "en": ""
+  "en": "Angels attacking people...![wait][page]I'm so shocked... And I was a big fan of angels!![wait][end]"
  },
  {
   "id": "M1005",
@@ -74,7 +74,7 @@
    1005
   ],
   "jp": "なんだよ　ハルマゲドンってよ！[n]イミわかんねえよ！[wait][end]",
-  "en": ""
+  "en": "What the heck is this Armageddon thing?! It makes no sense![wait][end]"
  },
  {
   "id": "M1006",
@@ -89,7 +89,7 @@
    1006
   ],
   "jp": "こっちに　来るな！[n]かくれてるのが　ばれちゃうだろ！[wait][end]",
-  "en": ""
+  "en": "Don't come over here! You'll give away my hiding spot![wait][end]"
  },
  {
   "id": "M1007",
@@ -104,7 +104,7 @@
    1007
   ],
   "jp": "こんなときこそ　地下街で買い物よ！[wait][page]そなえあればウレイナシ！[n]じゅぎょうで先生が言ってたもんね[wait][end]",
-  "en": ""
+  "en": "Times like this are for shopping in the underground mall![wait][page]Better safe than sorry! That's what our teacher said in class.[wait][end]"
  },
  {
   "id": "M1008",
@@ -119,7 +119,7 @@
    1008
   ],
   "jp": "早くにげたほうが　よさそうね[wait][end]",
-  "en": ""
+  "en": "Looks like we'd better run for it.[wait][end]"
  },
  {
   "id": "M1009",
@@ -134,7 +134,7 @@
    1009
   ],
   "jp": "[f3]　どうする？[wait][page]レナのやつ　だいじょうぶかなあ？[wait][end]",
-  "en": ""
+  "en": "[f3], what do we do?[wait][page]I wonder if Lena's okay...[wait][end]"
  },
  {
   "id": "M1010",
@@ -149,7 +149,7 @@
    1010
   ],
   "jp": "友達が　天使につれていかれたの[wait][end]",
-  "en": ""
+  "en": "My friend got taken away by an angel.[wait][end]"
  },
  {
   "id": "M1011",
@@ -164,7 +164,7 @@
    1011
   ],
   "jp": "こまったときは地下街に[n]いくといいらしいよ[wait][page]体力が回復できるホテルとか[n]アイテムの買えるお店なんかが[wait][clr]あるんだって[wait][end]",
-  "en": ""
+  "en": "I hear the underground mall is the place to go when you're in trouble.[wait][page]They say there's a hotel where you can recover your health, and shops where you can buy items[wait][clr]and stuff.[wait][end]"
  },
  {
   "id": "M1012",
@@ -179,7 +179,7 @@
    1012
   ],
   "jp": "あっ　[f3]！[n]学校に　行ってみたか？[wait][clr]えらいことに　なりそうだぜ？[wait][page]オレか？[n]オレは・・・にげてきたんだ[wait][page]オレ　オバケとかオカルトとか[n]ダメだからな！[wait][end]",
-  "en": ""
+  "en": "Ah, [f3]! Have you been to the school?[wait][clr]Things are getting crazy over there![wait][page]Me? I... ran away.[wait][page]I can't handle ghosts and spooky stuff![wait][end]"
  },
  {
   "id": "M1013",
@@ -194,7 +194,7 @@
    1013
   ],
   "jp": "もうダメだよ・・・！[n]セカイは　おわっちゃうんだ・・・[wait][page]もっと　いっぱい[n]たべとくんだったなあ・・・[wait][clr]ケーキに　アイスに　あんみつに[wait][clr]パフェに　それから・・・[wait][page]え？もういい？[wait][page]なによ！[n]しんけんにかなしんでるのに！[wait][end]",
-  "en": ""
+  "en": "It's hopeless...! The world's gonna end...[wait][page]I should've eaten way more stuff...[wait][clr]Cake, and ice cream, and anmitsu,[wait][clr]and parfaits, and then...[wait][page]Huh? That's enough?[wait][page]Hey! I'm grieving for real here![wait][end]"
  },
  {
   "id": "M1014",
@@ -209,7 +209,7 @@
    1014
   ],
   "jp": "町を歩いてると　あちこちから[n]ひめいが聞こえなかった？[wait][clr]とくに　小学校のほうから・・・[wait][page]ひょっとしたら[n]マジでやばいのかもね[wait][end]",
-  "en": ""
+  "en": "Walking around town, didn't you hear screaming all over the place?[wait][clr]Especially from the elementary school...[wait][page]Maybe things are seriously bad.[wait][end]"
  },
  {
   "id": "M1015",
@@ -224,7 +224,7 @@
    1015
   ],
   "jp": "[f3]くん　だめよ！[n]あぶないから　家に帰るのよ！[wait][end]",
-  "en": ""
+  "en": "[f3], no! It's dangerous, so go home![wait][end]"
  },
  {
   "id": "M1016",
@@ -239,7 +239,7 @@
    1016
   ],
   "jp": "あらっ　[f3]くん[n]アキラだったら　でかけたわよ[wait][end]",
-  "en": ""
+  "en": "Oh, [f3]. If you're looking for Akira, he went out.[wait][end]"
  },
  {
   "id": "M1017",
@@ -254,7 +254,7 @@
    1017
   ],
   "jp": "[name:12][f3][n]どうしたの・・・？[wait][page]つかれたのなら[n]やすんでいくといいわ[wait][end]",
-  "en": ""
+  "en": "[name:12][f3], what's wrong...?[wait][page]If you're tired, you can stay and rest.[wait][end]"
  },
  {
   "id": "M1018",
@@ -269,7 +269,7 @@
    1018
   ],
   "jp": "もう宝を見つけたのか！？[wait][page]・・・くそう・・・[n]たからさがしでまけたっ！！[wait][page]しかたない・・・[wait][page]今日からオマエが[n]２代目のぼうけんヤロウだ！[wait][page]がんばれよ！[n]・・・くっ・・・！！[wait][page]オレはくやしくなんかないぞ！[n]ウワァァン[wait][end]",
-  "en": ""
+  "en": "You found the treasure already?![wait][page]...Dang it... I lost the treasure hunt!![wait][page]Oh well...[wait][page]Starting today, YOU are the second Adventure Dude![wait][page]Do your best! ...Ngh...!![wait][page]I'm not upset or anything! Waaah![wait][end]"
  },
  {
   "id": "M1019",
@@ -284,7 +284,7 @@
    1019
   ],
   "jp": "ここ天界は[n]ライトパレスにいらっしゃいます[wait][clr]天使長ミカエルさまと[wait][page]ハイエストピークにいらっしゃる[n]大天使エノクさまが[wait][clr]おさめています[wait][page]ライトパレスの行き方ですか？[wait][page]ここから南の　風の風穴をぬけて[n]火の天使の町から西の[wait][clr]ゼーレ平原をぬけて[wait][clr]行くそうですよ[wait][end]",
-  "en": ""
+  "en": "Heaven is ruled by the one in the Light Palace,[wait][clr]Chief Angel Lord Michael,[wait][page]and the one at the Highest Peak, Archangel Lord Enoch,[wait][clr]together.[wait][page]How to get to the Light Palace?[wait][page]I hear you go south of here through the Wind Cavern, then west from the Town of Fire Angels[wait][clr]across the Seele Plains,[wait][clr]and you'll get there.[wait][end]"
  },
  {
   "id": "M1020",
@@ -299,7 +299,7 @@
    1020
   ],
   "jp": "像のカギ穴には[n]カギがささっている[wait][page]もう　そうさする必要は[n]なさそうだ[wait][end]",
-  "en": ""
+  "en": "A key is inserted in the statue's keyhole.[wait][page]There seems to be no need to touch it again.[wait][end]"
  },
  {
   "id": "M1021",
@@ -314,7 +314,7 @@
    1021
   ],
   "jp": "アウドムラの入り口で[n]バフォメットってヤツが[wait][page]デビルチルドレンをまちかまえて[n]とおせんぼしてるんだって[wait][page]ふつうに　アウドムラにむかう[n]人たちにとっては[wait][page]なんだか　いいメイワクな[n]ハナシだよね[wait][end]",
-  "en": ""
+  "en": "I heard some guy named Baphomet is blocking the entrance to Audhumla,[wait][page]lying in wait for the DemiKid.[wait][page]For regular folks just trying to get to Audhumla,[wait][page]that's a real pain, huh?[wait][end]"
  },
  {
   "id": "M1022",
@@ -329,7 +329,7 @@
    1022
   ],
   "jp": "アウドムラの入り口のとおせんぼが[n]いなくなったみたいだね[wait][page]これで　みんなあんしんして[n]アウドムラまで　でかけられるよ[wait][end]",
-  "en": ""
+  "en": "Looks like whoever was blocking the entrance to Audhumla is gone.[wait][page]Now everyone can head out to Audhumla without worrying.[wait][end]"
  },
  {
   "id": "M1023",
@@ -344,7 +344,7 @@
    1023
   ],
   "jp": "みんな　こわがってるんだ[n]きをわるくしないでね[wait][end]",
-  "en": ""
+  "en": "Everyone's just scared. Please don't take it personally.[wait][end]"
  },
  {
   "id": "M1024",
@@ -359,7 +359,7 @@
    1024
   ],
   "jp": "ここは土の天使の町です[wait][end]",
-  "en": ""
+  "en": "This is the Town of Earth Angels.[wait][end]"
  },
  {
   "id": "M1025",
@@ -374,7 +374,7 @@
    1025
   ],
   "jp": "ここも　もうすぐ[n]せんじょうになるのかなあ[wait][end]",
-  "en": ""
+  "en": "I wonder if this place will be a battlefield soon too...[wait][end]"
  },
  {
   "id": "M1026",
@@ -389,7 +389,7 @@
    1026
   ],
   "jp": "アクマどものせいで[n]天界はめちゃくちゃだ！[wait][end]",
-  "en": ""
+  "en": "Heaven's a total mess because of those devils![wait][end]"
  },
  {
   "id": "M1027",
@@ -404,7 +404,7 @@
    1027
   ],
   "jp": "土の樹海は　なれている天使でも[n]時々　迷うことがあるんだ[wait][end]",
-  "en": ""
+  "en": "Even angels who know the Earth Forest well get lost in it now and then.[wait][end]"
  },
  {
   "id": "M1028",
@@ -419,7 +419,7 @@
    1028
   ],
   "jp": "わたしは　じっとたえます[n]あらそいは　何もうみません[wait][end]",
-  "en": ""
+  "en": "I will endure in silence. Fighting creates nothing.[wait][end]"
  },
  {
   "id": "M1029",
@@ -434,7 +434,7 @@
    1029
   ],
   "jp": "この町の西にあるのは　世捨て人の洞寓[n]南は　気まぐれ風のふく　風の風穴さ[wait][page]そこを抜ければ　火の天使の町だ[n]ぐっと　あつくなるから気をつけて[wait][end]",
-  "en": ""
+  "en": "West of this town is the Hermit's Grotto. To the south is the Wind Cavern, where fickle winds blow.[wait][page]Get through there and you'll reach the Town of Fire Angels. It gets a lot hotter, so be careful.[wait][end]"
  },
  {
   "id": "M1030",
@@ -449,7 +449,7 @@
    1030
   ],
   "jp": "いま　この天界では[n]ハルマゲドンの戦いが　おこっている[wait][page]せめこんできた魔界のデビルと[n]戦っているのは　ハイエストピークの[wait][clr]大天使　エノクさまだ[wait][page]ところで　ここから出て[n]西に行ったところにある　洞寓に[wait][clr]世をすてた天使が　住んでいるらしい[wait][page]世をすてるって　いったい[n]どんな理由が　あったんだろうな[wait][end]",
-  "en": ""
+  "en": "Right now, here in Heaven, the battle of Armageddon is raging.[wait][page]The one fighting the demons that invaded from the Demon World is the Archangel[wait][clr]Lord Enoch of the Highest Peak.[wait][page]By the way, I hear that in a grotto west of here[wait][clr]lives an angel who turned his back on the world.[wait][page]I wonder what reason anyone could have for leaving the world behind...[wait][end]"
  },
  {
   "id": "M1031",
@@ -464,7 +464,7 @@
    1031
   ],
   "jp": "えへへ・・・　いいこと教えてあげる[n]風の風穴のかべは　ひみつがあるのよ[wait][page]ところどころだけど・・・なんと！[n]とおりぬけられるの！　すごいでしょ[wait][end]",
-  "en": ""
+  "en": "Hee hee... I'll tell you something good. The walls of the Wind Cavern have a secret.[wait][page]Only in some spots, but... get this! You can walk right through them! Isn't that cool?[wait][end]"
  },
  {
   "id": "M1032",
@@ -479,7 +479,7 @@
    1032
   ],
   "jp": "よくきたね　ここは天界の[n]風の天使の町だよ[wait][end]",
-  "en": ""
+  "en": "Welcome! This is the Town of Wind Angels in Heaven.[wait][end]"
  },
  {
   "id": "M1033",
@@ -494,7 +494,7 @@
    1033
   ],
   "jp": "[name:68]じつは・・・[wait][end]",
-  "en": ""
+  "en": "[name:68]Well, actually...[wait][end]"
  },
  {
   "id": "M1034",
@@ -509,7 +509,7 @@
    1034
   ],
   "jp": "ミッドキングダムは[n]西のゼーレ平原の先だホー[wait][page]南は　火の機械山[n]どっちに行くにしても[wait][clr]気をつけるホー[wait][end]",
-  "en": ""
+  "en": "The Mid Kingdom is past the Seele Plains to the west, hee-ho![wait][page]To the south is Fire Machine Mountain. Whichever way you go,[wait][clr]be careful, hee-ho![wait][end]"
  },
  {
   "id": "M1035",
@@ -524,7 +524,7 @@
    1035
   ],
   "jp": "ミカエルさまは　この町で[n]育ったんだそうだよ[wait][end]",
-  "en": ""
+  "en": "They say Lord Michael grew up in this town.[wait][end]"
  },
  {
   "id": "M1036",
@@ -539,7 +539,7 @@
    1036
   ],
   "jp": "アクマのれんちゅうに伝えてくれ[n]シロクロはっきりさせようってな[wait][end]",
-  "en": ""
+  "en": "Give those devils a message for me: it's time to settle this once and for all.[wait][end]"
  },
  {
   "id": "M1037",
@@ -554,7 +554,7 @@
    1037
   ],
   "jp": "ここは火の天使の町だ[wait][end]",
-  "en": ""
+  "en": "This is the Town of Fire Angels.[wait][end]"
  },
  {
   "id": "M1038",
@@ -569,7 +569,7 @@
    1038
   ],
   "jp": "この戦いは　だれかの[n]たくらみな気がしてならない[wait][end]",
-  "en": ""
+  "en": "I can't shake the feeling that this war is somebody's scheme.[wait][end]"
  },
  {
   "id": "M1039",
@@ -584,7 +584,7 @@
    1039
   ],
   "jp": "ここはエデン[n]天界のラクエンだ[wait][end]",
-  "en": ""
+  "en": "This is Eden, the paradise of Heaven.[wait][end]"
  },
  {
   "id": "M1040",
@@ -599,7 +599,7 @@
    1040
   ],
   "jp": "ここは　えらばれたものだけが[n]住めるばしょなのだ[wait][end]",
-  "en": ""
+  "en": "Only the chosen may live in this place.[wait][end]"
  },
  {
   "id": "M1041",
@@ -614,7 +614,7 @@
    1041
   ],
   "jp": "エデンの奥には　天界のいただき[n]ハイエストピークがあるぞ[wait][end]",
-  "en": ""
+  "en": "Deep within Eden lies the summit of Heaven, the Highest Peak.[wait][end]"
  },
  {
   "id": "M1042",
@@ -629,7 +629,7 @@
    1042
   ],
   "jp": "エノクさまに会いに行くですって？[wait][page]まあ　せいぜい[n]そそうの　ないよう[wait][clr]きをつけることね[wait][end]",
-  "en": ""
+  "en": "You're going to see Lord Enoch?[wait][page]Well, do try your best[wait][clr]not to embarrass yourself.[wait][end]"
  },
  {
   "id": "M1043",
@@ -644,7 +644,7 @@
    1043
   ],
   "jp": "ここはアウドムラの町です[n]ムスペルとニフルのあらそいも[wait][clr]ここまでは　とどきません[wait][end]",
-  "en": ""
+  "en": "This is the Town of Audhumla. The fighting between Muspel and Nifl[wait][clr]doesn't reach us here.[wait][end]"
  },
  {
   "id": "M1044",
@@ -659,7 +659,7 @@
    1044
   ],
   "jp": "このたてものは[n]このセカイの　守護神さまを[wait][clr]まつっている洞寓の入り口さ[wait][end]",
-  "en": ""
+  "en": "This building is the entrance to the grotto[wait][clr]that enshrines the Guardian of this world.[wait][end]"
  },
  {
   "id": "M1045",
@@ -674,7 +674,7 @@
    1045
   ],
   "jp": "ここにまつられている　守護神さまは[n]炎の使徒さまと氷の使徒さまを[wait][clr]守護なさる　それはそれは[wait][clr]ありがたーい　神さまなのさ[wait][end]",
-  "en": ""
+  "en": "The Guardian enshrined here watches over the great Flame Apostle and the great Ice Apostle.[wait][clr]A truly, truly[wait][clr]wonderful god, it is![wait][end]"
  },
  {
   "id": "M1046",
@@ -689,7 +689,7 @@
    1046
   ],
   "jp": "この町には　その昔[n]とうぞくだんがいて[wait][page]そのお宝は　イセカイに[n]かくされたとか・・・[wait][page]そのとうぞくだんは[n]おたからの地図を[wait][page]ニザフィヨルのどこかに[n]かくしたって話よ[wait][end]",
-  "en": ""
+  "en": "Long ago, there was a gang of thieves in this town,[wait][page]and they say their treasure was hidden in another world...[wait][page]And word is, those thieves hid the treasure map[wait][page]somewhere in Nidafjoll.[wait][end]"
  },
  {
   "id": "M1047",
@@ -716,7 +716,7 @@
    1053
   ],
   "jp": "[f3]！　ぶじだったか！[wait][page]ほかのみんなも[n]ぶじだといいんだが・・・[wait][end]",
-  "en": ""
+  "en": "[f3]! You're safe![wait][page]I hope everyone else is safe too...[wait][end]"
  },
  {
   "id": "M1054",
@@ -731,7 +731,7 @@
    1054
   ],
   "jp": "ハルマゲドンが　ホントにおこるなんて[n]しんじられない・・・[wait][end]",
-  "en": ""
+  "en": "I can't believe Armageddon is actually happening...[wait][end]"
  },
  {
   "id": "M1055",
@@ -746,7 +746,7 @@
    1055
   ],
   "jp": "あなたも　ケガをしたの？[n]じゃあ　じっとして[wait][end]",
-  "en": ""
+  "en": "You got hurt too? Then hold still.[wait][end]"
  },
  {
   "id": "M1056",
@@ -761,7 +761,7 @@
    1056
   ],
   "jp": "ダークパレスへようこそ！[n]ルシファーさまが　おまちです[wait][end]",
-  "en": ""
+  "en": "Welcome to the Dark Palace! Lord Lucifer awaits you.[wait][end]"
  },
  {
   "id": "M1057",
@@ -776,7 +776,7 @@
    1057
   ],
   "jp": "ルシファーさまは　右がわの[n]つうろの　おくにいらっしゃるぞ[wait][end]",
-  "en": ""
+  "en": "Lord Lucifer is at the end of the passage on the right.[wait][end]"
  },
  {
   "id": "M1058",
@@ -791,7 +791,7 @@
    1058
   ],
   "jp": "ひさしぶりだな　[f3][n]また　このルシファーのチカラが[wait][page]ひつようになったのか？[wait][end]",
-  "en": ""
+  "en": "It has been a while, [f3]. So once again you have need[wait][page]of the power of Lucifer?[wait][end]"
  },
  {
   "id": "M1059",
@@ -806,7 +806,7 @@
    1059
   ],
   "jp": "このゲートをつかうのか？[wait][end]",
-  "en": ""
+  "en": "Are you going to use this gate?[wait][end]"
  },
  {
   "id": "M1060",
@@ -821,7 +821,7 @@
    1060
   ],
   "jp": "この町の南　落とし穴の森の地下深くに[n]アンヌンの町がある[wait][end]",
-  "en": ""
+  "en": "South of this town, deep under the Forest of Pitfalls, lies the Town of Annwn.[wait][end]"
  },
  {
   "id": "M1061",
@@ -836,7 +836,7 @@
    1061
   ],
   "jp": "セントラルランドへようこそ[wait][end]",
-  "en": ""
+  "en": "Welcome to Central Land.[wait][end]"
  },
  {
   "id": "M1062",
@@ -851,7 +851,7 @@
    1062
   ],
   "jp": "カードはいいねえ・・・[n]戦闘でカードは使ってる？[wait][page]つよーいカードは　世の中に[n]１枚しかなくて[wait][clr]お店では買えないんだって[wait][page]つまり　お店いがいで手に入れた[n]カードは　大事に使ったほうが[wait][clr]いいってことね[wait][end]",
-  "en": ""
+  "en": "Cards are great... Do you use cards in battle?[wait][page]They say the really strong cards are one of a kind,[wait][clr]and you can't buy them in shops.[wait][page]So any card you get somewhere other than a shop[wait][clr]is one you should use wisely.[wait][end]"
  },
  {
   "id": "M1063",
@@ -866,7 +866,7 @@
    1063
   ],
   "jp": "天使たちは　バビロンの迷宮から[n]出てきたそうね・・・[wait][page]そのバビロンの迷宮のある[n]アンヌンの町は[wait][clr]すでにおそわれたらしいし[wait][page]今のところ　天使もここまでは[n]来てないけど[wait][page]いつ　おそってきても[n]おかしくはないのよね・・・[wait][end]",
-  "en": ""
+  "en": "They say the angels came out of the Labyrinth of Babylon...[wait][page]And the Town of Annwn, where the labyrinth is,[wait][clr]has already been attacked, I hear.[wait][page]The angels haven't come this far yet,[wait][page]but they could attack any time now...[wait][end]"
  },
  {
   "id": "M1064",
@@ -881,7 +881,7 @@
    1064
   ],
   "jp": "はるまげどん？[n]まったく・・・なんだってんだよ[wait][page]オレは　パスするぜ[n]めんどくさいのは　ごめんだからな[wait][page]戦ってるヒマがあったら[n]オレは　くんれんじょにいくぜ？[wait][page]新しくおぼえた　マホウをもっと[n]強くしたりするんだ[wait][page]うう・・・[n]ワクワクするぜ・・・！[wait][end]",
-  "en": ""
+  "en": "Armageddon? Seriously... what's the big deal?[wait][page]I'll pass. I'm not in the mood for a hassle.[wait][page]If I've got time to fight, I'd rather hit the training center, y'know?[wait][page]I wanna power up the new magic I just learned.[wait][page]Ooh... I'm getting all fired up...![wait][end]"
  },
  {
   "id": "M1065",
@@ -896,7 +896,7 @@
    1065
   ],
   "jp": "・・・そうだ[n]ここは　アンヌンの町だよ[wait][page]まさかオマエ　天使の手のものか！？[wait][page]・・・いや　ちがうならいいんだ・・・[n]わるかったな　うたがって[wait][end]",
-  "en": ""
+  "en": "...That's right. This is the Town of Annwn.[wait][page]Wait, are you working for the angels!?[wait][page]...No? Then never mind... Sorry I doubted you.[wait][end]"
  },
  {
   "id": "M1066",
@@ -911,7 +911,7 @@
    1066
   ],
   "jp": "いやあ　やはり平和が一番だね[wait][end]",
-  "en": ""
+  "en": "Ahh, peace really is the best.[wait][end]"
  },
  {
   "id": "M1067",
@@ -926,7 +926,7 @@
    1067
   ],
   "jp": "この家には　アマテラスって[n]デビルがすんでいるらしいんだけど[wait][clr]一度もみたことないんだよなあ・・・[wait][page]・・・そういえば　アマテラスには[n]兄弟がいるんだっけか・・・[wait][page]たしか　スサなんとかと[n]ツクなんとか　だったはず・・・[wait][end]",
-  "en": ""
+  "en": "They say a demon called Amaterasu lives in this house,[wait][clr]but I've never seen it even once...[wait][page]...Come to think of it, Amaterasu has siblings, right...?[wait][page]Susa-something and Tsuku-something, I'm pretty sure...[wait][end]"
  },
  {
   "id": "M1068",
@@ -941,7 +941,7 @@
    1068
   ],
   "jp": "ようこそ　ミッドキングダムへ[wait][end]",
-  "en": ""
+  "en": "Welcome to Mid Kingdom.[wait][end]"
  },
  {
   "id": "M1069",
@@ -956,7 +956,7 @@
    1069
   ],
   "jp": "ここだけのハナシ[n]この戦いは　大天使エノクさまが[wait][clr]しかけたとか・・・[wait][page]あ・・・やっぱ　いまのナシ！[n]あくまでもウワサのハナシだもん[wait][end]",
-  "en": ""
+  "en": "Just between us, they say this war was started[wait][clr]by Archangel Lord Enoch...[wait][page]Ah... Wait, forget I said that! It's only a rumor![wait][end]"
  },
  {
   "id": "M1070",
@@ -971,7 +971,7 @@
    1070
   ],
   "jp": "ここから　天界のちゅうおう[n]ライトパレスに行けます[wait][end]",
-  "en": ""
+  "en": "From here, you can go to the Light Palace, the center of Heaven.[wait][end]"
  },
  {
   "id": "M1071",
@@ -986,7 +986,7 @@
    1071
   ],
   "jp": "エノクさまは　かわられた・・・[n]なにかに　とりつかれている[wait][page]そんなふうにみえるのは[n]ワタシだけなんだろうか・・・[wait][end]",
-  "en": ""
+  "en": "Lord Enoch has changed... It's as if something has possessed him.[wait][page]Am I the only one who sees it that way...?[wait][end]"
  },
  {
   "id": "M1072",
@@ -1001,7 +1001,7 @@
    1072
   ],
   "jp": "戦いが　おこりはじめたのは[n]大天使エノクさまの　おひとが[wait][clr]変わられてからなんだけど[wait][clr]なにか　カンケイあるのかな？[wait][end]",
-  "en": ""
+  "en": "The fighting started right after Archangel Lord Enoch[wait][clr]became a different person...[wait][clr]I wonder if there's a connection?[wait][end]"
  },
  {
   "id": "M1073",
@@ -1016,7 +1016,7 @@
    1073
   ],
   "jp": "ようこそ　おいでくださいました[n]どうぞ　おくへおすすみください[wait][end]",
-  "en": ""
+  "en": "We are honored by your visit. Please, proceed inside.[wait][end]"
  },
  {
   "id": "M1074",
@@ -1031,7 +1031,7 @@
    1074
   ],
   "jp": "かいだんは　左のおくにございます[wait][end]",
-  "en": ""
+  "en": "The stairs are at the back on the left.[wait][end]"
  },
  {
   "id": "M1075",
@@ -1046,7 +1046,7 @@
    1075
   ],
   "jp": "くれぐれも　天使長さまに[n]しつれいのないように・・・[wait][end]",
-  "en": ""
+  "en": "Do take care not to be rude to the Chief Angel...[wait][end]"
  },
  {
   "id": "M1076",
@@ -1061,7 +1061,7 @@
    1076
   ],
   "jp": "いらっしゃいませ[wait][page]テーブルのむこうに[n]おまわりください[wait][end]",
-  "en": ""
+  "en": "Welcome![wait][page]Please come around to the other side of the table.[wait][end]"
  },
  {
   "id": "M1077",
@@ -1076,7 +1076,7 @@
    1077
   ],
   "jp": "メダルをおもちでしたら[n]どうぞ　あそんでいってください[wait][end]",
-  "en": ""
+  "en": "If you have medals, please, stay and play a while.[wait][end]"
  },
  {
   "id": "M1078",
@@ -1091,7 +1091,7 @@
    1078
   ],
   "jp": "この町をでて[n]アケロンリバーをぬけると[wait][clr]セントラルランドだッチー[wait][end]",
-  "en": ""
+  "en": "Leave this town and get through the Acheron River,[wait][clr]and you'll be in Central Land, chee![wait][end]"
  },
  {
   "id": "M1079",
@@ -1106,7 +1106,7 @@
    1079
   ],
   "jp": "ここはイネルスタウン[n]小さな　イナカ町さ[wait][page]ハルマゲドン？[n]ああ　天使どもが[wait][clr]魔界に　攻め込んできたんだ[wait][page]おかげで　大変なサワギさ[wait][end]",
-  "en": ""
+  "en": "This is Inels Town, just a little country town.[wait][page]Armageddon? Yeah, the angels[wait][clr]invaded the Demon World.[wait][page]Thanks to them, it's been total chaos.[wait][end]"
  },
  {
   "id": "M1080",
@@ -1121,7 +1121,7 @@
    1080
   ],
   "jp": "この魔界に攻め込んできた[n]天使たちと　戦っているのは[wait][clr]ディープホールの魔王ゼブルさまだ[wait][page]大魔王ルシファーさまは　戦いを[n]やめさせようと　してるらしいぜ[wait][end]",
-  "en": ""
+  "en": "The one fighting the angels who invaded the Demon World[wait][clr]is Lord Zebul, the Demon Lord of the Deep Hole.[wait][page]And I hear Lucifer, the Great Demon Lord, is trying to stop the war.[wait][end]"
  },
  {
   "id": "M1081",
@@ -1136,7 +1136,7 @@
    1081
   ],
   "jp": "天使たちが　人間の子供を[n]連れてきたらしいのよ[wait][page]まさか　戦いに子供たちを[n]まきこむつもりじゃ　ないわよね[wait][end]",
-  "en": ""
+  "en": "I heard the angels brought some human children here.[wait][page]They're not planning to drag kids into the war... are they?[wait][end]"
  },
  {
   "id": "M1082",
@@ -1151,7 +1151,7 @@
    1082
   ],
   "jp": "体力が回復した！！[wait][end]",
-  "en": ""
+  "en": "Your strength was restored!![wait][end]"
  },
  {
   "id": "M1083",
@@ -1166,7 +1166,7 @@
    1083
   ],
   "jp": "町のあちこちで　ひめいがきこえて[n]こわくなって　学校へにげてきたの[wait][end]",
-  "en": ""
+  "en": "I heard screaming all over town, and I got scared, so I ran to the school.[wait][end]"
  },
  {
   "id": "M1084",
@@ -1181,7 +1181,7 @@
    1084
   ],
   "jp": "うちにかえりたい・・・[n]おかあさん　きっとしんぱいしてるわ[wait][end]",
-  "en": ""
+  "en": "I wanna go home... Mom must be so worried about me.[wait][end]"
  },
  {
   "id": "M1085",
@@ -1196,7 +1196,7 @@
    1085
   ],
   "jp": "みんなが　デビルに[n]気をとられているうちに[wait][page]オレはあちこち調べて[n]アイテムいっぱいひろったぜ！[wait][clr]たとえば　教室の植木とかな！[wait][page][f3]も[n]調べてみろよ[wait][page]けっこういいものが[n]見つかるかもしれないぞ[wait][end]",
-  "en": ""
+  "en": "While everyone was busy with the demons...[wait][page]I searched all over and picked up a ton of items![wait][clr]Like from the potted plants in the classroom![wait][page][f3], you should look around too.[wait][page]You might find some pretty good stuff.[wait][end]"
  },
  {
   "id": "M1086",
@@ -1211,7 +1211,7 @@
    1086
   ],
   "jp": "こんにちは　旅の方[n]ここは　修行者の村です[wait][page]なにもないところですが[n]ゆっくり休んでいってください[wait][end]",
-  "en": ""
+  "en": "Hello, traveler. This is the Ascetics' Village.[wait][page]There's not much here, but please, rest as long as you like.[wait][end]"
  },
  {
   "id": "M1087",
@@ -1226,7 +1226,7 @@
    1087
   ],
   "jp": "村を出て　ずっと西に行けば[n]きらびやかな　エデンの都だホー[wait][page]そこからは　大天使エノクさまが[n]いらっしゃる　ハイエストピークに[wait][clr]行く道が　続いているホー[wait][end]",
-  "en": ""
+  "en": "Leave the village and go way out west, and you'll reach the dazzling City of Eden, hee-ho![wait][page]From there, a road leads on to Highest Peak,[wait][clr]where Archangel Lord Enoch dwells, hee-ho![wait][end]"
  },
  {
   "id": "M1088",
@@ -1241,7 +1241,7 @@
    1088
   ],
   "jp": "つらい修行を　とおして[n]見えてくるものもあります[wait][page]あなたの旅も　つらいでしょうが[n]きっとあなたに　よいことですよ[wait][end]",
-  "en": ""
+  "en": "Some things only become clear through hard training.[wait][page]Your journey must be hard too, but I'm sure it will do you good.[wait][end]"
  },
  {
   "id": "M1089",
@@ -1256,7 +1256,7 @@
    1089
   ],
   "jp": "エデンのヤツラはむかつくんだッチー[n]自分たちを　選ばれたヤツだと思って[wait][page]人をおもいっきり見下してるッチー[wait][end]",
-  "en": ""
+  "en": "Those Eden guys really tick me off, chee! They think they're the chosen ones,[wait][page]and they look down their noses at everyone, chee![wait][end]"
  },
  {
   "id": "M1090",
@@ -1271,7 +1271,7 @@
    1090
   ],
   "jp": "ルロウのタミの村へ　いらっしゃい[n]今日も　いい寒さね[wait][page]このニフルヘイムをおさめる[n]氷の使徒さまの氷のチカラが[wait][clr]それだけ強いってことよね[wait][clr]いいことだわ[wait][end]",
-  "en": ""
+  "en": "Welcome to the Village of the Wanderers. Another nice, cold day![wait][page]It just shows how strong the ice power is[wait][clr]of the great Ice Apostle who rules Niflheim.[wait][clr]Isn't that wonderful?[wait][end]"
  },
  {
   "id": "M1091",
@@ -1286,7 +1286,7 @@
    1091
   ],
   "jp": "ここから先の　スネーフィヨルって[n]山道をおりていけば[wait][clr]ダークノースという町につくよ[wait][clr]でも　タビビトさん気をつけて[wait][page]道にまよって　東に行きすぎると[n]フヴェルゲルミルという[wait][page]こおりの山に　まよいこむことに[n]なっちゃうからね[wait][page]あ！そうだ！[wait][page]スネーフィヨルには[n]山小屋があるから[wait][page]もしまよったり　つかれたりしたら[n]そこで休むといいかもね[wait][end]",
-  "en": ""
+  "en": "If you head down the mountain path ahead, Snaefjoll,[wait][clr]you'll reach a town called Dark North.[wait][clr]But be careful, traveler.[wait][page]If you get lost and go too far east,[wait][page]you'll end up wandering into an icy mountain called Hvergelmir.[wait][page]Oh! I know![wait][page]There's a mountain hut on Snaefjoll,[wait][page]so if you get lost or tired, you could rest there.[wait][end]"
  },
  {
   "id": "M1092",
@@ -1301,7 +1301,7 @@
    1092
   ],
   "jp": "あれれ？おにいちゃん[n]見かけない人ね[wait][clr]さむくないの？そんなカッコで[wait][page]まあ　炎のチカラをもつ[n]炎の使徒がおさめる[wait][page]敵のセカイの[n]ムスペルヘイムなら[wait][page]そのカッコでもいいのかも[n]しれないけどね[wait][end]",
-  "en": ""
+  "en": "Huh? Mister, I've never seen you around here.[wait][clr]Aren't you cold, dressed like that?[wait][page]Well, maybe that outfit would be fine[wait][page]in Muspelheim, the enemy world[wait][page]ruled by the Flame Apostle, who has the power of fire.[wait][end]"
  },
  {
   "id": "M1093",
@@ -1331,7 +1331,7 @@
    1094
   ],
   "jp": "ここはねえ　ダークノースって村さ[wait][end]",
-  "en": ""
+  "en": "This here's a village called Dark North.[wait][end]"
  },
  {
   "id": "M1095",
@@ -1346,7 +1346,7 @@
    1095
   ],
   "jp": "ニフルヘイムと[n]ムスペルヘイムのハザマには[wait][page]ギンヌンガガップがあって[n]そこにいらっしゃる守護神さまが[wait][clr]ニフルヘイムとムスペルヘイムを[wait][clr]おつくりになったの[wait][page]でも　なぜかムスペルとニフルの[n]あいだには　戦いがたえないの[wait][page]あらそうことは　このセカイの[n]シュクメイなのかしらね・・・[wait][end]",
-  "en": ""
+  "en": "Between Niflheim and Muspelheim...[wait][page]lies Ginnungagap, and the Guardian who dwells there[wait][clr]created both Niflheim[wait][clr]and Muspelheim.[wait][page]But for some reason, Muspel and Nifl are always at war.[wait][page]Maybe fighting is just this world's destiny...[wait][end]"
  },
  {
   "id": "M1096",
@@ -1361,7 +1361,7 @@
    1096
   ],
   "jp": "そこにいるレジーヌって子は[n]戦いから　にげて来たんだそうよ[wait][page]お姉ちゃんといっしょに[n]にげてきたって話だけど[wait][page]ずっと　あのちょうしで[n]ひとりぼっちみたい[wait][clr]なんだか　かわいそう[wait][end]",
-  "en": ""
+  "en": "That girl over there, Regine, ran away from the fighting.[wait][page]They say she escaped with her big sister,[wait][page]but she's been like that the whole time, all on her own.[wait][clr]Poor thing.[wait][end]"
  },
  {
   "id": "M1097",
@@ -1376,7 +1376,7 @@
    1097
   ],
   "jp": "[name:69]あの時は　ありがとうございました[wait][end]",
-  "en": ""
+  "en": "[name:69]Thank you for what you did back then.[wait][end]"
  },
  {
   "id": "M1098",
@@ -1391,7 +1391,7 @@
    1098
   ],
   "jp": "寒いところ　よくきたねえ[n]ここは　氷の使徒さまの城下町だよ[wait][clr]まあ　ゆっくりしていきな[wait][end]",
-  "en": ""
+  "en": "You came all this way in the cold! This is the castle town of the great Ice Apostle.[wait][clr]Make yourself at home.[wait][end]"
  },
  {
   "id": "M1099",
@@ -1406,7 +1406,7 @@
    1099
   ],
   "jp": "ああもう！！寒い寒い！！[wait][page]なに？お城？[n]それなら北のほうに門があるだろ？[wait][page]東？あっちは巨大な橋だよ[n]となりのセカイのムスペルヘイムが[wait][clr]橋の向こうにあるそうだぜ[wait][page]なにせ巨大な橋だからな[n]とちゅうに　アウドムラなんていう[wait][clr]町ができてるんだ[wait][page]まあ　オレは行ったことないけどな[n]ははは・・・はーっくしょい！！[wait][end]",
-  "en": ""
+  "en": "Argh! So cold, so cold!![wait][page]What? The castle? There's a gate up north, isn't there?[wait][page]East? That's a giant bridge. They say Muspelheim, the next world over,[wait][clr]is on the other side of it.[wait][page]It's such a huge bridge that a town called Audhumla[wait][clr]got built halfway across.[wait][page]Not that I've ever been there. Ha ha ha... Ah-CHOO!![wait][end]"
  },
  {
   "id": "M1100",
@@ -1421,7 +1421,7 @@
    1100
   ],
   "jp": "守護神さまの洞寓の[n]おくふかくには[wait][page]このセカイのヒミツが[n]ねむる場所があるんだって[wait][page]おばあちゃんが　よくきかせてくれる[n]でんせつの中のおはなしだけどね[wait][end]",
-  "en": ""
+  "en": "Deep inside the Guardian's Grotto,[wait][page]there's a place where the secret of this world sleeps.[wait][page]It's just a legend Grandma always tells me, though.[wait][end]"
  },
  {
   "id": "M1101",
@@ -1436,7 +1436,7 @@
    1101
   ],
   "jp": "橋の上の町　アウドムラには[n]ニフルヘイムと　ムスペルヘイムの[wait][clr]始まりのヒミツが　ひめられた[wait][clr]守護神の洞寓ってのが[wait][clr]あるらしいよ[wait][page]うーん・・・[n]そのヒミツ　知りたいなあ・・・[wait][end]",
-  "en": ""
+  "en": "Audhumla, the town on the bridge, has something called the Guardian's Grotto,[wait][clr]where the secret of how Niflheim and Muspelheim[wait][clr]began is hidden,[wait][clr]or so I hear.[wait][page]Hmm... I really wanna know that secret...[wait][end]"
  },
  {
   "id": "M1102",
@@ -1500,7 +1500,7 @@
    1120
   ],
   "jp": "赤いスイッチで　みちはひらける[wait][end]",
-  "en": ""
+  "en": "The red switch will open the way.[wait][end]"
  },
  {
   "id": "M1121",
@@ -1534,7 +1534,7 @@
    1124
   ],
   "jp": "もう　なにもない[wait][end]",
-  "en": ""
+  "en": "There's nothing left.[wait][end]"
  },
  {
   "id": "M1125",
@@ -1549,7 +1549,7 @@
    1125
   ],
   "jp": "かんし兵の　うごきがとまった！[wait][end]",
-  "en": ""
+  "en": "The sentry stopped moving![wait][end]"
  },
  {
   "id": "M1126",
@@ -1564,7 +1564,7 @@
    1126
   ],
   "jp": "かすれた文字で[n]なにか　かいてある・・・[wait][page]近くにある　まほうじんは[n]１かいへのちかみち[wait][end]",
-  "en": ""
+  "en": "Something is written in faded letters...[wait][page]\"The nearby magic circle is a shortcut to the first floor.\"[wait][end]"
  },
  {
   "id": "M1127",
@@ -1579,7 +1579,7 @@
    1127
   ],
   "jp": "つむじ風に飛ばされる！[wait][end]",
-  "en": ""
+  "en": "Blown away by a whirlwind![wait][end]"
  },
  {
   "id": "M1128",
@@ -1594,7 +1594,7 @@
    1128
   ],
   "jp": "すべてのトーチに火をともせ[wait][page]さすれば　道は開かれん[wait][end]",
-  "en": ""
+  "en": "Light every torch,[wait][page]and the way shall be opened.[wait][end]"
  },
  {
   "id": "M1129",
@@ -1609,7 +1609,7 @@
    1129
   ],
   "jp": "トーチに火がついた[wait][end]",
-  "en": ""
+  "en": "The torch is lit.[wait][end]"
  },
  {
   "id": "M1130",
@@ -1624,7 +1624,7 @@
    1130
   ],
   "jp": "トーチの火が消えた[wait][end]",
-  "en": ""
+  "en": "The torch went out.[wait][end]"
  },
  {
   "id": "M1131",
@@ -1639,7 +1639,7 @@
    1131
   ],
   "jp": "すべてのトーチに火がついた！[wait][end]",
-  "en": ""
+  "en": "All the torches are lit![wait][end]"
  },
  {
   "id": "M1132",
@@ -1654,7 +1654,7 @@
    1132
   ],
   "jp": "トビラが開いた[wait][end]",
-  "en": ""
+  "en": "The door opened.[wait][end]"
  },
  {
   "id": "M1133",
@@ -1669,7 +1669,7 @@
    1133
   ],
   "jp": "しんにゅうしゃ　かんしシステム[wait][page][f7:2]●[f7:1]は　３かいへの　トビラのスイッチ[n][f7:5]▼[f7:1]は　かんし兵のばしょ[wait][page]かんし兵に　みつかると[n]かいだんまで　つれもどされます[wait][end]",
-  "en": ""
+  "en": "Intruder Surveillance System[wait][page][f7:2]●[f7:1] marks the switches to the third-floor door. [f7:5]▼[f7:1] marks where the sentries are.[wait][page]If a sentry spots you, you will be taken back to the stairs.[wait][end]"
  },
  {
   "id": "M1134",
@@ -1684,7 +1684,7 @@
    1134
   ],
   "jp": "[f3]は　[n]スイッチを押した・・・！！[wait][page]しかけが　うごきはじめる・・・！[wait][end]",
-  "en": ""
+  "en": "[f3] pressed the switch...!![wait][page]The mechanism starts to move...![wait][end]"
  },
  {
   "id": "M1135",
@@ -1699,7 +1699,7 @@
    1135
   ],
   "jp": "かたくて重そうな岩が[n]ぐらぐらしている・・・[wait][page]すこしでも　押せば[n]階段をころがっていきそうだ[wait][end]",
-  "en": ""
+  "en": "A hard, heavy-looking rock is wobbling...[wait][page]Even a little push looks like it would send it rolling down the stairs.[wait][end]"
  },
  {
   "id": "M1136",
@@ -1714,7 +1714,7 @@
    1136
   ],
   "jp": "[name:1][face:255]この岩は　おもそうだけど[n]オレなら　ちょっと押すこと[wait][clr]くらいはできそうだぜ[wait][page]岩を押すなら　オレに乗って[n]岩をしらべてみてくれ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]This rock looks heavy, but I bet I could[wait][clr]give it a little push, at least.[wait][page]If you wanna push it, hop on my back and check the rock.[wait][end]"
  },
  {
   "id": "M1137",
@@ -1729,7 +1729,7 @@
    1137
   ],
   "jp": "岩を押しますか？[fb:0][end]",
-  "en": ""
+  "en": "Push the rock?[fb:0][end]"
  },
  {
   "id": "M1138",
@@ -1744,7 +1744,7 @@
    1138
   ],
   "jp": "[f3]には[n]重くて　うごかせない・・・[wait][end]",
-  "en": ""
+  "en": "It's too heavy for [f3] to move...[wait][end]"
  },
  {
   "id": "M1139",
@@ -1759,7 +1759,7 @@
    1139
   ],
   "jp": "岩が　しょうがいぶつを[n]はかいした！[wait][end]",
-  "en": ""
+  "en": "The rock smashed the obstacle![wait][end]"
  },
  {
   "id": "M1140",
@@ -1774,7 +1774,7 @@
    1140
   ],
   "jp": "[name:1][face:255][f3]！ひきかえそう[n]岩のしたじきなんて　ごめんだぜ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! Let's turn back. I'm not getting squashed under a rock![wait][end]"
  },
  {
   "id": "M1141",
@@ -1789,7 +1789,7 @@
    1141
   ],
   "jp": "岩がはっしゃそうちにセットされた[wait][end]",
-  "en": ""
+  "en": "The rock was loaded into the launcher.[wait][end]"
  },
  {
   "id": "M1142",
@@ -1804,7 +1804,7 @@
    1142
   ],
   "jp": "ハッシャソウチ[n]キドウシマス[wait][end]",
-  "en": ""
+  "en": "LAUNCHER... ACTIVATING.[wait][end]"
  },
  {
   "id": "M1143",
@@ -1819,7 +1819,7 @@
    1143
   ],
   "jp": "岩がくだけた！[wait][end]",
-  "en": ""
+  "en": "The rock shattered![wait][end]"
  },
  {
   "id": "M1144",
@@ -1834,7 +1834,7 @@
    1144
   ],
   "jp": "スイッチを押した！[wait][end]",
-  "en": ""
+  "en": "You pressed the switch![wait][end]"
  },
  {
   "id": "M1145",
@@ -1849,7 +1849,7 @@
    1145
   ],
   "jp": "かんし兵が　石像になった・・・[wait][end]",
-  "en": ""
+  "en": "The sentry turned to stone...[wait][end]"
  },
  {
   "id": "M1146",
@@ -1864,7 +1864,7 @@
    1146
   ],
   "jp": "なにかふるめかしい文字で[n]書かれている・・・[wait][page]はかりのとびらを　とおるものは[n]ナカマの数×１００マッカを[wait][clr]ぎんのさらに置くべし・・・[wait][page]マッカつりあわぬ時[n]とびらは開き　行く手をはばむだろう[wait][page]とびら開きしとき　マッカは消え[n]ぎんのさらは　あらたに[wait][clr]マッカをもとめるものとする[wait][page]なお　パートナーは[n]ナカマであることも[wait][clr]ここに書きしるすものなり[wait][end]",
-  "en": ""
+  "en": "Something is written in an ancient script...[wait][page]\"Whoso passes the Door of Scales shall place Macca equal to allies x 100[wait][clr]upon the silver plate...[wait][page]Should the Macca not balance, the door shall bar thy way.[wait][page]When the door opens, the Macca shall vanish, and the silver plate[wait][clr]shall demand Macca anew.[wait][page]Be it also written here[wait][clr]that thy partner counts as an ally.\"[wait][end]"
  },
  {
   "id": "M1147",
@@ -1879,7 +1879,7 @@
    1147
   ],
   "jp": "なにかふるめかしい文字で[n]書かれている・・・[wait][page]スイッチがとびらを開く・・・[wait][end]",
-  "en": ""
+  "en": "Something is written in an ancient script...[wait][page]\"The switch opens the door...\"[wait][end]"
  },
  {
   "id": "M1148",
@@ -1894,7 +1894,7 @@
    1148
   ],
   "jp": "ぎんのさらにマッカを置きますか？[fb:0][end]",
-  "en": ""
+  "en": "Place Macca on the silver plate?[fb:0][end]"
  },
  {
   "id": "M1149",
@@ -1909,7 +1909,7 @@
    1149
   ],
   "jp": "マッカが足りない・・・[wait][end]",
-  "en": ""
+  "en": "Not enough Macca...[wait][end]"
  },
  {
   "id": "M1150",
@@ -1924,7 +1924,7 @@
    1150
   ],
   "jp": "[f3]は　ぎんのさらに[n]１００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 100 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1151",
@@ -1939,7 +1939,7 @@
    1151
   ],
   "jp": "[f3]は　ぎんのさらに[n]２００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 200 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1152",
@@ -1954,7 +1954,7 @@
    1152
   ],
   "jp": "[f3]は　ぎんのさらに[n]３００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 300 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1153",
@@ -1969,7 +1969,7 @@
    1153
   ],
   "jp": "[f3]は　ぎんのさらに[n]４００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 400 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1154",
@@ -1984,7 +1984,7 @@
    1154
   ],
   "jp": "[f3]は　ぎんのさらに[n]５００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 500 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1155",
@@ -1999,7 +1999,7 @@
    1155
   ],
   "jp": "[f3]は　ぎんのさらに[n]６００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 600 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1156",
@@ -2014,7 +2014,7 @@
    1156
   ],
   "jp": "[f3]は　ぎんのさらに[n]７００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 700 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1157",
@@ -2029,7 +2029,7 @@
    1157
   ],
   "jp": "[f3]は　ぎんのさらに[n]８００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 800 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1158",
@@ -2044,7 +2044,7 @@
    1158
   ],
   "jp": "[f3]は　ぎんのさらに[n]９００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 900 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1159",
@@ -2059,7 +2059,7 @@
    1159
   ],
   "jp": "[f3]は　ぎんのさらに[n]１０００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 1000 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1160",
@@ -2074,7 +2074,7 @@
    1160
   ],
   "jp": "[f3]は　ぎんのさらに[n]１１００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 1100 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1161",
@@ -2089,7 +2089,7 @@
    1161
   ],
   "jp": "[f3]は　ぎんのさらに[n]１２００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 1200 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1162",
@@ -2104,7 +2104,7 @@
    1162
   ],
   "jp": "[f3]は　ぎんのさらに[n]１３００マッカをのせた[wait][end]",
-  "en": ""
+  "en": "[f3] placed 1300 Macca on the silver plate.[wait][end]"
  },
  {
   "id": "M1163",
@@ -2119,7 +2119,7 @@
    1163
   ],
   "jp": "マッカチェック・・・[wait][end]",
-  "en": ""
+  "en": "Macca check...[wait][end]"
  },
  {
   "id": "M1164",
@@ -2134,7 +2134,7 @@
    1164
   ],
   "jp": "マッカチェックをパスした！[wait][end]",
-  "en": ""
+  "en": "Macca check passed![wait][end]"
  },
  {
   "id": "M1165",
@@ -2149,7 +2149,7 @@
    1165
   ],
   "jp": "もうマッカを　おくひつようはない[wait][end]",
-  "en": ""
+  "en": "No need to place any more Macca.[wait][end]"
  },
  {
   "id": "M1166",
@@ -2164,7 +2164,7 @@
    1166
   ],
   "jp": "[f4]を　見つけた[wait][end]",
-  "en": ""
+  "en": "Found [f4].[wait][end]"
  },
  {
   "id": "M1167",
@@ -2179,7 +2179,7 @@
    1167
   ],
   "jp": "もちものがいっぱいだ！[wait][end]",
-  "en": ""
+  "en": "Your inventory is full![wait][end]"
  },
  {
   "id": "M1168",
@@ -2194,7 +2194,7 @@
    1168
   ],
   "jp": "[name:1][face:255][f3][n]水がじゃまで先にすすめないぜ[wait][page]ふんすいを止めるスイッチが[n]どこかにあるはずだ[wait][clr]そいつを　さがそうぜ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3], the water's blocking our way.[wait][page]There's gotta be a switch somewhere that shuts off the fountain.[wait][clr]Let's go find it.[wait][end]"
  },
  {
   "id": "M1169",
@@ -2209,7 +2209,7 @@
    1169
   ],
   "jp": "ライオンが輪をくわえている・・・[wait][page]輪をひっぱりますか？[fb:0][end]",
-  "en": ""
+  "en": "A lion holds a ring in its mouth...[wait][page]Pull the ring?[fb:0][end]"
  },
  {
   "id": "M1170",
@@ -2224,7 +2224,7 @@
    1170
   ],
   "jp": "ちっ！　またか・・・！[wait][end]",
-  "en": ""
+  "en": "Tch! Not again...![wait][end]"
  },
  {
   "id": "M1171",
@@ -2239,7 +2239,7 @@
    1171
   ],
   "jp": "こいつ　ここんとこ[n]キゲンがわるいんだよなあ[wait][page]だましだまし　やってきたが[n]もう　ダメなのかな・・・[wait][end]",
-  "en": ""
+  "en": "This thing's been in a bad mood lately.[wait][page]I've been coaxing it along, but maybe it's finally done for...[wait][end]"
  },
  {
   "id": "M1172",
@@ -2254,7 +2254,7 @@
    1172
   ],
   "jp": "・・・ん？どうした？お客さん[n]このオンボロが　めずらしいかい？[wait][page]こいつは　この宿をむかしっから[n]あたためてくれてる　ボイラーさ[wait][page]だいじに使ってきたんだが[n]もう　しゅうり用の部品もないんだ[wait][page]こいつが　なくなっちゃうと[n]オレとしちゃ　さびしいかぎりだが[wait][page]ざんねんながら[n]もう　じゅみょうみたいだ[wait][page]むかしはこの宿にも　しゅうり用の[n]ブヒンが　ごろごろしてて[wait][clr]だれが　持っていっても　気にも[wait][clr]とめなかったもんだが・・・[wait][page]今となっちゃ　もう少しだいじに[n]カンリしときゃよかったと思うよ[wait][page]ブヒンさえあればなあ・・・くそっ[wait][end]",
-  "en": ""
+  "en": "...Hm? What's up, pal? Never seen an old clunker like this?[wait][page]This here's the boiler that's kept this inn warm since way back.[wait][page]I've taken good care of it, but there are no spare parts left to fix it.[wait][page]I'll sure be lonely if this old thing goes,[wait][page]but sadly, looks like its time is up.[wait][page]Back in the day, this inn had spare parts lying all over the place,[wait][clr]and nobody cared one bit[wait][clr]who walked off with 'em...[wait][page]Now I wish I'd kept better track of 'em.[wait][page]If only I had some parts... Dammit.[wait][end]"
  },
  {
   "id": "M1173",
@@ -2269,7 +2269,7 @@
    1173
   ],
   "jp": "ブヒンさえあればなあ・・・[wait][end]",
-  "en": ""
+  "en": "If only I had some parts...[wait][end]"
  },
  {
   "id": "M1174",
@@ -2284,7 +2284,7 @@
    1174
   ],
   "jp": "あんたこれをどこで！？[n]いや　そんなことはどうでもいい！[wait][page]とにかくありがとう！[n]おんにきるぜ！[wait][page]これだけあれば　オレが生きてる[n]あいだじゅうでも　もちそうだ[wait][clr]なにか　おれいがしたいが・・・[wait][page]・・・おお　そうだ！[n]あんたの　そのキングライザー[wait][page]そいつをパワーアップするってのは[n]どうだい？[wait][page]なに　こうみえてもオレは[n]天界でも　うでききのメカニックだ[wait][clr]しんぱいすることはねえ[wait][page]ちょっとまっててくれよ[n]いいシゴトしてみせるぜ！[wait][end]",
-  "en": ""
+  "en": "Where'd you get these?! No, never mind that![wait][page]Thanks a ton! I owe you one![wait][page]With this many, it should keep running for as long as I live.[wait][clr]I'd like to thank you somehow...[wait][page]...Oh, I know! That King Riser of yours.[wait][page]How 'bout I power it up for you?[wait][page]Hey, I may not look it, but I'm a crack mechanic, even by Heaven's standards.[wait][clr]No need to worry.[wait][page]Just wait a sec. I'll do a fine job, you'll see![wait][end]"
  },
  {
   "id": "M1175",
@@ -2299,7 +2299,7 @@
    1175
   ],
   "jp": "よーし！できたぜ！！[wait][page]これで　キングライザーの[n]そうだん数が　アップしたはずだ！[wait][clr]ばっちり使ってくれよな！[wait][page]じゃ　オレはさっそく[n]もらったブヒンを使わせてもらうぜ[wait][clr]わざわざ　ありがとうな[wait][end]",
-  "en": ""
+  "en": "All right! It's done!![wait][page]Now your King Riser should be able to consult more times![wait][clr]Put it to good use![wait][page]Well, I'm gonna get right to using those parts you gave me.[wait][clr]Thanks for going to the trouble.[wait][end]"
  },
  {
   "id": "M1176",
@@ -2314,7 +2314,7 @@
    1176
   ],
   "jp": "ブヒンありがとうな[n]まあ　ゆっくりしていってくれ[wait][end]",
-  "en": ""
+  "en": "Thanks for the parts. Make yourself at home.[wait][end]"
  },
  {
   "id": "M1177",
@@ -2329,7 +2329,7 @@
    1177
   ],
   "jp": "なに？しゅうり用のブヒンがほしい？[wait][page]今　いそがしいんだから[n]そんな　つまらんことで[wait][clr]よばないでくれ[wait][page]ブヒンなんか　そこのハコの中に[n]くさるほど　入ってるだろう？[wait][clr]いくらでも　かってにもってってくれ[wait][end]",
-  "en": ""
+  "en": "What? You want spare parts?[wait][page]I'm busy right now,[wait][clr]so don't bug me with that nonsense.[wait][page]Ain't that box over there stuffed with parts?[wait][clr]Take as many as you want.[wait][end]"
  },
  {
   "id": "M1178",
@@ -2344,7 +2344,7 @@
    1178
   ],
   "jp": "ああ　まったく・・・[n]いそがしい　いそがしい[wait][end]",
-  "en": ""
+  "en": "Honestly...[n]Busy, busy, busy.[wait][end]"
  },
  {
   "id": "M1179",
@@ -2359,7 +2359,7 @@
    1179
   ],
   "jp": "[name:65]あ・・・　たびびとさんか・・・[n]・・・あのう・・・[wait][clr]ユビワをみかけなかった？[wait][end]",
-  "en": ""
+  "en": "[name:65]Oh... a traveler...[n]...Um...[wait][clr]Have you seen a ring?[wait][end]"
  },
  {
   "id": "M1180",
@@ -2374,7 +2374,7 @@
    1180
   ],
   "jp": "[name:0][face:1]ユビワ？[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]A ring?[wait][end]"
  },
  {
   "id": "M1181",
@@ -2389,7 +2389,7 @@
    1181
   ],
   "jp": "[name:65]トモダチの　かたみのユビワを[n]どこかでなくしてしまって・・・[wait][page]このあいだ　出かけたとき[n]なくしたらしいんだけど[wait][clr]こころあたりを　さがしても[wait][clr]みつからないんだ[wait][page]おとした　すぐ後なら[n]みつかったかもしれないとおもうと[wait][clr]くやしいやら　かなしいやら・・・[wait][page]もしも　みかけたら[n]もってきてくれないかなあ？[wait][page]たぶん　むりだとおもうけど・・・[wait][end]",
-  "en": ""
+  "en": "[name:65]I lost a ring my friend left me, somewhere...[wait][page]I think I lost it last time I went out,[wait][clr]but I've looked everywhere I can think of[wait][clr]and I can't find it.[wait][page]When I think I might've found it if I'd looked right after I dropped it,[wait][clr]I'm so frustrated, and so sad...[wait][page]If you happen to see it, could you bring it to me?[wait][page]Though I guess that's hopeless...[wait][end]"
  },
  {
   "id": "M1182",
@@ -2404,7 +2404,7 @@
    1182
   ],
   "jp": "[name:65]はあ・・・[n]なんで　おとしちゃったんだろう？[wait][end]",
-  "en": ""
+  "en": "[name:65]Sigh... Why did I have to drop it?[wait][end]"
  },
  {
   "id": "M1183",
@@ -2419,7 +2419,7 @@
    1183
   ],
   "jp": "[name:65]・・・それは！！[n]かたみのユビワ！！[wait][page]ありがとう・・・[n]とどけてくれて・・・[wait][page]このユビワは　トモダチの[n]ユイイツのかたみなんだ[wait][page]トモダチはハルマゲドンに[n]まきこまれて・・・[wait][end]",
-  "en": ""
+  "en": "[name:65]...That's!! My friend's ring!![wait][page]Thank you... for bringing it to me...[wait][page]This ring is the only thing my friend left behind.[wait][page]My friend got caught up in Armageddon...[wait][end]"
  },
  {
   "id": "M1184",
@@ -2434,7 +2434,7 @@
    1184
   ],
   "jp": "[name:0][face:1]・・・そうだったのか・・・[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]...So that's what happened...[wait][end]"
  },
  {
   "id": "M1185",
@@ -2449,7 +2449,7 @@
    1185
   ],
   "jp": "[name:65]・・・あの・・・[n]ひとつおしえてくれないかな？[wait][page]世の中の　あらそいごとは[n]どうしたら終わるんだろう？[wait][page]あらそいごとで　かなしいおもいを[n]するひとがふえるのは[wait][clr]もう　イヤなんだ[wait][end]",
-  "en": ""
+  "en": "[name:65]...Um... Can you tell me something?[wait][page]How can all the fighting in the world be stopped?[wait][page]I don't want any more people to be hurt[wait][clr]by fighting.[wait][end]"
  },
  {
   "id": "M1186",
@@ -2464,7 +2464,7 @@
    1186
   ],
   "jp": "どうする？[wait][end]",
-  "en": ""
+  "en": "What will you do?[wait][end]"
  },
  {
   "id": "M1187",
@@ -2479,7 +2479,7 @@
    1187
   ],
   "jp": "オレたちがとめるんだ！[n]わからない・・・[end]",
-  "en": ""
+  "en": "We'll stop it![n]I don't know...[end]"
  },
  {
   "id": "M1188",
@@ -2494,7 +2494,7 @@
    1188
   ],
   "jp": "[name:0][face:1]オレたちといっしょに[n]やめさせにいこう！[wait][page]オレたちは　そのために[n]旅をしてるんだ[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]Come with us and let's go stop it![wait][page]That's why we're on this journey.[wait][end]"
  },
  {
   "id": "M1189",
@@ -2509,7 +2509,7 @@
    1189
   ],
   "jp": "[name:65]そうか・・・そうだね[n]やめさせに行けばいいんだ！[wait][page]ボクもいっしょに行くよ！[n]キミたちといっしょに戦うんだ[wait][end]",
-  "en": ""
+  "en": "[name:65]I see... You're right. We just have to go stop it![wait][page]I'll come with you! I'll fight by your side.[wait][end]"
  },
  {
   "id": "M1190",
@@ -2524,7 +2524,7 @@
    1190
   ],
   "jp": "[name:0][face:1]わからない・・・[n]けど　あらそいごとは[wait][page]いますぐ　やめさせなきゃ[n]いけないぜ！[wait][page]オレたちはそのために[n]旅をしてるんだ！[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]I don't know...[n]But the fighting[wait][page]has to be stopped right now![wait][page]That's why we're on this journey![wait][end]"
  },
  {
   "id": "M1191",
@@ -2539,7 +2539,7 @@
    1191
   ],
   "jp": "ハティがナカマになった！[wait][end]",
-  "en": ""
+  "en": "Hati joined you![wait][end]"
  },
  {
   "id": "M1192",
@@ -2554,7 +2554,7 @@
    1192
   ],
   "jp": "[name:65]・・・と思ったら[n]ナカマがいっぱいなんだね[wait][page]空きができたら　いつでも[n]呼びにきてよ　まってるからさ[wait][end]",
-  "en": ""
+  "en": "[name:65]...Oh, but you have too many allies.[wait][page]When you have room, come get me anytime. I'll be waiting.[wait][end]"
  },
  {
   "id": "M1193",
@@ -2569,7 +2569,7 @@
    1193
   ],
   "jp": "[name:65]まってたよ　さあ　いこうか[wait][end]",
-  "en": ""
+  "en": "[name:65]I've been waiting. Well, let's go.[wait][end]"
  },
  {
   "id": "M1194",
@@ -2584,7 +2584,7 @@
    1194
   ],
   "jp": "[name:65]ふう　ミッドキングダムって[n]とおいなあ[wait][page]かいものに行ったら[n]こんなにおそくなっちゃったぞ[wait][page]でも　家まであとすこしだし[n]がんばって　かえるとするかな・・・[wait][end]",
-  "en": ""
+  "en": "[name:65]Phew, the Mid Kingdom sure is far.[wait][page]I went shopping and now it's gotten so late.[wait][page]But home's not far now. Guess I'll hang in there and keep going...[wait][end]"
  },
  {
   "id": "M1195",
@@ -2599,7 +2599,7 @@
    1195
   ],
   "jp": "[name:1][face:255]ん・・・？[n]おい　[f3][wait][clr]あいつ　なにか落としていったぞ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Hm...?[n]Hey, [f3].[wait][clr]That guy dropped something.[wait][end]"
  },
  {
   "id": "M1196",
@@ -2614,7 +2614,7 @@
    1196
   ],
   "jp": "[name:0][face:1]ユビワだ！[n]なんとか　かえしてあげないとな[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]It's a ring! We've gotta get it back to him somehow.[wait][end]"
  },
  {
   "id": "M1197",
@@ -2629,7 +2629,7 @@
    1197
   ],
   "jp": "[name:1][face:255]さすが[f3][wait][page]おとしものは　もちぬしに[n]かえしてあげなくっちゃな[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]That's my [f3]![wait][page]Lost stuff's gotta go back to its owner, right?[wait][end]"
  },
  {
   "id": "M1198",
@@ -2644,7 +2644,7 @@
    1198
   ],
   "jp": "時のかべが[n][f3]のゆくてをはばむ！[wait][end]",
-  "en": ""
+  "en": "The Wall of Time blocks [f3]'s way![wait][end]"
  },
  {
   "id": "M1199",
@@ -2659,6 +2659,6 @@
    1199
   ],
   "jp": "[name:66]なあ　そこのわかいの[wait][page]ワシをヨウヘイとして[n]やとってみんか？[wait][page]・・・はあ・・・わかっとるよ・・・[n]ムチャだってことくらいな・・・[wait][page]これでも　むかしは　ウデジマンの[n]ヨウヘイだったんじゃがなあ・・・[wait][page]たかいマッカに　目がくらんで[n]金もちのガードマンばかり[wait][clr]やっておったせいで[wait][page]ジマンのウデも　ふるうチャンスが[n]あまりなかったんじゃ・・・[wait][clr]それが　くやまれてのう・・・[wait][page]わかいうちから　金ばかりもとめても[n]ろくなことがないってことじゃな[wait][page]とほほ・・・じゃ[wait][end]",
-  "en": ""
+  "en": "[name:66]Say there, youngster.[wait][page]How'd you like to hire me as a mercenary?[wait][page]...Sigh... I know, I know...[n]It's a crazy idea...[wait][page]Even so, I was once a mercenary proud of his strength...[wait][page]But I got blinded by big Macca and only worked as a guard for rich folk,[wait][clr]and so[wait][page]I hardly ever got the chance to show off my strength...[wait][clr]That's my one regret...[wait][page]Chasing nothing but money while you're young does you no good, that's the lesson.[wait][page]Woe is me...[wait][end]"
  }
 ]
