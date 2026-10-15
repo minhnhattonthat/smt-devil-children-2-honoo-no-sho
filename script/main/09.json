@@ -357,7 +357,7 @@
    1901
   ],
   "jp": "宝箱の中身はからっぽです[wait][end]",
-  "en": ""
+  "en": "The treasure chest is empty.[wait][end]"
  },
  {
   "id": "M1902",
@@ -372,7 +372,7 @@
    1902
   ],
   "jp": "このデータに上書きします[n]いいですか？[fb:1][end]",
-  "en": ""
+  "en": "Overwrite this data. Is that okay?[fb:1][end]"
  },
  {
   "id": "M1903",
@@ -387,7 +387,7 @@
    1903
   ],
   "jp": "このデータをセーブします[n]いいですか？[fb:0][end]",
-  "en": ""
+  "en": "Save this data. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1904",
@@ -402,7 +402,7 @@
    1904
   ],
   "jp": "このデータをロードします[n]いいですか？[fb:0][end]",
-  "en": ""
+  "en": "Load this data. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1905",
@@ -417,7 +417,7 @@
    1905
   ],
   "jp": "ここにはナカマがいません[wait][end]",
-  "en": ""
+  "en": "There are no allies here.[wait][end]"
  },
  {
   "id": "M1906",
@@ -432,7 +432,7 @@
    1906
   ],
   "jp": "このナカマとわかれますか？[fb:1][end]",
-  "en": ""
+  "en": "Part ways with this ally?[fb:1][end]"
  },
  {
   "id": "M1907",
@@ -447,7 +447,7 @@
    1907
   ],
   "jp": "[e8]と[n]わかれました[wait][end]",
-  "en": ""
+  "en": "Parted ways with [e8].[wait][end]"
  },
  {
   "id": "M1908",
@@ -462,7 +462,7 @@
    1908
   ],
   "jp": "キングクラスのナカマを[n]デビライザーにいれられません[wait][end]",
-  "en": ""
+  "en": "King-class allies can't be put into the Demiloc.[wait][end]"
  },
  {
   "id": "M1909",
@@ -477,7 +477,7 @@
    1909
   ],
   "jp": "このアイテムはつかえません[wait][end]",
-  "en": ""
+  "en": "This item can't be used.[wait][end]"
  },
  {
   "id": "M1910",
@@ -492,7 +492,7 @@
    1910
   ],
   "jp": "アイテムをもっていません[wait][end]",
-  "en": ""
+  "en": "You don't have any items.[wait][end]"
  },
  {
   "id": "M1911",
@@ -507,7 +507,7 @@
    1911
   ],
   "jp": "[f4]を[n][ec:0]こ　すてました[wait][end]",
-  "en": ""
+  "en": "Threw away [f4]. Amount: [ec:0].[wait][end]"
  },
  {
   "id": "M1912",
@@ -522,7 +522,7 @@
    1912
   ],
   "jp": "[f4]をすてます[n]いいですか？[fb:0][end]",
-  "en": ""
+  "en": "Throw away [f4]. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1913",
@@ -537,7 +537,7 @@
    1913
   ],
   "jp": "[f4]　[ec:0]こで[n]〒[ec:1]でいいですか？[fb:0][end]",
-  "en": ""
+  "en": "[f4], quantity [ec:0], for a total of 〒[ec:1]. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1914",
@@ -552,7 +552,7 @@
    1914
   ],
   "jp": "[f4]を[n]うりました[wait][end]",
-  "en": ""
+  "en": "Sold [f4].[wait][end]"
  },
  {
   "id": "M1915",
@@ -567,7 +567,7 @@
    1915
   ],
   "jp": "宝箱には　なにもはいっていない[wait][end]",
-  "en": ""
+  "en": "There's nothing in the treasure chest.[wait][end]"
  },
  {
   "id": "M1916",
@@ -582,7 +582,7 @@
    1916
   ],
   "jp": "[f4]が[n]はいっていた[wait][end]",
-  "en": ""
+  "en": "Found [f4] inside.[wait][end]"
  },
  {
   "id": "M1917",
@@ -597,7 +597,7 @@
    1917
   ],
   "jp": "〒[ec:0]が[n]はいっていた[wait][end]",
-  "en": ""
+  "en": "Found 〒[ec:0] inside.[wait][end]"
  },
  {
   "id": "M1918",
@@ -612,7 +612,7 @@
    1918
   ],
   "jp": "宝箱のなかみはデビルだった！！[wait][end]",
-  "en": ""
+  "en": "The treasure chest held a demon!![wait][end]"
  },
  {
   "id": "M1919",
@@ -627,7 +627,7 @@
    1919
   ],
   "jp": "[f4]が[n]いっぱいでもてない[wait][end]",
-  "en": ""
+  "en": "Can't carry any more [f4].[wait][end]"
  },
  {
   "id": "M1920",
@@ -642,7 +642,7 @@
    1920
   ],
   "jp": "マッカがいっぱいで[n]これ以上もてない[wait][end]",
-  "en": ""
+  "en": "Too much Macca. Can't carry any more.[wait][end]"
  },
  {
   "id": "M1921",
@@ -657,7 +657,7 @@
    1921
   ],
   "jp": "[f4]を[n]手に入れた[wait][end]",
-  "en": ""
+  "en": "Obtained [f4].[wait][end]"
  },
  {
   "id": "M1922",
@@ -672,7 +672,7 @@
    1922
   ],
   "jp": "[f4]を[n]あきらめた[wait][end]",
-  "en": ""
+  "en": "Gave up on [f4].[wait][end]"
  },
  {
   "id": "M1923",
@@ -687,7 +687,7 @@
    1923
   ],
   "jp": "マッカをあきらめた[wait][end]",
-  "en": ""
+  "en": "Gave up on the Macca.[wait][end]"
  },
  {
   "id": "M1924",
@@ -702,7 +702,7 @@
    1924
   ],
   "jp": "〒[ec:0][n]手に入れた[wait][end]",
-  "en": ""
+  "en": "Obtained 〒[ec:0].[wait][end]"
  },
  {
   "id": "M1925",
@@ -717,7 +717,7 @@
    1925
   ],
   "jp": "セーブしました[wait][end]",
-  "en": ""
+  "en": "Saved.[wait][end]"
  },
  {
   "id": "M1926",
@@ -732,7 +732,7 @@
    1926
   ],
   "jp": "セーブしませんでした[wait][end]",
-  "en": ""
+  "en": "Did not save.[wait][end]"
  },
  {
   "id": "M1927",
@@ -747,7 +747,7 @@
    1927
   ],
   "jp": "↓デビルしゅつげんりつダウン↓[wait][end]",
-  "en": ""
+  "en": "Demon encounter rate down![wait][end]"
  },
  {
   "id": "M1928",
@@ -762,7 +762,7 @@
    1928
   ],
   "jp": "↑デビルしゅつげんりつアップ↑[wait][end]",
-  "en": ""
+  "en": "Demon encounter rate up![wait][end]"
  },
  {
   "id": "M1929",
@@ -777,7 +777,7 @@
    1929
   ],
   "jp": "こうかがありません！[wait][end]",
-  "en": ""
+  "en": "It had no effect![wait][end]"
  },
  {
   "id": "M1930",
@@ -792,7 +792,7 @@
    1930
   ],
   "jp": "[e8]のＨＰが[n][ec:0]回復した！[wait][end]",
-  "en": ""
+  "en": "Restored [ec:0] HP to [e8]![wait][end]"
  },
  {
   "id": "M1931",
@@ -807,7 +807,7 @@
    1931
   ],
   "jp": "[e8]のＭＰが[n][ec:0]回復した！[wait][end]",
-  "en": ""
+  "en": "Restored [ec:0] MP to [e8]![wait][end]"
  },
  {
   "id": "M1932",
@@ -822,7 +822,7 @@
    1932
   ],
   "jp": "[e8]はふっかつした！[wait][end]",
-  "en": ""
+  "en": "[e8] was revived![wait][end]"
  },
  {
   "id": "M1933",
@@ -837,7 +837,7 @@
    1933
   ],
   "jp": "ここではつかえない！[wait][end]",
-  "en": ""
+  "en": "Can't use that here![wait][end]"
  },
  {
   "id": "M1934",
@@ -852,7 +852,7 @@
    1934
   ],
   "jp": "ぜんいんが回復した[wait][end]",
-  "en": ""
+  "en": "Everyone recovered.[wait][end]"
  },
  {
   "id": "M1935",
@@ -867,7 +867,7 @@
    1935
   ],
   "jp": "ＭＰがたりません！[wait][end]",
-  "en": ""
+  "en": "Not enough MP![wait][end]"
  },
  {
   "id": "M1936",
@@ -882,7 +882,7 @@
    1936
   ],
   "jp": "ＨＰがたりません！[wait][end]",
-  "en": ""
+  "en": "Not enough HP![wait][end]"
  },
  {
   "id": "M1937",
@@ -897,7 +897,7 @@
    1937
   ],
   "jp": "このナカマをおくります[n]いいですか？[fb:0][end]",
-  "en": ""
+  "en": "Send this ally. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1938",
@@ -912,7 +912,7 @@
    1938
   ],
   "jp": "ヴィネセンターにおくりました[wait][end]",
-  "en": ""
+  "en": "Sent to the Vine Center.[wait][end]"
  },
  {
   "id": "M1939",
@@ -927,7 +927,7 @@
    1939
   ],
   "jp": "ナカマがいません[wait][end]",
-  "en": ""
+  "en": "You have no allies.[wait][end]"
  },
  {
   "id": "M1940",
@@ -942,7 +942,7 @@
    1940
   ],
   "jp": "このナカマをよびます[n]いいですか？[fb:0][end]",
-  "en": ""
+  "en": "Call this ally. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1941",
@@ -957,7 +957,7 @@
    1941
   ],
   "jp": "このナカマはすでによびだしています[wait][end]",
-  "en": ""
+  "en": "This ally has already been called.[wait][end]"
  },
  {
   "id": "M1942",
@@ -972,7 +972,7 @@
    1942
   ],
   "jp": "このナカマはくんれんちゅうです[wait][end]",
-  "en": ""
+  "en": "This ally is in training.[wait][end]"
  },
  {
   "id": "M1943",
@@ -987,7 +987,7 @@
    1943
   ],
   "jp": "[f3]の[n]レベルがたりません[wait][end]",
-  "en": ""
+  "en": "[f3] isn't a high enough level.[wait][end]"
  },
  {
   "id": "M1944",
@@ -1002,7 +1002,7 @@
    1944
   ],
   "jp": "キングクラスの[n]ナカマはいれられません[wait][end]",
-  "en": ""
+  "en": "King-class allies can't be put in here.[wait][end]"
  },
  {
   "id": "M1945",
@@ -1017,7 +1017,7 @@
    1945
   ],
   "jp": "デビダスに何も登録されていません[wait][end]",
-  "en": ""
+  "en": "Nothing is registered in the DemiDex.[wait][end]"
  },
  {
   "id": "M1946",
@@ -1032,7 +1032,7 @@
    1946
   ],
   "jp": "合体する[n]説明を聞く[end]",
-  "en": ""
+  "en": "Fuse[n]Hear explanation[end]"
  },
  {
   "id": "M1947",
@@ -1047,7 +1047,7 @@
    1947
   ],
   "jp": "ナカマが２体いじょういません[wait][end]",
-  "en": ""
+  "en": "You don't have two or more allies.[wait][end]"
  },
  {
   "id": "M1948",
@@ -1062,7 +1062,7 @@
    1948
   ],
   "jp": "１体目は[n][e8]でいいですか？[fb:0][end]",
-  "en": ""
+  "en": "First one: [e8]. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1949",
@@ -1077,7 +1077,7 @@
    1949
   ],
   "jp": "２体目は[n][e8]でいいですか？[fb:0][end]",
-  "en": ""
+  "en": "Second one: [e8]. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1950",
@@ -1092,7 +1092,7 @@
    1950
   ],
   "jp": "きぜつしているナカマはえらべません[wait][end]",
-  "en": ""
+  "en": "Fainted allies can't be chosen.[wait][end]"
  },
  {
   "id": "M1951",
@@ -1107,7 +1107,7 @@
    1951
   ],
   "jp": "合体できるナカマがいません[wait][end]",
-  "en": ""
+  "en": "No allies can be fused.[wait][end]"
  },
  {
   "id": "M1952",
@@ -1122,7 +1122,7 @@
    1952
   ],
   "jp": "[e8]ができそうです[n]いいですか？[fb:0][end]",
-  "en": ""
+  "en": "This looks like it will make [e8]. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1953",
@@ -1137,7 +1137,7 @@
    1953
   ],
   "jp": "わたしは　[e8][n]こんごともヨロシク[wait][end]",
-  "en": ""
+  "en": "I am [e8]. I look forward to working with you![wait][end]"
  },
  {
   "id": "M1954",
@@ -1152,7 +1152,7 @@
    1954
   ],
   "jp": "ニックネームを[n]つけますか？[fb:1][end]",
-  "en": ""
+  "en": "Give it a nickname?[fb:1][end]"
  },
  {
   "id": "M1955",
@@ -1167,7 +1167,7 @@
    1955
   ],
   "jp": "よびだすばしょをえらんでください[wait][end]",
-  "en": ""
+  "en": "Choose where to call it.[wait][end]"
  },
  {
   "id": "M1956",
@@ -1182,7 +1182,7 @@
    1956
   ],
   "jp": "つづけて合体しますか？[fb:0][end]",
-  "en": ""
+  "en": "Keep fusing?[fb:0][end]"
  },
  {
   "id": "M1957",
@@ -1197,7 +1197,7 @@
    1957
   ],
   "jp": "[e8]がつよくなります[n]いいですか？[fb:0][end]",
-  "en": ""
+  "en": "This will make [e8] stronger. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1958",
@@ -1212,7 +1212,7 @@
    1958
   ],
   "jp": "[e8]が[n]つよくなりました[wait][end]",
-  "en": ""
+  "en": "[e8] got stronger.[wait][end]"
  },
  {
   "id": "M1959",
@@ -1227,7 +1227,7 @@
    1959
   ],
   "jp": "[e8]の[n]レベルがあがった！[wait][end]",
-  "en": ""
+  "en": "[e8] leveled up![wait][end]"
  },
  {
   "id": "M1960",
@@ -1242,7 +1242,7 @@
    1960
   ],
   "jp": "ＭＨＰが[f7:3][ec:0][f7:1]に[n]ＭＭＰが[f7:3][ec:1][f7:1]になりました[wait][end]",
-  "en": ""
+  "en": "Max HP is now [f7:3][ec:0][f7:1], and Max MP is now [f7:3][ec:1][f7:1].[wait][end]"
  },
  {
   "id": "M1961",
@@ -1257,7 +1257,7 @@
    1961
   ],
   "jp": "アタックが[ec:0]あがった！[wait][end]",
-  "en": ""
+  "en": "Attack rose by [ec:0]![wait][end]"
  },
  {
   "id": "M1962",
@@ -1272,7 +1272,7 @@
    1962
   ],
   "jp": "ガードが[ec:0]あがった！[wait][end]",
-  "en": ""
+  "en": "Guard rose by [ec:0]![wait][end]"
  },
  {
   "id": "M1963",
@@ -1287,7 +1287,7 @@
    1963
   ],
   "jp": "マジックが[ec:0]あがった！[wait][end]",
-  "en": ""
+  "en": "Magic rose by [ec:0]![wait][end]"
  },
  {
   "id": "M1964",
@@ -1302,7 +1302,7 @@
    1964
   ],
   "jp": "Ｍガードが[ec:0]あがった！[wait][end]",
-  "en": ""
+  "en": "M.Guard rose by [ec:0]![wait][end]"
  },
  {
   "id": "M1965",
@@ -1317,7 +1317,7 @@
    1965
   ],
   "jp": "スピードが[ec:0]あがった！[wait][end]",
-  "en": ""
+  "en": "Speed rose by [ec:0]![wait][end]"
  },
  {
   "id": "M1966",
@@ -1332,7 +1332,7 @@
    1966
   ],
   "jp": "ラックが[ec:0]あがった！[wait][end]",
-  "en": ""
+  "en": "Luck rose by [ec:0]![wait][end]"
  },
  {
   "id": "M1967",
@@ -1347,7 +1347,7 @@
    1967
   ],
   "jp": "[f2]は[e8]の[n]けいけんちをかくとくした[wait][end]",
-  "en": ""
+  "en": "[f2] gained EXP from [e8].[wait][end]"
  },
  {
   "id": "M1968",
@@ -1362,7 +1362,7 @@
    1968
   ],
   "jp": "けいしょうできるマホウがありません[wait][end]",
-  "en": ""
+  "en": "There are no spells to inherit.[wait][end]"
  },
  {
   "id": "M1969",
@@ -1377,7 +1377,7 @@
    1969
   ],
   "jp": "マホウのけいしょうができます[n]けいしょうしますか？[fb:0][end]",
-  "en": ""
+  "en": "Spells can be inherited. Inherit them?[fb:0][end]"
  },
  {
   "id": "M1970",
@@ -1392,7 +1392,7 @@
    1970
   ],
   "jp": "このナカマはランクアップしません[n]合体しますか？[fb:0][end]",
-  "en": ""
+  "en": "This ally won't rank up. Fuse anyway?[fb:0][end]"
  },
  {
   "id": "M1971",
@@ -1407,7 +1407,7 @@
    1971
   ],
   "jp": "ランクアップすることがあります[n]合体しますか？[fb:0][end]",
-  "en": ""
+  "en": "This may cause a rank up. Fuse?[fb:0][end]"
  },
  {
   "id": "M1972",
@@ -1422,7 +1422,7 @@
    1972
   ],
   "jp": "ランクアップします[n]いいですか？[fb:1][end]",
-  "en": ""
+  "en": "This will rank up. Is that okay?[fb:1][end]"
  },
  {
   "id": "M1973",
@@ -1437,7 +1437,7 @@
    1973
   ],
   "jp": "マホウ・ワザがおぼえられます[n]おぼえますか？[fb:0][end]",
-  "en": ""
+  "en": "Spells/skills can be learned. Learn them?[fb:0][end]"
  },
  {
   "id": "M1974",
@@ -1452,7 +1452,7 @@
    1974
   ],
   "jp": "[e8]のレベルが[n]ひくすぎて合体できません！[wait][end]",
-  "en": ""
+  "en": "[e8] is too low a level to fuse![wait][end]"
  },
  {
   "id": "M1975",
@@ -1467,7 +1467,7 @@
    1975
   ],
   "jp": "乗りますか？[fb:0][end]",
-  "en": ""
+  "en": "Get on?[fb:0][end]"
  },
  {
   "id": "M1976",
@@ -1482,7 +1482,7 @@
    1976
   ],
   "jp": "ここにはおりられません！[wait][end]",
-  "en": ""
+  "en": "Can't get off here![wait][end]"
  },
  {
   "id": "M1977",
@@ -1497,7 +1497,7 @@
    1977
   ],
   "jp": "１体ずつ　選んで合体[n]　表から　選んで合体[end]",
-  "en": ""
+  "en": "Pick one by one[n]Pick from chart[end]"
  },
  {
   "id": "M1978",
@@ -1512,7 +1512,7 @@
    1978
   ],
   "jp": "[f4]で[n]いいですか？[fb:0][end]",
-  "en": ""
+  "en": "[f4]. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1979",
@@ -1527,7 +1527,7 @@
    1979
   ],
   "jp": "[ef]を[n]おぼえました！[wait][end]",
-  "en": ""
+  "en": "Learned [ef]![wait][end]"
  },
  {
   "id": "M1980",
@@ -1542,7 +1542,7 @@
    1980
   ],
   "jp": "マホウ・ワザがいっぱいです[n]わすれるものをえらんでください[wait][end]",
-  "en": ""
+  "en": "Too many spells/skills. Choose one to forget.[wait][end]"
  },
  {
   "id": "M1981",
@@ -1557,7 +1557,7 @@
    1981
   ],
   "jp": "こうかんできるナカマがいません！[wait][end]",
-  "en": ""
+  "en": "No allies can be traded![wait][end]"
  },
  {
   "id": "M1982",
@@ -1572,7 +1572,7 @@
    1982
   ],
   "jp": "つうしんこうかんをおこないます[n]こうかんがおわったらセーブします[wait][end]",
-  "en": ""
+  "en": "Starting link trade. The game will save after the trade.[wait][end]"
  },
  {
   "id": "M1983",
@@ -1587,7 +1587,7 @@
    1983
   ],
   "jp": "つうしんのじゅんびができていません！[wait][end]",
-  "en": ""
+  "en": "The link isn't ready![wait][end]"
  },
  {
   "id": "M1984",
@@ -1602,7 +1602,7 @@
    1984
   ],
   "jp": "つうしんエラー！！！[wait][end]",
-  "en": ""
+  "en": "Link error!!![wait][end]"
  },
  {
   "id": "M1985",
@@ -1617,7 +1617,7 @@
    1985
   ],
   "jp": "[e8]でいいですか？[fb:0][end]",
-  "en": ""
+  "en": "[e8]. Is that okay?[fb:0][end]"
  },
  {
   "id": "M1986",
@@ -1634,7 +1634,7 @@
    1986
   ],
   "jp": "つうしんちゅう・・・[n]ケーブルをぬかないでください[end]",
-  "en": ""
+  "en": "Linking...[n]Don't unplug the cable.[end]"
  },
  {
   "id": "M1987",
@@ -1649,7 +1649,7 @@
    1987
   ],
   "jp": "マソウアイテムをもっていません[wait][end]",
-  "en": ""
+  "en": "You have no Arcane Items.[wait][end]"
  },
  {
   "id": "M1988",
@@ -1664,7 +1664,7 @@
    1988
   ],
   "jp": "セーブできませんでした[wait][end]",
-  "en": ""
+  "en": "Couldn't save.[wait][end]"
  },
  {
   "id": "M1989",
@@ -1679,7 +1679,7 @@
    1989
   ],
   "jp": "ロードできませんでした[wait][end]",
-  "en": ""
+  "en": "Couldn't load.[wait][end]"
  },
  {
   "id": "M1990",
@@ -1694,7 +1694,7 @@
    1990
   ],
   "jp": "ナカマをほぞんようディスクに[n]いどうします[wait][page]ナカマのいどうをするたびに[n]データをセーブします[wait][page]現在のデータを[n]セーブしてもいいですか？[fb:1][end]",
-  "en": ""
+  "en": "Moving allies to the storage disk.[wait][page]The data will be saved every time allies are moved.[wait][page]Is it okay to save the current data?[fb:1][end]"
  },
  {
   "id": "M1991",
@@ -1709,7 +1709,7 @@
    1991
   ],
   "jp": "ディスクの中身をすべて[n]消していいですか？[fb:1][end]",
-  "en": ""
+  "en": "Erase everything on the disk. Is that okay?[fb:1][end]"
  },
  {
   "id": "M1992",
@@ -1724,7 +1724,7 @@
    1992
   ],
   "jp": "ディスクの中身を消去しました[wait][end]",
-  "en": ""
+  "en": "Erased the disk's contents.[wait][end]"
  },
  {
   "id": "M1993",
@@ -1739,7 +1739,7 @@
    1993
   ],
   "jp": "おなじばしょはえらべません[wait][end]",
-  "en": ""
+  "en": "Can't choose the same place.[wait][end]"
  },
  {
   "id": "M1994",
@@ -1754,7 +1754,7 @@
    1994
   ],
   "jp": "ここはナカマがいっぱいです[n]ほかのばしょをえらんでください[wait][end]",
-  "en": ""
+  "en": "This place is full of allies. Please choose another place.[wait][end]"
  },
  {
   "id": "M1995",
@@ -1769,7 +1769,7 @@
    1995
   ],
   "jp": "[f4]の効果がきれました[wait][end]",
-  "en": ""
+  "en": "The effect of [f4] wore off.[wait][end]"
  },
  {
   "id": "M1996",
@@ -1784,7 +1784,7 @@
    1996
   ],
   "jp": "[ef]の効果がきれました[wait][end]",
-  "en": ""
+  "en": "The effect of [ef] wore off.[wait][end]"
  },
  {
   "id": "M1997",
@@ -1799,7 +1799,7 @@
    1997
   ],
   "jp": "空き容量がふそくしているため[n]セットできません[wait][end]",
-  "en": ""
+  "en": "There's not enough free space to set it.[wait][end]"
  },
  {
   "id": "M1998",
@@ -1814,7 +1814,7 @@
    1998
   ],
   "jp": "[f4]を[n]はずしてもいいですか？[fb:0][end]",
-  "en": ""
+  "en": "Is it okay to remove [f4]?[fb:0][end]"
  },
  {
   "id": "M1999",
@@ -1829,6 +1829,6 @@
    1999
   ],
   "jp": "ナカマをえらんでください[wait][end]",
-  "en": ""
+  "en": "Choose an ally.[wait][end]"
  }
 ]

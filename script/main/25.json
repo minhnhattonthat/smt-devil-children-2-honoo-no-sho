@@ -102,7 +102,7 @@
    5006
   ],
   "jp": "光の力を　持った[n]魔法や　技を[n]受けたとき[n]そのまま　テキに[n]はねかえす[end]",
-  "en": ""
+  "en": "Light spells and[n]skills that hit it[n]are bounced[n]straight back[n]at the enemy.[end]"
  },
  {
   "id": "M5007",
@@ -117,7 +117,7 @@
    5007
   ],
   "jp": "闇の力を　持った[n]魔法や　技を[n]受けたとき[n]そのまま　テキに[n]はねかえす[end]",
-  "en": ""
+  "en": "Dark spells and[n]skills that hit it[n]are bounced[n]straight back[n]at the enemy.[end]"
  },
  {
   "id": "M5008",
@@ -132,7 +132,7 @@
    5008
   ],
   "jp": "火の力を　持った[n]魔法や　技を[n]受けたとき[n]そのまま　テキに[n]はねかえす[end]",
-  "en": ""
+  "en": "Fire spells and[n]skills that hit it[n]are bounced[n]straight back[n]at the enemy.[end]"
  },
  {
   "id": "M5009",
@@ -147,7 +147,7 @@
    5009
   ],
   "jp": "水の力を　持った[n]魔法や　技を[n]受けたとき[n]そのまま　テキに[n]はねかえす[end]",
-  "en": ""
+  "en": "Water spells and[n]skills that hit it[n]are bounced[n]straight back[n]at the enemy.[end]"
  },
  {
   "id": "M5010",
@@ -162,7 +162,7 @@
    5010
   ],
   "jp": "地の力を　持った[n]魔法や　技を[n]受けたとき[n]そのまま　テキに[n]はねかえす[end]",
-  "en": ""
+  "en": "Earth spells and[n]skills that hit it[n]are bounced[n]straight back[n]at the enemy.[end]"
  },
  {
   "id": "M5011",
@@ -177,7 +177,7 @@
    5011
   ],
   "jp": "風の力を　持った[n]魔法や　技を[n]受けたとき[n]そのまま　テキに[n]はねかえす[end]",
-  "en": ""
+  "en": "Wind spells and[n]skills that hit it[n]are bounced[n]straight back[n]at the enemy.[end]"
  },
  {
   "id": "M5012",
@@ -192,7 +192,7 @@
    5012
   ],
   "jp": "雷の力を　持った[n]魔法や　技を[n]受けたとき[n]そのまま　テキに[n]はねかえす[end]",
-  "en": ""
+  "en": "Thunder spells and[n]skills that hit it[n]are bounced[n]straight back[n]at the enemy.[end]"
  },
  {
   "id": "M5013",
@@ -207,7 +207,7 @@
    5013
   ],
   "jp": "氷の力を　持った[n]魔法や　技を[n]受けたとき[n]そのまま　テキに[n]はねかえす[end]",
-  "en": ""
+  "en": "Ice spells and[n]skills that hit it[n]are bounced[n]straight back[n]at the enemy.[end]"
  },
  {
   "id": "M5014",
@@ -222,7 +222,7 @@
    5014
   ],
   "jp": "光の力を　持った[n]魔法や　技を[n]受けたとき[n]その力を　吸い取る[n]ことができる[end]",
-  "en": ""
+  "en": "When hit by[n]Light spells[n]or skills, it[n]can absorb[n]their power.[end]"
  },
  {
   "id": "M5015",
@@ -237,7 +237,7 @@
    5015
   ],
   "jp": "闇の力を　持った[n]魔法や　技を[n]受けたとき[n]その力を　吸い取る[n]ことができる[end]",
-  "en": ""
+  "en": "When hit by[n]Dark spells[n]or skills, it[n]can absorb[n]their power.[end]"
  },
  {
   "id": "M5016",
@@ -252,7 +252,7 @@
    5016
   ],
   "jp": "火の力を　持った[n]魔法や　技を[n]受けたとき[n]その力を　吸い取る[n]ことができる[end]",
-  "en": ""
+  "en": "When hit by[n]Fire spells[n]or skills, it[n]can absorb[n]their power.[end]"
  },
  {
   "id": "M5017",
@@ -267,7 +267,7 @@
    5017
   ],
   "jp": "水の力を　持った[n]魔法や　技を[n]受けたとき[n]その力を　吸い取る[n]ことができる[end]",
-  "en": ""
+  "en": "When hit by[n]Water spells[n]or skills, it[n]can absorb[n]their power.[end]"
  },
  {
   "id": "M5018",
@@ -282,7 +282,7 @@
    5018
   ],
   "jp": "地の力を　持った[n]魔法や　技を[n]受けたとき[n]その力を　吸い取る[n]ことができる[end]",
-  "en": ""
+  "en": "When hit by[n]Earth spells[n]or skills, it[n]can absorb[n]their power.[end]"
  },
  {
   "id": "M5019",
@@ -297,7 +297,7 @@
    5019
   ],
   "jp": "風の力を　持った[n]魔法や　技を[n]受けたとき[n]その力を　吸い取る[n]ことができる[end]",
-  "en": ""
+  "en": "When hit by[n]Wind spells[n]or skills, it[n]can absorb[n]their power.[end]"
  },
  {
   "id": "M5020",
@@ -312,7 +312,7 @@
    5020
   ],
   "jp": "雷の力を　持った[n]魔法や　技を[n]受けたとき[n]その力を　吸い取る[n]ことができる[end]",
-  "en": ""
+  "en": "When hit by[n]Thunder spells[n]or skills, it[n]can absorb[n]their power.[end]"
  },
  {
   "id": "M5021",
@@ -327,7 +327,7 @@
    5021
   ],
   "jp": "氷の力を　持った[n]魔法や　技を[n]受けたとき[n]その力を　吸い取る[n]ことができる[end]",
-  "en": ""
+  "en": "When hit by[n]Ice spells[n]or skills, it[n]can absorb[n]their power.[end]"
  },
  {
   "id": "M5022",
@@ -342,7 +342,7 @@
    5022
   ],
   "jp": "光の力に　つよく[n]抵抗する　力があり[n]光の　魔法や技を[n]受けても　絶対に[n]死ぬことは　ない[end]",
-  "en": ""
+  "en": "Strongly resists[n]Light's power.[n]Light spells[n]and skills can[n]never kill it.[end]"
  },
  {
   "id": "M5023",
@@ -357,7 +357,7 @@
    5023
   ],
   "jp": "闇の力に　つよく[n]抵抗する　力があり[n]闇の　魔法や技を[n]受けても　絶対に[n]死ぬことは　ない[end]",
-  "en": ""
+  "en": "Strongly resists[n]Dark's power.[n]Dark spells[n]and skills can[n]never kill it.[end]"
  },
  {
   "id": "M5024",
@@ -372,7 +372,7 @@
    5024
   ],
   "jp": "火の力に　つよく[n]抵抗する　力があり[n]火の　魔法や技を[n]受けても　絶対に[n]死ぬことは　ない[end]",
-  "en": ""
+  "en": "Strongly resists[n]Fire's power.[n]Fire spells[n]and skills can[n]never kill it.[end]"
  },
  {
   "id": "M5025",
@@ -387,7 +387,7 @@
    5025
   ],
   "jp": "水の力に　つよく[n]抵抗する　力があり[n]水の　魔法や技を[n]受けても　絶対に[n]死ぬことは　ない[end]",
-  "en": ""
+  "en": "Strongly resists[n]Water's power.[n]Water spells[n]and skills can[n]never kill it.[end]"
  },
  {
   "id": "M5026",
@@ -402,7 +402,7 @@
    5026
   ],
   "jp": "地の力に　つよく[n]抵抗する　力があり[n]地の　魔法や技を[n]受けても　絶対に[n]死ぬことは　ない[end]",
-  "en": ""
+  "en": "Strongly resists[n]Earth's power.[n]Earth spells[n]and skills can[n]never kill it.[end]"
  },
  {
   "id": "M5027",
@@ -417,7 +417,7 @@
    5027
   ],
   "jp": "風の力に　つよく[n]抵抗する　力があり[n]風の　魔法や技を[n]受けても　絶対に[n]死ぬことは　ない[end]",
-  "en": ""
+  "en": "Strongly resists[n]Wind's power.[n]Wind spells[n]and skills can[n]never kill it.[end]"
  },
  {
   "id": "M5028",
@@ -432,7 +432,7 @@
    5028
   ],
   "jp": "雷の力に　つよく[n]抵抗する　力があり[n]雷の　魔法や技を[n]受けても　絶対に[n]死ぬことは　ない[end]",
-  "en": ""
+  "en": "Strongly resists[n]Thunder's power.[n]Thunder spells[n]and skills can[n]never kill it.[end]"
  },
  {
   "id": "M5029",
@@ -447,7 +447,7 @@
    5029
   ],
   "jp": "氷の力に　つよく[n]抵抗する　力があり[n]氷の　魔法や技を[n]受けても　絶対に[n]死ぬことは　ない[end]",
-  "en": ""
+  "en": "Strongly resists[n]Ice's power.[n]Ice spells[n]and skills can[n]never kill it.[end]"
  },
  {
   "id": "M5030",
@@ -462,7 +462,7 @@
    5030
   ],
   "jp": "神種族が　こわがる[n]力を　はなっていて[n]神種族と　会った時[n]彼らは　あわてて[n]逃げだすだろう[end]",
-  "en": ""
+  "en": "Gives off a power[n]that gods fear.[n]Any gods it meets[n]will likely flee[n]in a panic.[end]"
  },
  {
   "id": "M5031",
@@ -477,7 +477,7 @@
    5031
   ],
   "jp": "アクマ種族がこわがる[n]力を　はなっていて[n]アクマ種族と会った時[n]彼らは　あわてて[n]逃げだすだろう[end]",
-  "en": ""
+  "en": "Gives off a power[n]that devils fear.[n]Any devils it meets[n]will likely flee[n]in a panic.[end]"
  },
  {
   "id": "M5032",
@@ -492,7 +492,7 @@
    5032
   ],
   "jp": "天使種族が　こわがる[n]力を　はなっていて[n]天使種族と　会った時[n]彼らは　あわてて[n]逃げだすだろう[end]",
-  "en": ""
+  "en": "Gives off a power[n]that angels fear.[n]Any angels it meets[n]will likely flee[n]in a panic.[end]"
  },
  {
   "id": "M5033",
@@ -507,7 +507,7 @@
    5033
   ],
   "jp": "龍種族が　こわがる[n]力を　はなっていて[n]龍種族と　会った時[n]彼らは　あわてて[n]逃げだすだろう[end]",
-  "en": ""
+  "en": "Gives off a power[n]that dragons fear.[n]Any dragons it meets[n]will likely flee[n]in a panic.[end]"
  },
  {
   "id": "M5034",
@@ -522,7 +522,7 @@
    5034
   ],
   "jp": "鳥種族が　こわがる[n]力を　はなっていて[n]鳥種族と　会った時[n]彼らは　あわてて[n]逃げだすだろう[end]",
-  "en": ""
+  "en": "Gives off a power[n]that birds fear.[n]Any birds it meets[n]will likely flee[n]in a panic.[end]"
  },
  {
   "id": "M5035",
@@ -537,7 +537,7 @@
    5035
   ],
   "jp": "獣種族が　こわがる[n]力を　はなっていて[n]獣種族と　会った時[n]彼らは　あわてて[n]逃げだすだろう[end]",
-  "en": ""
+  "en": "Gives off a power[n]that beasts fear.[n]Any beasts it meets[n]will likely flee[n]in a panic.[end]"
  },
  {
   "id": "M5036",
@@ -552,7 +552,7 @@
    5036
   ],
   "jp": "鬼種族が　こわがる[n]力を　はなっていて[n]鬼種族と　会った時[n]彼らは　あわてて[n]逃げだすだろう[end]",
-  "en": ""
+  "en": "Gives off a power[n]that oni fear.[n]Any oni it meets[n]will likely flee[n]in a panic.[end]"
  },
  {
   "id": "M5037",
@@ -567,7 +567,7 @@
    5037
   ],
   "jp": "レイ種族が　こわがる[n]力を　はなっていて[n]レイ種族と　会った時[n]彼らは　あわてて[n]逃げだすだろう[end]",
-  "en": ""
+  "en": "Gives off a power[n]that spirits fear.[n]Any spirits it meets[n]will likely flee[n]in a panic.[end]"
  },
  {
   "id": "M5038",
@@ -582,7 +582,7 @@
    5038
   ],
   "jp": "ヨウマ種族がこわがる[n]力を　はなっていて[n]ヨウマ種族と会った時[n]彼らは　あわてて[n]逃げだすだろう[end]",
-  "en": ""
+  "en": "Gives off a power[n]that fiends fear.[n]Any fiends it meets[n]will likely flee[n]in a panic.[end]"
  },
  {
   "id": "M5039",
@@ -597,7 +597,7 @@
    5039
   ],
   "jp": "戦っているときに[n]死にそうになると[n]戦闘から　かってに[n]逃げだしてしまう[n]じゅんすいな本能[end]",
-  "en": ""
+  "en": "In battle, when[n]it's about to die,[n]it runs off on its[n]own. Pure,[n]simple instinct.[end]"
  },
  {
   "id": "M5040",
@@ -612,7 +612,7 @@
    5040
   ],
   "jp": "動物の　デビルと[n]ふしぎと　気が合い[n]ほかの　デビルよりも[n]かんたんに　仲良く[n]なることができる[end]",
-  "en": ""
+  "en": "Strangely gets[n]along with animal[n]demons, and makes[n]friends with them[n]more easily.[end]"
  },
  {
   "id": "M5041",
@@ -627,7 +627,7 @@
    5041
   ],
   "jp": "言葉が　通じない[n]デビルと　気が合って[n]ほかの　デビルよりも[n]かんたんに　仲良く[n]なることができる[end]",
-  "en": ""
+  "en": "Strangely gets[n]along with demons[n]that can't talk,[n]and makes friends[n]with them easily.[end]"
  },
  {
   "id": "M5042",
@@ -642,7 +642,7 @@
    5042
   ],
   "jp": "えらそうに　はなす[n]男の　デビルとは[n]ほかの　デビルよりも[n]かんたんに　仲良く[n]なることができる[end]",
-  "en": ""
+  "en": "Makes friends[n]more easily with[n]male demons who[n]talk big than[n]with other demons.[end]"
  },
  {
   "id": "M5043",
@@ -657,7 +657,7 @@
    5043
   ],
   "jp": "えらそうに　はなす[n]女の　デビルとは[n]ほかの　デビルよりも[n]かんたんに　仲良く[n]なることができる[end]",
-  "en": ""
+  "en": "Makes friends[n]more easily with[n]female demons who[n]talk big than[n]with other demons.[end]"
  },
  {
   "id": "M5044",
@@ -672,7 +672,7 @@
    5044
   ],
   "jp": "ふつうにはなす[n]男の　デビルとは[n]ほかの　デビルよりも[n]かんたんに　仲良く[n]なることができる[end]",
-  "en": ""
+  "en": "Makes friends[n]more easily with[n]male demons who[n]talk normally than[n]with other demons.[end]"
  },
  {
   "id": "M5045",
@@ -687,7 +687,7 @@
    5045
   ],
   "jp": "ふつうにはなす[n]女の　デビルとは[n]ほかの　デビルよりも[n]かんたんに　仲良く[n]なることができる[end]",
-  "en": ""
+  "en": "Makes friends[n]more easily with[n]female demons who[n]talk normally than[n]with other demons.[end]"
  },
  {
   "id": "M5046",
@@ -702,7 +702,7 @@
    5046
   ],
   "jp": "ふりょうのような[n]男の　デビルとは[n]ほかの　デビルよりも[n]かんたんに　仲良く[n]なることができる[end]",
-  "en": ""
+  "en": "Makes friends[n]more easily with[n]male demons who[n]act like punks than[n]with other demons.[end]"
  },
  {
   "id": "M5047",
@@ -717,7 +717,7 @@
    5047
   ],
   "jp": "ふりょうのような[n]女の　デビルとは[n]ほかの　デビルよりも[n]かんたんに　仲良く[n]なることができる[end]",
-  "en": ""
+  "en": "Makes friends[n]more easily with[n]female demons who[n]act like punks than[n]with other demons.[end]"
  },
  {
   "id": "M5048",
@@ -732,7 +732,7 @@
    5048
   ],
   "jp": "ナカマを　はげまし[n]やる気を　ださせる[n]ふしぎな　力をもつ[n]心の　こもった[n]応援を　している[end]",
-  "en": ""
+  "en": "Cheers on its[n]allies from the[n]heart, with a[n]strange power to[n]fire them up.[end]"
  },
  {
   "id": "M5049",
@@ -747,7 +747,7 @@
    5049
   ],
   "jp": "テキの　コブシや[n]剣によって　自分が[n]たおされるときに[n]テキをみちづれに[n]しようとする　本能[end]",
-  "en": ""
+  "en": "When felled by an[n]enemy's fist or[n]sword, it tries[n]by instinct to take[n]the enemy with it.[end]"
  },
  {
   "id": "M5050",
@@ -762,7 +762,7 @@
    5050
   ],
   "jp": "ともに　戦っていた[n]ナカマがたおれたとき[n]いかりで　テキに[n]むかっていく[n]男らしい気持ち[end]",
-  "en": ""
+  "en": "When an ally it[n]fights beside falls,[n]it charges the[n]enemy in a rage.[n]A truly brave heart.[end]"
  },
  {
   "id": "M5051",
@@ -777,7 +777,7 @@
    5051
   ],
   "jp": "いるか　いないか[n]わからなくて[n]戦闘中でも[n]けっこう　テキに[n]ねらわれない[end]",
-  "en": ""
+  "en": "Nobody can tell[n]if it's there or[n]not, so enemies[n]rarely target it,[n]even in battle.[end]"
  },
  {
   "id": "M5052",
@@ -792,7 +792,7 @@
    5052
   ],
   "jp": "見ていると　ふしぎと[n]いらいらしてきて[n]テキに　ねらわれる[n]かわいそうな[n]ふんいきのもちぬし[end]",
-  "en": ""
+  "en": "Something about it[n]gets on enemies'[n]nerves, so they[n]target it. It just[n]looks so pitiful.[end]"
  },
  {
   "id": "M5053",
@@ -807,7 +807,7 @@
    5053
   ],
   "jp": "あせっても[n]どうにもならない[n]ときが　ある[n]ピンチのときほど[n]逆転をねらう[end]",
-  "en": ""
+  "en": "Panicking won't[n]always help.[n]In a real pinch,[n]it goes all out[n]for a comeback.[end]"
  },
  {
   "id": "M5054",
@@ -822,7 +822,7 @@
    5054
   ],
   "jp": "たたかれても[n]なにもなかった[n]ように　立っている[n]ただ　にぶいだけかも[n]しれない[end]",
-  "en": ""
+  "en": "Even when hit, it[n]stands there like[n]nothing happened.[n]Or maybe it's just[n]slow on the uptake.[end]"
  },
  {
   "id": "M5055",
@@ -837,7 +837,7 @@
    5055
   ],
   "jp": "だれよりも　はやく[n]すばやく動くため[n]おいつくどころか[n]見ることすらも[n]むずかしい[end]",
-  "en": ""
+  "en": "It moves faster[n]than anyone. Forget[n]catching it, it's[n]hard just to[n]even see it.[end]"
  },
  {
   "id": "M5056",
@@ -852,7 +852,7 @@
    5056
   ],
   "jp": "いろんなことを[n]なかった事にして[n]戦いの　ふしの[n]たびごとに[n]体調を元にもどす[end]",
-  "en": ""
+  "en": "Lets bygones be[n]bygones. At each[n]turn in a battle,[n]it shakes off its[n]ailments.[end]"
  },
  {
   "id": "M5057",
@@ -867,7 +867,7 @@
    5057
   ],
   "jp": "ゆるせない　攻撃を[n]受けたとき[n]いかりの　あまり[n]その場で　なぐり返す[n]ことが　まれにある[end]",
-  "en": ""
+  "en": "When hit by an[n]unforgivable attack,[n]it may, in a rare[n]fit of rage, hit[n]back on the spot.[end]"
  },
  {
   "id": "M5058",
@@ -882,7 +882,7 @@
    5058
   ],
   "jp": "いつも　かならず[n]ラッキーで[n]テキを　たおすと[n]ふつうより　おおく[n]お金が　手に入る[end]",
-  "en": ""
+  "en": "Always lucky,[n]without fail. It[n]gets more money[n]than usual when[n]it beats an enemy.[end]"
  },
  {
   "id": "M5059",
@@ -897,7 +897,7 @@
    5059
   ],
   "jp": "死にかけている[n]ピンチの時でも[n]心を　集中すれば[n]どんな　コウゲキも[n]まったく　効かない[end]",
-  "en": ""
+  "en": "Even near death,[n]in a real pinch,[n]if it focuses,[n]no attack can[n]hurt it at all.[end]"
  },
  {
   "id": "M5060",
@@ -912,7 +912,7 @@
    5060
   ],
   "jp": "戦いの中で　テキに[n]たおされてしまった[n]時に　かろうじて[n]生きのびて[n]いることがある[end]",
-  "en": ""
+  "en": "When beaten by an[n]enemy in battle,[n]it sometimes[n]barely manages[n]to survive.[end]"
  },
  {
   "id": "M5061",
@@ -927,7 +927,7 @@
    5061
   ],
   "jp": "きたえあげた[n]その　こぶしや[n]剣の　コウゲキは[n]ぜったいに　テキを[n]はずさない[end]",
-  "en": ""
+  "en": "Its well-trained[n]fist and sword[n]attacks never[n]miss the[n]enemy.[end]"
  },
  {
   "id": "M5062",
@@ -942,7 +942,7 @@
    5062
   ],
   "jp": "元気で気分がいい時は[n]なんども　テキを[n]コウゲキするけど[n]つかれてくると[n]やめてしまう[end]",
-  "en": ""
+  "en": "When it's lively[n]and in a good mood,[n]it attacks over[n]and over, but stops[n]once it gets tired.[end]"
  },
  {
   "id": "M5063",
@@ -957,7 +957,7 @@
    5063
   ],
   "jp": "気分しだいで[n]同じ魔法を[n]連続でつかってしまう[n]とっても　ふしぎで[n]役に立つ　能力[end]",
-  "en": ""
+  "en": "Depending on its[n]mood, it may cast[n]the same spell in[n]a row. A strange[n]but handy ability.[end]"
  },
  {
   "id": "M5064",
@@ -972,7 +972,7 @@
    5064
   ],
   "jp": "きまぐれできぶんやな[n]その時の気分だけで[n]戦う　イタズラもの[n]だけど　本気になると[n]とてつもなく　強い[end]",
-  "en": ""
+  "en": "A fickle, moody[n]prankster who fights[n]on a whim. But when[n]it gets serious,[n]it's insanely strong.[end]"
  },
  {
   "id": "M5065",
@@ -987,7 +987,7 @@
    5065
   ],
   "jp": "戦いの中で[n]やられたはずなのに[n]かならず生きのびる[n]強く　しぶとい[n]体を　もっている[end]",
-  "en": ""
+  "en": "Even when it should[n]have been beaten,[n]it always survives.[n]It has a tough,[n]stubborn body.[end]"
  },
  {
   "id": "M5066",
@@ -1002,7 +1002,7 @@
    5066
   ],
   "jp": "体の中に　光の力が[n]やどっていて[n]光の　魔法や技なら[n]ほかの　デビルより[n]強い力を　だせる[end]",
-  "en": ""
+  "en": "Light power dwells[n]within it, so its[n]Light spells and[n]skills hit harder[n]than other demons'.[end]"
  },
  {
   "id": "M5067",
@@ -1017,7 +1017,7 @@
    5067
   ],
   "jp": "体の中に　闇の力が[n]やどっていて[n]闇の　魔法や技なら[n]ほかの　デビルより[n]強い力を　だせる[end]",
-  "en": ""
+  "en": "Dark power dwells[n]within it, so its[n]Dark spells and[n]skills hit harder[n]than other demons'.[end]"
  },
  {
   "id": "M5068",
@@ -1032,7 +1032,7 @@
    5068
   ],
   "jp": "体の中に　火の力が[n]やどっていて[n]火の　魔法や技なら[n]ほかの　デビルより[n]強い力を　だせる[end]",
-  "en": ""
+  "en": "Fire power dwells[n]within it, so its[n]Fire spells and[n]skills hit harder[n]than other demons'.[end]"
  },
  {
   "id": "M5069",
@@ -1047,7 +1047,7 @@
    5069
   ],
   "jp": "体の中に　水の力が[n]やどっていて[n]水の　魔法や技なら[n]ほかの　デビルより[n]強い力を　だせる[end]",
-  "en": ""
+  "en": "Water power dwells[n]within it, so its[n]Water spells and[n]skills hit harder[n]than other demons'.[end]"
  },
  {
   "id": "M5070",
@@ -1062,7 +1062,7 @@
    5070
   ],
   "jp": "体の中に　地の力が[n]やどっていて[n]地の　魔法や技なら[n]ほかの　デビルより[n]強い力を　だせる[end]",
-  "en": ""
+  "en": "Earth power dwells[n]within it, so its[n]Earth spells and[n]skills hit harder[n]than other demons'.[end]"
  },
  {
   "id": "M5071",
@@ -1077,7 +1077,7 @@
    5071
   ],
   "jp": "体の中に　風の力が[n]やどっていて[n]風の　魔法や技なら[n]ほかの　デビルより[n]強い力を　だせる[end]",
-  "en": ""
+  "en": "Wind power dwells[n]within it, so its[n]Wind spells and[n]skills hit harder[n]than other demons'.[end]"
  },
  {
   "id": "M5072",
@@ -1092,7 +1092,7 @@
    5072
   ],
   "jp": "体の中に　雷の力が[n]やどっていて[n]雷の　魔法や技なら[n]ほかの　デビルより[n]強い力を　だせる[end]",
-  "en": ""
+  "en": "Thunder power dwells[n]within it, so its[n]Thunder spells and[n]skills hit harder[n]than other demons'.[end]"
  },
  {
   "id": "M5073",
@@ -1107,7 +1107,7 @@
    5073
   ],
   "jp": "体の中に　氷の力が[n]やどっていて[n]氷の　魔法や技なら[n]ほかの　デビルより[n]強い力を　だせる[end]",
-  "en": ""
+  "en": "Ice power dwells[n]within it, so its[n]Ice spells and[n]skills hit harder[n]than other demons'.[end]"
  },
  {
   "id": "M5074",
@@ -1122,7 +1122,7 @@
    5074
   ],
   "jp": "さわがしい[n]ところでも[n]心を　集中させて[n]魔法の　力を[n]すこしだけ　強くする[end]",
-  "en": ""
+  "en": "Even in noisy[n]places, it focuses[n]its mind to make[n]its magic a little[n]stronger.[end]"
  },
  {
   "id": "M5075",
@@ -1137,7 +1137,7 @@
    5075
   ],
   "jp": "さわがしい[n]ところでも[n]心を　集中させて[n]魔法の　力を[n]けっこう　強くする[end]",
-  "en": ""
+  "en": "Even in noisy[n]places, it focuses[n]its mind to make[n]its magic quite a[n]bit stronger.[end]"
  },
  {
   "id": "M5076",
@@ -1152,7 +1152,7 @@
    5076
   ],
   "jp": "さわがしい[n]ところでも[n]心を　集中させて[n]魔法の力を[n]だいぶ　強くする[end]",
-  "en": ""
+  "en": "Even in noisy[n]places, it focuses[n]its mind to make[n]its magic much[n]stronger.[end]"
  },
  {
   "id": "M5077",
@@ -1167,7 +1167,7 @@
    5077
   ],
   "jp": "岩が　ふるえるほどの[n]力で　技をつかい[n]ふつうよりも[n]すこしだけ　おおく[n]ダメージをあたえる[end]",
-  "en": ""
+  "en": "Its skills have[n]power to shake[n]rocks, dealing[n]a little more[n]damage than usual.[end]"
  },
  {
   "id": "M5078",
@@ -1182,7 +1182,7 @@
    5078
   ],
   "jp": "山が　ふるえるほどの[n]力で　技をつかい[n]ふつうよりも[n]けっこう　おおく[n]ダメージをあたえる[end]",
-  "en": ""
+  "en": "Its skills have[n]power to shake[n]mountains, dealing[n]quite a bit more[n]damage than usual.[end]"
  },
  {
   "id": "M5079",
@@ -1197,7 +1197,7 @@
    5079
   ],
   "jp": "地がふるえるほどの[n]力で　技をつかい[n]ふつうよりも[n]だいぶ　おおく[n]ダメージをあたえる[end]",
-  "en": ""
+  "en": "Its skills have[n]power to shake[n]the earth, dealing[n]much more[n]damage than usual.[end]"
  },
  {
   "id": "M5080",
@@ -1212,7 +1212,7 @@
    5080
   ],
   "jp": "ぼんやりとした[n]ゆらぎを　作り[n]テキの　コウゲキを[n]すこしだけ[n]かわしやすくする[end]",
-  "en": ""
+  "en": "It creates a hazy[n]shimmer that makes[n]enemy attacks[n]a little[n]easier to dodge.[end]"
  },
  {
   "id": "M5081",
@@ -1227,7 +1227,7 @@
    5081
   ],
   "jp": "いくつもの[n]ゆらぎを　作り[n]テキの　コウゲキを[n]けっこう[n]かわしやすくする[end]",
-  "en": ""
+  "en": "It creates many[n]shimmers that make[n]enemy attacks[n]quite a bit[n]easier to dodge.[end]"
  },
  {
   "id": "M5082",
@@ -1242,7 +1242,7 @@
    5082
   ],
   "jp": "世界が　ゆがむような[n]ゆらぎを　作り[n]テキの　コウゲキを[n]だいぶ[n]かわしやすくする[end]",
-  "en": ""
+  "en": "It creates a[n]shimmer that warps[n]the world, making[n]enemy attacks much[n]easier to dodge.[end]"
  },
  {
   "id": "M5083",
@@ -1257,7 +1257,7 @@
    5083
   ],
   "jp": "逃げられるところは[n]どこにあるか[n]いつも　さがしている[n]すこしだけ　それが[n]役立つことがある[end]",
-  "en": ""
+  "en": "It's always on[n]the lookout for[n]a way to escape.[n]That helps a[n]little, sometimes.[end]"
  },
  {
   "id": "M5084",
@@ -1272,7 +1272,7 @@
    5084
   ],
   "jp": "逃げられるところは[n]どこにあるか[n]いつも　さがしている[n]けっこう　それが[n]役立つことがある[end]",
-  "en": ""
+  "en": "It's always on[n]the lookout for[n]an escape route.[n]That comes in handy[n]fairly often.[end]"
  },
  {
   "id": "M5085",
@@ -1287,7 +1287,7 @@
    5085
   ],
   "jp": "逃げられるところは[n]どこにあるか[n]いつも　さがしている[n]だいぶ　それが[n]役立つことがある[end]",
-  "en": ""
+  "en": "It's always on[n]the lookout for[n]an escape route.[n]That comes in handy[n]quite often.[end]"
  },
  {
   "id": "M5086",
@@ -1302,7 +1302,7 @@
    5086
   ],
   "jp": "連発するギャグの[n]あまりの寒さに[n]敵を　トウケツさせる[n]たすけになることが[n]まれに　ある[end]",
-  "en": ""
+  "en": "Its nonstop gags[n]are so chilly, they[n]help freeze foes[n]solid on rare[n]occasions.[end]"
  },
  {
   "id": "M5087",
@@ -1317,7 +1317,7 @@
    5087
   ],
   "jp": "連発するギャグの[n]あまりの寒さに[n]敵を　トウケツさせる[n]たすけになることが[n]たびたび　ある[end]",
-  "en": ""
+  "en": "Its nonstop gags[n]are so chilly, they[n]frequently help[n]freeze foes[n]solid.[end]"
  },
  {
   "id": "M5088",
@@ -1332,7 +1332,7 @@
    5088
   ],
   "jp": "みみざわりな[n]笑い声を　だすので[n]テキを沈黙させる[n]たすけになることが[n]まれに　ある[end]",
-  "en": ""
+  "en": "It lets out a[n]grating laugh[n]that, on rare[n]occasions, helps[n]silence enemies.[end]"
  },
  {
   "id": "M5089",
@@ -1347,7 +1347,7 @@
    5089
   ],
   "jp": "みみざわりな[n]笑い声を　だすので[n]テキを沈黙させる[n]たすけになることが[n]ときどき　ある[end]",
-  "en": ""
+  "en": "It lets out a[n]grating laugh[n]that sometimes[n]helps silence[n]enemies.[end]"
  },
  {
   "id": "M5090",
@@ -1362,7 +1362,7 @@
    5090
   ],
   "jp": "甘い　ニオイを[n]だしていて[n]テキをユウワクする[n]たすけになることが[n]まれに　ある[end]",
-  "en": ""
+  "en": "It gives off a[n]sweet scent[n]that, on rare[n]occasions, helps[n]charm enemies.[end]"
  },
  {
   "id": "M5091",
@@ -1377,7 +1377,7 @@
    5091
   ],
   "jp": "甘い　ニオイを[n]だしていて[n]テキをユウワクする[n]たすけになることが[n]ときどき　ある[end]",
-  "en": ""
+  "en": "It gives off a[n]sweet scent[n]that sometimes[n]helps charm[n]enemies.[end]"
  },
  {
   "id": "M5092",
@@ -1392,7 +1392,7 @@
    5092
   ],
   "jp": "体に　デンキが[n]たまりやすい　体質で[n]コウゲキされると[n]テキが感電することが[n]まれに　ある[end]",
-  "en": ""
+  "en": "Its body easily[n]builds up static,[n]so foes that hit it[n]get shocked on[n]rare occasions.[end]"
  },
  {
   "id": "M5093",
@@ -1407,7 +1407,7 @@
    5093
   ],
   "jp": "体に　デンキが[n]たまりやすい　体質で[n]コウゲキされると[n]テキが感電することが[n]ときどき　ある[end]",
-  "en": ""
+  "en": "Its body easily[n]builds up static,[n]so foes that hit it[n]sometimes get[n]shocked.[end]"
  },
  {
   "id": "M5094",
@@ -1422,7 +1422,7 @@
    5094
   ],
   "jp": "身体が　腐っていて[n]コウゲキしてきた[n]テキのほうが[n]毒を　うけることが[n]まれに　ある[end]",
-  "en": ""
+  "en": "Its body is[n]rotten, so foes[n]that attack it[n]get poisoned on[n]rare occasions.[end]"
  },
  {
   "id": "M5095",
@@ -1437,7 +1437,7 @@
    5095
   ],
   "jp": "身体が　腐っていて[n]コウゲキしてきた[n]テキのほうが[n]毒を　うけることが[n]ときどき　ある[end]",
-  "en": ""
+  "en": "Its body is[n]rotten, so foes[n]that attack it[n]are sometimes[n]poisoned.[end]"
  },
  {
   "id": "M5096",
@@ -1452,7 +1452,7 @@
    5096
   ],
   "jp": "足音を　たてずに[n]歩くことができて[n]先に　コウゲキを[n]しかけることが[n]たまに　できる[end]",
-  "en": ""
+  "en": "It walks without[n]making a sound,[n]so it can strike[n]first now and[n]then.[end]"
  },
  {
   "id": "M5097",
@@ -1467,7 +1467,7 @@
    5097
   ],
   "jp": "足音を　たてずに[n]歩くことができて[n]先に　コウゲキを[n]しかけることが[n]ときどき　できる[end]",
-  "en": ""
+  "en": "It walks without[n]making a sound,[n]so it can[n]sometimes[n]strike first.[end]"
  },
  {
   "id": "M5098",
@@ -1482,7 +1482,7 @@
    5098
   ],
   "jp": "足音を　たてずに[n]歩くことができて[n]先に　コウゲキを[n]しかけることが[n]けっこう　できる[end]",
-  "en": ""
+  "en": "It walks without[n]making a sound,[n]so it can strike[n]first fairly[n]often.[end]"
  },
  {
   "id": "M5099",
@@ -1497,7 +1497,7 @@
    5099
   ],
   "jp": "まわりをみはっていて[n]テキが　先にコウゲキ[n]してくることを[n]けっこう　ふせぐ[n]ことができる[end]",
-  "en": ""
+  "en": "It keeps watch[n]all around, so it[n]fairly often stops[n]enemies from[n]striking first.[end]"
  },
  {
   "id": "M5100",
@@ -1512,7 +1512,7 @@
    5100
   ],
   "jp": "まわりをみはっていて[n]テキが先にコウゲキ[n]してくることを[n]だいぶ　ふせぐ[n]ことができる[end]",
-  "en": ""
+  "en": "It keeps watch[n]all around, so it[n]quite often stops[n]enemies from[n]striking first.[end]"
  },
  {
   "id": "M5101",
@@ -1527,7 +1527,7 @@
    5101
   ],
   "jp": "まわりをみはっていて[n]テキが先にコウゲキ[n]してくることを[n]かなり　ふせぐ[n]ことができる[end]",
-  "en": ""
+  "en": "It keeps watch[n]all around, so it[n]very often stops[n]enemies from[n]striking first.[end]"
  },
  {
   "id": "M5102",
@@ -1542,7 +1542,7 @@
    5102
   ],
   "jp": "いっしょに　行動[n]していると[n]ちかよりづらいのか[n]いつもより　デビルが[n]あらわれなくなる[end]",
-  "en": ""
+  "en": "When it's with[n]you, demons seem[n]to keep away, so[n]fewer of them[n]show up.[end]"
  },
  {
   "id": "M5103",
@@ -1557,7 +1557,7 @@
    5103
   ],
   "jp": "いっしょに　行動[n]していると[n]サインをねだろうと[n]いつもより　デビルが[n]あらわれ　やすくなる[end]",
-  "en": ""
+  "en": "When it's with[n]you, demons come[n]begging for its[n]autograph, so more[n]of them show up.[end]"
  },
  {
   "id": "M5104",
@@ -1572,7 +1572,7 @@
    5104
   ],
   "jp": "いっしょに　行動[n]していると[n]おびえているのか[n]デビルが　全然[n]あらわれなくなる[end]",
-  "en": ""
+  "en": "When it's with[n]you, demons seem[n]too scared, so[n]none of them[n]show up at all.[end]"
  },
  {
   "id": "M5105",
@@ -1977,7 +1977,7 @@
    5131
   ],
   "jp": "真・女神転生デビルチルドレン[end]",
-  "en": ""
+  "en": "Shin Megami Tensei: DemiKids[end]"
  },
  {
   "id": "M5132",
@@ -1992,7 +1992,7 @@
    5132
   ],
   "jp": "プロデューサー[end]",
-  "en": ""
+  "en": "Producer[end]"
  },
  {
   "id": "M5133",
@@ -2007,7 +2007,7 @@
    5133
   ],
   "jp": "ディレクター[end]",
-  "en": ""
+  "en": "Director[end]"
  },
  {
   "id": "M5134",
@@ -2022,7 +2022,7 @@
    5134
   ],
   "jp": "グラフィック　スーパーバイザー[end]",
-  "en": ""
+  "en": "Graphics Supervisor[end]"
  },
  {
   "id": "M5135",
@@ -2037,7 +2037,7 @@
    5135
   ],
   "jp": "キャラクター　デザイン[end]",
-  "en": ""
+  "en": "Character Design[end]"
  },
  {
   "id": "M5136",
@@ -2052,7 +2052,7 @@
    5136
   ],
   "jp": "デビル　デザイン[end]",
-  "en": ""
+  "en": "Demon Design[end]"
  },
  {
   "id": "M5137",
@@ -2067,7 +2067,7 @@
    5137
   ],
   "jp": "マップ　グラフィック[end]",
-  "en": ""
+  "en": "Map Graphics[end]"
  },
  {
   "id": "M5138",
@@ -2082,7 +2082,7 @@
    5138
   ],
   "jp": "バトル　エフェクト[end]",
-  "en": ""
+  "en": "Battle Effects[end]"
  },
  {
   "id": "M5139",
@@ -2097,7 +2097,7 @@
    5139
   ],
   "jp": "キャラクター　グラフィック[end]",
-  "en": ""
+  "en": "Character Graphics[end]"
  },
  {
   "id": "M5140",
@@ -2112,7 +2112,7 @@
    5140
   ],
   "jp": "イベント　グラフィック[end]",
-  "en": ""
+  "en": "Event Graphics[end]"
  },
  {
   "id": "M5141",
@@ -2127,7 +2127,7 @@
    5141
   ],
   "jp": "シナリオ[end]",
-  "en": ""
+  "en": "Scenario[end]"
  },
  {
   "id": "M5142",
@@ -2142,7 +2142,7 @@
    5142
   ],
   "jp": "プランナー[end]",
-  "en": ""
+  "en": "Planner[end]"
  },
  {
   "id": "M5143",
@@ -2157,7 +2157,7 @@
    5143
   ],
   "jp": "プランニング　サポート[end]",
-  "en": ""
+  "en": "Planning Support[end]"
  },
  {
   "id": "M5144",
@@ -2172,7 +2172,7 @@
    5144
   ],
   "jp": "プログラム[end]",
-  "en": ""
+  "en": "Program[end]"
  },
  {
   "id": "M5145",
@@ -2187,7 +2187,7 @@
    5145
   ],
   "jp": "サウンド[end]",
-  "en": ""
+  "en": "Sound[end]"
  },
  {
   "id": "M5146",
@@ -2202,7 +2202,7 @@
    5146
   ],
   "jp": "テストプレイマネージャー[end]",
-  "en": ""
+  "en": "Test Play Manager[end]"
  },
  {
   "id": "M5147",
@@ -2217,7 +2217,7 @@
    5147
   ],
   "jp": "デバッガー[end]",
-  "en": ""
+  "en": "Debugger[end]"
  },
  {
   "id": "M5148",
@@ -2232,7 +2232,7 @@
    5148
   ],
   "jp": "ＯＴＨＥＲ　ＳＴＡＦＦＳ[end]",
-  "en": ""
+  "en": "Other Staff[end]"
  },
  {
   "id": "M5149",
@@ -2247,7 +2247,7 @@
    5149
   ],
   "jp": "グラフィック　ディレクター[end]",
-  "en": ""
+  "en": "Graphics Director[end]"
  },
  {
   "id": "M5150",
@@ -2262,7 +2262,7 @@
    5150
   ],
   "jp": "アイテム　グラフィック[end]",
-  "en": ""
+  "en": "Item Graphics[end]"
  },
  {
   "id": "M5151",
@@ -2277,7 +2277,7 @@
    5151
   ],
   "jp": "デビル　グラフィック[end]",
-  "en": ""
+  "en": "Demon Graphics[end]"
  },
  {
   "id": "M5152",
@@ -2292,7 +2292,7 @@
    5152
   ],
   "jp": "バトル　ＢＧ[end]",
-  "en": ""
+  "en": "Battle BG[end]"
  },
  {
   "id": "M5153",
@@ -2307,7 +2307,7 @@
    5153
   ],
   "jp": "デザイン[end]",
-  "en": ""
+  "en": "Design[end]"
  },
  {
   "id": "M5154",
@@ -2322,7 +2322,7 @@
    5154
   ],
   "jp": "炎の書　スタッフ[end]",
-  "en": ""
+  "en": "Book of Fire Staff[end]"
  },
  {
   "id": "M5155",
@@ -2337,7 +2337,7 @@
    5155
   ],
   "jp": "テストプレイヤー[end]",
-  "en": ""
+  "en": "Test Players[end]"
  },
  {
   "id": "M5156",
@@ -2352,7 +2352,7 @@
    5156
   ],
   "jp": "アシスタント　ディレクター[end]",
-  "en": ""
+  "en": "Assistant Director[end]"
  },
  {
   "id": "M5157",
@@ -2367,7 +2367,7 @@
    5157
   ],
   "jp": "ＢＧＭ[end]",
-  "en": ""
+  "en": "BGM[end]"
  },
  {
   "id": "M5158",
@@ -2382,7 +2382,7 @@
    5158
   ],
   "jp": "サウンドエフェクト[end]",
-  "en": ""
+  "en": "Sound Effects[end]"
  },
  {
   "id": "M5159",
@@ -2727,7 +2727,7 @@
    5181
   ],
   "jp": "柴田　達二郎[end]",
-  "en": ""
+  "en": "Tatsujiro Shibata[end]"
  },
  {
   "id": "M5182",
@@ -2742,7 +2742,7 @@
    5182
   ],
   "jp": "志羽　貴司[end]",
-  "en": ""
+  "en": "Takashi Shiba[end]"
  },
  {
   "id": "M5183",
@@ -2757,7 +2757,7 @@
    5183
   ],
   "jp": "石岡　信寛[end]",
-  "en": ""
+  "en": "Nobuhiro Ishioka[end]"
  },
  {
   "id": "M5184",
@@ -2772,7 +2772,7 @@
    5184
   ],
   "jp": "吉田　哲[end]",
-  "en": ""
+  "en": "Satoshi Yoshida[end]"
  },
  {
   "id": "M5185",
@@ -2787,7 +2787,7 @@
    5185
   ],
   "jp": "穴澤　健史[end]",
-  "en": ""
+  "en": "Kenji Anazawa[end]"
  },
  {
   "id": "M5186",
@@ -2802,7 +2802,7 @@
    5186
   ],
   "jp": "田巻　敏直[end]",
-  "en": ""
+  "en": "Toshinao Tamaki[end]"
  },
  {
   "id": "M5187",
@@ -2817,7 +2817,7 @@
    5187
   ],
   "jp": "鎌田　昌宏[end]",
-  "en": ""
+  "en": "Masahiro Kamata[end]"
  },
  {
   "id": "M5188",
@@ -2832,7 +2832,7 @@
    5188
   ],
   "jp": "宮内　勇樹[end]",
-  "en": ""
+  "en": "Yuki Miyauchi[end]"
  },
  {
   "id": "M5189",
@@ -2847,7 +2847,7 @@
    5189
   ],
   "jp": "市川　雄樹[end]",
-  "en": ""
+  "en": "Yuki Ichikawa[end]"
  },
  {
   "id": "M5190",
@@ -2862,7 +2862,7 @@
    5190
   ],
   "jp": "佐藤　友絵[end]",
-  "en": ""
+  "en": "Tomoe Sato[end]"
  },
  {
   "id": "M5191",
@@ -2877,7 +2877,7 @@
    5191
   ],
   "jp": "梅北　億一[end]",
-  "en": ""
+  "en": "Okuichi Umekita[end]"
  },
  {
   "id": "M5192",
@@ -2892,7 +2892,7 @@
    5192
   ],
   "jp": "高尾野　大助[end]",
-  "en": ""
+  "en": "Daisuke Takaono[end]"
  },
  {
   "id": "M5193",
@@ -2907,7 +2907,7 @@
    5193
   ],
   "jp": "岡田　哲平[end]",
-  "en": ""
+  "en": "Teppei Okada[end]"
  },
  {
   "id": "M5194",
@@ -2922,7 +2922,7 @@
    5194
   ],
   "jp": "高田　牧子[end]",
-  "en": ""
+  "en": "Makiko Takada[end]"
  },
  {
   "id": "M5195",
@@ -2937,7 +2937,7 @@
    5195
   ],
   "jp": "後藤　華[end]",
-  "en": ""
+  "en": "Hana Goto[end]"
  },
  {
   "id": "M5196",
@@ -2952,7 +2952,7 @@
    5196
   ],
   "jp": "板橋　亮介[end]",
-  "en": ""
+  "en": "Ryosuke Itabashi[end]"
  },
  {
   "id": "M5197",
@@ -2967,7 +2967,7 @@
    5197
   ],
   "jp": "伊藤　知宏[end]",
-  "en": ""
+  "en": "Tomohiro Ito[end]"
  },
  {
   "id": "M5198",
@@ -2984,6 +2984,6 @@
    5199
   ],
   "jp": "須藤　尚子[end]",
-  "en": ""
+  "en": "Naoko Sudo[end]"
  }
 ]

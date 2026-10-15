@@ -117,7 +117,7 @@
    2807
   ],
   "jp": "味方１体の　全ステータスがアップ[end]",
-  "en": ""
+  "en": "Raises all stats of one ally.[end]"
  },
  {
   "id": "M2808",
@@ -132,7 +132,7 @@
    2808
   ],
   "jp": "味方デビルが　パートナーに変身する[end]",
-  "en": ""
+  "en": "Turns an allied demon into your partner.[end]"
  },
  {
   "id": "M2809",
@@ -147,7 +147,7 @@
    2809
   ],
   "jp": "戦闘が　一番最初の状態にもどる[end]",
-  "en": ""
+  "en": "Resets the battle to how it began.[end]"
  },
  {
   "id": "M2810",
@@ -162,7 +162,7 @@
    2810
   ],
   "jp": "どんなカードになるかは　わからない[end]",
-  "en": ""
+  "en": "No telling what card it will become.[end]"
  },
  {
   "id": "M2811",
@@ -177,7 +177,7 @@
    2811
   ],
   "jp": "敵全員の全ステータスを　ダウンさせる[end]",
-  "en": ""
+  "en": "Lowers all stats of every enemy.[end]"
  },
  {
   "id": "M2812",
@@ -192,7 +192,7 @@
    2812
   ],
   "jp": "火の魔法・技のつよさがアップ[end]",
-  "en": ""
+  "en": "Powers up fire magic and skills.[end]"
  },
  {
   "id": "M2813",
@@ -207,7 +207,7 @@
    2813
   ],
   "jp": "水の魔法・技のつよさがアップ[end]",
-  "en": ""
+  "en": "Powers up water magic and skills.[end]"
  },
  {
   "id": "M2814",
@@ -222,7 +222,7 @@
    2814
   ],
   "jp": "地の魔法・技のつよさがアップ[end]",
-  "en": ""
+  "en": "Powers up earth magic and skills.[end]"
  },
  {
   "id": "M2815",
@@ -237,7 +237,7 @@
    2815
   ],
   "jp": "風の魔法・技のつよさがアップ[end]",
-  "en": ""
+  "en": "Powers up wind magic and skills.[end]"
  },
  {
   "id": "M2816",
@@ -252,7 +252,7 @@
    2816
   ],
   "jp": "雷の魔法・技のつよさがアップ[end]",
-  "en": ""
+  "en": "Powers up thunder magic and skills.[end]"
  },
  {
   "id": "M2817",
@@ -267,7 +267,7 @@
    2817
   ],
   "jp": "氷の魔法・技のつよさがアップ[end]",
-  "en": ""
+  "en": "Powers up ice magic and skills.[end]"
  },
  {
   "id": "M2818",
@@ -282,7 +282,7 @@
    2818
   ],
   "jp": "闇の魔法・技のつよさがアップ[end]",
-  "en": ""
+  "en": "Powers up dark magic and skills.[end]"
  },
  {
   "id": "M2819",
@@ -297,7 +297,7 @@
    2819
   ],
   "jp": "光の魔法・技のつよさがアップ[end]",
-  "en": ""
+  "en": "Powers up light magic and skills.[end]"
  },
  {
   "id": "M2820",
@@ -312,7 +312,7 @@
    2820
   ],
   "jp": "火の魔法・技のダメージを半分ガード[end]",
-  "en": ""
+  "en": "Halves damage from fire magic and skills.[end]"
  },
  {
   "id": "M2821",
@@ -327,7 +327,7 @@
    2821
   ],
   "jp": "水の魔法・技のダメージを半分ガード[end]",
-  "en": ""
+  "en": "Halves damage from water magic and skills.[end]"
  },
  {
   "id": "M2822",
@@ -342,7 +342,7 @@
    2822
   ],
   "jp": "地の魔法・技のダメージを半分ガード[end]",
-  "en": ""
+  "en": "Halves damage from earth magic and skills.[end]"
  },
  {
   "id": "M2823",
@@ -357,7 +357,7 @@
    2823
   ],
   "jp": "風の魔法・技のダメージを半分ガード[end]",
-  "en": ""
+  "en": "Halves damage from wind magic and skills.[end]"
  },
  {
   "id": "M2824",
@@ -372,7 +372,7 @@
    2824
   ],
   "jp": "雷の魔法・技のダメージを半分ガード[end]",
-  "en": ""
+  "en": "Halves damage from thunder magic or skills.[end]"
  },
  {
   "id": "M2825",
@@ -387,7 +387,7 @@
    2825
   ],
   "jp": "氷の魔法・技のダメージを半分ガード[end]",
-  "en": ""
+  "en": "Halves damage from ice magic and skills.[end]"
  },
  {
   "id": "M2826",
@@ -402,7 +402,7 @@
    2826
   ],
   "jp": "闇の魔法・技のダメージを半分ガード[end]",
-  "en": ""
+  "en": "Halves damage from dark magic and skills.[end]"
  },
  {
   "id": "M2827",
@@ -417,7 +417,7 @@
    2827
   ],
   "jp": "光の魔法・技のダメージを半分ガード[end]",
-  "en": ""
+  "en": "Halves damage from light magic and skills.[end]"
  },
  {
   "id": "M2828",
@@ -432,7 +432,7 @@
    2828
   ],
   "jp": "通常攻撃の属性が　火に変化[end]",
-  "en": ""
+  "en": "Normal attacks become fire-element.[end]"
  },
  {
   "id": "M2829",
@@ -447,7 +447,7 @@
    2829
   ],
   "jp": "通常攻撃の属性が　水に変化[end]",
-  "en": ""
+  "en": "Normal attacks become water-element.[end]"
  },
  {
   "id": "M2830",
@@ -462,7 +462,7 @@
    2830
   ],
   "jp": "通常攻撃の属性が　地に変化[end]",
-  "en": ""
+  "en": "Normal attacks become earth-element.[end]"
  },
  {
   "id": "M2831",
@@ -477,7 +477,7 @@
    2831
   ],
   "jp": "通常攻撃の属性が　風に変化[end]",
-  "en": ""
+  "en": "Normal attacks become wind-element.[end]"
  },
  {
   "id": "M2832",
@@ -492,7 +492,7 @@
    2832
   ],
   "jp": "通常攻撃の属性が　雷に変化[end]",
-  "en": ""
+  "en": "Normal attacks become thunder-element.[end]"
  },
  {
   "id": "M2833",
@@ -507,7 +507,7 @@
    2833
   ],
   "jp": "通常攻撃の属性が　氷に変化[end]",
-  "en": ""
+  "en": "Normal attacks become ice-element.[end]"
  },
  {
   "id": "M2834",
@@ -522,7 +522,7 @@
    2834
   ],
   "jp": "通常攻撃の属性が　闇に変化[end]",
-  "en": ""
+  "en": "Normal attacks become dark-element.[end]"
  },
  {
   "id": "M2835",
@@ -537,7 +537,7 @@
    2835
   ],
   "jp": "通常攻撃の属性が　光に変化[end]",
-  "en": ""
+  "en": "Normal attacks become light-element.[end]"
  },
  {
   "id": "M2836",
@@ -552,7 +552,7 @@
    2836
   ],
   "jp": "味方全員の獣系会話交渉成功率がアップ[end]",
-  "en": ""
+  "en": "Party talks better with Beast-type demons.[end]"
  },
  {
   "id": "M2837",
@@ -567,7 +567,7 @@
    2837
   ],
   "jp": "味方全員の龍系会話交渉成功率がアップ[end]",
-  "en": ""
+  "en": "Party talks better with Dragon-type demons.[end]"
  },
  {
   "id": "M2838",
@@ -582,7 +582,7 @@
    2838
   ],
   "jp": "味方全員の鳥系会話交渉成功率がアップ[end]",
-  "en": ""
+  "en": "Party talks better with Bird-type demons.[end]"
  },
  {
   "id": "M2839",
@@ -597,7 +597,7 @@
    2839
   ],
   "jp": "味方全員の男系会話交渉成功率がアップ[end]",
-  "en": ""
+  "en": "Party talks better with Male-type demons.[end]"
  },
  {
   "id": "M2840",
@@ -612,7 +612,7 @@
    2840
   ],
   "jp": "味方全員の女系会話交渉成功率がアップ[end]",
-  "en": ""
+  "en": "Party talks better with Female-type demons.[end]"
  },
  {
   "id": "M2841",
@@ -627,7 +627,7 @@
    2841
   ],
   "jp": "味方全員の会話交渉成功率がアップ[end]",
-  "en": ""
+  "en": "Party talks better with all demons.[end]"
  },
  {
   "id": "M2842",
@@ -642,7 +642,7 @@
    2842
   ],
   "jp": "味方全員のアタックがアップ[end]",
-  "en": ""
+  "en": "Raises the Attack of all allies.[end]"
  },
  {
   "id": "M2843",
@@ -657,7 +657,7 @@
    2843
   ],
   "jp": "味方全員のマジックがアップ[end]",
-  "en": ""
+  "en": "Raises the Magic of all allies.[end]"
  },
  {
   "id": "M2844",
@@ -672,7 +672,7 @@
    2844
   ],
   "jp": "味方全員のガードがアップ[end]",
-  "en": ""
+  "en": "Raises the Guard of all allies.[end]"
  },
  {
   "id": "M2845",
@@ -687,7 +687,7 @@
    2845
   ],
   "jp": "味方全員のＭガードがアップ[end]",
-  "en": ""
+  "en": "Raises the Magic Guard of all allies.[end]"
  },
  {
   "id": "M2846",
@@ -702,7 +702,7 @@
    2846
   ],
   "jp": "味方全員のスピードがアップ[end]",
-  "en": ""
+  "en": "Raises the Speed of all allies.[end]"
  },
  {
   "id": "M2847",
@@ -717,7 +717,7 @@
    2847
   ],
   "jp": "味方全員のラックがアップ[end]",
-  "en": ""
+  "en": "Raises the Luck of all allies.[end]"
  },
  {
   "id": "M2848",
@@ -732,7 +732,7 @@
    2848
   ],
   "jp": "味方全員の全ステータスがアップ[end]",
-  "en": ""
+  "en": "Raises all stats of all allies.[end]"
  },
  {
   "id": "M2849",
@@ -747,7 +747,7 @@
    2849
   ],
   "jp": "敵すべてを　ナカマにする[end]",
-  "en": ""
+  "en": "Makes every enemy your ally.[end]"
  },
  {
   "id": "M2850",
@@ -762,7 +762,7 @@
    2850
   ],
   "jp": "敵から　アイテムをぬすみだす[end]",
-  "en": ""
+  "en": "Steals an item from an enemy.[end]"
  },
  {
   "id": "M2851",
@@ -777,7 +777,7 @@
    2851
   ],
   "jp": "敵が　必ず　アイテムを落とす[end]",
-  "en": ""
+  "en": "Enemies always drop an item.[end]"
  },
  {
   "id": "M2852",
@@ -792,7 +792,7 @@
    2852
   ],
   "jp": "敵が落とす　お金が　倍になる[end]",
-  "en": ""
+  "en": "Doubles the money enemies drop.[end]"
  },
  {
   "id": "M2853",
@@ -807,7 +807,7 @@
    2853
   ],
   "jp": "敵からもらえる　経験値が　倍になる[end]",
-  "en": ""
+  "en": "Doubles the EXP gained from enemies.[end]"
  },
  {
   "id": "M2854",
@@ -822,7 +822,7 @@
    2854
   ],
   "jp": "敵を　すべておいはらう[end]",
-  "en": ""
+  "en": "Drives off all enemies.[end]"
  },
  {
   "id": "M2855",
@@ -837,7 +837,7 @@
    2855
   ],
   "jp": "味方をまとめてコールする[end]",
-  "en": ""
+  "en": "Calls several allies at once.[end]"
  },
  {
   "id": "M2856",
@@ -852,7 +852,7 @@
    2856
   ],
   "jp": "味方全員のＨＰＭＰを　ＭＡＸまで回復[end]",
-  "en": ""
+  "en": "Fully restores all allies' HP and MP.[end]"
  },
  {
   "id": "M2857",
@@ -867,7 +867,7 @@
    2857
   ],
   "jp": "味方全員の通常攻撃分　ＨＰが回復[end]",
-  "en": ""
+  "en": "Allies regain HP equal to a normal attack.[end]"
  },
  {
   "id": "M2858",
@@ -882,7 +882,7 @@
    2858
   ],
   "jp": "敵すべてを　１ターン行動不能にする[end]",
-  "en": ""
+  "en": "Stops all enemies from acting for 1 turn.[end]"
  },
  {
   "id": "M2859",
@@ -897,7 +897,7 @@
    2859
   ],
   "jp": "味方１体　通常攻撃が２回攻撃に変化[end]",
-  "en": ""
+  "en": "One ally's normal attack hits twice.[end]"
  },
  {
   "id": "M2860",
@@ -912,7 +912,7 @@
    2860
   ],
   "jp": "３ターンだけ通常攻撃を無効化[end]",
-  "en": ""
+  "en": "Nullifies normal attacks for 3 turns.[end]"
  },
  {
   "id": "M2861",
@@ -927,7 +927,7 @@
    2861
   ],
   "jp": "３ターン味方全員の攻撃がクリティカル[end]",
-  "en": ""
+  "en": "All allies land critical hits for 3 turns.[end]"
  },
  {
   "id": "M2862",
@@ -942,7 +942,7 @@
    2862
   ],
   "jp": "敵全員に何か状態異常を起こす[end]",
-  "en": ""
+  "en": "Inflicts a random ailment on all enemies.[end]"
  },
  {
   "id": "M2863",
@@ -957,7 +957,7 @@
    2863
   ],
   "jp": "３ターン連続で敵全員に闇属性ダメージ[end]",
-  "en": ""
+  "en": "Dark damage to all enemies for 3 turns.[end]"
  },
  {
   "id": "M2864",
@@ -972,7 +972,7 @@
    2864
   ],
   "jp": "味方１体がキゼツしてもすぐに復活する[end]",
-  "en": ""
+  "en": "A fainted ally revives at once.[end]"
  },
  {
   "id": "M2865",
@@ -987,7 +987,7 @@
    2865
   ],
   "jp": "５ターン連続で味方のＨＰが少し回復[end]",
-  "en": ""
+  "en": "Restores a little HP to allies for 5 turns.[end]"
  },
  {
   "id": "M2866",
@@ -1002,7 +1002,7 @@
    2866
   ],
   "jp": "５ターン連続で味方のＭＰが少し回復[end]",
-  "en": ""
+  "en": "Restores a little MP to allies for 5 turns.[end]"
  },
  {
   "id": "M2867",
@@ -1017,7 +1017,7 @@
    2867
   ],
   "jp": "ＢＧＭを　聞く事ができる[end]",
-  "en": ""
+  "en": "Lets you listen to the BGM.[end]"
  },
  {
   "id": "M2868",
@@ -1032,7 +1032,7 @@
    2868
   ],
   "jp": "ＢＧＭを　聞く事ができる[end]",
-  "en": ""
+  "en": "Lets you listen to the BGM.[end]"
  },
  {
   "id": "M2869",
@@ -1047,7 +1047,7 @@
    2869
   ],
   "jp": "ＢＧＭを　聞く事ができる[end]",
-  "en": ""
+  "en": "Lets you listen to the BGM.[end]"
  },
  {
   "id": "M2870",
@@ -1062,7 +1062,7 @@
    2870
   ],
   "jp": "ＢＧＭを　聞く事ができる[end]",
-  "en": ""
+  "en": "Lets you listen to the BGM.[end]"
  },
  {
   "id": "M2871",
@@ -1077,7 +1077,7 @@
    2871
   ],
   "jp": "ＢＧＭを　聞く事ができる[end]",
-  "en": ""
+  "en": "Lets you listen to the BGM.[end]"
  },
  {
   "id": "M2872",
@@ -1092,7 +1092,7 @@
    2872
   ],
   "jp": "ＢＧＭを　聞く事ができる[end]",
-  "en": ""
+  "en": "Lets you listen to the BGM.[end]"
  },
  {
   "id": "M2873",
@@ -1107,7 +1107,7 @@
    2873
   ],
   "jp": "ＢＧＭを　聞く事ができる[end]",
-  "en": ""
+  "en": "Lets you listen to the BGM.[end]"
  },
  {
   "id": "M2874",
@@ -1122,7 +1122,7 @@
    2874
   ],
   "jp": "ＢＧＭを　聞く事ができる[end]",
-  "en": ""
+  "en": "Lets you listen to the BGM.[end]"
  },
  {
   "id": "M2875",
@@ -2022,7 +2022,7 @@
    2934
   ],
   "jp": "原宿のマップ[end]",
-  "en": ""
+  "en": "A map of Harajuku.[end]"
  },
  {
   "id": "M2935",
@@ -2037,7 +2037,7 @@
    2935
   ],
   "jp": "ほうかいした　原宿のマップ[end]",
-  "en": ""
+  "en": "A map of ruined Harajuku.[end]"
  },
  {
   "id": "M2936",
@@ -2052,7 +2052,7 @@
    2936
   ],
   "jp": "暗黒の世界　魔界中央のマップ[end]",
-  "en": ""
+  "en": "A map of the dark Demon World's center.[end]"
  },
  {
   "id": "M2937",
@@ -2067,7 +2067,7 @@
    2937
   ],
   "jp": "かくれた魔界　地下のマップ[end]",
-  "en": ""
+  "en": "A map of the hidden Demon World depths.[end]"
  },
  {
   "id": "M2938",
@@ -2082,7 +2082,7 @@
    2938
   ],
   "jp": "アクマもこわいディープホールのマップ[end]",
-  "en": ""
+  "en": "A map of the Deep Hole, feared by devils.[end]"
  },
  {
   "id": "M2939",
@@ -2097,7 +2097,7 @@
    2939
   ],
   "jp": "時の流れの先にある地のマップ[end]",
-  "en": ""
+  "en": "A map of the land beyond time's flow.[end]"
  },
  {
   "id": "M2940",
@@ -2112,7 +2112,7 @@
    2940
   ],
   "jp": "天使たちのすむ　天界のマップ[end]",
-  "en": ""
+  "en": "A map of Heaven, home of the angels.[end]"
  },
  {
   "id": "M2941",
@@ -2127,7 +2127,7 @@
    2941
   ],
   "jp": "炎の使徒が　おさめる炎の国のマップ[end]",
-  "en": ""
+  "en": "A map of the Flame Apostle's land.[end]"
  },
  {
   "id": "M2942",
@@ -2142,7 +2142,7 @@
    2942
   ],
   "jp": "氷の使徒が　おさめる氷の国のマップ[end]",
-  "en": ""
+  "en": "A map of the Ice Apostle's land.[end]"
  },
  {
   "id": "M2943",
@@ -2157,7 +2157,7 @@
    2943
   ],
   "jp": "きょだいなサケメにある　国のマップ[end]",
-  "en": ""
+  "en": "A map of the land in the giant rift.[end]"
  },
  {
   "id": "M2944",
@@ -2172,7 +2172,7 @@
    2944
   ],
   "jp": "時のハザマに　ただよう空間のマップ[end]",
-  "en": ""
+  "en": "A map of the space adrift in time's rift.[end]"
  },
  {
   "id": "M2945",
@@ -2187,7 +2187,7 @@
    2945
   ],
   "jp": "ハイエストピークのオクのマップ・・・[end]",
-  "en": ""
+  "en": "A map of the depths of Highest Peak...[end]"
  },
  {
   "id": "M2946",
@@ -2202,7 +2202,7 @@
    2946
   ],
   "jp": "ディープホールのオクのマップ・・・[end]",
-  "en": ""
+  "en": "A map of the depths of the Deep Hole...[end]"
  },
  {
   "id": "M2947",
@@ -2277,7 +2277,7 @@
    2951
   ],
   "jp": "デビルを呼び出す　まほうのケンジュウ[end]",
-  "en": ""
+  "en": "A magic handgun that summons demons.[end]"
  },
  {
   "id": "M2952",
@@ -2292,7 +2292,7 @@
    2952
   ],
   "jp": "デビルを呼び出す　まほうのケンジュウ[end]",
-  "en": ""
+  "en": "A magic handgun that summons demons.[end]"
  },
  {
   "id": "M2953",
@@ -2307,7 +2307,7 @@
    2953
   ],
   "jp": "デビルをキロクできる　パソコン[end]",
-  "en": ""
+  "en": "A computer that can record demons.[end]"
  },
  {
   "id": "M2954",
@@ -2322,7 +2322,7 @@
    2954
   ],
   "jp": "アクマのもんしょうが　はいったカギ[end]",
-  "en": ""
+  "en": "A key bearing a devil's crest.[end]"
  },
  {
   "id": "M2955",
@@ -2337,7 +2337,7 @@
    2955
   ],
   "jp": "読めない文字が　読めるようになる石版[end]",
-  "en": ""
+  "en": "A tablet that lets you read strange script.[end]"
  },
  {
   "id": "M2956",
@@ -2352,7 +2352,7 @@
    2956
   ],
   "jp": "読めない文字が　読めるようになる石版[end]",
-  "en": ""
+  "en": "A tablet that lets you read strange script.[end]"
  },
  {
   "id": "M2957",
@@ -2367,7 +2367,7 @@
    2957
   ],
   "jp": "読めない文字が　読めるようになる石版[end]",
-  "en": ""
+  "en": "A tablet that lets you read strange script.[end]"
  },
  {
   "id": "M2958",
@@ -2382,7 +2382,7 @@
    2958
   ],
   "jp": "不思議な色をした　デビルのタマゴ[end]",
-  "en": ""
+  "en": "A strangely colored Devil Egg.[end]"
  },
  {
   "id": "M2959",
@@ -2397,7 +2397,7 @@
    2959
   ],
   "jp": "当たっていれば　景品と交換できる[end]",
-  "en": ""
+  "en": "If it's a winner, trade it for a prize.[end]"
  },
  {
   "id": "M2960",
@@ -2412,7 +2412,7 @@
    2960
   ],
   "jp": "ワナをとく　トクベツなカギ[end]",
-  "en": ""
+  "en": "A special key that disarms traps.[end]"
  },
  {
   "id": "M2961",
@@ -2427,7 +2427,7 @@
    2961
   ],
   "jp": "だれかがなくした　カード入れ[end]",
-  "en": ""
+  "en": "A card case somebody lost.[end]"
  },
  {
   "id": "M2962",
@@ -2442,7 +2442,7 @@
    2962
   ],
   "jp": "何に使うかわからない　時計のふりこ[end]",
-  "en": ""
+  "en": "A clock pendulum. What's it for?[end]"
  },
  {
   "id": "M2963",
@@ -2457,7 +2457,7 @@
    2963
   ],
   "jp": "何に使うかわからない　時計のはり[end]",
-  "en": ""
+  "en": "A clock hand. What's it for?[end]"
  },
  {
   "id": "M2964",
@@ -2472,7 +2472,7 @@
    2964
   ],
   "jp": "何に使うかわからない　時計のはぐるま[end]",
-  "en": ""
+  "en": "A clock gear. What's it for?[end]"
  },
  {
   "id": "M2965",
@@ -2487,7 +2487,7 @@
    2965
   ],
   "jp": "天使の力で清められた　聖なる水[end]",
-  "en": ""
+  "en": "Holy water purified by angelic power.[end]"
  },
  {
   "id": "M2966",
@@ -2502,7 +2502,7 @@
    2966
   ],
   "jp": "１００年に１度だけはえる　キノコ[end]",
-  "en": ""
+  "en": "A mushroom that grows once in 100 years.[end]"
  },
  {
   "id": "M2967",
@@ -2517,7 +2517,7 @@
    2967
   ],
   "jp": "ボイラーの　しゅうりブヒン[end]",
-  "en": ""
+  "en": "A repair part for a boiler.[end]"
  },
  {
   "id": "M2968",
@@ -2532,7 +2532,7 @@
    2968
   ],
   "jp": "人形作成に必要な　氷の使徒のカミの毛[end]",
-  "en": ""
+  "en": "Ice Apostle's hair, needed to make a doll.[end]"
  },
  {
   "id": "M2969",
@@ -2547,7 +2547,7 @@
    2969
   ],
   "jp": "氷の使徒　そっくりの人形[end]",
-  "en": ""
+  "en": "A doll just like the Ice Apostle.[end]"
  },
  {
   "id": "M2970",
@@ -2562,7 +2562,7 @@
    2970
   ],
   "jp": "魔法の力がこめられた　ルビー[end]",
-  "en": ""
+  "en": "A ruby filled with magic power.[end]"
  },
  {
   "id": "M2971",
@@ -2577,7 +2577,7 @@
    2971
   ],
   "jp": "マモノの力が　こめられた血[end]",
-  "en": ""
+  "en": "Blood filled with a monster's power.[end]"
  },
  {
   "id": "M2972",
@@ -2592,7 +2592,7 @@
    2972
   ],
   "jp": "ぜつめつしてしまったリュウの角のホネ[end]",
-  "en": ""
+  "en": "Horn bone of an extinct dragon.[end]"
  },
  {
   "id": "M2973",
@@ -2607,7 +2607,7 @@
    2973
   ],
   "jp": "われてしまった紋章のカケラの１つ[end]",
-  "en": ""
+  "en": "A piece of a broken crest.[end]"
  },
  {
   "id": "M2974",
@@ -2622,7 +2622,7 @@
    2974
   ],
   "jp": "われてしまった紋章のカケラの１つ[end]",
-  "en": ""
+  "en": "A piece of a broken crest.[end]"
  },
  {
   "id": "M2975",
@@ -2637,7 +2637,7 @@
    2975
   ],
   "jp": "われてしまった紋章のカケラの１つ[end]",
-  "en": ""
+  "en": "A piece of a broken crest.[end]"
  },
  {
   "id": "M2976",
@@ -2652,7 +2652,7 @@
    2976
   ],
   "jp": "フウインされた　チカラのしょうちょう[end]",
-  "en": ""
+  "en": "A sealed symbol of power.[end]"
  },
  {
   "id": "M2977",
@@ -2667,7 +2667,7 @@
    2977
   ],
   "jp": "フウインされた　チカラのしょうちょう[end]",
-  "en": ""
+  "en": "A sealed symbol of power.[end]"
  },
  {
   "id": "M2978",
@@ -2682,7 +2682,7 @@
    2978
   ],
   "jp": "炎の使徒の城の　トビラを開けるカギ[end]",
-  "en": ""
+  "en": "Opens the Flame Apostle's castle door.[end]"
  },
  {
   "id": "M2979",
@@ -2697,7 +2697,7 @@
    2979
   ],
   "jp": "ハティのともだちの形見[end]",
-  "en": ""
+  "en": "A keepsake of Hati's friend.[end]"
  },
  {
   "id": "M2980",
@@ -2712,7 +2712,7 @@
    2980
   ],
   "jp": "ベストリのほこらのトビラを開けるカギ[end]",
-  "en": ""
+  "en": "Opens the door of the Vestri Shrine.[end]"
  },
  {
   "id": "M2981",
@@ -2727,7 +2727,7 @@
    2981
   ],
   "jp": "氷のような宝石で　できている花[end]",
-  "en": ""
+  "en": "A flower made of an icy gemstone.[end]"
  },
  {
   "id": "M2982",
@@ -2742,7 +2742,7 @@
    2982
   ],
   "jp": "スコールにあてた　ダルアのてがみ[end]",
-  "en": ""
+  "en": "Darua's letter to Skoll.[end]"
  },
  {
   "id": "M2983",
@@ -2757,7 +2757,7 @@
    2983
   ],
   "jp": "宝のありかが　かかれた地図[end]",
-  "en": ""
+  "en": "A map showing where treasure lies.[end]"
  },
  {
   "id": "M2984",
@@ -2772,7 +2772,7 @@
    2984
   ],
   "jp": "ライル（若）の　おきにいりアイテム[end]",
-  "en": ""
+  "en": "Young Lyle's favorite item.[end]"
  },
  {
   "id": "M2985",
@@ -2787,7 +2787,7 @@
    2985
   ],
   "jp": "持っているとすべての言葉がわかる石版[end]",
-  "en": ""
+  "en": "A tablet that lets you understand all words.[end]"
  },
  {
   "id": "M2986",
@@ -2877,7 +2877,7 @@
    2991
   ],
   "jp": "吹き上げる炎で　敵１体にダメージ[end]",
-  "en": ""
+  "en": "Erupting flames damage one foe.[end]"
  },
  {
   "id": "M2992",
@@ -2892,7 +2892,7 @@
    2992
   ],
   "jp": "吹き上げる炎で　敵１体に中ダメージ[end]",
-  "en": ""
+  "en": "Erupting flames: medium damage to one foe.[end]"
  },
  {
   "id": "M2993",
@@ -2907,7 +2907,7 @@
    2993
   ],
   "jp": "吹き上げる炎で　敵２体に小ダメージ[end]",
-  "en": ""
+  "en": "Erupting flames: light damage to two foes.[end]"
  },
  {
   "id": "M2994",
@@ -2922,7 +2922,7 @@
    2994
   ],
   "jp": "氷柱で　敵１体に小ダメージと凍結効果[end]",
-  "en": ""
+  "en": "Icicles: light damage and freeze, one foe.[end]"
  },
  {
   "id": "M2995",
@@ -2937,7 +2937,7 @@
    2995
   ],
   "jp": "氷柱で　敵１体に中ダメージと凍結効果[end]",
-  "en": ""
+  "en": "Icicles: medium damage and freeze, one foe.[end]"
  },
  {
   "id": "M2996",
@@ -2952,7 +2952,7 @@
    2996
   ],
   "jp": "氷柱で　敵２体に小ダメージと凍結効果[end]",
-  "en": ""
+  "en": "Icicles: light damage and freeze, two foes.[end]"
  },
  {
   "id": "M2997",
@@ -2967,7 +2967,7 @@
    2997
   ],
   "jp": "カマイタチで　敵１体に小ダメージ[end]",
-  "en": ""
+  "en": "Wind blades: light damage to one foe.[end]"
  },
  {
   "id": "M2998",
@@ -2982,7 +2982,7 @@
    2998
   ],
   "jp": "カマイタチで　敵１体に中ダメージ[end]",
-  "en": ""
+  "en": "Wind blades: medium damage to one foe.[end]"
  },
  {
   "id": "M2999",
@@ -2997,6 +2997,6 @@
    2999
   ],
   "jp": "カマイタチで　敵２体に小ダメージ[end]",
-  "en": ""
+  "en": "Wind blades: light damage to two foes.[end]"
  }
 ]

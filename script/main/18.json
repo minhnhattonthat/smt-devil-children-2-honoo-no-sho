@@ -12,7 +12,7 @@
    3600
   ],
   "jp": "おとめのピンチに[n]必ずあらわれ[n]キセキをおこして[n]おとめを助ける[n]ちょっぴりキザな[n]優しい天使[end]",
-  "en": ""
+  "en": "A kind angel who always shows up when a maiden is in trouble, working miracles to save her. A bit of a show-off.[end]"
  },
  {
   "id": "M3601",
@@ -27,7 +27,7 @@
    3601
   ],
   "jp": "この　世界から[n]赤いバラをなくすため[n]見つけては[n]にぎりつぶす[n]悪い心をもった[n]ヴァーチャー[end]",
-  "en": ""
+  "en": "A Virtue with a wicked heart. To rid the world of red roses, it crushes every one it finds.[end]"
  },
  {
   "id": "M3602",
@@ -42,7 +42,7 @@
    3602
   ],
   "jp": "天使たちを　シキし[n]全宇宙に神の言葉を[n]伝える　役目がある[n]なまけものが[n]大キライな[n]マジメな天使[end]",
-  "en": ""
+  "en": "A serious angel who commands the angels and spreads God's word to the universe. It can't stand lazybones.[end]"
  },
  {
   "id": "M3603",
@@ -57,7 +57,7 @@
    3603
   ],
   "jp": "大空を走る戦車に乗り[n]悪い　デビルや[n]悪い　人間を[n]こらしめる天使[n]体は金属のように光り[n]顔は　４つあるという[end]",
-  "en": ""
+  "en": "An angel who rides a chariot across the sky to punish bad devils and humans. Its body shines like metal, and it has four faces.[end]"
  },
  {
   "id": "M3604",
@@ -72,7 +72,7 @@
    3604
   ],
   "jp": "４つの　羽と[n]４つの　顔を[n]持つ　天使[n]神聖な場所の番人で[n]近づく者を　炎の剣で[n]黒こげにする[end]",
-  "en": ""
+  "en": "An angel with four wings and four faces. It guards holy places and burns intruders to a crisp with a flaming sword.[end]"
  },
  {
   "id": "M3605",
@@ -87,7 +87,7 @@
    3605
   ],
   "jp": "世界のために[n]愛の　歌を[n]歌い　続ける[n]強さと　優しさの[n]両方をもった[n]優しい天使[end]",
-  "en": ""
+  "en": "A gentle angel, both strong and kind, who keeps singing songs of love for the world.[end]"
  },
  {
   "id": "M3606",
@@ -102,7 +102,7 @@
    3606
   ],
   "jp": "天界の戦士隊長[n]光りかがやく[n]正義の　心と[n]最強の力を持つ[n]天使たちの[n]リーダー格[end]",
-  "en": ""
+  "en": "Captain of Heaven's warriors and leader of the angels, with a shining heart of justice and the greatest power.[end]"
  },
  {
   "id": "M3607",
@@ -117,7 +117,7 @@
    3607
   ],
   "jp": "大きな闇の力で[n]世界を　ハカイ[n]しようとたくらむ[n]とても　強く[n]とても　悪い[n]神にさからう天使[end]",
-  "en": ""
+  "en": "A very strong, very evil angel who defies God, plotting to destroy the world with great powers of darkness.[end]"
  },
  {
   "id": "M3608",
@@ -132,7 +132,7 @@
    3608
   ],
   "jp": "かわいい　えがおで[n]むじゃきに　笑い[n]氷の　魔法で[n]じゃれてくる[n]ユキダルマから[n]生まれた　デビル[end]",
-  "en": ""
+  "en": "A devil born from a snowman. With a cute smile and innocent laugh, it plays around with ice magic.[end]"
  },
  {
   "id": "M3609",
@@ -147,7 +147,7 @@
    3609
   ],
   "jp": "長い　時間[n]飛び　続けたり[n]すごい　はやさで[n]走ることもできる[n]モモンガみたいな[n]ニンジャのデビル[end]",
-  "en": ""
+  "en": "A ninja devil like a flying squirrel. It can fly for a long time and run super fast.[end]"
  },
  {
   "id": "M3610",
@@ -162,7 +162,7 @@
    3610
   ],
   "jp": "死者の国の　番犬で[n]目は　石炭のように[n]燃えている[n]ねらった　えものを[n]のがすことなく[n]どこまでも追いかける[end]",
-  "en": ""
+  "en": "The watchdog of the land of the dead. Its eyes burn like coal, and it chases its prey anywhere without fail.[end]"
  },
  {
   "id": "M3611",
@@ -177,7 +177,7 @@
    3611
   ],
   "jp": "ふぶきの　夜に[n]ユキオンナが[n]だいてあらわれる[n]雪で　できている[n]赤ちゃん　デビル[n]いつも鼻をたらしてる[end]",
-  "en": ""
+  "en": "A baby devil made of snow, carried in by the Yuki-Onna on snowy nights. Its nose is always runny.[end]"
  },
  {
   "id": "M3612",
@@ -192,7 +192,7 @@
    3612
   ],
   "jp": "ヤリと　タテを[n]持っている[n]地下の　神[n]どうどうとしていて[n]りりしい　姿の[n]プライド高いデビル[end]",
-  "en": ""
+  "en": "A god of the underground with a spear and shield. A proud devil with a dignified, noble look.[end]"
  },
  {
   "id": "M3613",
@@ -207,7 +207,7 @@
    3613
   ],
   "jp": "陽気で　つめたい[n]ユキダルマ[n]かわいいが[n]その　笑い声は[n]すべてを　こおらせ[n]冬をよぶ[end]",
-  "en": ""
+  "en": "A cheerful, chilly snowman. It's cute, but its laugh freezes everything and calls winter.[end]"
  },
  {
   "id": "M3614",
@@ -222,7 +222,7 @@
    3614
   ],
   "jp": "あまずっぱい[n]イチゴ味の[n]ユキダルマ[n]かわいいけれど[n]性格は　味ほど[n]あまくない[end]",
-  "en": ""
+  "en": "A sweet and sour strawberry snowman. It's cute, but its personality is not as sweet as its flavor.[end]"
  },
  {
   "id": "M3615",
@@ -237,7 +237,7 @@
    3615
   ],
   "jp": "あまーい[n]メロン味の[n]ユキダルマ[n]イチゴフロスト[n]レモンフロストとは[n]大のなかよし[end]",
-  "en": ""
+  "en": "A super sweet melon snowman. It's best friends with Strawberry Frost and Lemon Frost.[end]"
  },
  {
   "id": "M3616",
@@ -252,7 +252,7 @@
    3616
   ],
   "jp": "ヌマや森の　奥に住む[n]カボチャ頭の[n]炎の　デビル[n]人を　まどわし[n]そこなしヌマに[n]ひきずりこむ[end]",
-  "en": ""
+  "en": "A pumpkin-headed fire devil living deep in swamps and forests. It leads people astray and drags them into bottomless swamps.[end]"
  },
  {
   "id": "M3617",
@@ -267,7 +267,7 @@
    3617
   ],
   "jp": "目にも　止まらぬ[n]はやさで　人を[n]切りつけて　消える[n]するどいカマと[n]よくきく　薬を[n]持ってるイタチ[end]",
-  "en": ""
+  "en": "A weasel that slashes people faster than the eye can see, then vanishes. It carries a sharp sickle and a strong medicine.[end]"
  },
  {
   "id": "M3618",
@@ -282,7 +282,7 @@
    3618
   ],
   "jp": "まんげつの[n]寒い夜にあらわれる[n]氷の　ように[n]冷たい　心と[n]こおりつく　息を持つ[n]セクシーなおねえさん[end]",
-  "en": ""
+  "en": "A sexy lady who appears on cold full-moon nights. Her heart is as cold as ice, and her breath freezes.[end]"
  },
  {
   "id": "M3619",
@@ -297,7 +297,7 @@
    3619
   ],
   "jp": "すっぱーい[n]レモン味の[n]ユキダルマ[n]黄色が　大好きで[n]服も　ぼうしも[n]黄色１色できめている[end]",
-  "en": ""
+  "en": "A super sour lemon snowman. It loves yellow, so its clothes and hat are all yellow.[end]"
  },
  {
   "id": "M3620",
@@ -312,7 +312,7 @@
    3620
   ],
   "jp": "ケルベロスと兄弟の[n]犬の　デビル[n]とても人情深いが[n]バトル　では[n]火炎を　はいて[n]りりしく　戦う[end]",
-  "en": ""
+  "en": "A dog devil and brother of Cerberus. It's very kind-hearted, but in battle it breathes fire and fights proudly.[end]"
  },
  {
   "id": "M3621",
@@ -327,7 +327,7 @@
    3621
   ],
   "jp": "フロストたちの[n]困った声を聞きつけて[n]どこから　ともなく[n]あらわれる[n]フロストたちに[n]人気のヒーロー[end]",
-  "en": ""
+  "en": "A hero adored by the Frosts. When it hears a Frost in trouble, it appears out of nowhere.[end]"
  },
  {
   "id": "M3622",
@@ -342,7 +342,7 @@
    3622
   ],
   "jp": "イチゴとメロンと[n]レモンのフロスト[n]フロスト族の[n]最終　進化[n]３人　そろって[n]大カツヤク！[end]",
-  "en": ""
+  "en": "The Strawberry, Melon and Lemon Frosts, the final evolution of the Frost family. When all three team up, they rock![end]"
  },
  {
   "id": "M3623",
@@ -357,7 +357,7 @@
    3623
   ],
   "jp": "見た目のかわいさ[n]とは　うらはらに[n]強力な力がある[n]フロスト族の　王様[n]ちなみに服は[n]冷蔵庫になっている[end]",
-  "en": ""
+  "en": "Cute on the outside, but it's the mighty king of the Frost family. By the way, its robe is a fridge.[end]"
  },
  {
   "id": "M3624",
@@ -372,7 +372,7 @@
    3624
   ],
   "jp": "いつも　おなかを[n]すかせている[n]ツバサを　持った[n]女の子の　デビル[n]美しく　すんだ歌声が[n]聞く者をユウワクする[end]",
-  "en": ""
+  "en": "A winged girl devil who is always hungry. Her beautiful, clear singing voice tempts all who hear it.[end]"
  },
  {
   "id": "M3625",
@@ -387,7 +387,7 @@
    3625
   ],
   "jp": "根っこの　部分が[n]人の姿をしている[n]不思議な　植物[n]ムリにひきぬくと[n]さけびごえを上げ[n]聞いた人を気絶させる[end]",
-  "en": ""
+  "en": "A strange plant whose root is shaped like a person. Pull it out by force and it screams, making all who hear it faint.[end]"
  },
  {
   "id": "M3626",
@@ -402,7 +402,7 @@
    3626
   ],
   "jp": "昼間は　森で[n]じっとしているが[n]夜に　なると[n]火の玉と　ともに[n]町を　さんぽする[n]陽気な　デビル[end]",
-  "en": ""
+  "en": "A cheerful devil that sits still in the forest by day, but strolls through town with fireballs at night.[end]"
  },
  {
   "id": "M3627",
@@ -417,7 +417,7 @@
    3627
   ],
   "jp": "ゲイボルグという[n]ヤリを　持つ[n]きしの　デビル[n]まじめな性格で[n]約束は　絶対に[n]やぶらない[end]",
-  "en": ""
+  "en": "A knight devil who wields a spear called Gae Bolg. Very serious, he never breaks a promise.[end]"
  },
  {
   "id": "M3628",
@@ -432,7 +432,7 @@
    3628
   ],
   "jp": "いつも　自分の[n]シッポを　くわえ[n]ぐるぐると回っている[n]意味の　無いことが[n]とても　大好きな[n]犬の　デビル[end]",
-  "en": ""
+  "en": "A dog devil that always spins in circles biting its own tail. It loves doing pointless things.[end]"
  },
  {
   "id": "M3629",
@@ -447,7 +447,7 @@
    3629
   ],
   "jp": "海に　あらわれ[n]美しい声で歌い[n]船乗りたちを[n]ユウワクして[n]船をしずめてしまう[n]ざんこくな　デビル[end]",
-  "en": ""
+  "en": "A cruel devil who appears at sea, tempting sailors with her beautiful voice and sinking their ships.[end]"
  },
  {
   "id": "M3630",
@@ -462,7 +462,7 @@
    3630
   ],
   "jp": "１度ケンカを[n]始めてしまうと[n]勝つまで　やめない[n]ひねくれもので[n]負けずギライな[n]トラの　デビル[end]",
-  "en": ""
+  "en": "A twisted tiger devil and a sore loser. Once it starts a fight, it won't stop until it wins.[end]"
  },
  {
   "id": "M3631",

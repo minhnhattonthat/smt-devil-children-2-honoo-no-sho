@@ -12,7 +12,7 @@
    1600
   ],
   "jp": "マッカを　見つけた[wait][end]",
-  "en": ""
+  "en": "Found some Macca.[wait][end]"
  },
  {
   "id": "M1601",
@@ -27,7 +27,7 @@
    1601
   ],
   "jp": "〒５００　手に入れた[wait][end]",
-  "en": ""
+  "en": "Got 〒500.[wait][end]"
  },
  {
   "id": "M1602",
@@ -42,7 +42,7 @@
    1602
   ],
   "jp": "これいじょう[n]マッカをもてない・・・[wait][end]",
-  "en": ""
+  "en": "You can't carry any more Macca...[wait][end]"
  },
  {
   "id": "M1603",
@@ -57,7 +57,7 @@
    1603
   ],
   "jp": "ヒーホー！[wait][page]ここは　ナカマのデビルを[n]合体させて　つよいナカマをつくる[wait][clr]合体屋だホー[wait][end]",
-  "en": ""
+  "en": "Hee-ho![wait][page]This is where you fuse your demon allies to make stronger allies![wait][clr]It's the Fusion Shop, hee-ho![wait][end]"
  },
  {
   "id": "M1604",
@@ -72,7 +72,7 @@
    1604
   ],
   "jp": "カード[n][f4]を　手に入れた！！[wait][end]",
-  "en": ""
+  "en": "Got the card [f4]!![wait][end]"
  },
  {
   "id": "M1605",
@@ -87,7 +87,7 @@
    1605
   ],
   "jp": "マソウ[n][f4]を　手に入れた！！[wait][end]",
-  "en": ""
+  "en": "Got the Arcane Item [f4]!![wait][end]"
  },
  {
   "id": "M1606",
@@ -102,7 +102,7 @@
    1606
   ],
   "jp": "マソウ[n][f4]を　見つけた[wait][end]",
-  "en": ""
+  "en": "Found the Arcane Item [f4].[wait][end]"
  },
  {
   "id": "M1607",
@@ -117,7 +117,7 @@
    1607
   ],
   "jp": "カード[n][f4]を　見つけた[wait][end]",
-  "en": ""
+  "en": "Found the card [f4].[wait][end]"
  },
  {
   "id": "M1608",
@@ -132,7 +132,7 @@
    1608
   ],
   "jp": "[name:1][face:255]おい　[f3]！[n]そっちは　出口だ！[wait][page]門番に　見つかったら[n]やばいことになるぜ？[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Hey, [f3]! That's the exit![wait][page]If the gatekeeper spots us, we're in big trouble, y'know?[wait][end]"
  },
  {
   "id": "M1609",
@@ -147,7 +147,7 @@
    1609
   ],
   "jp": "[name:30]また　きたんだねー！[n]じゃー　ケイヤクの言葉を　言ってよ[wait][end]",
-  "en": ""
+  "en": "[name:30]You came back! Okay, say the password then![wait][end]"
  },
  {
   "id": "M1610",
@@ -162,7 +162,7 @@
    1610
   ],
   "jp": "[name:30]ヘイ！　ボーイ！[n]また　オレをよびだしたんだな！[wait][page]さぁ　ケイヤクの言葉を　言えよ！[wait][end]",
-  "en": ""
+  "en": "[name:30]Hey! Boy! You summoned me again, huh![wait][page]C'mon, say the password![wait][end]"
  },
  {
   "id": "M1611",
@@ -177,7 +177,7 @@
    1611
   ],
   "jp": "[name:31]スサノオと　ツクヨミがいないみたいね[n]それじゃ　ナカマにはなれないわ[wait][end]",
-  "en": ""
+  "en": "[name:31]It seems Susano-o and Tsukuyomi aren't here. Then I can't become your ally.[wait][end]"
  },
  {
   "id": "M1612",
@@ -192,7 +192,7 @@
    1612
   ],
   "jp": "っと　思ったら　ザンネンショウの[n]チャクラドリンクが　いっぱいだね[wait][page]じゃあ　このはずれの宝くじを[n]かえすよ[wait][end]",
-  "en": ""
+  "en": "Oh wait, you're already full up on consolation-prize Chakra Drinks.[wait][page]Then I'll just give you back this losing lottery ticket.[wait][end]"
  },
  {
   "id": "M1613",
@@ -207,7 +207,7 @@
    1613
   ],
   "jp": "アイテムが　いっぱいのようだ・・・[wait][end]",
-  "en": ""
+  "en": "Looks like your items are full...[wait][end]"
  },
  {
   "id": "M1614",
@@ -222,7 +222,7 @@
    1614
   ],
   "jp": "[name:1][face:255]ここに用事はないぜ！[n]先を　いそごうぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]We've got no business here! Let's hurry on!![wait][end]"
  },
  {
   "id": "M1615",
@@ -237,7 +237,7 @@
    1615
   ],
   "jp": "[name:30]！？[wait][page]なつかしい感じがきえてたわ・・・[n]さっきまで　感じていたのに！[wait][page]もう　あなたには　用がないわ！[n]出ていってちょうだい！！[wait][end]",
-  "en": ""
+  "en": "[name:30]!?[wait][page]That nostalgic feeling is gone... I could feel it just a moment ago![wait][page]I have no more use for you! Kindly get out!![wait][end]"
  },
  {
   "id": "M1616",
@@ -252,7 +252,7 @@
    1616
   ],
   "jp": "[name:31]ちょっと！！[n]スサノオとツクヨミがいないじゃない[wait][page]出直してらしゃい！！[wait][end]",
-  "en": ""
+  "en": "[name:31]Excuse me!! Susano-o and Tsukuyomi aren't even here![wait][page]Come back when they are!![wait][end]"
  },
  {
   "id": "M1617",
@@ -267,7 +267,7 @@
    1617
   ],
   "jp": "[name:1][face:255][f3]！[n]気をつけて　進めよ！！[wait][page]ユダンタイテキだからな！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! Watch your step as we go!![wait][page]Letting your guard down is the real enemy![wait][end]"
  },
  {
   "id": "M1618",
@@ -282,7 +282,7 @@
    1618
   ],
   "jp": "[name:1][face:255][f3]！[n]ルシファーさまに会いにいこう！[wait][page]ルシファーさまなら　きっと[n]何か知っているはずさ[wait][page]ルシファーさまのいらっしゃる[n]ダークパレスは[wait][clr]セントラルランドから北へ[clr]行ったところにあるぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! Let's go see Lord Lucifer![wait][page]If anyone knows something, it's Lord Lucifer.[wait][page]Lord Lucifer's Dark Palace is[wait][clr]north of Central Land,[clr]a ways up from there![wait][end]"
  },
  {
   "id": "M1619",
@@ -297,7 +297,7 @@
    1619
   ],
   "jp": "[name:1][face:255]ユダンするなよ！[n]何がおきるかわからないからな！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Don't let your guard down! No telling what'll happen![wait][end]"
  },
  {
   "id": "M1620",
@@ -312,7 +312,7 @@
    1620
   ],
   "jp": "[name:1][face:255][f3]！[n]パクの言う通り　天界へ行こう！[wait][page]そして　ミカエルさまに会うんだ[n]さぁ　行くぞ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! Let's go to Heaven like Paku said![wait][page]And then we'll meet Lord Michael. C'mon, let's go!![wait][end]"
  },
  {
   "id": "M1621",
@@ -327,7 +327,7 @@
    1621
   ],
   "jp": "[name:1][face:255][f3]！[n]のんびりしているヒマはないぞ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! We've got no time to lounge around![wait][end]"
  },
  {
   "id": "M1622",
@@ -342,7 +342,7 @@
    1622
   ],
   "jp": "キミは　いろいろなマリョクを[n]ひめたカードを知ってる？[wait][page]えらばれた者が　そのカードを[n]戦闘中に使えば[wait][page]その効果が　戦闘を有利に[n]してくれるんだよ[wait][clr]まさに　切りふだってかんじよね[wait][end]",
-  "en": ""
+  "en": "Do you know about the cards that hold all kinds of magic power?[wait][page]If one of the chosen uses a card in battle,[wait][page]its effect will give them the upper hand in the fight.[wait][clr]A real trump card, huh?[wait][end]"
  },
  {
   "id": "M1623",
@@ -357,7 +357,7 @@
    1623
   ],
   "jp": "[name:1][face:255][f3]！[n]ちゃんとジュンビをととのえろよ[wait][page]イヤな　ヨカンがするんだ・・・[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! Make sure you're good and ready.[wait][page]I've got a bad feeling about this...[wait][end]"
  },
  {
   "id": "M1624",
@@ -372,7 +372,7 @@
    1624
   ],
   "jp": "[name:1][face:255]グズグズしているひまはない！[n]先をいそごうぜ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]No time to dawdle! Let's hurry on!![wait][end]"
  },
  {
   "id": "M1625",
@@ -387,7 +387,7 @@
    1625
   ],
   "jp": "[name:1][face:255]原宿が・・・[n]ほうかいしている・・・！？[wait][page]・・・クッ！[n]先を　いそごう！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Harajuku is... falling apart...!?[wait][page]...Ngh! Let's hurry on![wait][end]"
  },
  {
   "id": "M1626",
@@ -402,7 +402,7 @@
    1626
   ],
   "jp": "[name:1][face:255]なやんでいるヒマはないぞ！[n]先へ　進もうぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]No time to worry about it! Let's keep moving![wait][end]"
  },
  {
   "id": "M1627",
@@ -417,7 +417,7 @@
    1627
   ],
   "jp": "[name:1][face:255]いったい　ヤツラは[n]何をたくらんでるんだ？[wait][page]まぁ　何をたくらんでようと[n]ぜったいに　やめさせてやるがな[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]What the heck are those guys scheming?[wait][page]Well, whatever it is, we're gonna put a stop to it for sure.[wait][end]"
  },
  {
   "id": "M1628",
@@ -432,7 +432,7 @@
    1628
   ],
   "jp": "[name:1][face:255]あのヴィーヴルってデビル[n]きれいなデビルだな・・・[wait][page]！！[n]いかんいかん！！[wait][page]さっさと　ヴィーヴルの願いを[n]かなえてやろうぜ！[wait][page]オレたちは[n]ヒマじゃないんだからな！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]That Vouivre... she's one pretty demon...[wait][page]!! Whoa, whoa, snap out of it!![wait][page]Let's hurry up and grant Vouivre's wish![wait][page]We don't have time to kill, y'know![wait][end]"
  },
  {
   "id": "M1629",
@@ -447,7 +447,7 @@
    1629
   ],
   "jp": "[name:1][face:255]氷の使徒・・・[n]いったい何を考えてるんだ？[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]The Ice Apostle... What the heck is he thinking?[wait][end]"
  },
  {
   "id": "M1630",
@@ -462,7 +462,7 @@
    1630
   ],
   "jp": "[name:1][face:255]ヴィーヴルの言っていた宝石は[n]無事　手に入れたな！[wait][page]それにしても・・・[n]氷の使徒・・・いったい・・・[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]We got the gem Vouivre was talking about, no problem![wait][page]But still... the Ice Apostle... what is he up to...[wait][end]"
  },
  {
   "id": "M1631",
@@ -477,7 +477,7 @@
    1631
   ],
   "jp": "[name:1][face:255]さっき　ヴィーヴルから[n]キスをもらったろ・・・？[wait][page]うかれて　ユダンしていると[n]いたい目にあうぞ！[wait][page]気をつけろよ！[n][f3]！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]You got a kiss from Vouivre back there, didn't you...?[wait][page]If you get all giddy and let your guard down, you'll get hurt![wait][page]Be careful, [f3]![wait][end]"
  },
  {
   "id": "M1632",
@@ -492,7 +492,7 @@
    1632
   ],
   "jp": "[name:1][face:255]もたもたしているヒマはないぞ！[n]さぁ　行こう！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]No time to dawdle! C'mon, let's go!![wait][end]"
  },
  {
   "id": "M1633",
@@ -507,7 +507,7 @@
    1633
   ],
   "jp": "[name:1][face:255][f3][n]はやく　レナを助けてやろうぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3], let's hurry and save Lena![wait][end]"
  },
  {
   "id": "M1634",
@@ -522,7 +522,7 @@
    1634
   ],
   "jp": "[name:1][face:255]ベストリのカギか・・・[wait][page]ベストリのほこらは[n]城下町から西へ行ったところに[wait][clr]あるはずだぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]The Vestri Key, huh...[wait][page]The Vestri Shrine should be west of the castle town,[wait][clr]a ways out from there![wait][end]"
  },
  {
   "id": "M1635",
@@ -537,7 +537,7 @@
    1635
   ],
   "jp": "[name:1][face:255]ユダンするなよ！[n]何が　おきるかわからんぞ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Don't let your guard down! No telling what'll happen![wait][end]"
  },
  {
   "id": "M1636",
@@ -552,7 +552,7 @@
    1636
   ],
   "jp": "『ダ天使をかる　きし』[n]とタイトルされている・・・[wait][end]",
-  "en": ""
+  "en": "It's titled \"The Knight Who Hunts Fallen Angels\"...[wait][end]"
  },
  {
   "id": "M1637",
@@ -567,7 +567,7 @@
    1637
   ],
   "jp": "[name:1][face:255][f3]！[n]きしのぞうの剣から[wait][clr]なにかぶらさがっているぜ？[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! Something's hanging[wait][clr]from that knight statue's sword![wait][end]"
  },
  {
   "id": "M1638",
@@ -582,7 +582,7 @@
    1638
   ],
   "jp": "[f4]　をとりますか？[fb:0][end]",
-  "en": ""
+  "en": "Take [f4]?[fb:0][end]"
  },
  {
   "id": "M1639",
@@ -597,7 +597,7 @@
    1639
   ],
   "jp": "いらっしゃいませ！[n]新しい商品が　にゅうかしましたよ！[wait][page]なんと・・・それは[n]原宿マップでーす！！[wait][page]しかも！！[wait][page]このマップ・・・[n]ただのマップじゃないんだな！[wait][page]デビルと出会うと　出会った場所が[n]自動的にキオクされるっていう[wait][clr]すばらしい　マップなんです！[wait][page]１つゲンテイだから[n]早いもの勝ちだよー！！[wait][end]",
-  "en": ""
+  "en": "Welcome! We've got a brand-new item in stock![wait][page]And it is... the Harajuku Map!![wait][page]What's more!![wait][page]This map... isn't just any old map![wait][page]When you meet a demon, it automatically remembers the place you met it,[wait][clr]making it one amazing map![wait][page]There's only one, so first come, first served!![wait][end]"
  },
  {
   "id": "M1640",
@@ -612,7 +612,7 @@
    1640
   ],
   "jp": "像のダイザに[n]なにか　かいてある・・・[wait][end]",
-  "en": ""
+  "en": "Something is written on the statue's pedestal...[wait][end]"
  },
  {
   "id": "M1641",
@@ -627,7 +627,7 @@
    1641
   ],
   "jp": "天にすすまんとするもの[n]ダ天使のカギをとくべし[wait][end]",
-  "en": ""
+  "en": "Those who would ascend to Heaven must unlock the Fallen Angel's key.[wait][end]"
  },
  {
   "id": "M1642",
@@ -642,7 +642,7 @@
    1642
   ],
   "jp": "像のむねに　カギ穴がある・・・[wait][end]",
-  "en": ""
+  "en": "There's a keyhole in the statue's chest...[wait][end]"
  },
  {
   "id": "M1643",
@@ -657,7 +657,7 @@
    1643
   ],
   "jp": "ダ天使のカギを　つかいますか？[fb:0][end]",
-  "en": ""
+  "en": "Use the Fallen Angel Key?[fb:0][end]"
  },
  {
   "id": "M1644",
@@ -672,7 +672,7 @@
    1644
   ],
   "jp": "落とし穴のワナがきえた！[wait][end]",
-  "en": ""
+  "en": "The pitfall trap disappeared![wait][end]"
  },
  {
   "id": "M1645",
@@ -687,7 +687,7 @@
    1645
   ],
   "jp": "まさか　原宿が[n]こんな風に　なっちまうとはねぇ[wait][page]こんな時こそ　人間どうし[n]助け合わなくっちゃな！[wait][page]オイ！　あんた　つかれてないか？[n]少し休んでいったらどうだい？[wait][end]",
-  "en": ""
+  "en": "Who'd have thought Harajuku would end up like this...[wait][page]At times like these, we humans gotta help each other out![wait][page]Hey! You look tired. Why not rest here a bit?[wait][end]"
  },
  {
   "id": "M1646",
@@ -702,7 +702,7 @@
    1646
   ],
   "jp": "休んでいこうかな[n]いまは　いいよ[end]",
-  "en": ""
+  "en": "I'll rest a bit[n]I'm fine for now[end]"
  },
  {
   "id": "M1647",
@@ -717,7 +717,7 @@
    1647
   ],
   "jp": "そうかい[n]ムリすんじゃねーぞ！[wait][page]気をつけてな！[wait][end]",
-  "en": ""
+  "en": "That so? Well, don't push yourself![wait][page]Take care![wait][end]"
  },
  {
   "id": "M1648",
@@ -732,7 +732,7 @@
    1648
   ],
   "jp": "そうかい[n]じゃあ　ゆっくりしていけよ[wait][end]",
-  "en": ""
+  "en": "That so? Then make yourself at home.[wait][end]"
  },
  {
   "id": "M1649",
@@ -747,7 +747,7 @@
    1649
   ],
   "jp": "つかれは　とれたかい？[n]あんまり　ムチャはするなよ[wait][end]",
-  "en": ""
+  "en": "Feeling rested? Don't go overdoing it, now.[wait][end]"
  },
  {
   "id": "M1650",
@@ -762,7 +762,7 @@
    1650
   ],
   "jp": "やぁ　ボクは　化石を売って[n]歩いている商人さ[wait][page]何か　買っていくかい？[wait][end]",
-  "en": ""
+  "en": "Hi! I'm a merchant who travels around selling fossils.[wait][page]Wanna buy something?[wait][end]"
  },
  {
   "id": "M1651",
@@ -777,7 +777,7 @@
    1651
   ],
   "jp": "品物を見せてもらおうかな[n]いや　いらないよ[end]",
-  "en": ""
+  "en": "Show me your wares[n]No, I'm good[end]"
  },
  {
   "id": "M1652",
@@ -792,7 +792,7 @@
    1652
   ],
   "jp": "そうこなくっちゃ！！[wait][end]",
-  "en": ""
+  "en": "That's what I like to hear!![wait][end]"
  },
  {
   "id": "M1653",
@@ -807,7 +807,7 @@
    1653
   ],
   "jp": "そっか・・・[n]そいつは　ザンネンだな[wait][page]まぁ　気が向いたら[n]また　来てくれよ[wait][end]",
-  "en": ""
+  "en": "I see... That's too bad.[wait][page]Well, if you change your mind, come back anytime.[wait][end]"
  },
  {
   "id": "M1654",
@@ -822,7 +822,7 @@
    1654
   ],
   "jp": "また来てくれよな！！[wait][end]",
-  "en": ""
+  "en": "Come again soon!![wait][end]"
  },
  {
   "id": "M1655",
@@ -837,7 +837,7 @@
    1655
   ],
   "jp": "[name:41]お兄ちゃん！！[n]ボクと勝負する気になった？[wait][end]",
-  "en": ""
+  "en": "[name:41]Mister!! You ready to take me on?[wait][end]"
  },
  {
   "id": "M1656",
@@ -852,7 +852,7 @@
    1656
   ],
   "jp": "[name:1][face:255][f3]！[n]魔界にはようじがないぜ[wait][page]ハイエストピークから[n]先にすすもう！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! We've got no business in the Demon World.[wait][page]Let's push on from Highest Peak![wait][end]"
  },
  {
   "id": "M1657",
@@ -867,7 +867,7 @@
    1657
   ],
   "jp": "おー　[f3][n]どこ行くんだ？[wait][end]",
-  "en": ""
+  "en": "Hey, [f3], where're you headed?[wait][end]"
  },
  {
   "id": "M1658",
@@ -882,7 +882,7 @@
    1658
   ],
   "jp": "今日は　なにしてあそぶかなー？[wait][end]",
-  "en": ""
+  "en": "What should I play today?[wait][end]"
  },
  {
   "id": "M1659",
@@ -897,7 +897,7 @@
    1659
   ],
   "jp": "これから　ジュクなのよね[n]めんどくさいなあ[wait][end]",
-  "en": ""
+  "en": "I've got cram school now... What a drag.[wait][end]"
  },
  {
   "id": "M1660",
@@ -912,7 +912,7 @@
    1660
   ],
   "jp": "[f3]！[n]バトルネットやってるか？[wait][page]どんどん勝ちすすんでいくと[n]レアな景品がもらえたりする[wait][clr]らしいぜ[wait][end]",
-  "en": ""
+  "en": "[f3]! You playing Battle Net?[wait][page]I hear if you keep on winning, you can get rare prizes[wait][clr]and stuff.[wait][end]"
  },
  {
   "id": "M1661",
@@ -927,7 +927,7 @@
    1661
   ],
   "jp": "ふー　なんかこうしゃうらって[n]いいよな[wait][page]なんていうの？[n]ふりょうっぽさが[wait][clr]たまんないっていうか[wait][page]オレ　ワルだぜーみたいな[n]気分になってこない？[wait][page]・・・・・・ならない？[n]そうかー・・・[wait][end]",
-  "en": ""
+  "en": "Phew... Hanging out behind the school is the best.[wait][page]How do I put it? It's got this delinquent vibe[wait][clr]that's just so cool.[wait][page]Doesn't it make you feel like \"I'm a real bad boy\"?[wait][page]...... No? Oh...[wait][end]"
  },
  {
   "id": "M1662",
@@ -942,7 +942,7 @@
    1662
   ],
   "jp": "まったく　ひどいゆめを見たわ[n]原宿が　ハイキョになっちゃうの[wait][page]え？　ゆめじゃない？[n]またまたぁ　ウソばっかり[wait][end]",
-  "en": ""
+  "en": "I had the most awful dream. Harajuku turned into ruins.[wait][page]Huh? It wasn't a dream? Oh, come on, quit fibbing.[wait][end]"
  },
  {
   "id": "M1663",
@@ -957,7 +957,7 @@
    1663
   ],
   "jp": "なあ　[f3][n]もう　デビルとか天使とか[wait][page]ワケわかんないヤツらは[n]でてこないよな・・・？[wait][end]",
-  "en": ""
+  "en": "Hey, [f3]... Demons and angels and all those weird guys[wait][page]won't show up anymore... right...?[wait][end]"
  },
  {
   "id": "M1664",
@@ -972,7 +972,7 @@
    1664
   ],
   "jp": "さあ　平和をまんきつするために[n]あまいものを　いっぱい[wait][clr]食べに行くわよー[wait][page]・・・・・・と　思ったんだけど[n]体重が気になって行けないの[wait][clr]しょんぼりだわ[wait][end]",
-  "en": ""
+  "en": "Now, to enjoy the peace, I'm gonna go eat[wait][clr]tons of sweets![wait][page]...Or so I thought, but I'm worried about my weight, so I can't go.[wait][clr]How sad.[wait][end]"
  },
  {
   "id": "M1665",
@@ -987,7 +987,7 @@
    1665
   ],
   "jp": "どこかのマンションの屋上に[n]イセカイに通じるゲートが[wait][clr]開いたってウワサよ[wait][end]",
-  "en": ""
+  "en": "Rumor has it a gate to another world[wait][clr]opened up on the roof of some apartment building.[wait][end]"
  },
  {
   "id": "M1666",
@@ -1002,7 +1002,7 @@
    1666
   ],
   "jp": "なんだかんだ言っても[n]平和が一番だな[wait][end]",
-  "en": ""
+  "en": "Say what you will, peace is the best.[wait][end]"
  },
  {
   "id": "M1667",
@@ -1017,7 +1017,7 @@
    1667
   ],
   "jp": "デビル集めはすすんでいるかい？[n]デビルをたくさん集めたら[wait][clr]デビダスマスターから[wait][clr]ごほうびが出るらしいよ[wait][end]",
-  "en": ""
+  "en": "How's your demon collection coming along? If you collect lots of demons,[wait][clr]the DemiDex Master[wait][clr]will give you a reward, I hear.[wait][end]"
  },
  {
   "id": "M1668",
@@ -1032,7 +1032,7 @@
    1668
   ],
   "jp": "こどもたちも　もとのセカイに[n]帰れたみたいだし[wait][clr]よかったよかった　だわね[wait][end]",
-  "en": ""
+  "en": "Looks like the children made it back to their own world too.[wait][clr]All's well that ends well![wait][end]"
  },
  {
   "id": "M1669",
@@ -1047,7 +1047,7 @@
    1669
   ],
   "jp": "どこかでイセカイのゲートが[n]開いたってウワサだけど[wait][page]イセカイって　いったいどんな[n]ところなのかしら？[wait][end]",
-  "en": ""
+  "en": "There's a rumor that a gate to another world opened somewhere.[wait][page]I wonder what kind of place another world is?[wait][end]"
  },
  {
   "id": "M1670",
@@ -1062,7 +1062,7 @@
    1670
   ],
   "jp": "イセカイかあ・・・[n]楽しいところなら行ってみたいなあ[wait][end]",
-  "en": ""
+  "en": "Another world, huh... If it's a fun place, I'd like to go.[wait][end]"
  },
  {
   "id": "M1671",
@@ -1077,7 +1077,7 @@
    1671
   ],
   "jp": "たびをしていて　つらいことも[n]あったでしょう？[wait][page]でも　それがあなたを[n]大きくしたのでしょうね[wait][page]今のあなたは[n]とてもリッパに見えますよ[wait][end]",
-  "en": ""
+  "en": "There must have been hard times on your journey, too.[wait][page]But those are surely what made you grow.[wait][page]You look very grown-up now.[wait][end]"
  },
  {
   "id": "M1672",
@@ -1092,7 +1092,7 @@
    1672
   ],
   "jp": "さいきんは　セカイの空気が[n]あんまりピリピリしてなくて[wait][clr]おだやかなかんじだねえ[wait][clr]いいことだよ[wait][end]",
-  "en": ""
+  "en": "Lately the air in the world isn't so tense anymore.[wait][clr]It feels so calm now.[wait][clr]That's a good thing.[wait][end]"
  },
  {
   "id": "M1673",
@@ -1107,7 +1107,7 @@
    1673
   ],
   "jp": "すっかり　平和になったねえ[wait][end]",
-  "en": ""
+  "en": "Things sure have gotten peaceful.[wait][end]"
  },
  {
   "id": "M1674",
@@ -1122,7 +1122,7 @@
    1674
   ],
   "jp": "平和になったことだし[n]風の風穴に　さんぽでも行こうかな[wait][end]",
-  "en": ""
+  "en": "Now that there's peace, maybe I'll take a stroll to the Wind Cavern.[wait][end]"
  },
  {
   "id": "M1675",
@@ -1137,7 +1137,7 @@
    1675
   ],
   "jp": "アクマのれんちゅうに伝えてくれ[n]こんどいっしょにあそぼうってな[wait][end]",
-  "en": ""
+  "en": "Pass this on to those devils: let's play together next time![wait][end]"
  },
  {
   "id": "M1676",
@@ -1152,7 +1152,7 @@
    1676
   ],
   "jp": "ハイエストピークのふもとにある[n]ゲート小部屋の封印が[wait][clr]とけたというウワサよ[wait][page]なんでも　そこから[n]ハイエストピークのさらなる[wait][clr]高みをめざせるとか・・・[wait][page]まだ行ったことがないなら[n]いってみたらどうかしら？[wait][end]",
-  "en": ""
+  "en": "Rumor has it the seal on the small gate room at the foot of Highest Peak[wait][clr]has been broken.[wait][page]They say that from there, you can aim for the even higher[wait][clr]reaches of Highest Peak...[wait][page]If you haven't been yet, why not give it a try?[wait][end]"
  },
  {
   "id": "M1677",
@@ -1167,7 +1167,7 @@
    1677
   ],
   "jp": "ん・・・？[n]オマエさんは？[wait][page]ああ・・・　よいよい[n]名前なぞ　ただのキゴウじゃ[wait][page]ここには　オマエさんたちと[n]ワシしかおらんでな・・・[wait][page]なに？[n]ワシが世を捨てたりゆうがしりたい？[wait][page]ふぁっふぁっふぁ・・・[n]とんだスイキョウもおったもんじゃ[wait][page]・・・よかろう　話してやろう[wait][page]ワシはの・・・[n]たくさんの　人とくらすのが[wait][clr]イヤになったんじゃよ[wait][page]人は　恋しいくらいでちょうどいい[n]むれるから　いざこざがおこるんじゃ[wait][page]ハルマゲドンとかいうのもそうじゃ[n]１たい１なら　ただのケンカで[wait][clr]おわるんじゃ[wait][page]それが　むれると戦いになる[n]ウラミもないのに　ミカタの敵[wait][clr]というだけで攻撃する・・・[wait][page]かなしいことじゃ・・・[wait][page]ワシはそういうのがイヤで[n]世を捨てたというわけじゃ[wait][page]としよりの　ながいハナシを[n]ようがんばって聞いてくれたの[wait][clr]おれいにコレをやろう[wait][end]",
-  "en": ""
+  "en": "Hm...? And who might you be?[wait][page]Ah... never mind, never mind. A name is just a label.[wait][page]There's no one here but you folks and me, after all...[wait][page]What? You want to know why I left the world behind?[wait][page]Fwah ha ha... What an odd duck you are.[wait][page]...Very well, I'll tell you.[wait][page]You see, I...[wait][clr]got sick of living among lots of people.[wait][page]People are best missed a little. It's crowding together that causes strife.[wait][page]Same with this Armageddon business. One on one, it'd just end[wait][clr]as a plain old fight.[wait][page]But when people band together, it becomes war. No grudge at all, and yet they attack[wait][clr]just because someone is their side's enemy...[wait][page]How sad it is...[wait][page]I couldn't stand that, and so I left the world behind.[wait][page]Thank you for sitting through an old man's long story.[wait][clr]Here, take this as thanks.[wait][end]"
  },
  {
   "id": "M1678",
@@ -1182,7 +1182,7 @@
    1678
   ],
   "jp": "もう　こなくていいぞ[n]わかいオマエたちには[wait][clr]ながいハナシはタイクツじゃからの[wait][clr]ふぁっふぁっふぁ[wait][end]",
-  "en": ""
+  "en": "You don't need to come back anymore. Young folks like you[wait][clr]find long stories boring, after all.[wait][clr]Fwah fwah fwah![wait][end]"
  },
  {
   "id": "M1679",
@@ -1199,7 +1199,7 @@
    1680
   ],
   "jp": "この場所は　あらゆる時空の[n]時間のハザマにある世界　時の間[wait][page]争いによって時空にひずみが生じると[n]現れる　時のゲート・・・[wait][page]すべては　光と闇のチカラを持つ[n]オマエのためにある・・・[wait][page]こころしておくのだ・・・[wait][page]世界を救うも・・・ほろぼすも・・・[n]オマエしだいなのだから・・・[wait][end]",
-  "en": ""
+  "en": "This place lies in the gap between all of space and time... the Hall of Time.[wait][page]When conflict warps space and time, the Time Gates appear...[wait][page]All of it exists for you, who hold the power of both light and darkness...[wait][page]Keep this in your heart...[wait][page]For whether the world is saved... or destroyed... is up to you...[wait][end]"
  },
  {
   "id": "M1681",
@@ -1214,7 +1214,7 @@
    1681
   ],
   "jp": "アウドムラの町へ　ようこそ[wait][end]",
-  "en": ""
+  "en": "Welcome to the Town of Audhumla.[wait][end]"
  },
  {
   "id": "M1682",
@@ -1229,7 +1229,7 @@
    1682
   ],
   "jp": "ここは　アンヌンの町だ[wait][end]",
-  "en": ""
+  "en": "This is the Town of Annwn.[wait][end]"
  },
  {
   "id": "M1683",
@@ -1244,7 +1244,7 @@
    1683
   ],
   "jp": "たいくつしのぎに[n]カジノでも行こうかしら？[wait][end]",
-  "en": ""
+  "en": "Maybe I'll go to the casino to kill some time.[wait][end]"
  },
  {
   "id": "M1684",
@@ -1259,7 +1259,7 @@
    1684
   ],
   "jp": "なんか用か？[n]おし売りならおことわりだぜ？[wait][end]",
-  "en": ""
+  "en": "Whaddya want? If you're selling something, I'm not buying.[wait][end]"
  },
  {
   "id": "M1685",
@@ -1274,7 +1274,7 @@
    1685
   ],
   "jp": "[f3][n]元気なのはいいが[wait][clr]わるさするんじゃないぞ？[wait][end]",
-  "en": ""
+  "en": "[f3], it's good to be full of energy,[wait][clr]but don't go causing trouble, okay?[wait][end]"
  },
  {
   "id": "M1686",
@@ -1289,7 +1289,7 @@
    1686
   ],
   "jp": "あら　[f3]くん！[n]今日も元気ねー[wait][end]",
-  "en": ""
+  "en": "Oh, [f3]! Full of energy as always, huh?[wait][end]"
  },
  {
   "id": "M1687",
@@ -1304,7 +1304,7 @@
    1687
   ],
   "jp": "平和になったことだし[n]そろそろ魔界にあそびに[wait][clr]いってみようかしら？[wait][end]",
-  "en": ""
+  "en": "Now that there's peace, maybe I'll go[wait][clr]visit the Demon World for fun.[wait][end]"
  },
  {
   "id": "M1688",
@@ -1319,7 +1319,7 @@
    1688
   ],
   "jp": "すっかり平和だなー[wait][page]あんたたちのおかげだよ[n]カンシャカンシャ[wait][end]",
-  "en": ""
+  "en": "It's so peaceful now.[wait][page]It's all thanks to you guys. Thanks a bunch![wait][end]"
  },
  {
   "id": "M1689",
@@ -1334,7 +1334,7 @@
    1689
   ],
   "jp": "[name:45]ルロウのタミの村の[n]ピュグマリオにはあえましたか？[wait][end]",
-  "en": ""
+  "en": "[name:45]Did you meet Pygmalio in the Village of the Wanderers?[wait][end]"
  },
  {
   "id": "M1690",
@@ -1349,7 +1349,7 @@
    1690
   ],
   "jp": "お買い上げ[n]ありがとうございました～[wait][end]",
-  "en": ""
+  "en": "Thank you for your purchase~![wait][end]"
  },
  {
   "id": "M1691",
@@ -1364,7 +1364,7 @@
    1691
   ],
   "jp": "[name:6][face:2]あら　[f3]！[n]デビルは　もう集まった？[wait][page]世界が　平和になったんだから[n]いろんな場所を旅してみたら？[wait][page]みたこともないデビルに[n]あえるかもしれないわよ！[wait][page]がんばって！！[wait][end]",
-  "en": ""
+  "en": "[name:6][face:2]Oh, [f3]! Have you gathered lots of demons yet?[wait][page]The world's at peace now, so why not travel around to all kinds of places?[wait][page]You might meet demons you've never seen before![wait][page]Good luck!![wait][end]"
  },
  {
   "id": "M1692",
@@ -1379,7 +1379,7 @@
    1692
   ],
   "jp": "[name:7][face:3][f3]！[wait][page]アナタとアキラのおかげで[n]ヴァルハラは　元通りになったわ[wait][page]本当にありがとう・・・[wait][end]",
-  "en": ""
+  "en": "[name:7][face:3][f3]![wait][page]Thanks to you and Akira, Valhalla is back the way it was.[wait][page]Thank you so much...[wait][end]"
  },
  {
   "id": "M1693",
@@ -1394,7 +1394,7 @@
    1693
   ],
   "jp": "[name:15][face:4][f3]か・・・[wait][page]オマエのおかげで[n]ハルマゲドンは　おさまった[wait][page]カンシャするぞ[n][f3]・・・[wait][end]",
-  "en": ""
+  "en": "[name:15][face:4][f3], is it...[wait][page]Thanks to you, Armageddon has ended.[wait][page]I am grateful, [f3]...[wait][end]"
  },
  {
   "id": "M1694",
@@ -1409,7 +1409,7 @@
    1694
   ],
   "jp": "レジーヌのお姉ちゃんって[n]ホントにいたのね[wait][page]ちゃんと　レジーヌのこと[n]考えてくれてるみたいだし[wait][page]ちょっと　ほっとしちゃった[wait][end]",
-  "en": ""
+  "en": "So Regine really does have a big sister.[wait][page]And it seems like she really does care about Regine.[wait][page]That's kind of a relief.[wait][end]"
  },
  {
   "id": "M1695",
@@ -1424,7 +1424,7 @@
    1695
   ],
   "jp": "あら？まだいらしたの？[wait][page]わたしのような者にかまわず[n]さっさと出発なさったらどうかしら？[wait][end]",
-  "en": ""
+  "en": "Oh? You're still here?[wait][page]Don't mind someone like me. Shouldn't you hurry up and be on your way?[wait][end]"
  },
  {
   "id": "M1696",
@@ -1439,7 +1439,7 @@
    1696
   ],
   "jp": "いやあ　平和ですね[n]いいことです[wait][end]",
-  "en": ""
+  "en": "Ahh, how peaceful. That's a good thing.[wait][end]"
  },
  {
   "id": "M1697",
@@ -1454,7 +1454,7 @@
    1697
   ],
   "jp": "[name:1][face:255]これは・・・天使の聖水だ！[wait][page]この天使の聖水を　フウインされた[n]天使にかけると[wait][clr]フウインがとけるらしいぜ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]This is... Angel's Holy Water![wait][page]They say if you pour this Angel's Holy Water on a sealed angel,[wait][clr]it breaks the seal.[wait][end]"
  },
  {
   "id": "M1698",
@@ -1469,7 +1469,7 @@
    1698
   ],
   "jp": "[name:1][face:255][f3]！[n]もっと　町の人の話をきこうぜ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255][f3]! Let's go hear more of what the townsfolk have to say.[wait][end]"
  },
  {
   "id": "M1699",
@@ -1484,7 +1484,7 @@
    1699
   ],
   "jp": "ゆっくりしていってくださいね[wait][end]",
-  "en": ""
+  "en": "Please make yourself at home.[wait][end]"
  },
  {
   "id": "M1700",
@@ -1499,7 +1499,7 @@
    1700
   ],
   "jp": "おや？あなたも旅の方ですか？[n]いっしょに休んでいきませんか？[wait][page]なに　だれにもえんりょは[n]いりませんよ[wait][page]この山小屋には　もともと[n]だれもいなかったのでね[wait][page]われわれも　そのうち[n]出発するでしょうが[wait][page]まあ　それまでは[n]ゆっくりしていってください[wait][end]",
-  "en": ""
+  "en": "Oh? Are you a traveler too? Why not rest here with us?[wait][page]No need to be shy with anyone.[wait][page]Nobody lived in this mountain hut to begin with, you see.[wait][page]We'll be setting off ourselves before long,[wait][page]but until then, please make yourself at home.[wait][end]"
  },
  {
   "id": "M1701",
@@ -1514,7 +1514,7 @@
    1701
   ],
   "jp": "ダークノースに[n]レジーヌって子がいるんだが[wait][page]その子の　お姉ちゃんは[n]どこかにでかけちゃって[wait][clr]ひとりぼっちだって話なんだ[wait][page]こういう時は　だれかが[n]ああいう小さい子のめんどうを[wait][clr]見に行ってやるものなんだけど[wait][clr]だれも行かないのかなあ・・・[wait][end]",
-  "en": ""
+  "en": "There's a kid named Regine up in Dark North.[wait][page]Word is her big sister went off somewhere,[wait][clr]and now she's all alone.[wait][page]At times like these, somebody oughta go and[wait][clr]look after a little kid like that,[wait][clr]but I guess nobody's going...[wait][end]"
  },
  {
   "id": "M1702",
@@ -1529,7 +1529,7 @@
    1702
   ],
   "jp": "なにーーーーっ！？[wait][page]レジーヌの[n]お姉ちゃんがセクだって！？[wait][page]おっと　いかんいかん[n]声が大きかったぜ[wait][page]セクって言ったら　あんた[n]このあたりじゃ知らないヤツは[wait][clr]いないくらいの[wait][clr]うでききのギゾクの名前だぜ？[wait][page]この間も　あのワナの多い[n]氷の使徒さまのお城に　しのびこんで[wait][clr]ぶじに帰ってきたとか・・・[wait][page]どんなお宝を手に入れてきたのか[n]オレには想像つかないけど[wait][page]レジーヌのお姉ちゃんが[n]あのセクだっていうのか・・・！？[wait][page]でも・・・まてよ？[wait][page]たまたま　名前が[n]同じだっただけかもしれないし・・・[wait][page]うう・・・ワケがわからなく[n]なってきた・・・うーん・・・[wait][end]",
-  "en": ""
+  "en": "WHAAAAAT?![wait][page]Regine's big sister is Sek?![wait][page]Whoops, shouldn't have done that. I was too loud.[wait][page]Listen, around here there's nobody who[wait][clr]hasn't heard of Sek.[wait][clr]She's a master thief who steals from the rich![wait][page]Just the other day, I heard she snuck into the great Ice Apostle's trap-filled castle[wait][clr]and got back out safe and sound...[wait][page]I can't even imagine what kind of treasure she came back with.[wait][page]And Regine's big sister is THAT Sek...?![wait][page]But... wait a sec.[wait][page]Maybe they just happen to have the same name...[wait][page]Ugh... I'm getting all confused... Hmmm...[wait][end]"
  },
  {
   "id": "M1703",
@@ -1544,7 +1544,7 @@
    1703
   ],
   "jp": "[name:23][face:8]よう！[f3]！[n]元気だったか！？[wait][page]オレ　気がついたんだ[wait][page]人を守る強さこそが[n]本当の強さなんだって・・・[wait][page][f3]も[n]そう思うだろ？[wait][end]",
-  "en": ""
+  "en": "[name:23][face:8]Hey! [f3]! How've you been?![wait][page]I figured something out.[wait][page]The strength to protect people... that's what real strength is...[wait][page]You think so too, right, [f3]?[wait][end]"
  },
  {
   "id": "M1704",
@@ -1559,7 +1559,7 @@
    1704
   ],
   "jp": "[name:22][face:7]あら　[f3][wait][page]お父さんと　再会できたのは[n]アナタと　ケルミドのおかげよ[wait][page]本当に　ありがとう[wait][end]",
-  "en": ""
+  "en": "[name:22][face:7]Oh, [f3].[wait][page]I got to see my dad again thanks to you and Kermid.[wait][page]Thank you so much.[wait][end]"
  },
  {
   "id": "M1705",
@@ -1574,7 +1574,7 @@
    1705
   ],
   "jp": "[name:71]あなたのおかげで[n]また　ムスメといっしょにくらせます[wait][page]ありがとうございました[wait][end]",
-  "en": ""
+  "en": "[name:71]Thanks to you, I can live with my daughter again.[wait][page]Thank you very much.[wait][end]"
  },
  {
   "id": "M1706",
@@ -1589,7 +1589,7 @@
    1706
   ],
   "jp": "レミエルだっけか・・・？[n]そんな名前の天使が[wait][page]エンゼルチルドレンの[n]レナって女の子を探して[wait][page]このあたりをふらふらしてる[n]みたいだぜ？[wait][end]",
-  "en": ""
+  "en": "Remiel, was it...? An angel by that name[wait][page]is looking for an AngelKid named Lena,[wait][page]wandering all over around here.[wait][end]"
  },
  {
   "id": "M1707",
@@ -1604,7 +1604,7 @@
    1707
   ],
   "jp": "戦いってさ・・・おわってみれば[n]なんで戦ってたんだろう？[wait][clr]っていうようなリユウで[wait][clr]戦ってたりするんだよなあ・・・[wait][end]",
-  "en": ""
+  "en": "You know, with fights... once they're over,[wait][clr]you end up wondering, \"Why were we even fighting?\"[wait][clr]A lot of fights start over reasons like that...[wait][end]"
  },
  {
   "id": "M1708",
@@ -1619,7 +1619,7 @@
    1708
   ],
   "jp": "[name:17][f3][n]少し聞いてください[wait][page]この先に　氷の使徒に仕える[n]しょくりゅうというデビルが[wait][clr]あなたを　待ち受けています・・・[wait][page]気をつけてください・・・[wait][end]",
-  "en": ""
+  "en": "[name:17][f3], please, listen to me for a moment.[wait][page]Up ahead, a demon called Shokuryu, who serves the Ice Apostle,[wait][clr]lies in wait for you...[wait][page]Please be careful...[wait][end]"
  },
  {
   "id": "M1709",
@@ -1634,7 +1634,7 @@
    1709
   ],
   "jp": "[name:1][face:255]もしかしたら　天使が[n]封印されているのかもしれない[wait][page][f3]！！[n]天使の聖水をかけてやろうぜ！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]Maybe there's an angel sealed in there.[wait][page][f3]!! Let's pour the Angel's Holy Water on it![wait][end]"
  },
  {
   "id": "M1710",
@@ -1649,7 +1649,7 @@
    1710
   ],
   "jp": "[name:0][face:1]アナタが　本物のエノク・・・[wait][page]（ニセモノのほうが[n]　言葉がていねいだったな）[wait][end]",
-  "en": ""
+  "en": "[name:0][face:1]So you're the real Enoch...[wait][page](The fake one talked way more politely...)[wait][end]"
  },
  {
   "id": "M1711",
@@ -1664,7 +1664,7 @@
    1711
   ],
   "jp": "ここから西の方へ出ると[n]ニザフィヨルって雪原があって[wait][page]その先には[n]ベストリのほこらがあるの[wait][page]わたしには　よくわかんないけど[n]なんだか　ありがたいところ[wait][clr]なんだってさ[wait][end]",
-  "en": ""
+  "en": "If you head out west from here, there's a snowfield called Nidafjoll,[wait][page]and past that is the Vestri Shrine.[wait][page]I don't really get it, but they say it's some kind of[wait][clr]holy, blessed place.[wait][end]"
  },
  {
   "id": "M1712",
@@ -1679,7 +1679,7 @@
    1712
   ],
   "jp": "[name:1][face:255]これがリュウのルビーか・・・[wait][page][f3]！[n]はやくヴィーヴルに届けようぜ[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]So this is the Dragon Ruby...[wait][page][f3]! Let's hurry and take it to Vouivre.[wait][end]"
  },
  {
   "id": "M1713",
@@ -1694,7 +1694,7 @@
    1713
   ],
   "jp": "[name:1][face:255]これが　伝説のキノコか・・・[wait][page][f3]！[wait][page]はやくテシスに[n]この　伝説のキノコを届けよう！[wait][page]病気のピクシーを助けるんだ！！[wait][end]",
-  "en": ""
+  "en": "[name:1][face:255]So this is the Legendary Shroom...[wait][page][f3]![wait][page]Let's hurry and take this Legendary Shroom to Tesis![wait][page]We gotta save that sick Pixie!![wait][end]"
  },
  {
   "id": "M1714",

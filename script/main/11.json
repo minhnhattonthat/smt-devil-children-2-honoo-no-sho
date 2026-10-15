@@ -717,7 +717,7 @@
    2247
   ],
   "jp": "ここでは　つかえません[wait][end]",
-  "en": ""
+  "en": "You can't use that here.[wait][end]"
  },
  {
   "id": "M2248",
@@ -732,7 +732,7 @@
    2248
   ],
   "jp": "これいじょう　マッカを[n]もつことができません[wait][page][f4]　[ec:0]こで[n]〒[ec:1]でうりますか？[fb:0][end]",
-  "en": ""
+  "en": "You can't hold any more Macca.[wait][page]Sell [f4] x[ec:0] for 〒[ec:1]?[fb:0][end]"
  },
  {
   "id": "M2249",
@@ -747,7 +747,7 @@
    2249
   ],
   "jp": "光の書　闇の書とのせんとうに[n]さんかできないデビルがいます[wait][page]デビルをえらびなおしてください[wait][end]",
-  "en": ""
+  "en": "Some demons can't take part in battles against the Book of Light or Book of Dark.[wait][page]Please choose your demons again.[wait][end]"
  },
  {
   "id": "M2250",
@@ -762,7 +762,7 @@
    2250
   ],
   "jp": "カードをもってません[wait][end]",
-  "en": ""
+  "en": "You don't have any cards.[wait][end]"
  },
  {
   "id": "M2251",
@@ -777,7 +777,7 @@
    2251
   ],
   "jp": "しんにゅうしゃ　ハッケン！[n]はいじょします[wait][end]",
-  "en": ""
+  "en": "Intruder detected! Commencing elimination.[wait][end]"
  },
  {
   "id": "M2252",
@@ -792,7 +792,7 @@
    2252
   ],
   "jp": "いまは　このカードを[n]使うことができない[wait][end]",
-  "en": ""
+  "en": "You can't use this card right now.[wait][end]"
  },
  {
   "id": "M2253",
@@ -807,7 +807,7 @@
    2253
   ],
   "jp": "このナカマはえらぶことができません[wait][end]",
-  "en": ""
+  "en": "You can't choose this ally.[wait][end]"
  },
  {
   "id": "M2254",
@@ -822,7 +822,7 @@
    2254
   ],
   "jp": "決定するとキャンセルできません[n]使ってもいいですか？[fb:1][end]",
-  "en": ""
+  "en": "Once decided, this can't be canceled. Use it?[fb:1][end]"
  },
  {
   "id": "M2255",
@@ -837,7 +837,7 @@
    2255
   ],
   "jp": "カード　[f4]が[n]はいっていた[wait][end]",
-  "en": ""
+  "en": "Found the card [f4] inside.[wait][end]"
  },
  {
   "id": "M2256",
@@ -852,7 +852,7 @@
    2256
   ],
   "jp": "マソウ　[f4]が[n]はいっていた[wait][end]",
-  "en": ""
+  "en": "Found the Arcane Item [f4] inside.[wait][end]"
  },
  {
   "id": "M2257",
@@ -867,7 +867,7 @@
    2257
   ],
   "jp": "カード　[f4]が[n]いっぱいでもてない[wait][end]",
-  "en": ""
+  "en": "You can't carry any more of the card [f4].[wait][end]"
  },
  {
   "id": "M2258",
@@ -882,7 +882,7 @@
    2258
   ],
   "jp": "マソウ　[f4]が[n]いっぱいでもてない[wait][end]",
-  "en": ""
+  "en": "You can't carry any more of the Arcane Item [f4].[wait][end]"
  },
  {
   "id": "M2259",
@@ -897,7 +897,7 @@
    2259
   ],
   "jp": "カード　[f4]を[n]あきらめた[wait][end]",
-  "en": ""
+  "en": "Gave up on the card [f4].[wait][end]"
  },
  {
   "id": "M2260",
@@ -912,7 +912,7 @@
    2260
   ],
   "jp": "マソウ　[f4]を[n]あきらめた[wait][end]",
-  "en": ""
+  "en": "Gave up on the Arcane Item [f4].[wait][end]"
  },
  {
   "id": "M2261",
@@ -927,7 +927,7 @@
    2261
   ],
   "jp": "カード　[f4]を[n]手に入れた[wait][end]",
-  "en": ""
+  "en": "Got the card [f4]![wait][end]"
  },
  {
   "id": "M2262",
@@ -942,7 +942,7 @@
    2262
   ],
   "jp": "マソウ　[f4]を[n]手に入れた[wait][end]",
-  "en": ""
+  "en": "Got the Arcane Item [f4]![wait][end]"
  },
  {
   "id": "M2263",
@@ -972,7 +972,7 @@
    2264
   ],
   "jp": "ナカマをすべておくってもいいですか？[fb:0][end]",
-  "en": ""
+  "en": "Send away all your allies?[fb:0][end]"
  },
  {
   "id": "M2265",
@@ -987,7 +987,7 @@
    2265
   ],
   "jp": "バトルネット[n]ノーマル戦へようこそ[wait][page]キミは　各地にあらわれる[n]サマナーたちをたおして[wait][clr]どこまですすめるかな？[wait][page]さあ！はじめようか！[n]コール！[wait][end]",
-  "en": ""
+  "en": "Welcome to Battle Net Normal Battles![wait][page]You'll take on the summoners who appear all over[wait][clr]and see how far you can get![wait][page]Now! Let's get started! Call![wait][end]"
  },
  {
   "id": "M2266",
@@ -1002,7 +1002,7 @@
    2266
   ],
   "jp": "[f3]！[n]負けないわよー！[wait][end]",
-  "en": ""
+  "en": "[f3]! I'm not gonna lose!![wait][end]"
  },
  {
   "id": "M2267",
@@ -1017,7 +1017,7 @@
    2267
   ],
   "jp": "あんまり　バトルって[n]すきじゃないんだけど・・・[wait][clr]しょうがないわね・・・[wait][end]",
-  "en": ""
+  "en": "I don't really like battling much...[wait][clr]but I guess there's no helping it...[wait][end]"
  },
  {
   "id": "M2268",
@@ -1032,7 +1032,7 @@
    2268
   ],
   "jp": "ばとる？[wait][page]うん　いいよ[n]あそぼう　あそぼう[wait][end]",
-  "en": ""
+  "en": "A battle?[wait][page]Yeah, okay! Let's play, let's play![wait][end]"
  },
  {
   "id": "M2269",
@@ -1047,7 +1047,7 @@
    2269
   ],
   "jp": "・・・　・・・　・・・[wait][end]",
-  "en": ""
+  "en": "... ... ...[wait][end]"
  },
  {
   "id": "M2270",
@@ -1062,7 +1062,7 @@
    2270
   ],
   "jp": "おっ　[f3]か・・・[wait][page]ひさしぶりに[n]ウデだめしと　いこうか[wait][end]",
-  "en": ""
+  "en": "Oh, [f3], huh...[wait][page]Been a while. Let's see what you've got.[wait][end]"
  },
  {
   "id": "M2271",
@@ -1077,7 +1077,7 @@
    2271
   ],
   "jp": "バトル？[n]ああ！　いいぜ！[wait][page]どっちが強いか・・・[n]しょうぶだっ！[wait][end]",
-  "en": ""
+  "en": "A battle? Yeah! You're on![wait][page]Let's find out who's stronger![wait][end]"
  },
  {
   "id": "M2272",
@@ -1092,7 +1092,7 @@
    2272
   ],
   "jp": "そうか・・・[n]キミもデビルチルドレンか[wait][page]よくよく　デビルチルドレンには[n]えんがあるらしい[wait][page]じゃ　ひとしょうぶしてみるかい？[wait][end]",
-  "en": ""
+  "en": "I see... So you're a DemiKid too.[wait][page]Seems I keep crossing paths with DemiKids.[wait][page]Well then, how about a match?[wait][end]"
  },
  {
   "id": "M2273",
@@ -1107,7 +1107,7 @@
    2273
   ],
   "jp": "なによアンタ・・・[wait][page]じろじろ見てると[n]やっつけちゃうんだからね！[wait][end]",
-  "en": ""
+  "en": "What's your problem...?[wait][page]Keep staring at me and I'll beat you up!![wait][end]"
  },
  {
   "id": "M2274",
@@ -1122,7 +1122,7 @@
    2274
   ],
   "jp": "わがチカラ　おもいしれ！[wait][end]",
-  "en": ""
+  "en": "Behold my power![wait][end]"
  },
  {
   "id": "M2275",
@@ -1137,7 +1137,7 @@
    2275
   ],
   "jp": "勝負・・・？[n]いいぜ　いつでもきなよ[wait][end]",
-  "en": ""
+  "en": "A match...? Sure, come at me anytime.[wait][end]"
  },
  {
   "id": "M2276",
@@ -1152,7 +1152,7 @@
    2276
   ],
   "jp": "へえ　あなたのナカマ[n]つよそうね[wait][page]わたしの　ベールとどっちが[n]つよいかしら？[wait][clr]バトルしましょ！[wait][end]",
-  "en": ""
+  "en": "Wow, your allies look strong.[wait][page]I wonder who's stronger, them or my Veil?[wait][clr]Let's battle![wait][end]"
  },
  {
   "id": "M2277",
@@ -1167,7 +1167,7 @@
    2277
   ],
   "jp": "へえ　ここまでくるなんて[n]そうとう　つよいんですね[wait][page]かてるかなあ・・・[n]ふあんだけど・・・しょうぶです！[wait][end]",
-  "en": ""
+  "en": "Wow, if you made it this far, you must be really strong.[wait][page]Can I win...? I'm nervous... but here goes![wait][end]"
  },
  {
   "id": "M2278",
@@ -1182,7 +1182,7 @@
    2278
   ],
   "jp": "バトルか？[n]よかろう　ちょうど[wait][clr]ウデが　なまっていたところだ[wait][clr]あいてをしよう[wait][end]",
-  "en": ""
+  "en": "A battle? Very well. As it happens,[wait][clr]my skills have been getting rusty.[wait][clr]I shall take you on.[wait][end]"
  },
  {
   "id": "M2279",
@@ -1197,7 +1197,7 @@
    2279
   ],
   "jp": "バトルだろう？[n]さっそく　はじめようか？[wait][end]",
-  "en": ""
+  "en": "You want a battle, right? Shall we get started?[wait][end]"
  },
  {
   "id": "M2280",
@@ -1212,7 +1212,7 @@
    2280
   ],
   "jp": "あなたが　真につよきものならば[n]時のチカラと星のチカラが[wait][clr]やどるでしょう・・・[wait][page]それでは　まいります[wait][end]",
-  "en": ""
+  "en": "If you are truly strong, the power of time and the power of the stars[wait][clr]shall dwell within you...[wait][page]Now, here I come.[wait][end]"
  },
  {
   "id": "M2281",
@@ -1227,7 +1227,7 @@
    2281
   ],
   "jp": "ＯＫ　次にすすんでくれ[wait][page]魔界へ[n]ヴァルハラへ[end]",
-  "en": ""
+  "en": "OK, go on to the next one.[wait][page]To the Demon World[n]To Valhalla[end]"
  },
  {
   "id": "M2282",
@@ -1242,7 +1242,7 @@
    2282
   ],
   "jp": "くやしーい！[wait][page]原宿へ[n]原宿小学校へ[end]",
-  "en": ""
+  "en": "Nooo, that's so frustrating![wait][page]To Harajuku[n]To Harajuku Elementary[end]"
  },
  {
   "id": "M2283",
@@ -1257,7 +1257,7 @@
    2283
   ],
   "jp": "ふう　なれないことは[n]するものじゃないわね[wait][page]原宿小学校へ[n]マンションへ[end]",
-  "en": ""
+  "en": "Whew, I shouldn't try stuff I'm not used to.[wait][page]To Harajuku Elementary[n]To the apartments[end]"
  },
  {
   "id": "M2284",
@@ -1272,7 +1272,7 @@
    2284
   ],
   "jp": "まけちゃった・・・ちぇっ[wait][page]神社へ[n]原宿タワーへ[end]",
-  "en": ""
+  "en": "I lost... Darn.[wait][page]To the shrine[n]To Harajuku Tower[end]"
  },
  {
   "id": "M2285",
@@ -1287,7 +1287,7 @@
    2285
   ],
   "jp": "・・・　・・・　・・・[wait][page]原宿タワーへ[n]天界へ[end]",
-  "en": ""
+  "en": "... ... ...[wait][page]To Harajuku Tower[n]To Heaven[end]"
  },
  {
   "id": "M2286",
@@ -1302,7 +1302,7 @@
    2286
   ],
   "jp": "つぎは負けないぜ？[wait][page]天界へ[n]ダークパレスへ[end]",
-  "en": ""
+  "en": "I won't lose next time, okay?[wait][page]To Heaven[n]To the Dark Palace[end]"
  },
  {
   "id": "M2287",
@@ -1317,7 +1317,7 @@
    2287
   ],
   "jp": "キミ　つよいな[n]また　バトルしようぜ！[wait][page]コロシアムへ[n]オルゴールルームへ[end]",
-  "en": ""
+  "en": "You're strong! Let's battle again sometime![wait][page]To the Colosseum[n]To the Music Box Room[end]"
  },
  {
   "id": "M2288",
@@ -1332,7 +1332,7 @@
    2288
   ],
   "jp": "さすがだね・・・[n]負けたよ・・・[wait][page]オルゴールルームへ[n]ライトパレスへ[end]",
-  "en": ""
+  "en": "Impressive... I lost...[wait][page]To the Music Box Room[n]To the Light Palace[end]"
  },
  {
   "id": "M2289",
@@ -1347,7 +1347,7 @@
    2289
   ],
   "jp": "なによ・・・！[n]あっちいってよ！[wait][page]ライトパレスへ[n]王の間へ[end]",
-  "en": ""
+  "en": "What...?! Just go away![wait][page]To the Light Palace[n]To the Throne Room[end]"
  },
  {
   "id": "M2290",
@@ -1362,7 +1362,7 @@
    2290
   ],
   "jp": "いまいましい・・・[wait][page]王の間へ[n]ディープホールへ[end]",
-  "en": ""
+  "en": "How infuriating...[wait][page]To the Throne Room[n]To the Deep Hole[end]"
  },
  {
   "id": "M2291",
@@ -1377,7 +1377,7 @@
    2291
   ],
   "jp": "なかなかやるな・・・[wait][end]",
-  "en": ""
+  "en": "Not bad at all...[wait][end]"
  },
  {
   "id": "M2292",
@@ -1392,7 +1392,7 @@
    2292
   ],
   "jp": "うわあ・・・[n]ホントにつよいわね[wait][end]",
-  "en": ""
+  "en": "Wow... You really are strong.[wait][end]"
  },
  {
   "id": "M2293",
@@ -1407,7 +1407,7 @@
    2293
   ],
   "jp": "やっぱ　負けちゃいましたね[wait][end]",
-  "en": ""
+  "en": "Figures. I lost.[wait][end]"
  },
  {
   "id": "M2294",
@@ -1422,7 +1422,7 @@
    2294
   ],
   "jp": "ウデをあげたな・・・[n][f3][wait][end]",
-  "en": ""
+  "en": "You've gotten better... [f3].[wait][end]"
  },
  {
   "id": "M2295",
@@ -1437,7 +1437,7 @@
    2295
   ],
   "jp": "楽しませてもらったよ[wait][end]",
-  "en": ""
+  "en": "Thanks for the fun.[wait][end]"
  },
  {
   "id": "M2296",
@@ -1452,7 +1452,7 @@
    2296
   ],
   "jp": "つよきものよ・・・[n]あなたに　時と星のカゴを・・・[wait][end]",
-  "en": ""
+  "en": "O strong one... may time and the stars protect you...[wait][end]"
  },
  {
   "id": "M2297",
@@ -1467,7 +1467,7 @@
    2297
   ],
   "jp": "おいおい　キミのチカラは[n]そんなもんじゃないだろう？[wait][end]",
-  "en": ""
+  "en": "Hey now, that's not all you've got, is it?[wait][end]"
  },
  {
   "id": "M2298",
@@ -1482,7 +1482,7 @@
    2298
   ],
   "jp": "あれっ？　うそ！？[n]かっちゃった[wait][end]",
-  "en": ""
+  "en": "Huh? No way?! I won![wait][end]"
  },
  {
   "id": "M2299",
@@ -1497,7 +1497,7 @@
    2299
   ],
   "jp": "だいじょうぶ？[n]ケガしなかった？[wait][end]",
-  "en": ""
+  "en": "Are you okay? You didn't get hurt?[wait][end]"
  },
  {
   "id": "M2300",
@@ -1512,7 +1512,7 @@
    2300
   ],
   "jp": "やったね！かったかった！[n]またあそぼうね[wait][end]",
-  "en": ""
+  "en": "Yay! I won, I won! Let's play again![wait][end]"
  },
  {
   "id": "M2301",
@@ -1527,7 +1527,7 @@
    2301
   ],
   "jp": "・・・　・・・　・・・[wait][end]",
-  "en": ""
+  "en": "... ... ...[wait][end]"
  },
  {
   "id": "M2302",
@@ -1542,7 +1542,7 @@
    2302
   ],
   "jp": "つぎもまけないぜ？[wait][end]",
-  "en": ""
+  "en": "I won't lose next time either, okay?[wait][end]"
  },
  {
   "id": "M2303",
@@ -1557,7 +1557,7 @@
    2303
   ],
   "jp": "よし！　かったぜ！[wait][end]",
-  "en": ""
+  "en": "All right! I won![wait][end]"
  },
  {
   "id": "M2304",
@@ -1572,7 +1572,7 @@
    2304
   ],
   "jp": "まだチカラが足りないな[wait][end]",
-  "en": ""
+  "en": "You're still not strong enough.[wait][end]"
  },
  {
   "id": "M2305",
@@ -1587,7 +1587,7 @@
    2305
   ],
   "jp": "ふふん[n]とうぜんのけっかよね[wait][end]",
-  "en": ""
+  "en": "Hmph. Just as I expected.[wait][end]"
  },
  {
   "id": "M2306",
@@ -1602,7 +1602,7 @@
    2306
   ],
   "jp": "フハハハハ・・・[n]ぶざまだな　デビルチルドレン！[wait][end]",
-  "en": ""
+  "en": "Fuhahahaha... How pathetic, DemiKid![wait][end]"
  },
  {
   "id": "M2307",
@@ -1617,7 +1617,7 @@
    2307
   ],
   "jp": "いつでも　あいてになるぜ[wait][end]",
-  "en": ""
+  "en": "I'll take you on anytime.[wait][end]"
  },
  {
   "id": "M2308",
@@ -1632,7 +1632,7 @@
    2308
   ],
   "jp": "どう？[n]ベールつよかったでしょ？[wait][end]",
-  "en": ""
+  "en": "Well? Veil was strong, wasn't she?[wait][end]"
  },
  {
   "id": "M2309",
@@ -1647,7 +1647,7 @@
    2309
   ],
   "jp": "ゆだんしましたね[wait][end]",
-  "en": ""
+  "en": "You let your guard down.[wait][end]"
  },
  {
   "id": "M2310",
@@ -1662,7 +1662,7 @@
    2310
   ],
   "jp": "もっとつよくなれ・・・[n]そしてワタシをこえてみせてくれ[wait][end]",
-  "en": ""
+  "en": "Get stronger... and then show me you can surpass me.[wait][end]"
  },
  {
   "id": "M2311",
@@ -1677,7 +1677,7 @@
    2311
   ],
   "jp": "マカイのチカラ[n]あじわってもらえたかな？[wait][end]",
-  "en": ""
+  "en": "Did you get a taste of the Demon World's power?[wait][end]"
  },
  {
   "id": "M2312",
@@ -1692,7 +1692,7 @@
    2312
   ],
   "jp": "まだ　時はみちぬようです・・・[wait][end]",
-  "en": ""
+  "en": "It seems the time is not yet ripe...[wait][end]"
  },
  {
   "id": "M2313",

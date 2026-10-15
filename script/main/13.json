@@ -12,7 +12,7 @@
    2600
   ],
   "jp": "ここでは　ナカマのワザ・マホウを[n]おぼえることが　できます[wait][clr]では　ためしてみましょう[wait][end]",
-  "en": ""
+  "en": "Here, your allies can learn skills and spells.[wait][clr]Let's give it a try.[wait][end]"
  },
  {
   "id": "M2601",
@@ -27,7 +27,7 @@
    2601
   ],
   "jp": "こうげき　[f4]は[n]〒[ec:0]になりますが[wait][clr]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "The attack [f4] will be 〒[ec:0].[wait][clr]Is that okay?[fb:0][end]"
  },
  {
   "id": "M2602",
@@ -42,7 +42,7 @@
    2602
   ],
   "jp": "ほじょ　[f4]は[n]〒[ec:0]になりますが[wait][clr]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "The support [f4] will be 〒[ec:0].[wait][clr]Is that okay?[fb:0][end]"
  },
  {
   "id": "M2603",
@@ -57,7 +57,7 @@
    2603
   ],
   "jp": "そのた　[f4]は[n]〒[ec:0]になりますが[wait][clr]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "The item [f4] will be 〒[ec:0].[wait][clr]Is that okay?[fb:0][end]"
  },
  {
   "id": "M2604",
@@ -72,7 +72,7 @@
    2604
   ],
   "jp": "マソウ　[f4]は[n]〒[ec:0]になりますが[wait][clr]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "The Arcane Item [f4] will be 〒[ec:0].[wait][clr]Is that okay?[fb:0][end]"
  },
  {
   "id": "M2605",
@@ -87,7 +87,7 @@
    2605
   ],
   "jp": "化石　[f4]は[n]〒[ec:0]になりますが[wait][clr]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "The fossil [f4] will be 〒[ec:0].[wait][clr]Is that okay?[fb:0][end]"
  },
  {
   "id": "M2606",
@@ -102,7 +102,7 @@
    2606
   ],
   "jp": "ＣＤ　[f4]は[n]〒[ec:0]になりますが[wait][clr]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "The CD [f4] will be 〒[ec:0].[wait][clr]Is that okay?[fb:0][end]"
  },
  {
   "id": "M2607",
@@ -117,7 +117,7 @@
    2607
   ],
   "jp": "マップ　[f4]は[n]〒[ec:0]になりますが[wait][clr]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "The map [f4] will be 〒[ec:0].[wait][clr]Is that okay?[fb:0][end]"
  },
  {
   "id": "M2608",
@@ -132,7 +132,7 @@
    2608
   ],
   "jp": "カード　[f4]は[n]〒[ec:0]になりますが[wait][clr]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "The card [f4] will be 〒[ec:0].[wait][clr]Is that okay?[fb:0][end]"
  },
  {
   "id": "M2609",
@@ -147,7 +147,7 @@
    2609
   ],
   "jp": "すでに強化されたマホウが　あります[wait][end]",
-  "en": ""
+  "en": "It already has a boosted spell.[wait][end]"
  },
  {
   "id": "M2610",
@@ -177,7 +177,7 @@
    2611
   ],
   "jp": "味方１人のＨＰを　回復する[end]",
-  "en": ""
+  "en": "Restores HP to one ally.[end]"
  },
  {
   "id": "M2612",
@@ -192,7 +192,7 @@
    2612
   ],
   "jp": "味方１人のＨＰを　少し回復する[end]",
-  "en": ""
+  "en": "Restores a little HP to one ally.[end]"
  },
  {
   "id": "M2613",
@@ -207,7 +207,7 @@
    2613
   ],
   "jp": "味方１人のＨＰを　大きく回復する[end]",
-  "en": ""
+  "en": "Restores a lot of HP to one ally.[end]"
  },
  {
   "id": "M2614",
@@ -222,7 +222,7 @@
    2614
   ],
   "jp": "味方全体のＨＰを　全て回復する[end]",
-  "en": ""
+  "en": "Fully restores HP to all allies.[end]"
  },
  {
   "id": "M2615",
@@ -237,7 +237,7 @@
    2615
   ],
   "jp": "味方１人のＭＰを　少し回復する[end]",
-  "en": ""
+  "en": "Restores a little MP to one ally.[end]"
  },
  {
   "id": "M2616",
@@ -252,7 +252,7 @@
    2616
   ],
   "jp": "味方１人のＭＰを　回復する[end]",
-  "en": ""
+  "en": "Restores MP to one ally.[end]"
  },
  {
   "id": "M2617",
@@ -267,7 +267,7 @@
    2617
   ],
   "jp": "味方１人のＭＰを　大きく回復する[end]",
-  "en": ""
+  "en": "Restores a lot of MP to one ally.[end]"
  },
  {
   "id": "M2618",
@@ -282,7 +282,7 @@
    2618
   ],
   "jp": "味方１人のＨＰとＭＰを　少し回復する[end]",
-  "en": ""
+  "en": "Restores a little HP and MP to one ally.[end]"
  },
  {
   "id": "M2619",
@@ -297,7 +297,7 @@
    2619
   ],
   "jp": "味方１人を　気絶から復活させる[end]",
-  "en": ""
+  "en": "Revives one fainted ally.[end]"
  },
  {
   "id": "M2620",
@@ -312,7 +312,7 @@
    2620
   ],
   "jp": "味方１人を　気絶から完全復活させる[end]",
-  "en": ""
+  "en": "Fully revives one fainted ally.[end]"
  },
  {
   "id": "M2621",
@@ -327,7 +327,7 @@
    2621
   ],
   "jp": "味方全体の　気絶以外の状態を回復する[end]",
-  "en": ""
+  "en": "Cures all allies of ailments except fainting.[end]"
  },
  {
   "id": "M2622",
@@ -342,7 +342,7 @@
    2622
   ],
   "jp": "光の波動で　敵１体にダメージ[end]",
-  "en": ""
+  "en": "Light wave damages one enemy.[end]"
  },
  {
   "id": "M2623",
@@ -357,7 +357,7 @@
    2623
   ],
   "jp": "光の波動で　敵２体に大ダメージ[end]",
-  "en": ""
+  "en": "Light wave: big damage to two enemies.[end]"
  },
  {
   "id": "M2624",
@@ -372,7 +372,7 @@
    2624
   ],
   "jp": "呪いの波動で　敵１体にダメージ[end]",
-  "en": ""
+  "en": "Curse wave damages one enemy.[end]"
  },
  {
   "id": "M2625",
@@ -387,7 +387,7 @@
    2625
   ],
   "jp": "呪いの波動で　敵２体に大ダメージ[end]",
-  "en": ""
+  "en": "Curse wave: big damage to two enemies.[end]"
  },
  {
   "id": "M2626",
@@ -402,7 +402,7 @@
    2626
   ],
   "jp": "炎の柱で　敵１体に大ダメージ[end]",
-  "en": ""
+  "en": "Pillar of fire deals big damage to one enemy.[end]"
  },
  {
   "id": "M2627",
@@ -417,7 +417,7 @@
    2627
   ],
   "jp": "炎のウズで　敵２体にダメージ[end]",
-  "en": ""
+  "en": "Fire vortex damages two enemies.[end]"
  },
  {
   "id": "M2628",
@@ -432,7 +432,7 @@
    2628
   ],
   "jp": "氷で　敵１体をこおらせて大ダメージ[end]",
-  "en": ""
+  "en": "Freezes one enemy with ice for big damage.[end]"
  },
  {
   "id": "M2629",
@@ -447,7 +447,7 @@
    2629
   ],
   "jp": "氷で　敵２体をこおらせてダメージ[end]",
-  "en": ""
+  "en": "Freezes two enemies with ice for damage.[end]"
  },
  {
   "id": "M2630",
@@ -462,7 +462,7 @@
    2630
   ],
   "jp": "竜巻で　敵１体に大ダメージ[end]",
-  "en": ""
+  "en": "Tornado deals big damage to one enemy.[end]"
  },
  {
   "id": "M2631",
@@ -477,7 +477,7 @@
    2631
   ],
   "jp": "竜巻で　敵２体にダメージ[end]",
-  "en": ""
+  "en": "Tornado damages two enemies.[end]"
  },
  {
   "id": "M2632",
@@ -492,7 +492,7 @@
    2632
   ],
   "jp": "電撃で　敵１体を感電させて大ダメージ[end]",
-  "en": ""
+  "en": "Lightning shocks one foe for big damage.[end]"
  },
  {
   "id": "M2633",
@@ -507,7 +507,7 @@
    2633
   ],
   "jp": "電撃で　敵２体を感電させてダメージ[end]",
-  "en": ""
+  "en": "Lightning shocks two foes for damage.[end]"
  },
  {
   "id": "M2634",
@@ -522,7 +522,7 @@
    2634
   ],
   "jp": "岩を降らせて　敵１体に大ダメージ[end]",
-  "en": ""
+  "en": "Falling rocks deal big damage to one enemy.[end]"
  },
  {
   "id": "M2635",
@@ -537,7 +537,7 @@
    2635
   ],
   "jp": "地震で　敵２体にダメージ[end]",
-  "en": ""
+  "en": "Earthquake damages two enemies.[end]"
  },
  {
   "id": "M2636",
@@ -552,7 +552,7 @@
    2636
   ],
   "jp": "バトル中　味方１人のアタックがアップ[end]",
-  "en": ""
+  "en": "Raises one ally's Attack during battle.[end]"
  },
  {
   "id": "M2637",
@@ -567,7 +567,7 @@
    2637
   ],
   "jp": "バトル中　味方１人のガードがアップ[end]",
-  "en": ""
+  "en": "Raises one ally's Guard during battle.[end]"
  },
  {
   "id": "M2638",
@@ -582,7 +582,7 @@
    2638
   ],
   "jp": "バトル中　味方１人のマジックがアップ[end]",
-  "en": ""
+  "en": "Raises one ally's Magic during battle.[end]"
  },
  {
   "id": "M2639",
@@ -597,7 +597,7 @@
    2639
   ],
   "jp": "バトル中　味方１人のスピードがアップ[end]",
-  "en": ""
+  "en": "Raises one ally's Speed during battle.[end]"
  },
  {
   "id": "M2640",
@@ -612,7 +612,7 @@
    2640
   ],
   "jp": "バトル中　味方１人のＭガードがアップ[end]",
-  "en": ""
+  "en": "Raises one ally's Magic Guard during battle.[end]"
  },
  {
   "id": "M2641",
@@ -627,7 +627,7 @@
    2641
   ],
   "jp": "バトルから　逃げることができる[end]",
-  "en": ""
+  "en": "Lets you escape from battle.[end]"
  },
  {
   "id": "M2642",
@@ -642,7 +642,7 @@
    2642
   ],
   "jp": "アタックのパラメータが　１アップする[end]",
-  "en": ""
+  "en": "Raises the Attack stat by 1.[end]"
  },
  {
   "id": "M2643",
@@ -657,7 +657,7 @@
    2643
   ],
   "jp": "ガードのパラメータが　１アップする[end]",
-  "en": ""
+  "en": "Raises the Guard stat by 1.[end]"
  },
  {
   "id": "M2644",
@@ -672,7 +672,7 @@
    2644
   ],
   "jp": "マジックのパラメータが　１アップする[end]",
-  "en": ""
+  "en": "Raises the Magic stat by 1.[end]"
  },
  {
   "id": "M2645",
@@ -687,7 +687,7 @@
    2645
   ],
   "jp": "スピードのパラメータが　１アップする[end]",
-  "en": ""
+  "en": "Raises the Speed stat by 1.[end]"
  },
  {
   "id": "M2646",
@@ -702,7 +702,7 @@
    2646
   ],
   "jp": "Ｍガードのパラメータが　１アップする[end]",
-  "en": ""
+  "en": "Raises the Magic Guard stat by 1.[end]"
  },
  {
   "id": "M2647",
@@ -717,7 +717,7 @@
    2647
   ],
   "jp": "ラックのパラメータが　１アップする[end]",
-  "en": ""
+  "en": "Raises the Luck stat by 1.[end]"
  },
  {
   "id": "M2648",
@@ -732,7 +732,7 @@
    2648
   ],
   "jp": "デビルが　出現しにくくなる[end]",
-  "en": ""
+  "en": "Demons appear less often.[end]"
  },
  {
   "id": "M2649",
@@ -747,7 +747,7 @@
    2649
   ],
   "jp": "デビルが　出現しやすくなる[end]",
-  "en": ""
+  "en": "Demons appear more often.[end]"
  },
  {
   "id": "M2650",
@@ -762,7 +762,7 @@
    2650
   ],
   "jp": "？？？？[end]",
-  "en": ""
+  "en": "????[end]"
  },
  {
   "id": "M2651",
@@ -777,7 +777,7 @@
    2651
   ],
   "jp": "色々なところへ　ワープできる[end]",
-  "en": ""
+  "en": "Warps you to various places.[end]"
  },
  {
   "id": "M2652",
@@ -792,7 +792,7 @@
    2652
   ],
   "jp": "？？？？[end]",
-  "en": ""
+  "en": "????[end]"
  },
  {
   "id": "M2653",
@@ -807,7 +807,7 @@
    2653
   ],
   "jp": "水圧で　敵１体に大ダメージ[end]",
-  "en": ""
+  "en": "Water pressure: big damage to one enemy.[end]"
  },
  {
   "id": "M2654",
@@ -822,7 +822,7 @@
    2654
   ],
   "jp": "水圧で　敵２体にダメージ[end]",
-  "en": ""
+  "en": "Water pressure damages two enemies.[end]"
  },
  {
   "id": "M2655",
@@ -837,7 +837,7 @@
    2655
   ],
   "jp": "当たっていれば　景品と交換できる[end]",
-  "en": ""
+  "en": "If it's a winner, trade it for a prize.[end]"
  },
  {
   "id": "M2656",
@@ -897,7 +897,7 @@
    2659
   ],
   "jp": "技　バーニングレイを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Burning Ray.[end]"
  },
  {
   "id": "M2660",
@@ -912,7 +912,7 @@
    2660
   ],
   "jp": "技　イグニスボムを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Ignis Bomb.[end]"
  },
  {
   "id": "M2661",
@@ -927,7 +927,7 @@
    2661
   ],
   "jp": "技　メガインフェルノを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Mega Inferno.[end]"
  },
  {
   "id": "M2662",
@@ -942,7 +942,7 @@
    2662
   ],
   "jp": "技　ばくねつのツメを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Blazing Claw.[end]"
  },
  {
   "id": "M2663",
@@ -957,7 +957,7 @@
    2663
   ],
   "jp": "技　にじのあわを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Rainbow Bubble.[end]"
  },
  {
   "id": "M2664",
@@ -972,7 +972,7 @@
    2664
   ],
   "jp": "技　ぎんのキリを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Silver Mist.[end]"
  },
  {
   "id": "M2665",
@@ -987,7 +987,7 @@
    2665
   ],
   "jp": "技　ブラッドレインを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Blood Rain.[end]"
  },
  {
   "id": "M2666",
@@ -1002,7 +1002,7 @@
    2666
   ],
   "jp": "技　ひょうてんげきを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Freezing Strike.[end]"
  },
  {
   "id": "M2667",
@@ -1017,7 +1017,7 @@
    2667
   ],
   "jp": "技　アイスプリズンを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Ice Prison.[end]"
  },
  {
   "id": "M2668",
@@ -1032,7 +1032,7 @@
    2668
   ],
   "jp": "技　アイスブレイドを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Ice Blade.[end]"
  },
  {
   "id": "M2669",
@@ -1047,7 +1047,7 @@
    2669
   ],
   "jp": "技　ビッグウィングを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Big Wing.[end]"
  },
  {
   "id": "M2670",
@@ -1062,7 +1062,7 @@
    2670
   ],
   "jp": "技　かぜのまいを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Wind Dance.[end]"
  },
  {
   "id": "M2671",
@@ -1077,7 +1077,7 @@
    2671
   ],
   "jp": "技　ふうじんげきを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Wind God Strike.[end]"
  },
  {
   "id": "M2672",
@@ -1092,7 +1092,7 @@
    2672
   ],
   "jp": "技　かぶとわりを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Helm Splitter.[end]"
  },
  {
   "id": "M2673",
@@ -1107,7 +1107,7 @@
    2673
   ],
   "jp": "技　ビリビリスパークを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Zappy Spark.[end]"
  },
  {
   "id": "M2674",
@@ -1122,7 +1122,7 @@
    2674
   ],
   "jp": "技　トールハンマーを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Thor's Hammer.[end]"
  },
  {
   "id": "M2675",
@@ -1137,7 +1137,7 @@
    2675
   ],
   "jp": "技　ガイアバスターを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Gaia Buster.[end]"
  },
  {
   "id": "M2676",
@@ -1152,7 +1152,7 @@
    2676
   ],
   "jp": "技　はがんだんを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Rockbreaker.[end]"
  },
  {
   "id": "M2677",
@@ -1167,7 +1167,7 @@
    2677
   ],
   "jp": "技　すなあらしを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Sandstorm.[end]"
  },
  {
   "id": "M2678",
@@ -1182,7 +1182,7 @@
    2678
   ],
   "jp": "技　ロックフォールを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Rock Fall.[end]"
  },
  {
   "id": "M2679",
@@ -1197,7 +1197,7 @@
    2679
   ],
   "jp": "技　かげきなメロディを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Wild Melody.[end]"
  },
  {
   "id": "M2680",
@@ -1212,7 +1212,7 @@
    2680
   ],
   "jp": "技　バズブラストを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Buzz Blast.[end]"
  },
  {
   "id": "M2681",
@@ -1227,7 +1227,7 @@
    2681
   ],
   "jp": "技　クラッシュノイズを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Crash Noise.[end]"
  },
  {
   "id": "M2682",
@@ -1242,7 +1242,7 @@
    2682
   ],
   "jp": "技　クロスノヴァを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Cross Nova.[end]"
  },
  {
   "id": "M2683",
@@ -1257,7 +1257,7 @@
    2683
   ],
   "jp": "技　グラビティマインを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Gravity Mine.[end]"
  },
  {
   "id": "M2684",
@@ -1272,7 +1272,7 @@
    2684
   ],
   "jp": "技　ホーリーショットを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Holy Shot.[end]"
  },
  {
   "id": "M2685",
@@ -1287,7 +1287,7 @@
    2685
   ],
   "jp": "技　ゴッドハンドを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill God Hand.[end]"
  },
  {
   "id": "M2686",
@@ -1302,7 +1302,7 @@
    2686
   ],
   "jp": "技　ひかりのさばきを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Light Judgment.[end]"
  },
  {
   "id": "M2687",
@@ -1317,7 +1317,7 @@
    2687
   ],
   "jp": "技　めいかいのといきを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Hades' Sigh.[end]"
  },
  {
   "id": "M2688",
@@ -1332,7 +1332,7 @@
    2688
   ],
   "jp": "技　テトラプリズンを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Tetra Prison.[end]"
  },
  {
   "id": "M2689",
@@ -1347,7 +1347,7 @@
    2689
   ],
   "jp": "技　デルタフォースを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Delta Force.[end]"
  },
  {
   "id": "M2690",
@@ -1362,7 +1362,7 @@
    2690
   ],
   "jp": "技　はかいのてんびんを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Scales of Ruin.[end]"
  },
  {
   "id": "M2691",
@@ -1377,7 +1377,7 @@
    2691
   ],
   "jp": "技　どくひっかきを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Poison Scratch.[end]"
  },
  {
   "id": "M2692",
@@ -1392,7 +1392,7 @@
    2692
   ],
   "jp": "技　マヒひっかきを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Stun Scratch.[end]"
  },
  {
   "id": "M2693",
@@ -1407,7 +1407,7 @@
    2693
   ],
   "jp": "技　あしゅられんげきを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Ashura Barrage.[end]"
  },
  {
   "id": "M2694",
@@ -1422,7 +1422,7 @@
    2694
   ],
   "jp": "技　とらがりを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Tiger Hunt.[end]"
  },
  {
   "id": "M2695",
@@ -1437,7 +1437,7 @@
    2695
   ],
   "jp": "技　おにばらいを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Oni Purge.[end]"
  },
  {
   "id": "M2696",
@@ -1452,7 +1452,7 @@
    2696
   ],
   "jp": "技　りゅうごろしを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Dragon Slayer.[end]"
  },
  {
   "id": "M2697",
@@ -1467,7 +1467,7 @@
    2697
   ],
   "jp": "技　セントバニッシュを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Saint Banish.[end]"
  },
  {
   "id": "M2698",
@@ -1482,7 +1482,7 @@
    2698
   ],
   "jp": "技　オメガゲインを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Omega Gain.[end]"
  },
  {
   "id": "M2699",
@@ -1497,7 +1497,7 @@
    2699
   ],
   "jp": "技　フォールダウンを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Fall Down.[end]"
  },
  {
   "id": "M2700",
@@ -1512,7 +1512,7 @@
    2700
   ],
   "jp": "技　じょれいを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Purify.[end]"
  },
  {
   "id": "M2701",
@@ -1527,7 +1527,7 @@
    2701
   ],
   "jp": "技　エクソシズムを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Exorcism.[end]"
  },
  {
   "id": "M2702",
@@ -1542,7 +1542,7 @@
    2702
   ],
   "jp": "技　ダークゲートを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Dark Gate.[end]"
  },
  {
   "id": "M2703",
@@ -1587,7 +1587,7 @@
    2705
   ],
   "jp": "技　ウィークポイントを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Weak Point.[end]"
  },
  {
   "id": "M2706",
@@ -1602,7 +1602,7 @@
    2706
   ],
   "jp": "技　スターダストを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Stardust.[end]"
  },
  {
   "id": "M2707",
@@ -1617,7 +1617,7 @@
    2707
   ],
   "jp": "技　やみのかべを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Shadow Wall.[end]"
  },
  {
   "id": "M2708",
@@ -1632,7 +1632,7 @@
    2708
   ],
   "jp": "技　まほうのもんを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Magic Gate.[end]"
  },
  {
   "id": "M2709",
@@ -1647,7 +1647,7 @@
    2709
   ],
   "jp": "技　みがわりを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Substitute.[end]"
  },
  {
   "id": "M2710",
@@ -1662,7 +1662,7 @@
    2710
   ],
   "jp": "技　ビックリボックスを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Jack-in-the-Box.[end]"
  },
  {
   "id": "M2711",
@@ -1677,7 +1677,7 @@
    2711
   ],
   "jp": "技　かげぬいを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Shadow Stitch.[end]"
  },
  {
   "id": "M2712",
@@ -1692,7 +1692,7 @@
    2712
   ],
   "jp": "技　マイトパウダーを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Might Powder.[end]"
  },
  {
   "id": "M2713",
@@ -1707,7 +1707,7 @@
    2713
   ],
   "jp": "技　ほしのかぜを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Star Wind.[end]"
  },
  {
   "id": "M2714",
@@ -1722,7 +1722,7 @@
    2714
   ],
   "jp": "技　バーンウォールを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Burn Wall.[end]"
  },
  {
   "id": "M2715",
@@ -1737,7 +1737,7 @@
    2715
   ],
   "jp": "技　アクアウォールを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Aqua Wall.[end]"
  },
  {
   "id": "M2716",
@@ -1752,7 +1752,7 @@
    2716
   ],
   "jp": "技　アイスウォールを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Ice Wall.[end]"
  },
  {
   "id": "M2717",
@@ -1782,7 +1782,7 @@
    2718
   ],
   "jp": "技　ストーンウォールを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Stone Wall.[end]"
  },
  {
   "id": "M2719",
@@ -1797,7 +1797,7 @@
    2719
   ],
   "jp": "技　サンダーウォールを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Thunder Wall.[end]"
  },
  {
   "id": "M2720",
@@ -1812,7 +1812,7 @@
    2720
   ],
   "jp": "技　グランドブレイクを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Ground Break.[end]"
  },
  {
   "id": "M2721",
@@ -1827,7 +1827,7 @@
    2721
   ],
   "jp": "技　ストームウォールを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Storm Wall.[end]"
  },
  {
   "id": "M2722",
@@ -1842,7 +1842,7 @@
    2722
   ],
   "jp": "技　ライトウォールを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Light Wall.[end]"
  },
  {
   "id": "M2723",
@@ -1857,7 +1857,7 @@
    2723
   ],
   "jp": "技　ダークウォールを　覚える[end]",
-  "en": ""
+  "en": "Teaches the skill Dark Wall.[end]"
  },
  {
   "id": "M2724",
@@ -2127,7 +2127,7 @@
    2741
   ],
   "jp": "おそろしい形をした　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil with a fearsome shape.[end]"
  },
  {
   "id": "M2742",
@@ -2142,7 +2142,7 @@
    2742
   ],
   "jp": "爪のような形をした　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil shaped like a claw.[end]"
  },
  {
   "id": "M2743",
@@ -2157,7 +2157,7 @@
    2743
   ],
   "jp": "キバのような形をした　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil shaped like a fang.[end]"
  },
  {
   "id": "M2744",
@@ -2172,7 +2172,7 @@
    2744
   ],
   "jp": "巨大な手の形をした　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil shaped like a giant hand.[end]"
  },
  {
   "id": "M2745",
@@ -2187,7 +2187,7 @@
    2745
   ],
   "jp": "とてつもなく重い　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious, incredibly heavy fossil.[end]"
  },
  {
   "id": "M2746",
@@ -2202,7 +2202,7 @@
    2746
   ],
   "jp": "するどいまなざしをむける　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil with a piercing stare.[end]"
  },
  {
   "id": "M2747",
@@ -2217,7 +2217,7 @@
    2747
   ],
   "jp": "シッポのような形をした　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil shaped like a tail.[end]"
  },
  {
   "id": "M2748",
@@ -2232,7 +2232,7 @@
    2748
   ],
   "jp": "カガミのように　かがやくナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil that shines like a mirror.[end]"
  },
  {
   "id": "M2749",
@@ -2247,7 +2247,7 @@
    2749
   ],
   "jp": "つばさのようにかるい　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil as light as a wing.[end]"
  },
  {
   "id": "M2750",
@@ -2262,7 +2262,7 @@
    2750
   ],
   "jp": "不気味にコドウする　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil with an eerie heartbeat.[end]"
  },
  {
   "id": "M2751",
@@ -2277,7 +2277,7 @@
    2751
   ],
   "jp": "おそろしい形をした　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil with a fearsome shape.[end]"
  },
  {
   "id": "M2752",
@@ -2292,7 +2292,7 @@
    2752
   ],
   "jp": "流れ落ちる血のような　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil like dripping blood.[end]"
  },
  {
   "id": "M2753",
@@ -2307,7 +2307,7 @@
    2753
   ],
   "jp": "ライオンのキバにも見える　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil that looks like a lion fang.[end]"
  },
  {
   "id": "M2754",
@@ -2322,7 +2322,7 @@
    2754
   ],
   "jp": "巨大なこぶしの形をした　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil shaped like a giant fist.[end]"
  },
  {
   "id": "M2755",
@@ -2337,7 +2337,7 @@
    2755
   ],
   "jp": "シッポのようにも見える　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil that looks like a tail.[end]"
  },
  {
   "id": "M2756",
@@ -2352,7 +2352,7 @@
    2756
   ],
   "jp": "見るだけでサムケがする　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil that gives you the chills.[end]"
  },
  {
   "id": "M2757",
@@ -2367,7 +2367,7 @@
    2757
   ],
   "jp": "長細い何かがうずまく　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil with something coiled up.[end]"
  },
  {
   "id": "M2758",
@@ -2382,7 +2382,7 @@
    2758
   ],
   "jp": "ウロコのようにうすい　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil as thin as a scale.[end]"
  },
  {
   "id": "M2759",
@@ -2397,7 +2397,7 @@
    2759
   ],
   "jp": "つばさの形をした　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil shaped like a wing.[end]"
  },
  {
   "id": "M2760",
@@ -2412,7 +2412,7 @@
    2760
   ],
   "jp": "生きているかのように動く　ナゾの化石[end]",
-  "en": ""
+  "en": "A mysterious fossil that moves as if alive.[end]"
  },
  {
   "id": "M2761",
@@ -2577,7 +2577,7 @@
    2771
   ],
   "jp": "ゲンブのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Genbu.[end]"
  },
  {
   "id": "M2772",
@@ -2592,7 +2592,7 @@
    2772
   ],
   "jp": "ビャッコのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Byakko.[end]"
  },
  {
   "id": "M2773",
@@ -2607,7 +2607,7 @@
    2773
   ],
   "jp": "セイリュウのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Seiryu.[end]"
  },
  {
   "id": "M2774",
@@ -2622,7 +2622,7 @@
    2774
   ],
   "jp": "スザクのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Suzaku.[end]"
  },
  {
   "id": "M2775",
@@ -2637,7 +2637,7 @@
    2775
   ],
   "jp": "クラーケンのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Kraken.[end]"
  },
  {
   "id": "M2776",
@@ -2652,7 +2652,7 @@
    2776
   ],
   "jp": "ダゴンのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Dagon.[end]"
  },
  {
   "id": "M2777",
@@ -2667,7 +2667,7 @@
    2777
   ],
   "jp": "アモンのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Amon.[end]"
  },
  {
   "id": "M2778",
@@ -2682,7 +2682,7 @@
    2778
   ],
   "jp": "アゼルのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Azel.[end]"
  },
  {
   "id": "M2779",
@@ -2697,7 +2697,7 @@
    2779
   ],
   "jp": "ベヒモスのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Behemoth.[end]"
  },
  {
   "id": "M2780",
@@ -2712,7 +2712,7 @@
    2780
   ],
   "jp": "パズズのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Pazuzu.[end]"
  },
  {
   "id": "M2781",
@@ -2727,7 +2727,7 @@
    2781
   ],
   "jp": "ラミアのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Lamia.[end]"
  },
  {
   "id": "M2782",
@@ -2742,7 +2742,7 @@
    2782
   ],
   "jp": "アルゴスのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Argus.[end]"
  },
  {
   "id": "M2783",
@@ -2757,7 +2757,7 @@
    2783
   ],
   "jp": "バルバトスのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Barbatos.[end]"
  },
  {
   "id": "M2784",
@@ -2772,7 +2772,7 @@
    2784
   ],
   "jp": "ガネーシャのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Ganesha.[end]"
  },
  {
   "id": "M2785",
@@ -2787,7 +2787,7 @@
    2785
   ],
   "jp": "スルトのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Surt.[end]"
  },
  {
   "id": "M2786",
@@ -2802,7 +2802,7 @@
    2786
   ],
   "jp": "ネメアのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Nemea.[end]"
  },
  {
   "id": "M2787",
@@ -2817,7 +2817,7 @@
    2787
   ],
   "jp": "ギリメカラのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Girimehkala.[end]"
  },
  {
   "id": "M2788",
@@ -2832,7 +2832,7 @@
    2788
   ],
   "jp": "ヌエのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Nue.[end]"
  },
  {
   "id": "M2789",
@@ -2847,7 +2847,7 @@
    2789
   ],
   "jp": "アスタロトのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Astaroth.[end]"
  },
  {
   "id": "M2790",
@@ -2862,7 +2862,7 @@
    2790
   ],
   "jp": "フンババのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Humbaba.[end]"
  },
  {
   "id": "M2791",
@@ -2877,7 +2877,7 @@
    2791
   ],
   "jp": "エキドナのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Echidna.[end]"
  },
  {
   "id": "M2792",
@@ -2892,7 +2892,7 @@
    2792
   ],
   "jp": "トナティウのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Tonatiuh.[end]"
  },
  {
   "id": "M2793",
@@ -2907,7 +2907,7 @@
    2793
   ],
   "jp": "アルラウネのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Alraune.[end]"
  },
  {
   "id": "M2794",
@@ -2922,7 +2922,7 @@
    2794
   ],
   "jp": "フラウロスのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Flauros.[end]"
  },
  {
   "id": "M2795",
@@ -2937,7 +2937,7 @@
    2795
   ],
   "jp": "バビルザクのタマシイが　封印された玉[end]",
-  "en": ""
+  "en": "An orb sealing the soul of Babilzak.[end]"
  },
  {
   "id": "M2796",

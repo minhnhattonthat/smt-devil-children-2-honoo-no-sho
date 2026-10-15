@@ -12,7 +12,7 @@
    4400
   ],
   "jp": "[f5]　・・・すまん[end]",
-  "en": ""
+  "en": "[f5]... I'm sorry.[end]"
  },
  {
   "id": "M4401",
@@ -27,7 +27,7 @@
    4401
   ],
   "jp": "敵が　強いのか？[end]",
-  "en": ""
+  "en": "Enemy too strong?[end]"
  },
  {
   "id": "M4402",
@@ -42,7 +42,7 @@
    4402
   ],
   "jp": "[f5]じゃ　ダメなのか？[end]",
-  "en": ""
+  "en": "[f5] wasn't enough?[end]"
  },
  {
   "id": "M4403",
@@ -57,7 +57,7 @@
    4403
   ],
   "jp": "まさか　[f5]が・・・[end]",
-  "en": ""
+  "en": "It can't be... [f5]...[end]"
  },
  {
   "id": "M4404",
@@ -72,7 +72,7 @@
    4404
   ],
   "jp": "そんな・・・[f5]・・・[end]",
-  "en": ""
+  "en": "No way... [f5]...[end]"
  },
  {
   "id": "M4405",
@@ -87,7 +87,7 @@
    4405
   ],
   "jp": "無理なのか？　[f5][end]",
-  "en": ""
+  "en": "Is it hopeless, [f5]?[end]"
  },
  {
   "id": "M4406",
@@ -102,7 +102,7 @@
    4406
   ],
   "jp": "えっ？　そんなはずじゃ・・・[end]",
-  "en": ""
+  "en": "Huh? That can't be...[end]"
  },
  {
   "id": "M4407",
@@ -117,7 +117,7 @@
    4407
   ],
   "jp": "そんな・・・信じられない！？[end]",
-  "en": ""
+  "en": "No way... I can't believe it!?[end]"
  },
  {
   "id": "M4408",
@@ -132,7 +132,7 @@
    4408
   ],
   "jp": "[f5]　ゆだんした！？[end]",
-  "en": ""
+  "en": "[f5], you got careless!?[end]"
  },
  {
   "id": "M4409",
@@ -147,7 +147,7 @@
    4409
   ],
   "jp": "今日は　調子が悪いかな？[end]",
-  "en": ""
+  "en": "Just an off day, maybe?[end]"
  },
  {
   "id": "M4410",
@@ -162,7 +162,7 @@
    4410
   ],
   "jp": "なかなか　あなどれないな[end]",
-  "en": ""
+  "en": "Can't take them lightly.[end]"
  },
  {
   "id": "M4411",
@@ -177,7 +177,7 @@
    4411
   ],
   "jp": "オレのせいだな・・・すまん[end]",
-  "en": ""
+  "en": "It's my fault... Sorry.[end]"
  },
  {
   "id": "M4412",
@@ -192,7 +192,7 @@
    4412
   ],
   "jp": "敵ながら　強いやつだ！[end]",
-  "en": ""
+  "en": "Tough for an enemy![end]"
  },
  {
   "id": "M4413",
@@ -207,7 +207,7 @@
    4413
   ],
   "jp": "[f5]　やすんでていいぞ！[end]",
-  "en": ""
+  "en": "[f5], you can rest now![end]"
  },
  {
   "id": "M4414",
@@ -222,7 +222,7 @@
    4414
   ],
   "jp": "[name:4]・・・キタイスルナヨ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...Don't get hopes up.[wait][name:65535][end]"
  },
  {
   "id": "M4415",
@@ -237,7 +237,7 @@
    4415
   ],
   "jp": "[name:4]・・・[n]（なんかじしんなさそう・・・）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...(Doesn't look very confident...)[wait][name:65535][end]"
  },
  {
   "id": "M4416",
@@ -252,7 +252,7 @@
    4416
   ],
   "jp": "[name:4]どうなっても[n]しらんよ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Don't blame me if it goes wrong...[wait][name:65535][end]"
  },
  {
   "id": "M4417",
@@ -267,7 +267,7 @@
    4417
   ],
   "jp": "[name:4]きっとムリですわ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I'm sure it's hopeless...[wait][name:65535][end]"
  },
  {
   "id": "M4418",
@@ -282,7 +282,7 @@
    4418
   ],
   "jp": "[name:4]がんばるよ・・・でもダメかも？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I'll try... but maybe it's no good?[wait][name:65535][end]"
  },
  {
   "id": "M4419",
@@ -297,7 +297,7 @@
    4419
   ],
   "jp": "[name:4]なんか[n]コワいかおしてるんだけど・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Um, they're making kind of a scary face...[wait][name:65535][end]"
  },
  {
   "id": "M4420",
@@ -312,7 +312,7 @@
    4420
   ],
   "jp": "[name:4]アイツ　オレのこと[n]キライなんじゃねえのかなあ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I bet that guy doesn't like me...[wait][name:65535][end]"
  },
  {
   "id": "M4421",
@@ -327,7 +327,7 @@
    4421
   ],
   "jp": "[name:4]ウソ！[n]ホントにアタシでいいの？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]No way! You really want me?[wait][name:65535][end]"
  },
  {
   "id": "M4422",
@@ -342,7 +342,7 @@
    4422
   ],
   "jp": "[name:4]マァ　ヤッテミルカ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Well, me try, I guess...[wait][name:65535][end]"
  },
  {
   "id": "M4423",
@@ -357,7 +357,7 @@
    4423
   ],
   "jp": "[name:4]・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[wait][name:65535][end]"
  },
  {
   "id": "M4424",
@@ -372,7 +372,7 @@
    4424
   ],
   "jp": "[name:4]わたしが？[n]それでは・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Me? Well, then...[wait][name:65535][end]"
  },
  {
   "id": "M4425",
@@ -387,7 +387,7 @@
    4425
   ],
   "jp": "[name:4]どうでしょうか？[n]やってみますけど・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Who knows? I'll try, but...[wait][name:65535][end]"
  },
  {
   "id": "M4426",
@@ -402,7 +402,7 @@
    4426
   ],
   "jp": "[name:4]あんまり　きたいしないでね・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Don't expect too much, okay...?[wait][name:65535][end]"
  },
  {
   "id": "M4427",
@@ -417,7 +417,7 @@
    4427
   ],
   "jp": "[name:4]えーっと[n]だいじょうぶかな・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Uh... I hope I'll be okay...[wait][name:65535][end]"
  },
  {
   "id": "M4428",
@@ -432,7 +432,7 @@
    4428
   ],
   "jp": "[name:4]オレか？[n]よーし　がんばってくるぜ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Me? All right, I'm gonna go give it my all...[wait][name:65535][end]"
  },
  {
   "id": "M4429",
@@ -447,7 +447,7 @@
    4429
   ],
   "jp": "[name:4]オッケー！[n]やってみるよ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Okay! I'll give it a shot...[wait][name:65535][end]"
  },
  {
   "id": "M4430",
@@ -462,7 +462,7 @@
    4430
   ],
   "jp": "[name:4]オレニ　マカセロ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Me handle it![wait][name:65535][end]"
  },
  {
   "id": "M4431",
@@ -477,7 +477,7 @@
    4431
   ],
   "jp": "[name:4]！！！[n]（じしんがありそうだ！）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]!!! (Looks confident!)[wait][name:65535][end]"
  },
  {
   "id": "M4432",
@@ -492,7 +492,7 @@
    4432
   ],
   "jp": "[name:4]だまってみているがよい！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Just sit back and watch![wait][name:65535][end]"
  },
  {
   "id": "M4433",
@@ -507,7 +507,7 @@
    4433
   ],
   "jp": "[name:4]かるいものですわ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]This is a piece of cake![wait][name:65535][end]"
  },
  {
   "id": "M4434",
@@ -522,7 +522,7 @@
    4434
   ],
   "jp": "[name:4]かるーく　カタをつけてやるさ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I'll wrap this up, easy![wait][name:65535][end]"
  },
  {
   "id": "M4435",
@@ -537,7 +537,7 @@
    4435
   ],
   "jp": "[name:4]わたしに　まかせてちょうだい！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Leave it to me, dear![wait][name:65535][end]"
  },
  {
   "id": "M4436",
@@ -552,7 +552,7 @@
    4436
   ],
   "jp": "[name:4]オレにまかせとけ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Leave it to me![wait][name:65535][end]"
  },
  {
   "id": "M4437",
@@ -567,7 +567,7 @@
    4437
   ],
   "jp": "[name:4]アタシにまかせて！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Leave it to me, 'kay![wait][name:65535][end]"
  },
  {
   "id": "M4438",
@@ -582,7 +582,7 @@
    4438
   ],
   "jp": "[name:4]ケイヤク　セイリツ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Contract made![wait][name:65535][end]"
  },
  {
   "id": "M4439",
@@ -597,7 +597,7 @@
    4439
   ],
   "jp": "[name:4]・・・！[n]（ケイヤクできそうだ）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...! (Looks like a contract is possible.)[wait][name:65535][end]"
  },
  {
   "id": "M4440",
@@ -612,7 +612,7 @@
    4440
   ],
   "jp": "[name:4]ケイヤクしてやろう！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I'll make a contract with you![wait][name:65535][end]"
  },
  {
   "id": "M4441",
@@ -627,7 +627,7 @@
    4441
   ],
   "jp": "[name:4]ケイヤクしてあげましょう！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I shall grant you a contract![wait][name:65535][end]"
  },
  {
   "id": "M4442",
@@ -642,7 +642,7 @@
    4442
   ],
   "jp": "[name:4]ボク　キミとケイヤクするよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I'll make a contract with you![wait][name:65535][end]"
  },
  {
   "id": "M4443",
@@ -657,7 +657,7 @@
    4443
   ],
   "jp": "[name:4]ねえ　ケイヤクしようよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey, let's make a contract![wait][name:65535][end]"
  },
  {
   "id": "M4444",
@@ -672,7 +672,7 @@
    4444
   ],
   "jp": "[name:4]ケイヤクしてやってもいいぜ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Guess I could make a contract with you![wait][name:65535][end]"
  },
  {
   "id": "M4445",
@@ -687,7 +687,7 @@
    4445
   ],
   "jp": "[name:4]ケイヤク？　してあげようかなー♥[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]A contract? Maybe I will~♥[wait][name:65535][end]"
  },
  {
   "id": "M4446",
@@ -702,7 +702,7 @@
    4446
   ],
   "jp": "[name:4]オマエ[n]ゲンキ　ナイ？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You... not feel good?[wait][name:65535][end]"
  },
  {
   "id": "M4447",
@@ -717,7 +717,7 @@
    4447
   ],
   "jp": "[name:4]・・・？[n]（ケガをなおしてくれるようだ）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...?[n](Looks like it wants to heal your wounds.)[wait][name:65535][end]"
  },
  {
   "id": "M4448",
@@ -732,7 +732,7 @@
    4448
   ],
   "jp": "[name:4]ウム・・・[n]これぐらいしか　してやれんが・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hmm... This is all I can do for you, but...[wait][name:65535][end]"
  },
  {
   "id": "M4449",
@@ -747,7 +747,7 @@
    4449
   ],
   "jp": "[name:4]おや[n]ケガを　しているようですね？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Oh my, it seems you are hurt?[wait][name:65535][end]"
  },
  {
   "id": "M4450",
@@ -762,7 +762,7 @@
    4450
   ],
   "jp": "[name:4]ボクが　ゲンキにしてあげるよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I'll make you all better!![wait][name:65535][end]"
  },
  {
   "id": "M4451",
@@ -777,7 +777,7 @@
    4451
   ],
   "jp": "[name:4]ねぇ！[n]ケガ　なおしてあげようか？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey! Want me to fix your boo-boos?[wait][name:65535][end]"
  },
  {
   "id": "M4452",
@@ -792,7 +792,7 @@
    4452
   ],
   "jp": "[name:4]ケガしてるじゃねえか！[n]ムリすんなよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Dude, you're hurt! Don't push yourself![wait][name:65535][end]"
  },
  {
   "id": "M4453",
@@ -807,7 +807,7 @@
    4453
   ],
   "jp": "[name:4]あれー？[n]アンタ　ケガしてるんじゃない？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Huh? Aren't you, like, hurt?[wait][name:65535][end]"
  },
  {
   "id": "M4454",
@@ -822,7 +822,7 @@
    4454
   ],
   "jp": "[name:4]マッカ・・・　ヤル[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Macca... Me give.[wait][name:65535][end]"
  },
  {
   "id": "M4455",
@@ -837,7 +837,7 @@
    4455
   ],
   "jp": "[name:4]・・・[n]（マッカをくれるようだ）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](Looks like it wants to give you Macca.)[wait][name:65535][end]"
  },
  {
   "id": "M4456",
@@ -852,7 +852,7 @@
    4456
   ],
   "jp": "[name:4]すこしだが[n]これでも　つかってくれ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]It is not much, but please, make use of this.[wait][name:65535][end]"
  },
  {
   "id": "M4457",
@@ -867,7 +867,7 @@
    4457
   ],
   "jp": "[name:4]おくりものを　どうぞ[n]マッカ　ですが・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]A gift for you. It is only Macca, but...[wait][name:65535][end]"
  },
  {
   "id": "M4458",
@@ -882,7 +882,7 @@
    4458
   ],
   "jp": "[name:4]ボクが　いっしょうけんめいためた[n]おかねだけど　あげるよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I saved up this money really hard, but you can have it![wait][name:65535][end]"
  },
  {
   "id": "M4459",
@@ -897,7 +897,7 @@
    4459
   ],
   "jp": "[name:4]あのね・・・[n]マッカ　あげる[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Um... Here, have some Macca.[wait][name:65535][end]"
  },
  {
   "id": "M4460",
@@ -912,7 +912,7 @@
    4460
   ],
   "jp": "[name:4]オマエ　はらへってねえか？[n]これで　メシでもくえよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Ain't you hungry? Go grab some grub with this![wait][name:65535][end]"
  },
  {
   "id": "M4461",
@@ -927,7 +927,7 @@
    4461
   ],
   "jp": "[name:4]アンタ　もうちょっとオシャレしたら？[n]これでもつかってよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Why don't you dress up a little? Here, use this![wait][name:65535][end]"
  },
  {
   "id": "M4462",
@@ -942,7 +942,7 @@
    4462
   ],
   "jp": "[name:4]タカラモノ・・・　ヤル[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Treasure... Me give.[wait][name:65535][end]"
  },
  {
   "id": "M4463",
@@ -957,7 +957,7 @@
    4463
   ],
   "jp": "[name:4]・・・♥[n]（アイテムをくれるようだ）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...♥[n](Looks like it wants to give you an item.)[wait][name:65535][end]"
  },
  {
   "id": "M4464",
@@ -972,7 +972,7 @@
    4464
   ],
   "jp": "[name:4]たいしたものではないが[n]これでも　つかってくれ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]It is nothing much, but please, make use of this.[wait][name:65535][end]"
  },
  {
   "id": "M4465",
@@ -987,7 +987,7 @@
    4465
   ],
   "jp": "[name:4]おくりものを　どうぞ[n]アイテム　ですが・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]A gift for you. It is only an item, but...[wait][name:65535][end]"
  },
  {
   "id": "M4466",
@@ -1002,7 +1002,7 @@
    4466
   ],
   "jp": "[name:4]ともだちのしるしに[n]ボクの　たからものをあげるよ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]As a sign of friendship, I'll give you my treasure![wait][name:65535][end]"
  },
  {
   "id": "M4467",
@@ -1017,7 +1017,7 @@
    4467
   ],
   "jp": "[name:4]ほんのきもちだけど[n]これ　プレゼント！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]It's just a little something, but here's a present![wait][name:65535][end]"
  },
  {
   "id": "M4468",
@@ -1032,7 +1032,7 @@
    4468
   ],
   "jp": "[name:4]きにいったよ！[n]これ　もっていきな！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I like you! Here, take this![wait][name:65535][end]"
  },
  {
   "id": "M4469",
@@ -1047,7 +1047,7 @@
    4469
   ],
   "jp": "[name:4]コレ　あげるから[n]また　あそんでちょーだい！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I'll give you this, so come play with me again, 'kay?![wait][name:65535][end]"
  },
  {
   "id": "M4470",
@@ -1062,7 +1062,7 @@
    4470
   ],
   "jp": "[name:4]ナニモ　ハナスコトハ　ナイ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Nothing to say! Nothing![wait][name:65535][end]"
  },
  {
   "id": "M4471",
@@ -1077,7 +1077,7 @@
    4471
   ],
   "jp": "[name:4]・・・[n]（ムシされた・・・）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](It's ignoring you...)[wait][name:65535][end]"
  },
  {
   "id": "M4472",
@@ -1092,7 +1092,7 @@
    4472
   ],
   "jp": "[name:4]そんなことをしている[n]ヒマはないぞ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]There is no time for such things![wait][name:65535][end]"
  },
  {
   "id": "M4473",
@@ -1107,7 +1107,7 @@
    4473
   ],
   "jp": "[name:4]あなたと　はなすことなんて[n]ありません・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I have nothing to say to you...[wait][name:65535][end]"
  },
  {
   "id": "M4474",
@@ -1122,7 +1122,7 @@
    4474
   ],
   "jp": "[name:4]さあ！[n]たたかいをつづけようよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Come on! Let's keep fighting![wait][name:65535][end]"
  },
  {
   "id": "M4475",
@@ -1137,7 +1137,7 @@
    4475
   ],
   "jp": "[name:4]なにいってんの？[n]ジャマよ　ジャマ！！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]What are you even saying? Out of my way! Move it!![wait][name:65535][end]"
  },
  {
   "id": "M4476",
@@ -1152,7 +1152,7 @@
    4476
   ],
   "jp": "[name:4]はなしなんか　ききたくねえな！[n]さて　どいつからたおそうかな？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I ain't in the mood for talk! Now, which of you should I take down first?[wait][name:65535][end]"
  },
  {
   "id": "M4477",
@@ -1167,7 +1167,7 @@
    4477
   ],
   "jp": "[name:4]もー　ウルサイ！！　だまってな！[n]ホントおこるよ？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Ugh, you're SO annoying!! Shut up! I'll get mad for real, y'know?[wait][name:65535][end]"
  },
  {
   "id": "M4478",
@@ -1182,7 +1182,7 @@
    4478
   ],
   "jp": "[name:4]アマイナ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Too soft...[wait][name:65535][end]"
  },
  {
   "id": "M4479",
@@ -1197,7 +1197,7 @@
    4479
   ],
   "jp": "[name:4]・・・[n]（なんかイヤなよかん・・・）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](You've got a bad feeling about this...)[wait][name:65535][end]"
  },
  {
   "id": "M4480",
@@ -1212,7 +1212,7 @@
    4480
   ],
   "jp": "[name:4]スキだらけだな！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You are wide open![wait][name:65535][end]"
  },
  {
   "id": "M4481",
@@ -1227,7 +1227,7 @@
    4481
   ],
   "jp": "[name:4]いいですか？[n]わたしからいきますよ？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Shall we? I will go first, then.[wait][name:65535][end]"
  },
  {
   "id": "M4482",
@@ -1242,7 +1242,7 @@
    4482
   ],
   "jp": "[name:4]スキありっ！！！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Gotcha!!![wait][name:65535][end]"
  },
  {
   "id": "M4483",
@@ -1257,7 +1257,7 @@
    4483
   ],
   "jp": "[name:4]あれ？　もしかして　チャンス？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Huh? Is this my chance?[wait][name:65535][end]"
  },
  {
   "id": "M4484",
@@ -1272,7 +1272,7 @@
    4484
   ],
   "jp": "[name:4]オレをあまくみんなよ？　コラ！！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Don't you underestimate me, punk!![wait][name:65535][end]"
  },
  {
   "id": "M4485",
@@ -1287,7 +1287,7 @@
    4485
   ],
   "jp": "[name:4]アハハッ！[n]んじゃ　アタシからいくね♥[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Ahaha! Then I'll go first♥[wait][name:65535][end]"
  },
  {
   "id": "M4486",
@@ -1302,7 +1302,7 @@
    4486
   ],
   "jp": "[name:4]・・・ツキアッテラレン[n]サラバ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...Me done with you. Bye.[wait][name:65535][end]"
  },
  {
   "id": "M4487",
@@ -1317,7 +1317,7 @@
    4487
   ],
   "jp": "[name:4]・・・[n]（きょうみがなくなったようだ）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](Looks like it lost interest.)[wait][name:65535][end]"
  },
  {
   "id": "M4488",
@@ -1332,7 +1332,7 @@
    4488
   ],
   "jp": "[name:4]じかんのむだ　だな！[n]きょうはみのがしてやろう・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]A waste of my time! I shall let you go for today...[wait][name:65535][end]"
  },
  {
   "id": "M4489",
@@ -1347,7 +1347,7 @@
    4489
   ],
   "jp": "[name:4]・・・きぶんがわるくなりました[n]ここにいることすら　イヤです[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...I feel quite ill now. I cannot bear to even be here.[wait][name:65535][end]"
  },
  {
   "id": "M4490",
@@ -1362,7 +1362,7 @@
    4490
   ],
   "jp": "[name:4]もう　つきあっていられないよ！[n]ボクかえる[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I've had enough of you! I'm going home![wait][name:65535][end]"
  },
  {
   "id": "M4491",
@@ -1377,7 +1377,7 @@
    4491
   ],
   "jp": "[name:4]ウェー！　ヤダヤダ！[n]もう　かおもみたくないよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Ewww! Gross, gross! I don't ever wanna see your face again![wait][name:65535][end]"
  },
  {
   "id": "M4492",
@@ -1392,7 +1392,7 @@
    4492
   ],
   "jp": "[name:4]ハー・・・[n]あきれて　やるきがなくなったよ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Sigh... I'm so fed up, I don't even feel like it anymore.[wait][name:65535][end]"
  },
  {
   "id": "M4493",
@@ -1407,7 +1407,7 @@
    4493
   ],
   "jp": "[name:4]アンタ　ホント　ムカツク！！[n]アタシ　かえる！！　ついてくんなよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You are SO annoying!! I'm going home!! Don't follow me![wait][name:65535][end]"
  },
  {
   "id": "M4494",
@@ -1422,7 +1422,7 @@
    4494
   ],
   "jp": "[name:4]ガルル！！[n]オレノ　ホンキ　ミセテヤル！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Grrr!! Me show you me real power![wait][name:65535][end]"
  },
  {
   "id": "M4495",
@@ -1437,7 +1437,7 @@
    4495
   ],
   "jp": "[name:4]・・・[n]（かなりおこってるようだ）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](Looks like it's really angry.)[wait][name:65535][end]"
  },
  {
   "id": "M4496",
@@ -1452,7 +1452,7 @@
    4496
   ],
   "jp": "[name:4]わたしを　おこらせるとは・・・[n]たたきつぶしてやる！！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You dare anger me...? I shall crush you!![wait][name:65535][end]"
  },
  {
   "id": "M4497",
@@ -1467,7 +1467,7 @@
    4497
   ],
   "jp": "[name:4]わかっていないようですね・・・[n]ホンキでいきますよ！！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]It seems you do not understand... I will not hold back!![wait][name:65535][end]"
  },
  {
   "id": "M4498",
@@ -1482,7 +1482,7 @@
    4498
   ],
   "jp": "[name:4]あったまきたーー！[n]ボク　ホントはつよいんだぞ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]That makes me SO mad! I'm actually really strong, you know![wait][name:65535][end]"
  },
  {
   "id": "M4499",
@@ -1497,7 +1497,7 @@
    4499
   ],
   "jp": "[name:4]ねぇ　みてみて！[n]これが　じつりょくってヤツよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey, look, look! This is what I can really do![wait][name:65535][end]"
  },
  {
   "id": "M4500",
@@ -1512,7 +1512,7 @@
    4500
   ],
   "jp": "[name:4]オマエ　おれをナメてんだろ？[n]ホンキだすから　かかってこい！！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You lookin' down on me? I'm gettin' serious, so bring it!![wait][name:65535][end]"
  },
  {
   "id": "M4501",
@@ -1527,7 +1527,7 @@
    4501
   ],
   "jp": "[name:4]もう　あそびは　ヤメ！[n]こっから　ホンキね！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Playtime's over! From here on, I'm serious![wait][name:65535][end]"
  },
  {
   "id": "M4502",
@@ -1542,7 +1542,7 @@
    4502
   ],
   "jp": "[name:4]コレデモ　クラエ！！！[n]ウォーッ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Eat this!!![n]Raaagh![wait][name:65535][end]"
  },
  {
   "id": "M4503",
@@ -1557,7 +1557,7 @@
    4503
   ],
   "jp": "[name:4]・・・！[n]（いかり　くるっている！！）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...![n](It's in a wild fury!!)[wait][name:65535][end]"
  },
  {
   "id": "M4504",
@@ -1572,7 +1572,7 @@
    4504
   ],
   "jp": "[name:4]すこしは　はんせい　するがいい！！！[n]コレで　どうだ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Reflect on your deeds a little!!! How about this![wait][name:65535][end]"
  },
  {
   "id": "M4505",
@@ -1587,7 +1587,7 @@
    4505
   ],
   "jp": "[name:4]そのまま　たおれてしまうがいいわ！！[n]ホラッ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Just fall down and stay down!! There![wait][name:65535][end]"
  },
  {
   "id": "M4506",
@@ -1602,7 +1602,7 @@
    4506
   ],
   "jp": "[name:4]たおれちゃいな！！　エイッ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Go down!! Hyaah![wait][name:65535][end]"
  },
  {
   "id": "M4507",
@@ -1617,7 +1617,7 @@
    4507
   ],
   "jp": "[name:4]けんこうっていいよね！[n]んじゃ　くるしいのはどうかな？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Being healthy is great, huh! So how about some pain?[wait][name:65535][end]"
  },
  {
   "id": "M4508",
@@ -1632,7 +1632,7 @@
    4508
   ],
   "jp": "[name:4]オレに　そんなくちをきいたバツだ！[n]くるしめ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]That's what you get for mouthing off to me! Suffer![wait][name:65535][end]"
  },
  {
   "id": "M4509",
@@ -1647,7 +1647,7 @@
    4509
   ],
   "jp": "[name:4]からだのちょうし　よさそうだけど[n]きょうでさいごね！　アハハ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You look like you're in good shape, but today's your last day! Ahaha![wait][name:65535][end]"
  },
  {
   "id": "M4510",
@@ -1662,7 +1662,7 @@
    4510
   ],
   "jp": "[name:4]オマエ　ヨワスギ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You... too weak...[wait][name:65535][end]"
  },
  {
   "id": "M4511",
@@ -1677,7 +1677,7 @@
    4511
   ],
   "jp": "[name:4]（へんじがない　けいけんぶそく？）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4](No answer. Not enough experience?)[wait][name:65535][end]"
  },
  {
   "id": "M4512",
@@ -1692,7 +1692,7 @@
    4512
   ],
   "jp": "[name:4]おまえのような　みじゅくものとは[n]はなしにならん！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I will not waste words on a greenhorn like you![wait][name:65535][end]"
  },
  {
   "id": "M4513",
@@ -1707,7 +1707,7 @@
    4513
   ],
   "jp": "[name:4]あなた・・・　じつりょくもないのに[n]わたしに　なんのようがあるのですか？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You... You have no real strength, so what business could you have with me?[wait][name:65535][end]"
  },
  {
   "id": "M4514",
@@ -1722,7 +1722,7 @@
    4514
   ],
   "jp": "[name:4]キミキミ！　まだよわいんだから[n]はなすことなんてないよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey, you! You're still weak, so we've got nothing to talk about![wait][name:65535][end]"
  },
  {
   "id": "M4515",
@@ -1737,7 +1737,7 @@
    4515
   ],
   "jp": "[name:4]そこの　ボクー♥[n]よわいくせに　はなしかけないでねー[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey there, little boy♥ You're weak, so don't talk to me, 'kay?[wait][name:65535][end]"
  },
  {
   "id": "M4516",
@@ -1752,7 +1752,7 @@
    4516
   ],
   "jp": "[name:4]オマエ　よわいんだから[n]そんなことしてるバアイじゃねーだろ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You're weak, so this ain't the time to be doin' that![wait][name:65535][end]"
  },
  {
   "id": "M4517",
@@ -1767,7 +1767,7 @@
    4517
   ],
   "jp": "[name:4]アタシ　よわいひとには[n]ゼンゼン　きょうみないの　ゴメンね♥[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I'm not interested in weaklings at all. Sorry♥[wait][name:65535][end]"
  },
  {
   "id": "M4518",
@@ -1782,7 +1782,7 @@
    4518
   ],
   "jp": "[name:4]ケイヤク　シタイナラ[n]〒[ec]　クレ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]If you want a contract,[n]give me 〒[ec]...[wait][name:65535][end]"
  },
  {
   "id": "M4519",
@@ -1797,7 +1797,7 @@
    4519
   ],
   "jp": "[name:4]・・・　〒[n]（〒[ec]　ほしがっているようだ）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]... 〒[n](It seems to want 〒[ec].)[wait][name:65535][end]"
  },
  {
   "id": "M4520",
@@ -1812,7 +1812,7 @@
    4520
   ],
   "jp": "[name:4]〒[ec]　ほど　だせば[n]はなしを　きいてやってもいいが・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hand over 〒[ec] and[n]maybe I'll hear you out...[wait][name:65535][end]"
  },
  {
   "id": "M4521",
@@ -1827,7 +1827,7 @@
    4521
   ],
   "jp": "[name:4]〒[ec]　いただけますか？[n]あなたの　きもちをみせていただきたい[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]May I have 〒[ec]?[n]I'd like to see your sincerity.[wait][name:65535][end]"
  },
  {
   "id": "M4522",
@@ -1842,7 +1842,7 @@
    4522
   ],
   "jp": "[name:4]ボク　おなかすいた・・・[wait][n]おやつ　かうから[clr]〒[ec]　ちょうだい[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I'm hungry...[wait][n]I wanna buy snacks,[clr]so gimme 〒[ec]![wait][name:65535][end]"
  },
  {
   "id": "M4523",
@@ -1857,7 +1857,7 @@
    4523
   ],
   "jp": "[name:4]ねえねえ[n]ほしい　アクセサリーがあるんだ・・・[wait][clr]〒[ec]　くれたら[clr]かえるんだけど・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey, hey...[n]There's an accessory I really want...[wait][clr][n]If you give me 〒[ec],[clr]I could buy it...[wait][name:65535][end]"
  },
  {
   "id": "M4524",
@@ -1872,7 +1872,7 @@
    4524
   ],
   "jp": "[name:4]おい！　ちょっとまった！[wait][n]〒[ec][clr]くれたら　はなし　きいてやるぜ？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey! Hold it right there![wait][n]Gimme 〒[ec][clr]and I'll hear you out, got it?[wait][name:65535][end]"
  },
  {
   "id": "M4525",
@@ -1887,7 +1887,7 @@
    4525
   ],
   "jp": "[name:4]あのさー・・・[wait][n]〒[ec][clr]で　イイコト　してあげるけど・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Sooo...[wait][n]For 〒[ec],[clr]I'll do something nice for you...[wait][name:65535][end]"
  },
  {
   "id": "M4526",
@@ -1902,7 +1902,7 @@
    4526
   ],
   "jp": "[name:4]？？[n]タリナイ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]??[n]Not enough...[wait][name:65535][end]"
  },
  {
   "id": "M4527",
@@ -1917,7 +1917,7 @@
    4527
   ],
   "jp": "[name:4]・・・[n]（あれ？　たりなかった・・・）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](Huh? It wasn't enough...)[wait][name:65535][end]"
  },
  {
   "id": "M4528",
@@ -1932,7 +1932,7 @@
    4528
   ],
   "jp": "[name:4]たりんではないか・・・[n]ふざけるにも　ほどがあるぞ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]That is not enough... You jest too far![wait][name:65535][end]"
  },
  {
   "id": "M4529",
@@ -1947,7 +1947,7 @@
    4529
   ],
   "jp": "[name:4]あなたは[n]さいていな　ひとですね・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You are a truly awful person...[wait][name:65535][end]"
  },
  {
   "id": "M4530",
@@ -1962,7 +1962,7 @@
    4530
   ],
   "jp": "[name:4]たりないじゃないか！[n]ダメダメ！！[wait][end]",
-  "en": ""
+  "en": "[name:4]That's not enough! No good, no good!![wait][end]"
  },
  {
   "id": "M4531",
@@ -1977,7 +1977,7 @@
    4531
   ],
   "jp": "[name:4]たりないよ？[n]あーあ　ガッカリ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]That's not enough, y'know? Aww, what a letdown![wait][name:65535][end]"
  },
  {
   "id": "M4532",
@@ -1992,7 +1992,7 @@
    4532
   ],
   "jp": "[name:4]なんだそりゃ？[n]もってねーんだろ？　このウソツキが！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]What's that supposed to be? You don't have it, do you? You liar![wait][name:65535][end]"
  },
  {
   "id": "M4533",
@@ -2007,7 +2007,7 @@
    4533
   ],
   "jp": "[name:4]ねえ　ちょっと！[n]みんな　みた？[wait][clr]このひと[clr]アタシを　だまそうとしてた！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey, wait a sec! Did you all see that?[wait][clr]This guy[clr]was trying to trick me![wait][name:65535][end]"
  },
  {
   "id": "M4534",
@@ -2022,7 +2022,7 @@
    4534
   ],
   "jp": "[name:4]オマエ・・・[n]シンヨウデキソウ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You...[n]Me trust you, maybe.[wait][name:65535][end]"
  },
  {
   "id": "M4535",
@@ -2037,7 +2037,7 @@
    4535
   ],
   "jp": "[name:4]・・・[n]（ケイヤクしてくれそう・・・）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](Looks like it might make a contract...)[wait][name:65535][end]"
  },
  {
   "id": "M4536",
@@ -2052,7 +2052,7 @@
    4536
   ],
   "jp": "[name:4]ケイヤクか？[n]いいだろう[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]A contract, is it? Very well.[wait][name:65535][end]"
  },
  {
   "id": "M4537",
@@ -2067,7 +2067,7 @@
    4537
   ],
   "jp": "[name:4]あなたの　きもちは[n]わかりました・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I understand how you feel...[wait][name:65535][end]"
  },
  {
   "id": "M4538",
@@ -2082,7 +2082,7 @@
    4538
   ],
   "jp": "[name:4]やったー！[n]ケイヤク？　もちろん！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Yay! A contract? Of course![wait][name:65535][end]"
  },
  {
   "id": "M4539",
@@ -2097,7 +2097,7 @@
    4539
   ],
   "jp": "[name:4]ホント？　ウレシー！[n]なんでもいうこときいちゃう！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Really? Yay! I'll do anything you say![wait][name:65535][end]"
  },
  {
   "id": "M4540",
@@ -2112,7 +2112,7 @@
    4540
   ],
   "jp": "[name:4]サンキュー！[n]いやー　ひさしぶりにメシがくえるぜ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Thanks! Man, I finally get to eat a real meal![wait][name:65535][end]"
  },
  {
   "id": "M4541",
@@ -2127,7 +2127,7 @@
    4541
   ],
   "jp": "[name:4]ウフフ・・・[n]なにしてほしい？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Ufufu... What do you want me to do?[wait][name:65535][end]"
  },
  {
   "id": "M4542",
@@ -2142,7 +2142,7 @@
    4542
   ],
   "jp": "[name:4]ハナシニ　ナラン・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Not worth talking...[wait][name:65535][end]"
  },
  {
   "id": "M4543",
@@ -2157,7 +2157,7 @@
    4543
   ],
   "jp": "[name:4]・・・[n]（ガッカリしてるようだ・・・）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](It looks disappointed...)[wait][name:65535][end]"
  },
  {
   "id": "M4544",
@@ -2172,7 +2172,7 @@
    4544
   ],
   "jp": "[name:4]では　はなしは　ナシだ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Then there is nothing more to discuss.[wait][name:65535][end]"
  },
  {
   "id": "M4545",
@@ -2187,7 +2187,7 @@
    4545
   ],
   "jp": "[name:4]あなたは[n]そのていどのひとだったのですね・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]So that is the kind of person you were...[wait][name:65535][end]"
  },
  {
   "id": "M4546",
@@ -2202,7 +2202,7 @@
    4546
   ],
   "jp": "[name:4]エーーッ！[n]ケチーーッ！　もうしんないよ！！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Whaaat?! Cheapskate! I'm not talking to you anymore!![wait][name:65535][end]"
  },
  {
   "id": "M4547",
@@ -2217,7 +2217,7 @@
    4547
   ],
   "jp": "[name:4]ウェーン！！[n]きたいして　ソンしたー！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Waaah!! I got my hopes up for nothing![wait][name:65535][end]"
  },
  {
   "id": "M4548",
@@ -2232,7 +2232,7 @@
    4548
   ],
   "jp": "[name:4]もってんなら[n]だせよ！　このヤロー！！！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]If you got it, then hand it over! You jerk!!![wait][name:65535][end]"
  },
  {
   "id": "M4549",
@@ -2247,7 +2247,7 @@
    4549
   ],
   "jp": "[name:4]アタシは　べつに　いいんだけどー[n]こまるのは　アンタだしー[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I mean, it's no skin off my back~ You're the one who's in trouble~[wait][name:65535][end]"
  },
  {
   "id": "M4550",
@@ -2262,7 +2262,7 @@
    4550
   ],
   "jp": "[name:4][f4]　[ec]コ[n]クイタイ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4][f4] x[ec]...[n]Wanna eat...[wait][name:65535][end]"
  },
  {
   "id": "M4551",
@@ -2277,7 +2277,7 @@
    4551
   ],
   "jp": "[name:4]・・・？（[f4]　[ec]こ[n]ほしがっているようだ）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...? ([f4] x[ec][n]seems to be what it wants.)[wait][name:65535][end]"
  },
  {
   "id": "M4552",
@@ -2292,7 +2292,7 @@
    4552
   ],
   "jp": "[name:4][f4]　を　[ec]こ[n]くれれば　はなしだけならきくが・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Give me [f4] x[ec][n]and I might at least listen...[wait][name:65535][end]"
  },
  {
   "id": "M4553",
@@ -2307,7 +2307,7 @@
    4553
   ],
   "jp": "[name:4][f4]　を　[ec]こ[n]いただけますか？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Might I have [f4] x[ec],[n]please?[wait][name:65535][end]"
  },
  {
   "id": "M4554",
@@ -2322,7 +2322,7 @@
    4554
   ],
   "jp": "[name:4][f4]　[ec]こ[n]ちょうだい？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4][f4] x[ec],[n]pretty please?[wait][name:65535][end]"
  },
  {
   "id": "M4555",
@@ -2337,7 +2337,7 @@
    4555
   ],
   "jp": "[name:4]あのねー　[f4]　[ec]コ[n]ちょーだい？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Um, hey... [f4] x[ec],[n]gimme, 'kay?[wait][name:65535][end]"
  },
  {
   "id": "M4556",
@@ -2352,7 +2352,7 @@
    4556
   ],
   "jp": "[name:4]あのさ　[f4]　[ec]こ[n]くれよ？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey, gimme [f4] x[ec],[n]will ya?[wait][name:65535][end]"
  },
  {
   "id": "M4557",
@@ -2367,7 +2367,7 @@
    4557
   ],
   "jp": "[name:4]あのさぁ　[f4][ec]コ[n]くれないかなぁ？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Sooo... [f4] x[ec]...[n]won't you give me some?[wait][name:65535][end]"
  },
  {
   "id": "M4558",
@@ -2382,7 +2382,7 @@
    4558
   ],
   "jp": "[name:4]ハラヘッタ・・・[n]オマエ　ツメタイヤツ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Me hungry...[n]You cold, mean one...[wait][name:65535][end]"
  },
  {
   "id": "M4559",
@@ -2397,7 +2397,7 @@
    4559
   ],
   "jp": "[name:4]・・・[n]（こちらを　にらんでいる・・・）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](It's glaring at you...)[wait][name:65535][end]"
  },
  {
   "id": "M4560",
@@ -2412,7 +2412,7 @@
    4560
   ],
   "jp": "[name:4]ならば　こうしょうは　けつれつだな[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Then our negotiations have failed.[wait][name:65535][end]"
  },
  {
   "id": "M4561",
@@ -2427,7 +2427,7 @@
    4561
   ],
   "jp": "[name:4]なるほど[n]なんとも　ケチなひとですね・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I see. What a stingy person you are...[wait][name:65535][end]"
  },
  {
   "id": "M4562",
@@ -2442,7 +2442,7 @@
    4562
   ],
   "jp": "[name:4]ウソ！？　しんじらんない！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]No way?! I can't believe it![wait][name:65535][end]"
  },
  {
   "id": "M4563",
@@ -2457,7 +2457,7 @@
    4563
   ],
   "jp": "[name:4]あれ？[n]あなたって　そういうひとなんだぁ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Huh? So that's the kind of person you are...[wait][name:65535][end]"
  },
  {
   "id": "M4564",
@@ -2472,7 +2472,7 @@
    4564
   ],
   "jp": "[name:4]ふざけんな！[n]すなおに　わたせよ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Quit messin' around! Just hand it over![wait][name:65535][end]"
  },
  {
   "id": "M4565",
@@ -2487,7 +2487,7 @@
    4565
   ],
   "jp": "[name:4]マジでぇ！？[n]ちょっと　ひどくない？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Seriously?! Isn't that kinda mean?[wait][name:65535][end]"
  },
  {
   "id": "M4566",
@@ -2502,7 +2502,7 @@
    4566
   ],
   "jp": "[name:4]？？[n]ウソツキ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]??[n]Liar...[wait][name:65535][end]"
  },
  {
   "id": "M4567",
@@ -2517,7 +2517,7 @@
    4567
   ],
   "jp": "[name:4]・・・[n]（あれ？　たりなかった・・・）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](Huh? It wasn't enough...)[wait][name:65535][end]"
  },
  {
   "id": "M4568",
@@ -2532,7 +2532,7 @@
    4568
   ],
   "jp": "[name:4]・・・わたしをバカにしているのか？[n]ふざけるな！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...Are you making a fool of me? Do not toy with me![wait][name:65535][end]"
  },
  {
   "id": "M4569",
@@ -2547,7 +2547,7 @@
    4569
   ],
   "jp": "[name:4]あなたを　すこしでもしんじてしまった[n]わたしが　おろかでした・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I was a fool to believe in you, even a little...[wait][name:65535][end]"
  },
  {
   "id": "M4570",
@@ -2562,7 +2562,7 @@
    4570
   ],
   "jp": "[name:4]たりないみたいだね・・・[n]ガッカリだよ！！[wait][end]",
-  "en": ""
+  "en": "[name:4]Looks like it's not enough... What a letdown!![wait][end]"
  },
  {
   "id": "M4571",
@@ -2577,7 +2577,7 @@
    4571
   ],
   "jp": "[name:4]えー？　たりないじゃない！[n]そんなことしてたら　キラわれるよ？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey? That's not enough! Keep that up and people won't like you, y'know?[wait][name:65535][end]"
  },
  {
   "id": "M4572",
@@ -2592,7 +2592,7 @@
    4572
   ],
   "jp": "[name:4]アレ？　これだけ？[n]オレのいったこと　きいてた？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Huh? This is it? Were you even listenin' to me?[wait][name:65535][end]"
  },
  {
   "id": "M4573",
@@ -2607,7 +2607,7 @@
    4573
   ],
   "jp": "[name:4]アンタ・・・[n]アタシをなめてんじゃないの？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hey you... Are you messing with me?[wait][name:65535][end]"
  },
  {
   "id": "M4574",
@@ -2622,7 +2622,7 @@
    4574
   ],
   "jp": "[name:4]オマエ・・・[n]シンヨウデキソウ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You...[n]Me trust you, maybe.[wait][name:65535][end]"
  },
  {
   "id": "M4575",
@@ -2637,7 +2637,7 @@
    4575
   ],
   "jp": "[name:4]・・・[n]（ケイヤクしてくれそう・・・）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](Looks like it might make a contract...)[wait][name:65535][end]"
  },
  {
   "id": "M4576",
@@ -2652,7 +2652,7 @@
    4576
   ],
   "jp": "[name:4]ケイヤクか？[n]いいだろう[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]A contract, is it? Very well.[wait][name:65535][end]"
  },
  {
   "id": "M4577",
@@ -2667,7 +2667,7 @@
    4577
   ],
   "jp": "[name:4]あなたの　きもちは[n]わかりました・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I understand how you feel...[wait][name:65535][end]"
  },
  {
   "id": "M4578",
@@ -2682,7 +2682,7 @@
    4578
   ],
   "jp": "[name:4]やったー！[n]ケイヤク？　もちろん！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Yay! A contract? Of course![wait][name:65535][end]"
  },
  {
   "id": "M4579",
@@ -2697,7 +2697,7 @@
    4579
   ],
   "jp": "[name:4]ホント？　ウレシー！[n]なんでもいうこときいちゃう！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Really? Yay! I'll do anything you say![wait][name:65535][end]"
  },
  {
   "id": "M4580",
@@ -2712,7 +2712,7 @@
    4580
   ],
   "jp": "[name:4]サンキュー！[n]いやー　ひさしぶりにメシがくえるぜ！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Thanks! Man, I finally get to eat a real meal![wait][name:65535][end]"
  },
  {
   "id": "M4581",
@@ -2727,7 +2727,7 @@
    4581
   ],
   "jp": "[name:4]ウフフ・・・[n]なにしてほしい？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Ufufu... What do you want me to do?[wait][name:65535][end]"
  },
  {
   "id": "M4582",
@@ -2742,7 +2742,7 @@
    4582
   ],
   "jp": "[name:4][f1]　ガ　イナケレバ[n]ケイヤクシテモイイガ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]If no [f1] here...[n]me make contract, but...[wait][name:65535][end]"
  },
  {
   "id": "M4583",
@@ -2757,7 +2757,7 @@
    4583
   ],
   "jp": "[name:4]・・・[n]（[f1]がキライみたいだ）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...[n](Looks like it doesn't like [f1].)[wait][name:65535][end]"
  },
  {
   "id": "M4584",
@@ -2772,7 +2772,7 @@
    4584
   ],
   "jp": "[name:4][f1]　が　いるとは！[n]そいつをなんとかしてくれんか・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]You have [f1] with you?! Do something about that one, would you...[wait][name:65535][end]"
  },
  {
   "id": "M4585",
@@ -2787,7 +2787,7 @@
    4585
   ],
   "jp": "[name:4][f1]さんが　コワイかおで[n]わたしをにらんでますけど・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Um, [f1] is glaring at me with a scary face...[wait][name:65535][end]"
  },
  {
   "id": "M4586",
@@ -2802,7 +2802,7 @@
    4586
   ],
   "jp": "[name:4]じつはさぁ　[f1][n]って　キライなんだよなぁ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]To be honest, I really don't like [f1]...[wait][name:65535][end]"
  },
  {
   "id": "M4587",
@@ -2817,7 +2817,7 @@
    4587
   ],
   "jp": "[name:4]あれ？　[f1]がいる！[n]あいつがいなかったらね・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Huh? [f1] is here! If only that one wasn't around...[wait][name:65535][end]"
  },
  {
   "id": "M4588",
@@ -2832,7 +2832,7 @@
    4588
   ],
   "jp": "[name:4][f1]だな！　コノヤロー！[n]アイツといっしょには　なれねえな[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]That's [f1]! Why, you...! I ain't teamin' up with that one![wait][name:65535][end]"
  },
  {
   "id": "M4589",
@@ -2847,7 +2847,7 @@
    4589
   ],
   "jp": "[name:4]アタシ　[f1]　ダメなんだ[n]アイツとアタシだったらどっちをとる？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I just can't stand [f1]. So who's it gonna be, that one or me?[wait][name:65535][end]"
  },
  {
   "id": "M4590",
@@ -2862,7 +2862,7 @@
    4590
   ],
   "jp": "[name:4]オマエ　ナゼ　タタカウ[n]デビル　キライカ？[wait][end]",
-  "en": ""
+  "en": "[name:4]Why you fight? You hate demons?[wait][end]"
  },
  {
   "id": "M4591",
@@ -2877,7 +2877,7 @@
    4591
   ],
   "jp": "[name:4]（にらまれてるみたい・・・[n]　にらみかえす？）[wait][end]",
-  "en": ""
+  "en": "[name:4](It seems to be glaring at you... Glare back?)[wait][end]"
  },
  {
   "id": "M4592",
@@ -2892,7 +2892,7 @@
    4592
   ],
   "jp": "[name:4]もしや　おまえがウワサの[n]デビルチルドレンか？[wait][end]",
-  "en": ""
+  "en": "[name:4]Could it be... Are you the DemiKid I have heard so much about?[wait][end]"
  },
  {
   "id": "M4593",
@@ -2907,7 +2907,7 @@
    4593
   ],
   "jp": "[name:4]わたしって　きれいかしら？[n]むしろ　かわいい？[wait][end]",
-  "en": ""
+  "en": "[name:4]Tell me, am I beautiful? Or rather, cute?[wait][end]"
  },
  {
   "id": "M4594",
@@ -2922,7 +2922,7 @@
    4594
   ],
   "jp": "[name:4]ケイヤク？[n]それって　たのしい？[wait][end]",
-  "en": ""
+  "en": "[name:4]A contract? Is that fun?[wait][end]"
  },
  {
   "id": "M4595",
@@ -2937,7 +2937,7 @@
    4595
   ],
   "jp": "[name:4]なんか　ゲンキないみたいね[n]もしかして　つかれてるとか？[end]",
-  "en": ""
+  "en": "[name:4]You look kinda down...[n]Are you tired or something?[end]"
  },
  {
   "id": "M4596",
@@ -2952,7 +2952,7 @@
    4596
   ],
   "jp": "[name:4]オマエもオトコだろ[n]オトコってツライよな！　なあ？[wait][end]",
-  "en": ""
+  "en": "[name:4]You're a guy too, right? Bein' a guy is tough, huh? Right?[wait][end]"
  },
  {
   "id": "M4597",
@@ -2967,7 +2967,7 @@
    4597
   ],
   "jp": "[name:4]アタシさー　いま　ヒマなんだよね[n]アンタ　ヒマ？[wait][end]",
-  "en": ""
+  "en": "[name:4]So, like, I'm totally bored right now. Are you bored?[wait][end]"
  },
  {
   "id": "M4598",
@@ -2982,7 +2982,7 @@
    4598
   ],
   "jp": "[name:4]オレ　ニク　ダイスキ！[n]オマエ　ニク　スキ？[wait][end]",
-  "en": ""
+  "en": "[name:4]Me love meat! You like meat?[wait][end]"
  },
  {
   "id": "M4599",
@@ -2997,6 +2997,6 @@
    4599
   ],
   "jp": "[name:4]（たのしいようだ・・・[n]　ちかよってみる？）[wait][end]",
-  "en": ""
+  "en": "[name:4](It seems to be having fun... Go closer?)[wait][end]"
  }
 ]

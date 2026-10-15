@@ -12,7 +12,7 @@
    2000
   ],
   "jp": "キャンセルしました[wait][end]",
-  "en": ""
+  "en": "Canceled.[wait][end]"
  },
  {
   "id": "M2001",
@@ -27,7 +27,7 @@
    2001
   ],
   "jp": "キャンセルされました[wait][end]",
-  "en": ""
+  "en": "Canceled.[wait][end]"
  },
  {
   "id": "M2002",
@@ -42,7 +42,7 @@
    2002
   ],
   "jp": "このナカマでいいですか？[fb:0][end]",
-  "en": ""
+  "en": "Is this ally okay?[fb:0][end]"
  },
  {
   "id": "M2003",
@@ -57,7 +57,7 @@
    2003
   ],
   "jp": "こうかんしました[wait][end]",
-  "en": ""
+  "en": "Trade complete.[wait][end]"
  },
  {
   "id": "M2004",
@@ -72,7 +72,7 @@
    2004
   ],
   "jp": "セーブ中[wait][end]",
-  "en": ""
+  "en": "Saving...[wait][end]"
  },
  {
   "id": "M2005",
@@ -87,7 +87,7 @@
    2005
   ],
   "jp": "この組み合わせは合体できません[wait][end]",
-  "en": ""
+  "en": "This combination can't be fused.[wait][end]"
  },
  {
   "id": "M2006",
@@ -102,7 +102,7 @@
    2006
   ],
   "jp": "このとくしゅのうりょくを[n]イデンしますか？[fb:0][end]",
-  "en": ""
+  "en": "Inherit this special ability?[fb:0][end]"
  },
  {
   "id": "M2007",
@@ -117,7 +117,7 @@
    2007
   ],
   "jp": "合体の説明をききますか？[fb:1][end]",
-  "en": ""
+  "en": "Hear an explanation of fusion?[fb:1][end]"
  },
  {
   "id": "M2008",
@@ -132,7 +132,7 @@
    2008
   ],
   "jp": "ここでの「合体」は２体のナカマから[n]１体のナカマを作ることができます[wait][clr]では　ためしてみましょう[wait][end]",
-  "en": ""
+  "en": "\"Fusion\" here lets you make one ally out of two allies.[wait][clr]Now, let's give it a try.[wait][end]"
  },
  {
   "id": "M2009",
@@ -147,7 +147,7 @@
    2009
   ],
   "jp": "まず　合体する２体のナカマを[n]えらびます[wait][page]ここでは表からえらんでみます[wait][end]",
-  "en": ""
+  "en": "First, choose the two allies to fuse.[wait][page]This time, we'll choose them from the chart.[wait][end]"
  },
  {
   "id": "M2010",
@@ -162,7 +162,7 @@
    2010
   ],
   "jp": "まず画面の説明をします[wait][end]",
-  "en": ""
+  "en": "First, I'll explain the screen.[wait][end]"
  },
  {
   "id": "M2011",
@@ -177,7 +177,7 @@
    2011
   ],
   "jp": "左にはナカマの名前があります[n]この中から１体目のナカマを[wait][clr]十字ボタンの上下でえらんでください[wait][end]",
-  "en": ""
+  "en": "The allies' names are on the left. Choose the first ally from among them[wait][clr]with Up and Down on the Control Pad.[wait][end]"
  },
  {
   "id": "M2012",
@@ -192,7 +192,7 @@
    2012
   ],
   "jp": "ここの数字は左のナカマを[n]さしています[wait][page]この中から２体目のナカマを[n]十字ボタンの左右でえらんでください[wait][end]",
-  "en": ""
+  "en": "The numbers here refer to the allies on the left.[wait][page]Choose the second ally from among them with Left and Right on the Control Pad.[wait][end]"
  },
  {
   "id": "M2013",
@@ -207,7 +207,7 @@
    2013
   ],
   "jp": "ここは合体の結果予想が表示されます[n]通常は[f7:3]緑色[f7:1]で表示されますが[wait][page]合体事故がおこるかもしれない[n]組み合わせは[f7:6]水色[f7:1]で表示されます[wait][end]",
-  "en": ""
+  "en": "This shows the predicted result of the fusion. It's normally shown in [f7:3]green[f7:1],[wait][page]but combinations that might cause a fusion accident are shown in [f7:6]light blue[f7:1].[wait][end]"
  },
  {
   "id": "M2014",
@@ -222,7 +222,7 @@
    2014
   ],
   "jp": "ここで合体する２体のナカマを[n]えらびます[wait][page]×は合体できません[n]○は合体できます[wait][page]◎は合体事故がおこるかもしれない[n]組み合わせです[wait][page]十字ボタンでえらびＡボタンで決定です[wait][page]えらんでいるときに[n]Ｒボタンで１体目　Ｌボタンで２体目[wait][clr]スタートボタンで結果予想ナカマの[wait][clr]ステータスを表示します[wait][end]",
-  "en": ""
+  "en": "Here you choose the two allies to fuse.[wait][page]An X means they can't be fused. An O means they can.[wait][page]A double circle means the combination might cause a fusion accident.[wait][page]Choose with the Control Pad and confirm with the A Button.[wait][page]While choosing, press the R Button for the first ally, the L Button for the second,[wait][clr]or the Start Button to show the status[wait][clr]of the predicted ally.[wait][end]"
  },
  {
   "id": "M2015",
@@ -237,7 +237,7 @@
    2015
   ],
   "jp": "では　この組み合わせで合体します[wait][end]",
-  "en": ""
+  "en": "Now, let's fuse this combination.[wait][end]"
  },
  {
   "id": "M2016",
@@ -252,7 +252,7 @@
    2016
   ],
   "jp": "ここで合体結果のかくにんができます[wait][end]",
-  "en": ""
+  "en": "Here you can check the fusion result.[wait][end]"
  },
  {
   "id": "M2017",
@@ -267,7 +267,7 @@
    2017
   ],
   "jp": "[e8]ができましたが[n]たまに合体事故がおきることが[wait][page]あります　合体事故がおきると[n]種族がミュートのデビルがうまれます[wait][page]それからこのあとマホウを最大３つまで[n]けいしょうできます[wait][page]さらに１体目のとくしゅのうりょくを[n]イデンさせることができます[wait][page]１体目のとくしゅのうりょくがなく[n]２体目がもっていれば[wait][page]２体目のとくしゅのうりょくを[n]イデンすることができます[wait][end]",
-  "en": ""
+  "en": "[e8] has been created, but once in a while, a fusion accident[wait][page]can happen. When one does, a demon of the Mute race is born.[wait][page]After this, it can inherit up to three spells.[wait][page]It can also inherit the first ally's special ability.[wait][page]If the first ally has no special ability but the second one does,[wait][page]it can inherit the second ally's special ability.[wait][end]"
  },
  {
   "id": "M2018",
@@ -282,7 +282,7 @@
    2018
   ],
   "jp": "デビルは[n][e8]でいいですか？[fb:0][end]",
-  "en": ""
+  "en": "The demon will be [e8]. Is that okay?[fb:0][end]"
  },
  {
   "id": "M2019",
@@ -297,7 +297,7 @@
    2019
   ],
   "jp": "ここで合体結果のかくにんができるアル[wait][end]",
-  "en": ""
+  "en": "Here you can check the fusion result, yes![wait][end]"
  },
  {
   "id": "M2020",
@@ -312,7 +312,7 @@
    2020
   ],
   "jp": "左にはナカマの名前がアルネ[n]この中から１体目のナカマを[wait][clr]十字ボタンの上下でえらぶアルヨ[wait][end]",
-  "en": ""
+  "en": "The allies' names are on the left, yes. Choose the first ally from among them[wait][clr]with Up and Down on the Control Pad, yes![wait][end]"
  },
  {
   "id": "M2021",
@@ -327,7 +327,7 @@
    2021
   ],
   "jp": "それから　パートナーは[n]特別な合体です[wait][clr]パートナーはどのナカマと合体しても[wait][clr]強くはなるがパートナーのままです[wait][end]",
-  "en": ""
+  "en": "Also, your partner is a special fusion.[wait][clr]No matter which ally your partner fuses with,[wait][clr]it gets stronger but stays your partner.[wait][end]"
  },
  {
   "id": "M2022",
@@ -342,7 +342,7 @@
    2022
   ],
   "jp": "ここは合体の結果予想が表示されるアル[wait][page]純血合体は[f7:5]黄色[f7:1]で表示されるアル[n]混血合体は[f7:6]水色[f7:1]で表示されるアルヨ[wait][end]",
-  "en": ""
+  "en": "This shows the predicted fusion result, yes.[wait][page]Pure-blood fusions show in [f7:5]yellow[f7:1], mixed-blood fusions show in [f7:6]light blue[f7:1], yes![wait][end]"
  },
  {
   "id": "M2023",
@@ -357,7 +357,7 @@
    2023
   ],
   "jp": "ここで合体する２体のナカマを[n]えらぶアル[wait][page]×は合体できないネ[n]○は合体するアル[wait][page]十字ボタンでえらびＡボタンで決定アル[wait][page]えらんでいるときに[n]Ｒボタンで１体目　Ｌボタンで２体目[wait][clr]スタートボタンで結果予想ナカマの[wait][clr]ステータスを表示するアルネ[wait][end]",
-  "en": ""
+  "en": "Here you choose the two allies to fuse, yes.[wait][page]An X means no fusion, yes. An O means fusion, yes![wait][page]Choose with the Control Pad, confirm with the A Button, yes.[wait][page]While choosing, press the R Button for the first ally, the L Button for the second,[wait][clr]or the Start Button to show the status[wait][clr]of the predicted ally, yes![wait][end]"
  },
  {
   "id": "M2024",
@@ -372,7 +372,7 @@
    2024
   ],
   "jp": "[e8]ができたアルヨ[wait][page]このあとマホウを最大３つまで[n]けいしょうできるアル[wait][page]さらに１体目のとくしゅのうりょくを[n]イデンさせることができるアルネ[wait][page]１体目のとくしゅのうりょくがなく[n]２体目がもっていれば[wait][page]２体目のとくしゅのうりょくを[n]イデンすることができるアルヨ[wait][end]",
-  "en": ""
+  "en": "[e8] is done, yes![wait][page]After this, it can inherit up to three spells, yes.[wait][page]It can also inherit the first ally's special ability, yes.[wait][page]If the first ally has no special ability but the second one does,[wait][page]it can inherit the second ally's special ability, yes![wait][end]"
  },
  {
   "id": "M2025",
@@ -387,7 +387,7 @@
    2025
   ],
   "jp": "純血合体[n]混血合体[end]",
-  "en": ""
+  "en": "Pure-Blood Fusion[n]Mixed-Blood Fusion[end]"
  },
  {
   "id": "M2026",
@@ -402,7 +402,7 @@
    2026
   ],
   "jp": "「純血合体」は同じ２体のナカマを[n]合体してナカマを強くしたり[wait][clr]ランクアップさせることができるネ[wait][clr]では　ためしてみるアルヨ[wait][end]",
-  "en": ""
+  "en": "\"Pure-Blood Fusion\" fuses two of the same ally to make it stronger[wait][clr]or make it rank up, yes.[wait][clr]Now, let's give it a try, yes![wait][end]"
  },
  {
   "id": "M2027",
@@ -417,7 +417,7 @@
    2027
   ],
   "jp": "「混血合体」は違う２体のナカマを[n]合体してナカマを強くしたり[wait][clr]１体目と同じ種族のナカマに[wait][clr]ランクアップさせることができるアル[wait][clr]では　ためしてみるアルネ[wait][end]",
-  "en": ""
+  "en": "\"Mixed-Blood Fusion\" fuses two different allies to make an ally stronger[wait][clr]or rank it up into an ally[wait][clr]of the same race as the first one, yes.[wait][clr]Now, let's give it a try, yes![wait][end]"
  },
  {
   "id": "M2028",
@@ -432,7 +432,7 @@
    2028
   ],
   "jp": "では　純血合体なので同じデビルの[n]組み合わせで合体するアル[wait][end]",
-  "en": ""
+  "en": "Now, since this is pure-blood fusion, we fuse two of the same demon, yes.[wait][end]"
  },
  {
   "id": "M2029",
@@ -447,7 +447,7 @@
    2029
   ],
   "jp": "では　混血合体なので違うデビルの[n]組み合わせで合体するアル[wait][end]",
-  "en": ""
+  "en": "Now, since this is mixed-blood fusion, we fuse two different demons, yes.[wait][end]"
  },
  {
   "id": "M2030",
@@ -462,7 +462,7 @@
    2030
   ],
   "jp": "[e8]ができたアルヨ[wait][page]このあとマホウ・ワザをおぼえる[n]場合がアルネ[wait][page]またランクアップ時には[n]１体目のとくしゅのうりょくを[wait][clr]イデンすることができるアル[wait][page]１体目のとくしゅのうりょくがなく[n]２体目がもっていれば[wait][page]２体目のとくしゅのうりょくを[n]イデンすることができるアルヨ[wait][end]",
-  "en": ""
+  "en": "[e8] is done, yes![wait][page]After this, it may learn spells or skills, yes.[wait][page]Also, when it ranks up, it can inherit[wait][clr]the first ally's special ability, yes.[wait][page]If the first ally has no special ability but the second one does,[wait][page]it can inherit the second ally's special ability, yes![wait][end]"
  },
  {
   "id": "M2031",
@@ -477,7 +477,7 @@
    2031
   ],
   "jp": "それから　パートナーは[n]特別な合体アルヨ[wait][clr]パートナーはどのナカマと合体しても[wait][clr]強くはなるがパートナーのままアルヨ[wait][end]",
-  "en": ""
+  "en": "Also, your partner is a special fusion, yes.[wait][clr]No matter which ally your partner fuses with,[wait][clr]it gets stronger but stays your partner, yes![wait][end]"
  },
  {
   "id": "M2032",
@@ -492,7 +492,7 @@
    2032
   ],
   "jp": "ここの数字は左のナカマを[n]さしてるアルヨ[wait][page]この中から２体目のナカマを[n]十字ボタンの左右でえらぶアルヨ[wait][end]",
-  "en": ""
+  "en": "The numbers here refer to the allies on the left, yes.[wait][page]Choose the second ally from among them with Left and Right on the Control Pad, yes![wait][end]"
  },
  {
   "id": "M2033",
@@ -507,7 +507,7 @@
    2033
   ],
   "jp": "ここでの合体は[n]「マソウ合体」といいます[wait][page]ナカマとマソウアイテムを合体して[n]ワザを覚えることができます[wait][end]",
-  "en": ""
+  "en": "The fusion here is called \"Arcane Fusion.\"[wait][page]You fuse an ally with an Arcane Item so it can learn a skill.[wait][end]"
  },
  {
   "id": "M2034",
@@ -522,7 +522,7 @@
    2034
   ],
   "jp": "まずナカマを選びます[wait][end]",
-  "en": ""
+  "en": "First, choose an ally.[wait][end]"
  },
  {
   "id": "M2035",
@@ -537,7 +537,7 @@
    2035
   ],
   "jp": "[e8]にします[wait][end]",
-  "en": ""
+  "en": "We'll go with [e8].[wait][end]"
  },
  {
   "id": "M2036",
@@ -552,7 +552,7 @@
    2036
   ],
   "jp": "次にマソウアイテムを選びます[wait][end]",
-  "en": ""
+  "en": "Next, choose an Arcane Item.[wait][end]"
  },
  {
   "id": "M2037",
@@ -567,7 +567,7 @@
    2037
   ],
   "jp": "[f4]にします[wait][end]",
-  "en": ""
+  "en": "We'll go with [f4].[wait][end]"
  },
  {
   "id": "M2038",
@@ -582,7 +582,7 @@
    2038
   ],
   "jp": "では合体します[wait][end]",
-  "en": ""
+  "en": "Now, let's fuse.[wait][end]"
  },
  {
   "id": "M2039",
@@ -597,7 +597,7 @@
    2039
   ],
   "jp": "このときマホウ・ワザが[n]これ以上もてないなら[wait][clr]マホウ・ワザを１つけします[wait][end]",
-  "en": ""
+  "en": "If it can't hold any more spells or skills,[wait][clr]one spell or skill gets erased.[wait][end]"
  },
  {
   "id": "M2040",
@@ -612,7 +612,7 @@
    2040
   ],
   "jp": "デビルの反対の属性の[n]ワザは覚えられません[wait][end]",
-  "en": ""
+  "en": "A demon can't learn skills of the opposite alignment.[wait][end]"
  },
  {
   "id": "M2041",
@@ -627,7 +627,7 @@
    2041
   ],
   "jp": "このワザは　すでにもっています[wait][end]",
-  "en": ""
+  "en": "It already has this skill.[wait][end]"
  },
  {
   "id": "M2042",
@@ -672,7 +672,7 @@
    2044
   ],
   "jp": "終了します　いいですか？[fb:1][end]",
-  "en": ""
+  "en": "End here. Is that okay?[fb:1][end]"
  },
  {
   "id": "M2045",
@@ -687,7 +687,7 @@
    2045
   ],
   "jp": "これでいいですか？[fb:0][end]",
-  "en": ""
+  "en": "Is this okay?[fb:0][end]"
  },
  {
   "id": "M2046",
@@ -702,7 +702,7 @@
    2046
   ],
   "jp": "もう１度　やりなおしますか？[fb:0][end]",
-  "en": ""
+  "en": "Start over once more?[fb:0][end]"
  },
  {
   "id": "M2047",
@@ -717,7 +717,7 @@
    2047
   ],
   "jp": "[ef]を[n]おぼえました[wait][end]",
-  "en": ""
+  "en": "Learned [ef]![wait][end]"
  },
  {
   "id": "M2048",
@@ -732,7 +732,7 @@
    2048
   ],
   "jp": "ナカマがいません[wait][end]",
-  "en": ""
+  "en": "You have no allies.[wait][end]"
  },
  {
   "id": "M2049",
@@ -747,7 +747,7 @@
    2049
   ],
   "jp": "落とし穴だ！[wait][end]",
-  "en": ""
+  "en": "It's a pitfall![wait][end]"
  },
  {
   "id": "M2050",
@@ -762,7 +762,7 @@
    2050
   ],
   "jp": "　　　　　　　　　　　　　　　　　　[end]",
-  "en": ""
+  "en": "                  [end]"
  },
  {
   "id": "M2051",
@@ -777,7 +777,7 @@
    2051
   ],
   "jp": "あいうえお　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[end]",
-  "en": ""
+  "en": "ABCDE[end]"
  },
  {
   "id": "M2052",
@@ -792,7 +792,7 @@
    2052
   ],
   "jp": "合体の説明をやめます[n]いいですか？[fb:1][end]",
-  "en": ""
+  "en": "End the fusion explanation. Is that okay?[fb:1][end]"
  },
  {
   "id": "M2053",
@@ -807,7 +807,7 @@
    2053
   ],
   "jp": "こうかんしました[n]つづけてこうかんしますか？[fb:0][end]",
-  "en": ""
+  "en": "Trade complete. Keep trading?[fb:0][end]"
  },
  {
   "id": "M2054",
@@ -822,7 +822,7 @@
    2054
   ],
   "jp": "つうしんたいせんをはじめます[n]データのセーブをします　いいですか？[fb:1][end]",
-  "en": ""
+  "en": "Starting a link battle. Your data will be saved. Is that okay?[fb:1][end]"
  },
  {
   "id": "M2055",
@@ -837,7 +837,7 @@
    2055
   ],
   "jp": "セーブしないとたいせんできません[wait][end]",
-  "en": ""
+  "en": "You can't battle without saving.[wait][end]"
  },
  {
   "id": "M2056",
@@ -852,7 +852,7 @@
    2056
   ],
   "jp": "[f3]たちの勝利です[wait][end]",
-  "en": ""
+  "en": "[f3] and friends win![wait][end]"
  },
  {
   "id": "M2057",
@@ -867,7 +867,7 @@
    2057
   ],
   "jp": "[f3]たちの負けです[wait][end]",
-  "en": ""
+  "en": "[f3] and friends lose...[wait][end]"
  },
  {
   "id": "M2058",
@@ -882,7 +882,7 @@
    2058
   ],
   "jp": "つうしん合体をおこないます[n]合体がおわったらセーブします[wait][end]",
-  "en": ""
+  "en": "Starting link fusion. Your data will be saved once the fusion is done.[wait][end]"
  },
  {
   "id": "M2059",
@@ -897,7 +897,7 @@
    2059
   ],
   "jp": "２体目は[n][e8]です[wait][end]",
-  "en": ""
+  "en": "The second one is [e8].[wait][end]"
  },
  {
   "id": "M2060",
@@ -912,7 +912,7 @@
    2060
   ],
   "jp": "ことなるせんたくをしています！[n]さいしょからやりなおしてください[wait][end]",
-  "en": ""
+  "en": "Your selections don't match! Please start over from the beginning.[wait][end]"
  },
  {
   "id": "M2061",
@@ -927,7 +927,7 @@
    2061
   ],
   "jp": "つうしんチェック[end]",
-  "en": ""
+  "en": "Link Check[end]"
  },
  {
   "id": "M2062",
@@ -942,7 +942,7 @@
    2062
   ],
   "jp": "セーブ中です　でんげんをきったり[n]リセットしたり　しないでください[end]",
-  "en": ""
+  "en": "Saving. Please don't turn off the power[n]or reset the game.[end]"
  },
  {
   "id": "M2063",
@@ -957,7 +957,7 @@
    2063
   ],
   "jp": "[f4]を[ec:0]こ[n]手に入れた[wait][end]",
-  "en": ""
+  "en": "Obtained [f4] x [ec:0]![wait][end]"
  },
  {
   "id": "M2064",
@@ -972,7 +972,7 @@
    2064
   ],
   "jp": "[e8]を[n]手に入れた[wait][end]",
-  "en": ""
+  "en": "Obtained [e8]![wait][end]"
  },
  {
   "id": "M2065",
@@ -987,7 +987,7 @@
    2065
   ],
   "jp": "あんたつよいね[n]こいつあげるよ[wait][end]",
-  "en": ""
+  "en": "You're strong! Here, take this![wait][end]"
  },
  {
   "id": "M2066",
@@ -1002,7 +1002,7 @@
    2066
   ],
   "jp": "いまはつかえません[wait][end]",
-  "en": ""
+  "en": "You can't use that right now.[wait][end]"
  },
  {
   "id": "M2067",
@@ -1017,7 +1017,7 @@
    2067
   ],
   "jp": "対戦相手から[n]メッセージがとどいています[wait][end]",
-  "en": ""
+  "en": "A message has arrived from your opponent.[wait][end]"
  },
  {
   "id": "M2068",
@@ -1032,7 +1032,7 @@
    2068
   ],
   "jp": "なにもしない[n][f2]とはなす[n]宝をさがす[end]",
-  "en": ""
+  "en": "Do nothing[n]Talk to [f2][n]Search for treasure[end]"
  },
  {
   "id": "M2069",
@@ -1047,7 +1047,7 @@
    2069
   ],
   "jp": "このちかくには[n]宝箱が[ec:0]こ[wait][clr]あやしいばしょが[ec:1]かしょ[wait][clr]あるみたいだ[wait][end]",
-  "en": ""
+  "en": "Treasure chests nearby: [ec:0][wait][clr]Suspicious spots: [ec:1][wait][clr]...or so it seems.[wait][end]"
  },
  {
   "id": "M2070",
@@ -1062,7 +1062,7 @@
    2070
   ],
   "jp": "パートナーにワザをおしえる[n]ナカマをきたえる[end]",
-  "en": ""
+  "en": "Teach partner a skill[n]Train an ally[end]"
  },
  {
   "id": "M2071",
@@ -1077,7 +1077,7 @@
    2071
   ],
   "jp": "どのワザをおしえますか？[fb:0][end]",
-  "en": ""
+  "en": "Which skill will you teach?[fb:0][end]"
  },
  {
   "id": "M2072",
@@ -1092,7 +1092,7 @@
    2072
   ],
   "jp": "おぼえられるマホウ・ワザがありません[wait][end]",
-  "en": ""
+  "en": "There are no spells or skills it can learn.[wait][end]"
  },
  {
   "id": "M2073",
@@ -1107,7 +1107,7 @@
    2073
   ],
   "jp": "いまなら〒[ec:0]です[n]いいですか？[fb:0][end]",
-  "en": ""
+  "en": "Right now, it's 〒[ec:0]. Is that okay?[fb:0][end]"
  },
  {
   "id": "M2074",
@@ -1122,7 +1122,7 @@
    2074
   ],
   "jp": "マッカがたりない[wait][end]",
-  "en": ""
+  "en": "Not enough Macca.[wait][end]"
  },
  {
   "id": "M2075",
@@ -1137,7 +1137,7 @@
    2075
   ],
   "jp": "いらっしゃいませ！！[n]ここはアイテムやだよ[wait][end]",
-  "en": ""
+  "en": "Welcome!! This is the item shop![wait][end]"
  },
  {
   "id": "M2076",
@@ -1152,7 +1152,7 @@
    2076
   ],
   "jp": "どうする？[end]",
-  "en": ""
+  "en": "What now?[end]"
  },
  {
   "id": "M2077",
@@ -1167,7 +1167,7 @@
    2077
   ],
   "jp": "あたらしいクラスが[n]えらべるようになった[wait][end]",
-  "en": ""
+  "en": "You can now choose a new class![wait][end]"
  },
  {
   "id": "M2078",
@@ -1182,7 +1182,7 @@
    2078
   ],
   "jp": "あたらしいあいてが[n]あらわれた[wait][end]",
-  "en": ""
+  "en": "A new opponent has appeared![wait][end]"
  },
  {
   "id": "M2079",
@@ -1197,7 +1197,7 @@
    2079
   ],
   "jp": "あたらしいアイテム[n]ネットライザー２を手に入れた[wait][end]",
-  "en": ""
+  "en": "A new item! You obtained the Net Riser 2![wait][end]"
  },
  {
   "id": "M2080",
@@ -1212,7 +1212,7 @@
    2080
   ],
   "jp": "おめでとうございます！[n]バトルネット勝ち抜き戦をクリアです[wait][end]",
-  "en": ""
+  "en": "Congratulations! You've cleared the Battle Net tournament![wait][end]"
  },
  {
   "id": "M2081",
@@ -1227,7 +1227,7 @@
    2081
   ],
   "jp": "このアイテムは[n]すてることができない！[wait][end]",
-  "en": ""
+  "en": "This item can't be thrown away![wait][end]"
  },
  {
   "id": "M2082",
@@ -1242,7 +1242,7 @@
    2082
   ],
   "jp": "このバージョンではセーブできません[wait][end]",
-  "en": ""
+  "en": "You can't save in this version.[wait][end]"
  },
  {
   "id": "M2083",
@@ -1257,7 +1257,7 @@
    2083
   ],
   "jp": "このパワーユニットは[n]デビライザーせんようです[wait][end]",
-  "en": ""
+  "en": "This power unit is only for the Demiloc.[wait][end]"
  },
  {
   "id": "M2084",
@@ -1272,7 +1272,7 @@
    2084
   ],
   "jp": "このパワーユニットは[n]キングライザーせんようです[wait][end]",
-  "en": ""
+  "en": "This power unit is only for the King Riser.[wait][end]"
  },
  {
   "id": "M2085",
@@ -1287,7 +1287,7 @@
    2085
   ],
   "jp": "このバージョンではつかえません[wait][end]",
-  "en": ""
+  "en": "It can't be used in this version.[wait][end]"
  },
  {
   "id": "M2086",
@@ -1302,7 +1302,7 @@
    2086
   ],
   "jp": "このアイテムは　うることができない[wait][end]",
-  "en": ""
+  "en": "This item can't be sold.[wait][end]"
  },
  {
   "id": "M2087",
@@ -1317,7 +1317,7 @@
    2087
   ],
   "jp": "つうしんケーブルが[n]正しくせつぞくされていません[wait][end]",
-  "en": ""
+  "en": "The link cable isn't connected properly.[wait][end]"
  },
  {
   "id": "M2088",
@@ -1332,7 +1332,7 @@
    2088
   ],
   "jp": "ディスクの中身をせいりしました[wait][end]",
-  "en": ""
+  "en": "The disk's contents have been sorted.[wait][end]"
  },
  {
   "id": "M2089",
@@ -1347,7 +1347,7 @@
    2089
   ],
   "jp": "デビルがいません[wait][end]",
-  "en": ""
+  "en": "You have no demons.[wait][end]"
  },
  {
   "id": "M2090",
@@ -1362,7 +1362,7 @@
    2090
   ],
   "jp": "これいじょうマッカをもてません[n]マッカをあきらめた[wait][end]",
-  "en": ""
+  "en": "You can't carry any more Macca. You left the Macca behind.[wait][end]"
  },
  {
   "id": "M2091",
@@ -1377,7 +1377,7 @@
    2091
   ],
   "jp": "合体が行えるじょうたいの[n]ナカマが２体いじょういません[wait][end]",
-  "en": ""
+  "en": "You don't have two allies that can be fused.[wait][end]"
  },
  {
   "id": "M2092",
@@ -1392,7 +1392,7 @@
    2092
   ],
   "jp": "つうしんエラー[n]じかんぎれ[wait][end]",
-  "en": ""
+  "en": "Link error: Timed out.[wait][end]"
  },
  {
   "id": "M2093",
@@ -1407,7 +1407,7 @@
    2093
   ],
   "jp": "つうしんエラー[n]ケーブルせつぞくされてない[wait][end]",
-  "en": ""
+  "en": "Link error: Cable not connected.[wait][end]"
  },
  {
   "id": "M2094",
@@ -1422,7 +1422,7 @@
    2094
   ],
   "jp": "つうしんエラー[n]ハードエラー[wait][end]",
-  "en": ""
+  "en": "Link error: Hardware error.[wait][end]"
  },
  {
   "id": "M2095",
@@ -1437,7 +1437,7 @@
    2095
   ],
   "jp": "つうしんエラー[n]ケーブルせつぞくおかしい[wait][end]",
-  "en": ""
+  "en": "Link error: Bad cable connection.[wait][end]"
  },
  {
   "id": "M2096",
@@ -1452,7 +1452,7 @@
    2096
   ],
   "jp": "つうしんエラー[n]ＩＤオーバーしてます[wait][end]",
-  "en": ""
+  "en": "Link error: Too many IDs.[wait][end]"
  },
  {
   "id": "M2097",
@@ -1467,7 +1467,7 @@
    2097
   ],
   "jp": "つうしんエラー[n]おやをにんしきできません[wait][end]",
-  "en": ""
+  "en": "Link error: Can't recognize the host.[wait][end]"
  },
  {
   "id": "M2098",
@@ -1482,7 +1482,7 @@
    2098
   ],
   "jp": "ナカマがいっぱいで[n]これいじょうもてません[wait][end]",
-  "en": ""
+  "en": "You have too many allies. You can't take any more.[wait][end]"
  },
  {
   "id": "M2099",
@@ -1497,7 +1497,7 @@
    2099
   ],
   "jp": "ヴィネセンターへ[n]あきらめる[end]",
-  "en": ""
+  "en": "To the Vine Center[n]Give up[end]"
  },
  {
   "id": "M2100",
@@ -1512,7 +1512,7 @@
    2100
   ],
   "jp": "マソウをあげよう[n]うまく　つかってくれよ？[wait][end]",
-  "en": ""
+  "en": "I'll give you an Arcane Item. Use it well, okay?[wait][end]"
  },
  {
   "id": "M2101",
@@ -1527,7 +1527,7 @@
    2101
   ],
   "jp": "このデビルあげる[n]次は負けないんだから！[wait][end]",
-  "en": ""
+  "en": "I'll give you this demon. But I won't lose next time![wait][end]"
  },
  {
   "id": "M2102",
@@ -1572,7 +1572,7 @@
    2104
   ],
   "jp": "・・・　・・・　ツカエ[wait][end]",
-  "en": ""
+  "en": "... ... Use it.[wait][end]"
  },
  {
   "id": "M2105",
@@ -1587,7 +1587,7 @@
    2105
   ],
   "jp": "[f3][n]これをもっていけよ[wait][end]",
-  "en": ""
+  "en": "[f3], take this with you.[wait][end]"
  },
  {
   "id": "M2106",
@@ -1602,7 +1602,7 @@
    2106
   ],
   "jp": "オレのパートナーだ[n]つかってみてくれ[wait][end]",
-  "en": ""
+  "en": "This is my partner. Give it a try.[wait][end]"
  },
  {
   "id": "M2107",
@@ -1617,7 +1617,7 @@
    2107
   ],
   "jp": "パートナーのレイだ[n]キミにあずけるよ[wait][end]",
-  "en": ""
+  "en": "This is my partner, Ray. I'm leaving it in your hands.[wait][end]"
  },
  {
   "id": "M2108",
@@ -1632,7 +1632,7 @@
    2108
   ],
   "jp": "・・・　・・・　・・・[wait][end]",
-  "en": ""
+  "en": "... ... ...[wait][end]"
  },
  {
   "id": "M2109",
@@ -1647,7 +1647,7 @@
    2109
   ],
   "jp": "・・・　・・・　・・・[wait][end]",
-  "en": ""
+  "en": "... ... ...[wait][end]"
  },
  {
   "id": "M2110",
@@ -1662,7 +1662,7 @@
    2110
   ],
   "jp": "オレのパートナーを[n]つかってみるか？[wait][end]",
-  "en": ""
+  "en": "Want to try using my partner?[wait][end]"
  },
  {
   "id": "M2111",
@@ -1677,7 +1677,7 @@
    2111
   ],
   "jp": "ベールのチカラをかしてあげる[wait][end]",
-  "en": ""
+  "en": "I'll lend you Veil's power.[wait][end]"
  },
  {
   "id": "M2112",
@@ -1692,7 +1692,7 @@
    2112
   ],
   "jp": "ボクのパートナーです[wait][end]",
-  "en": ""
+  "en": "This is my partner.[wait][end]"
  },
  {
   "id": "M2113",
@@ -1707,7 +1707,7 @@
    2113
   ],
   "jp": "このマソウをやろう[wait][end]",
-  "en": ""
+  "en": "I'll give you this Arcane Item.[wait][end]"
  },
  {
   "id": "M2114",
@@ -1722,7 +1722,7 @@
    2114
   ],
   "jp": "コレをつかってみなよ[wait][end]",
-  "en": ""
+  "en": "Try using this![wait][end]"
  },
  {
   "id": "M2115",
@@ -1737,7 +1737,7 @@
    2115
   ],
   "jp": "チカラのつかいみちを[n]あやまらないことを　いのります[wait][end]",
-  "en": ""
+  "en": "I pray you will not misuse your power.[wait][end]"
  },
  {
   "id": "M2116",
@@ -1752,7 +1752,7 @@
    2116
   ],
   "jp": "ダミー[wait][end]",
-  "en": ""
+  "en": "Dummy[wait][end]"
  },
  {
   "id": "M2117",
@@ -1767,7 +1767,7 @@
    2117
   ],
   "jp": "さきは長いけど[n]がんばってくれ[wait][end]",
-  "en": ""
+  "en": "There's a long way to go, but hang in there.[wait][end]"
  },
  {
   "id": "M2118",
@@ -1782,7 +1782,7 @@
    2118
   ],
   "jp": "ダミー[wait][end]",
-  "en": ""
+  "en": "Dummy[wait][end]"
  },
  {
   "id": "M2119",
@@ -1797,7 +1797,7 @@
    2119
   ],
   "jp": "あんまり　とばして戦うと[n]あとがきついわ[wait][clr]きをつけて[wait][end]",
-  "en": ""
+  "en": "If you go all out in every fight, it'll be rough later on.[wait][clr]Be careful.[wait][end]"
  },
  {
   "id": "M2120",
@@ -1812,7 +1812,7 @@
    2120
   ],
   "jp": "ダミー[wait][end]",
-  "en": ""
+  "en": "Dummy[wait][end]"
  },
  {
   "id": "M2121",
@@ -1827,7 +1827,7 @@
    2121
   ],
   "jp": "負けたなんて　みとめないわよ！？[n]ゼーッタイ　みとめないんだから！[wait][end]",
-  "en": ""
+  "en": "I won't admit I lost, you hear!? I'll NEVER admit it![wait][end]"
  },
  {
   "id": "M2122",
@@ -1842,7 +1842,7 @@
    2122
   ],
   "jp": "ダミー[wait][end]",
-  "en": ""
+  "en": "Dummy[wait][end]"
  },
  {
   "id": "M2123",
@@ -1857,7 +1857,7 @@
    2123
   ],
   "jp": "やっぱりつよいですね[wait][end]",
-  "en": ""
+  "en": "You really are strong.[wait][end]"
  },
  {
   "id": "M2124",
@@ -1872,7 +1872,7 @@
    2124
   ],
   "jp": "ダミー[wait][end]",
-  "en": ""
+  "en": "Dummy[wait][end]"
  },
  {
   "id": "M2125",
@@ -1887,7 +1887,7 @@
    2125
   ],
   "jp": "ようやくはんぶんだ　ガンバレよ！[wait][end]",
-  "en": ""
+  "en": "You're finally halfway there. Keep it up![wait][end]"
  },
  {
   "id": "M2126",
@@ -1902,7 +1902,7 @@
    2126
   ],
   "jp": "ダミー[wait][end]",
-  "en": ""
+  "en": "Dummy[wait][end]"
  },
  {
   "id": "M2127",
@@ -1917,7 +1917,7 @@
    2127
   ],
   "jp": "ここからがほんばんだね[n]ふんばりどころだよ[wait][end]",
-  "en": ""
+  "en": "This is where the real deal starts. Time to dig in![wait][end]"
  },
  {
   "id": "M2128",
@@ -1932,7 +1932,7 @@
    2128
   ],
   "jp": "ダミー[wait][end]",
-  "en": ""
+  "en": "Dummy[wait][end]"
  },
  {
   "id": "M2129",
@@ -1947,7 +1947,7 @@
    2129
   ],
   "jp": "私をたおしたんだから[n]この先負けちゃダメよ？[wait][clr]・・・なんちゃってね[wait][end]",
-  "en": ""
+  "en": "You beat me, so don't you dare lose from here on, okay?[wait][clr]...Just kidding.[wait][end]"
  },
  {
   "id": "M2130",
@@ -1962,7 +1962,7 @@
    2130
   ],
   "jp": "ダミー[wait][end]",
-  "en": ""
+  "en": "Dummy[wait][end]"
  },
  {
   "id": "M2131",
@@ -1977,7 +1977,7 @@
    2131
   ],
   "jp": "ここからがながいぜ[n]負けるなよ？[wait][end]",
-  "en": ""
+  "en": "It's a long road from here. Don't lose, okay?[wait][end]"
  },
  {
   "id": "M2132",
@@ -1992,7 +1992,7 @@
    2132
   ],
   "jp": "ダミー[wait][end]",
-  "en": ""
+  "en": "Dummy[wait][end]"
  },
  {
   "id": "M2133",
@@ -2007,7 +2007,7 @@
    2133
   ],
   "jp": "あと１０にんだ　がんばれ[wait][end]",
-  "en": ""
+  "en": "Ten more to go. Hang in there![wait][end]"
  },
  {
   "id": "M2134",
@@ -2022,7 +2022,7 @@
    2134
   ],
   "jp": "ダミー[wait][end]",
-  "en": ""
+  "en": "Dummy[wait][end]"
  },
  {
   "id": "M2135",
@@ -2037,7 +2037,7 @@
    2135
   ],
   "jp": "よく　ここまできた！[n]キミのけんとうを　ほめたたえよう！[wait][end]",
-  "en": ""
+  "en": "You've made it this far! I salute your valiant fight![wait][end]"
  },
  {
   "id": "M2136",
@@ -2052,7 +2052,7 @@
    2136
   ],
   "jp": "勝ち抜き　かんぜんせいは[n]おめでとう[wait][end]",
-  "en": ""
+  "en": "Congratulations on sweeping the whole tournament![wait][end]"
  },
  {
   "id": "M2137",

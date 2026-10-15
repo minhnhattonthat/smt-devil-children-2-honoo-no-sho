@@ -12,7 +12,7 @@
    3400
   ],
   "jp": "敵全体に強力な光のダメージと気絶効果[end]",
-  "en": ""
+  "en": "Strong light: damage + faint to all foes.[end]"
  },
  {
   "id": "M3401",
@@ -27,7 +27,7 @@
    3401
   ],
   "jp": "敵１体を　ランダムに８回きりつける[end]",
-  "en": ""
+  "en": "Slashes one foe 8 times at random.[end]"
  },
  {
   "id": "M3402",
@@ -42,7 +42,7 @@
    3402
   ],
   "jp": "味方全体の　アタックをアップさせる[end]",
-  "en": ""
+  "en": "Raises Attack of all allies.[end]"
  },
  {
   "id": "M3403",
@@ -57,7 +57,7 @@
    3403
   ],
   "jp": "敵全体に　強力なカマイタチでダメージ[end]",
-  "en": ""
+  "en": "Strong razor wind: damage to all foes.[end]"
  },
  {
   "id": "M3404",
@@ -72,7 +72,7 @@
    3404
   ],
   "jp": "敵全体に　強力な真空波で　ダメージ[end]",
-  "en": ""
+  "en": "Strong vacuum wave: damage to all foes.[end]"
  },
  {
   "id": "M3405",
@@ -87,7 +87,7 @@
    3405
   ],
   "jp": "味方全体の　全パラメータをアップ[end]",
-  "en": ""
+  "en": "Raises all stats of all allies.[end]"
  },
  {
   "id": "M3406",
@@ -102,7 +102,7 @@
    3406
   ],
   "jp": "敵全体に　攻撃して　ＨＰを吸収する[end]",
-  "en": ""
+  "en": "Attacks all foes and drains HP.[end]"
  },
  {
   "id": "M3407",
@@ -117,7 +117,7 @@
    3407
   ],
   "jp": "敵全体を　炎で攻撃し　バクダンにする[end]",
-  "en": ""
+  "en": "Fire: hits all foes + bomb.[end]"
  },
  {
   "id": "M3408",
@@ -132,7 +132,7 @@
    3408
   ],
   "jp": "敵全体を　爪で攻撃して　マヒさせる[end]",
-  "en": ""
+  "en": "Claws: hits all foes + paralysis.[end]"
  },
  {
   "id": "M3409",
@@ -147,7 +147,7 @@
    3409
   ],
   "jp": "敵全体を　炎で攻撃し　マヒさせる[end]",
-  "en": ""
+  "en": "Fire: hits all foes + paralysis.[end]"
  },
  {
   "id": "M3410",
@@ -162,7 +162,7 @@
    3410
   ],
   "jp": "敵全体を　水で攻撃し　ねむらせる[end]",
-  "en": ""
+  "en": "Water: hits all foes + sleep.[end]"
  },
  {
   "id": "M3411",
@@ -177,7 +177,7 @@
    3411
   ],
   "jp": "敵全体を　岩で攻撃し　混乱させる[end]",
-  "en": ""
+  "en": "Rocks: hits all foes + confusion.[end]"
  },
  {
   "id": "M3412",
@@ -192,7 +192,7 @@
    3412
   ],
   "jp": "敵全体を　雷雨で攻撃し　感電させる[end]",
-  "en": ""
+  "en": "Thunderstorm: hits all foes + shock.[end]"
  },
  {
   "id": "M3413",
@@ -207,7 +207,7 @@
    3413
   ],
   "jp": "敵全体を　毒の風で攻撃し　毒にする[end]",
-  "en": ""
+  "en": "Poison wind: hits all foes + poison.[end]"
  },
  {
   "id": "M3414",
@@ -222,7 +222,7 @@
    3414
   ],
   "jp": "敵全体を　氷の刃で攻撃し　凍結にする[end]",
-  "en": ""
+  "en": "Ice blades: hits all foes + freeze.[end]"
  },
  {
   "id": "M3415",
@@ -237,7 +237,7 @@
    3415
   ],
   "jp": "敵全体を　光の原子で攻撃し沈黙にする[end]",
-  "en": ""
+  "en": "Light particles: hits all foes + silence.[end]"
  },
  {
   "id": "M3416",
@@ -252,7 +252,7 @@
    3416
   ],
   "jp": "敵全体を　闇の刃で攻撃し　気絶させる[end]",
-  "en": ""
+  "en": "Dark blades: hits all foes + faint.[end]"
  },
  {
   "id": "M3417",
@@ -267,7 +267,7 @@
    3417
   ],
   "jp": "敵全体を　誘惑状態にする[end]",
-  "en": ""
+  "en": "Charms all foes.[end]"
  },
  {
   "id": "M3418",
@@ -282,7 +282,7 @@
    3418
   ],
   "jp": "敵全体を　闇でかこんで状態異常にする[end]",
-  "en": ""
+  "en": "Shrouds all foes in darkness: ailments.[end]"
  },
  {
   "id": "M3419",
@@ -297,7 +297,7 @@
    3419
   ],
   "jp": "敵全体を　キリで攻撃し　マヒさせる[end]",
-  "en": ""
+  "en": "Mist: hits all foes + paralysis.[end]"
  },
  {
   "id": "M3420",
@@ -312,7 +312,7 @@
    3420
   ],
   "jp": "味方全体の　ガードとＭガードをアップ[end]",
-  "en": ""
+  "en": "Raises Guard and Magic Guard of all allies.[end]"
  },
  {
   "id": "M3421",
@@ -327,7 +327,7 @@
    3421
   ],
   "jp": "敵全体を　気絶させる[end]",
-  "en": ""
+  "en": "Makes all foes faint.[end]"
  },
  {
   "id": "M3422",
@@ -342,7 +342,7 @@
    3422
   ],
   "jp": "敵全体に　ランダムで　４回攻撃[end]",
-  "en": ""
+  "en": "Hits all foes 4 times at random.[end]"
  },
  {
   "id": "M3423",
@@ -357,7 +357,7 @@
    3423
   ],
   "jp": "敵１体に　２回かみつき　気絶効果[end]",
-  "en": ""
+  "en": "Bites one foe twice + faint.[end]"
  },
  {
   "id": "M3424",
@@ -372,7 +372,7 @@
    3424
   ],
   "jp": "味方全体の　全パラメータをアップ[end]",
-  "en": ""
+  "en": "Raises all stats of all allies.[end]"
  },
  {
   "id": "M3425",
@@ -387,7 +387,7 @@
    3425
   ],
   "jp": "敵１体に　８回　攻撃する[end]",
-  "en": ""
+  "en": "Hits one foe 8 times.[end]"
  },
  {
   "id": "M3426",
@@ -402,7 +402,7 @@
    3426
   ],
   "jp": "味方全体に１ターン　魔法反射効果[end]",
-  "en": ""
+  "en": "Reflects magic for all allies for 1 turn.[end]"
  },
  {
   "id": "M3427",
@@ -417,7 +417,7 @@
    3427
   ],
   "jp": "敵２体に　氷で攻撃し　凍結させる[end]",
-  "en": ""
+  "en": "Ice: hits two foes + freeze.[end]"
  },
  {
   "id": "M3428",
@@ -432,7 +432,7 @@
    3428
   ],
   "jp": "敵１体に　光せんで攻撃し　気絶させる[end]",
-  "en": ""
+  "en": "Light beam: hits one foe + faint.[end]"
  },
  {
   "id": "M3429",
@@ -447,7 +447,7 @@
    3429
   ],
   "jp": "敵全体を　風の刃で攻撃し　気絶させる[end]",
-  "en": ""
+  "en": "Wind blades: hits all foes + faint.[end]"
  },
  {
   "id": "M3430",
@@ -462,7 +462,7 @@
    3430
   ],
   "jp": "敵１体に２回攻撃し　命中率ダウン効果[end]",
-  "en": ""
+  "en": "Hits one foe twice + Accuracy down.[end]"
  },
  {
   "id": "M3431",
@@ -477,7 +477,7 @@
    3431
   ],
   "jp": "敵全体を　コールさせる[end]",
-  "en": ""
+  "en": "Makes all foes call for backup.[end]"
  },
  {
   "id": "M3432",
@@ -492,7 +492,7 @@
    3432
   ],
   "jp": "敵全体を　攻撃し　混乱させる[end]",
-  "en": ""
+  "en": "Attacks and confuses all foes.[end]"
  },
  {
   "id": "M3433",
@@ -507,7 +507,7 @@
    3433
   ],
   "jp": "味方全体のアタックとマジックをアップ[end]",
-  "en": ""
+  "en": "Raises Attack and Magic of all allies.[end]"
  },
  {
   "id": "M3434",
@@ -1422,7 +1422,7 @@
    3494
   ],
   "jp": "魔界の門を　守る[n]オオカミのデビル[n]とても　強くて[n]キョウボウだけど[n]主人には　とても[n]チュウジツである[end]",
-  "en": ""
+  "en": "A wolf demon that guards the gate of the Demon World. Very strong and ferocious, but deeply loyal to its master.[end]"
  },
  {
   "id": "M3495",
@@ -1437,7 +1437,7 @@
    3495
   ],
   "jp": "ワシとライオンの[n]体を　持つ[n]すばやい　デビル[n]ピンクの体に[n]美しい　ツバサを[n]持っている[end]",
-  "en": ""
+  "en": "A swift demon with the body of an eagle and a lion. It has a pink body and beautiful wings.[end]"
  },
  {
   "id": "M3496",
@@ -1452,7 +1452,7 @@
    3496
   ],
   "jp": "頭は　ライオン[n]体は　ヤギ[n]シッポが　ヘビの[n]不思議な　ケモノ[n]角と　雷で　戦う[n]正義の　デビル[end]",
-  "en": ""
+  "en": "A strange beast with a lion's head, a goat's body and a snake's tail. A just demon that fights with horns and lightning.[end]"
  },
  {
   "id": "M3497",
@@ -1467,7 +1467,7 @@
    3497
   ],
   "jp": "何度　死んでも[n]燃えさかる　炎の[n]中からよみがえる[n]世界に１羽だけの[n]真っ赤な　鳥の[n]デビル[end]",
-  "en": ""
+  "en": "However many times it dies, it is reborn from blazing flames. The only one of its kind in the world: a crimson bird demon.[end]"
  },
  {
   "id": "M3498",
@@ -1482,7 +1482,7 @@
    3498
   ],
   "jp": "戦いが　きらいな[n]心やさしいデビル[n]自分の　チエで[n]平和で　安全な[n]世界をつくろうと[n]している[end]",
-  "en": ""
+  "en": "A kindhearted demon that hates fighting. It uses its wisdom to try to build a safe, peaceful world.[end]"
  },
  {
   "id": "M3499",
@@ -1497,7 +1497,7 @@
    3499
   ],
   "jp": "強さが　すべてと[n]自分の　力を[n]信じ　炎のごとき[n]はげしさで　戦う[n]戦い　好きな[n]ネッケツ　デビル[end]",
-  "en": ""
+  "en": "It believes strength is everything and trusts its own power, fighting with fiery fury. A hot-blooded, battle-loving demon.[end]"
  },
  {
   "id": "M3500",
@@ -1512,7 +1512,7 @@
    3500
   ],
   "jp": "自分の　意志を[n]雷の　ような[n]はやさで　つらぬき[n]欲しい　モノは[n]自分で　勝ち取る[n]レイセイなデビル[end]",
-  "en": ""
+  "en": "A cool-headed demon that pushes its will through as fast as lightning and wins what it wants by itself.[end]"
  },
  {
   "id": "M3501",
@@ -1527,7 +1527,7 @@
    3501
   ],
   "jp": "すさまじい剣技で[n]神の　敵を[n]すべて　ほろぼす[n]力を　持つ[n]４本の　ウデの[n]ハカイの　女神[end]",
-  "en": ""
+  "en": "A four-armed goddess of destruction whose fearsome swordplay can destroy every enemy of the gods.[end]"
  },
  {
   "id": "M3502",
@@ -1542,7 +1542,7 @@
    3502
   ],
   "jp": "どんな　神も[n]こわがってしまう[n]キョウボウな[n]ケモノのデビル[n]その口は　どんな[n]モノでものみこむ[end]",
-  "en": ""
+  "en": "A ferocious beast demon that even the gods fear. Its mouth can swallow anything at all.[end]"
  },
  {
   "id": "M3503",
@@ -1557,7 +1557,7 @@
    3503
   ],
   "jp": "闇にひそみ　闇に[n]生きる　ムテキの[n]ニンジャ　デビル[n]姿を見た者は[n]死んで　しまうと[n]おそれられている[end]",
-  "en": ""
+  "en": "An invincible ninja demon that hides and lives in darkness. They say anyone who sees it will die.[end]"
  },
  {
   "id": "M3504",
@@ -1572,7 +1572,7 @@
    3504
   ],
   "jp": "世界で１番　高い[n]木に　住んでいて[n]地上の　すべての[n]できごとを見ている[n]世界中の　風を[n]生む　大きなワシ[end]",
-  "en": ""
+  "en": "A great eagle that lives in the world's tallest tree. It watches all that happens on earth and makes the world's winds.[end]"
  },
  {
   "id": "M3505",
@@ -1587,7 +1587,7 @@
    3505
   ],
   "jp": "宝石で　キラキラ[n]かがやくラクダに[n]のって　大声で[n]しゃべる　とても[n]ハデ好きな　女の[n]デビル[end]",
-  "en": ""
+  "en": "A very flashy female demon who rides a camel sparkling with jewels and talks in a loud voice.[end]"
  },
  {
   "id": "M3506",
@@ -1602,7 +1602,7 @@
    3506
   ],
   "jp": "小さな　体に[n]大きな　勇気と[n]正義の　心を持つ[n]聖なる　ライオン[n]悪い　デビルは[n]絶対に　許さない[end]",
-  "en": ""
+  "en": "A holy lion with great courage and a sense of justice in its small body. It never forgives evil demons.[end]"
  },
  {
   "id": "M3507",
@@ -1617,7 +1617,7 @@
    3507
   ],
   "jp": "人間を　だまし[n]戦争を　させて[n]喜ぶ　悪いデビル[n]人間たちが苦しむ[n]姿が大好きで[n]悪い事ばかりする[end]",
-  "en": ""
+  "en": "An evil demon that tricks humans into war and enjoys it. It loves seeing people suffer and does nothing but evil.[end]"
  },
  {
   "id": "M3508",
@@ -1632,7 +1632,7 @@
    3508
   ],
   "jp": "天使や　人間達の[n]ケガや　病気を[n]なおしてくれる[n]天使の　中でも[n]１番　優しい心を[n]持つ　風の天使[end]",
-  "en": ""
+  "en": "A wind angel who heals the wounds and illnesses of angels and humans. It has the kindest heart of all the angels.[end]"
  },
  {
   "id": "M3509",
@@ -1647,7 +1647,7 @@
    3509
   ],
   "jp": "悪い　人間達に[n]テンバツをあたえる[n]火山をつかさどる[n]火の天使[n]悪は絶対許さない[n]ネッケツカン[end]",
-  "en": ""
+  "en": "A fire angel who rules volcanoes and brings divine punishment on wicked humans. Hot-blooded, it never forgives evil.[end]"
  },
  {
   "id": "M3510",
@@ -1662,7 +1662,7 @@
    3510
   ],
   "jp": "この世の果てまで[n]光り　かがやく[n]６枚の　ツバサを[n]持つ　魔界の王[n]魔界で　もっとも[n]おそれられている[end]",
-  "en": ""
+  "en": "The king of the Demon World, with six wings that shine to the ends of the earth. The most feared one in the Demon World.[end]"
  },
  {
   "id": "M3511",
@@ -1677,7 +1677,7 @@
    3511
   ],
   "jp": "平和な　世界を[n]めざして[n]この世の　悪と[n]戦う　正義感ある[n]太陽をつかさどる[n]天使のリーダー[end]",
-  "en": ""
+  "en": "A just leader of the angels who rules the sun. He fights the evil of this world, seeking a world of peace.[end]"
  },
  {
   "id": "M3512",
@@ -1692,7 +1692,7 @@
    3512
   ],
   "jp": "地球を　つくった[n]大きな　力を[n]持つ　女神[n]すべての　生命を[n]優しくつつみこむ[n]心の持ちぬし[end]",
-  "en": ""
+  "en": "A goddess with the great power that made the earth. Her heart gently embraces all living things.[end]"
  },
  {
   "id": "M3513",
@@ -1707,7 +1707,7 @@
    3513
   ],
   "jp": "赤い馬に　のって[n]真紅の　ヨロイに[n]身を　つつみ[n]すさまじい剣技で[n]敵におそいかかる[n]デビルの　きし[end]",
-  "en": ""
+  "en": "A demon knight clad in crimson armor who rides a red horse and attacks foes with fearsome swordplay.[end]"
  },
  {
   "id": "M3514",
@@ -1722,7 +1722,7 @@
    3514
   ],
   "jp": "黒いオマルにのり[n]あばれまわる[n]デビルの　きし[n]見た目は子供だが[n]すさまじい強さで[n]敵をたおす[end]",
-  "en": ""
+  "en": "A demon knight who rides a black potty and runs wild. It looks like a kid, but beats foes with fearsome strength.[end]"
  },
  {
   "id": "M3515",
@@ -1737,7 +1737,7 @@
    3515
   ],
   "jp": "死者のタマシイを[n]運ぶ　ハエの王[n]すさまじいまでの[n]強大な　力は[n]ルシファーですら[n]イチモク　おいている[end]",
-  "en": ""
+  "en": "The Lord of the Flies, who carries the souls of the dead. Even Lucifer respects his tremendous power.[end]"
  },
  {
   "id": "M3516",
@@ -1752,7 +1752,7 @@
    3516
   ],
   "jp": "ゾウリににている[n]だえんけいの生物[n]魔界の　力で[n]大きな　体と[n]チセイを　持つ[n]デビルに　なった[end]",
-  "en": ""
+  "en": "An oval creature shaped like a sandal. The Demon World's power gave it a big body and a mind, and made it a demon.[end]"
  },
  {
   "id": "M3517",
@@ -1767,7 +1767,7 @@
    3517
   ],
   "jp": "魔界で　大人気の[n]ナゾの　ペット[n]体の　うしろに[n]ファスナーがある[n]という　ウワサ[n]である[end]",
-  "en": ""
+  "en": "A mysterious pet that is hugely popular in the Demon World. Rumor has it there's a zipper on its back.[end]"
  },
  {
   "id": "M3518",
@@ -1782,7 +1782,7 @@
    3518
   ],
   "jp": "人の目に付かない[n]フキの下に　住み[n]かくれるのが[n]上手な　デビル[n]おとなしい性格で[n]清らかな心を持つ[end]",
-  "en": ""
+  "en": "A demon good at hiding, living under butterbur leaves out of human sight. It is gentle and pure of heart.[end]"
  },
  {
   "id": "M3519",
@@ -1797,7 +1797,7 @@
    3519
   ],
   "jp": "名前を　よぶと[n]ツボや　指輪から[n]飛び出してきて[n]どんな願いも[n]かなえてくれる[n]セイレイ[n]チョウのような[n]美しい羽を　持ち[n]花のあいだに住む[n]花の　ヨウセイ[n]とてもきまぐれで[n]おこりっぽい[end]",
-  "en": ""
+  "en": "Call its name and this spirit pops out of a pot or a ring to grant any wish. A flower fairy with lovely butterfly wings that lives among the flowers. Very fickle and quick to anger.[end]"
  },
  {
   "id": "M3520",
@@ -1812,7 +1812,7 @@
    3520
   ],
   "jp": "チョウのような[n]美しい羽を　持ち[n]花のあいだに住む[n]花の　ヨウセイ[n]とてもきまぐれで[n]おこりっぽい[end]",
-  "en": ""
+  "en": "A flower fairy with lovely butterfly wings that lives among the flowers. It is very fickle and quick to anger.[end]"
  },
  {
   "id": "M3521",
@@ -1827,7 +1827,7 @@
    3521
   ],
   "jp": "屋根ウラに　住み[n]夜に　なると[n]子供の部屋に来て[n]イタズラを　して[n]きえてしまう[n]子供の　デビル[end]",
-  "en": ""
+  "en": "A child demon that lives in the attic. At night it sneaks into kids' rooms, plays pranks, then vanishes.[end]"
  },
  {
   "id": "M3522",
@@ -1842,7 +1842,7 @@
    3522
   ],
   "jp": "死んだ　戦士の[n]タマシイを天国へ[n]連れて　行く[n]戦いの　おとめ[n]魔法や　剣技が[n]得意である[end]",
-  "en": ""
+  "en": "A battle maiden who carries the souls of fallen warriors to heaven. She is skilled with magic and the sword.[end]"
  },
  {
   "id": "M3523",
@@ -1857,7 +1857,7 @@
    3523
   ],
   "jp": "いつも　笑って[n]何かを食べている[n]ドラゴンのデビル[n]目に付いたものは[n]すべて　口の中に[n]入れてしまう[end]",
-  "en": ""
+  "en": "A dragon demon that is always laughing and eating something. It puts everything it sees into its mouth.[end]"
  },
  {
   "id": "M3524",
@@ -1872,7 +1872,7 @@
    3524
   ],
   "jp": "頭に　水の[n]入った皿を　もち[n]川の近くを通った[n]人間を　引きずり[n]こんでイタズラを[n]するデビル[end]",
-  "en": ""
+  "en": "A demon with a dish of water on its head. It drags in people who pass near the river to play pranks on them.[end]"
  },
  {
   "id": "M3525",
@@ -1887,7 +1887,7 @@
    3525
   ],
   "jp": "魔界の　ドクター[n]フランケンが[n]死んだ　デビルの[n]体をあつめて[n]つくりだした[n]人造人間のデビル[end]",
-  "en": ""
+  "en": "An artificial demon that Franken, the Demon World's doctor, made by gathering the bodies of dead demons.[end]"
  },
  {
   "id": "M3526",
@@ -1902,7 +1902,7 @@
    3526
   ],
   "jp": "自由に　空を[n]飛ぶことが　できる[n]象の　王様[n]ミルクの　海から[n]生まれたので[n]白い体をしている[end]",
-  "en": ""
+  "en": "The king of elephants, who can fly freely through the sky. Born from a sea of milk, it has a white body.[end]"
  },
  {
   "id": "M3527",
@@ -1917,7 +1917,7 @@
    3527
   ],
   "jp": "ヒツジに　にた[n]姿をしている[n]１本角の　デビル[n]悪い事を　した[n]人間を　ひと目で[n]見やぶる[end]",
-  "en": ""
+  "en": "A one-horned demon that looks like a sheep. At a glance, it can spot a human who has done wrong.[end]"
  },
  {
   "id": "M3528",
@@ -1932,7 +1932,7 @@
    3528
   ],
   "jp": "まちがって毒の[n]クスリを　のんで[n]しまい　体の[n]半分が　６ぴきの[n]キョウボウな犬に[n]なってしまったデビル[end]",
-  "en": ""
+  "en": "A demon who drank poison by mistake. Half of its body turned into six ferocious dogs.[end]"
  },
  {
   "id": "M3529",
@@ -1947,7 +1947,7 @@
    3529
   ],
   "jp": "気が　優しく[n]力持ちで　その上[n]頭も　いい[n]象の　王子さま[n]商売の　神[n]でも　ある[end]",
-  "en": ""
+  "en": "A kind, strong and clever elephant prince. He is also the god of business.[end]"
  },
  {
   "id": "M3530",
@@ -1962,7 +1962,7 @@
    3530
   ],
   "jp": "お金を持ってない[n]人は　絶対に[n]乗せてくれない[n]さんずの川の[n]舟の船頭デビル[n]とってもがめつい[end]",
-  "en": ""
+  "en": "A ferryman demon on the river of the dead who never takes anyone without money. Super greedy.[end]"
  },
  {
   "id": "M3531",
@@ -1977,7 +1977,7 @@
    3531
   ],
   "jp": "地獄のりょう犬と[n]よばれる　犬の[n]ユウレイ　デビル[n]その姿を見た[n]人は　次の日に[n]死んでしまう[end]",
-  "en": ""
+  "en": "A ghost dog demon called the hound of hell. Anyone who sees it will die the next day.[end]"
  },
  {
   "id": "M3532",
@@ -1992,7 +1992,7 @@
    3532
   ],
   "jp": "どんな　魔術でも[n]使いこなす事が[n]できる戦いの神[n]グングニルという[n]ヤリを　持ち[n]戦場をかけぬける[end]",
-  "en": ""
+  "en": "A god of war who can master any magic. Wielding a spear called Gungnir, he charges across the battlefield.[end]"
  },
  {
   "id": "M3533",
@@ -2007,7 +2007,7 @@
    3533
   ],
   "jp": "大事な　親友を[n]うしなってから[n]永遠の命を　探す[n]旅を　しつづける[n]神と　人間の間に[n]生まれたえいゆう[end]",
-  "en": ""
+  "en": "A hero born of a god and a human. Ever since losing his best friend, he has journeyed in search of eternal life.[end]"
  },
  {
   "id": "M3534",
@@ -2022,7 +2022,7 @@
    3534
   ],
   "jp": "長い時間を生きて[n]あやしい力を手に[n]入れた　２つの[n]シッポを持つネコ[n]女の子に変身して[n]人間をだます[end]",
-  "en": ""
+  "en": "A two-tailed cat that lived a long time and gained an eerie power. It turns into a girl to trick humans.[end]"
  },
  {
   "id": "M3535",
@@ -2037,7 +2037,7 @@
    3535
   ],
   "jp": "魔女の　お使いを[n]している　小さな[n]子供の　デビル[n]ヒマなときには[n]人間に　イタズラを[n]して　遊んでいる[end]",
-  "en": ""
+  "en": "A small child demon who runs errands for a witch. In its free time it plays pranks on humans for fun.[end]"
  },
  {
   "id": "M3536",
@@ -2052,7 +2052,7 @@
    3536
   ],
   "jp": "嵐を　よんで[n]あばれまわる[n]獅子の頭を　持つ[n]ドウモウな　ケモノ[n]その爪は　空を[n]切りさくと　いう[end]",
-  "en": ""
+  "en": "A fierce beast with a lion's head that calls up storms and runs wild. They say its claws can rip the sky.[end]"
  },
  {
   "id": "M3537",
@@ -2067,7 +2067,7 @@
    3537
   ],
   "jp": "時計を　ちらちら[n]見ながら　いつも[n]走り回っている[n]ウサギの　デビル[n]人の　時計を[n]くるわせて　喜ぶ[end]",
-  "en": ""
+  "en": "A rabbit demon always running around, glancing at its watch. It loves to make people's clocks go wrong.[end]"
  },
  {
   "id": "M3538",
@@ -2082,7 +2082,7 @@
    3538
   ],
   "jp": "クモの糸と６本の[n]手をうまく使って[n]美しい服を　作る[n]魔法の薬でクモの[n]体に　なって[n]しまった　クモ女[end]",
-  "en": ""
+  "en": "A spider woman who makes lovely clothes with spider silk and her six hands. A magic potion gave her a spider's body.[end]"
  },
  {
   "id": "M3539",
@@ -2097,7 +2097,7 @@
    3539
   ],
   "jp": "ジャッカルの顔を[n]していて　死者の[n]生きているときの[n]行いを　手に持つ[n]天びんで　さばく[n]死をつかさどる神[end]",
-  "en": ""
+  "en": "A god of death with a jackal's face. With the scales in his hand, he judges what the dead did in life.[end]"
  },
  {
   "id": "M3540",
@@ -2112,7 +2112,7 @@
    3540
   ],
   "jp": "タロットカードの[n]うらないが　得意で[n]どんななやみでも[n]すぐに　解決して[n]くれる　美しい[n]うらないしデビル[end]",
-  "en": ""
+  "en": "A beautiful fortune-teller demon skilled at tarot readings. She can solve any worry in no time.[end]"
  },
  {
   "id": "M3541",
@@ -2127,7 +2127,7 @@
    3541
   ],
   "jp": "銀の爪を　持った[n]カラスの　デビル[n]魔術や　星うらないに[n]くわしく　どんな[n]質問にも　正直に[n]答えてくれる[end]",
-  "en": ""
+  "en": "A crow demon with silver claws. It knows all about magic and astrology and answers any question honestly.[end]"
  },
  {
   "id": "M3542",
@@ -2142,7 +2142,7 @@
    3542
   ],
   "jp": "雷雲に乗り[n]空から　あらわれ[n]悪さをして　人を[n]こまらせる　ヘビの[n]シッポを　持つ[n]身軽な　トラ[end]",
-  "en": ""
+  "en": "A nimble tiger with a snake's tail. It rides thunderclouds down from the sky and makes trouble for people.[end]"
  },
  {
   "id": "M3543",
@@ -2157,7 +2157,7 @@
    3543
   ],
   "jp": "全身が　水で[n]できている大きな[n]海のリュウ[n]大きな　体は[n]雨や雪を　ふらせ[n]川や海をつくった[end]",
-  "en": ""
+  "en": "A huge sea dragon whose whole body is made of water. Its great body brought rain and snow and made rivers and seas.[end]"
  },
  {
   "id": "M3544",
@@ -2172,7 +2172,7 @@
    3544
   ],
   "jp": "ギャンブル好きで[n]お金や宝石に目が[n]無い欲ばりデビル[n]人間を金銀財宝で[n]ユウワクして[n]悪い事をさせる[end]",
-  "en": ""
+  "en": "A greedy demon who loves gambling and can't resist money and jewels. It tempts humans with treasure into doing evil.[end]"
  },
  {
   "id": "M3545",
@@ -2187,7 +2187,7 @@
    3545
   ],
   "jp": "黒い服を　まとい[n]地獄の　リュウに[n]またがって人間に[n]キョウフをあたえる[n]ハカイをつかさどる[n]地獄のこうしゃく[end]",
-  "en": ""
+  "en": "A duke of hell who rules destruction. Clad in black and riding a dragon of hell, he fills humans with terror.[end]"
  },
  {
   "id": "M3546",
@@ -2202,7 +2202,7 @@
    3546
   ],
   "jp": "海を　支配して[n]風と雷をあやつる[n]神の王子[n]らんぼうな性格で[n]天界から追放され[n]地上の王様になる[end]",
-  "en": ""
+  "en": "A wild prince of the gods who rules the sea and wields wind and thunder. Banished from Heaven, he became king on earth.[end]"
  },
  {
   "id": "M3547",
@@ -2217,7 +2217,7 @@
    3547
   ],
   "jp": "影のマントを[n]まとい　多くの[n]武器を使いこなす[n]死者の国の　女王[n]多くの　英雄の[n]師匠でもある[end]",
-  "en": ""
+  "en": "Queen of the land of the dead, wrapped in a cloak of shadows and a master of many weapons. She taught many heroes.[end]"
  },
  {
   "id": "M3548",
@@ -2232,7 +2232,7 @@
    3548
   ],
   "jp": "海に　住んでいて[n]長くて大きな足を[n]持ち　強力な[n]キュウバンで敵を[n]つかまえる巨大な[n]イカのデビル[end]",
-  "en": ""
+  "en": "A giant squid demon that lives in the sea. It catches foes with its long, huge legs and powerful suckers.[end]"
  },
  {
   "id": "M3549",
@@ -2247,7 +2247,7 @@
    3549
   ],
   "jp": "鉱石や　宝石を[n]悪い人間から守る[n]役割を持つ小さな[n]小人のデビル[n]土の中に　住んで[n]自由に　歩きまわる[end]",
-  "en": ""
+  "en": "A tiny dwarf demon who protects ores and gems from bad people. It lives underground and roams freely.[end]"
  },
  {
   "id": "M3550",
@@ -2262,7 +2262,7 @@
    3550
   ],
   "jp": "おどりが　得意で[n]イタズラ　好きな[n]小さな　ヨウセイ[n]ミルクをあげると[n]人間の　手伝いを[n]してくれる[end]",
-  "en": ""
+  "en": "A small fairy who loves dancing and pranks. If you give it milk, it will help humans out.[end]"
  },
  {
   "id": "M3551",
@@ -2277,7 +2277,7 @@
    3551
   ],
   "jp": "高い雪山に　住み[n]登山を　している[n]人間を　おそう[n]雪の　巨人[n]ときには　人間を[n]助ける事も　ある[end]",
-  "en": ""
+  "en": "A snow giant that lives on high snowy mountains and attacks climbers. Sometimes it helps humans, too.[end]"
  },
  {
   "id": "M3552",
@@ -2292,7 +2292,7 @@
    3552
   ],
   "jp": "自然を汚す者を[n]絶対に　ゆるさない[n]森を守る[n]優しいデビル[n]１つの目で[n]森を　みまもる[end]",
-  "en": ""
+  "en": "A gentle demon that protects the forest and never forgives those who pollute nature. It watches over the forest with its one eye.[end]"
  },
  {
   "id": "M3553",
@@ -2307,7 +2307,7 @@
    3553
   ],
   "jp": "おわんの舟に乗り[n]いろんな　冒険を[n]して　強くなった[n]小さな　戦士[n]手に持つ　ハリは[n]敵の急所をねらう[end]",
-  "en": ""
+  "en": "A tiny warrior who rode a bowl for a boat and grew strong on many adventures. His needle aims for foes' weak spots.[end]"
  },
  {
   "id": "M3554",
@@ -2322,7 +2322,7 @@
    3554
   ],
   "jp": "魔法つかいの大事な[n]宝を　守るために[n]命を　あたえられた[n]青銅の巨人デビル[n]主人の命令には[n]絶対にさからわない[end]",
-  "en": ""
+  "en": "A bronze giant demon brought to life to guard a wizard's precious treasure. It never disobeys its master's orders.[end]"
  },
  {
   "id": "M3555",
@@ -2337,7 +2337,7 @@
    3555
   ],
   "jp": "魔法と　科学の[n]力で　ぐうぜんに[n]生まれた　体が[n]機械でできている[n]ロボット　デビル[n]命は持っていない[end]",
-  "en": ""
+  "en": "A robot demon with a machine body, born by accident from the power of magic and science. It is not alive.[end]"
  },
  {
   "id": "M3556",
@@ -2352,7 +2352,7 @@
    3556
   ],
   "jp": "美しいおとめの姿で[n]人間の前にあらわれる[n]風の　セイレイ[n]人間の　男の人と[n]恋に落ちることを[n]夢　見ている[end]",
-  "en": ""
+  "en": "A wind spirit who appears to humans as a beautiful maiden. She dreams of falling in love with a human man.[end]"
  },
  {
   "id": "M3557",
@@ -2367,7 +2367,7 @@
    3557
   ],
   "jp": "ホネだけの姿で[n]死の　世界から[n]ヨミガエった[n]不死身の　戦士[n]ホネが　バラバラに[n]なっても復活する[end]",
-  "en": ""
+  "en": "An undying warrior who returned from the world of the dead as bare bones. Even if its bones scatter, it comes back.[end]"
  },
  {
   "id": "M3558",
@@ -2382,7 +2382,7 @@
    3558
   ],
   "jp": "イタズラを　する[n]ためなら　自分の[n]命も捨ててしまう[n]イタズラの　プロ[n]人間のタマシイで[n]遊んだりも　する[end]",
-  "en": ""
+  "en": "A prank pro who would even throw away its own life for a prank. It also plays with human souls.[end]"
  },
  {
   "id": "M3559",
@@ -2397,7 +2397,7 @@
    3559
   ],
   "jp": "岩のタマゴから[n]生まれた　とても[n]あばれんぼうの　サル[n]神のモモを[n]勝手に食べて[n]岩山にフウインされた[end]",
-  "en": ""
+  "en": "A very rowdy monkey born from a stone egg. It ate the gods' peaches without asking and was sealed in a rocky mountain.[end]"
  },
  {
   "id": "M3560",
@@ -2412,7 +2412,7 @@
    3560
   ],
   "jp": "いたみを　感じず[n]どんな　命令にも[n]さからわないで[n]したがう　機械で[n]できた　心を[n]持たないヘイタイ[end]",
-  "en": ""
+  "en": "A soldier made of machinery, with no heart. It feels no pain and obeys any order without question.[end]"
  },
  {
   "id": "M3561",
@@ -2427,7 +2427,7 @@
    3561
   ],
   "jp": "性別に　関係なく[n]地面に　とどくほどの[n]長いヒゲを持つ[n]器用で　何でも[n]つくる事ができる[n]優しい　デビル[end]",
-  "en": ""
+  "en": "A gentle demon so handy it can make anything. Male or female, it has a beard long enough to reach the ground.[end]"
  },
  {
   "id": "M3562",
@@ -2442,7 +2442,7 @@
    3562
   ],
   "jp": "大昔に　死んだ[n]王様の　お墓の[n]宝を守る　デビル[n]宝をぬすまれると[n]目を　さまして[n]ドロボウをおそう[end]",
-  "en": ""
+  "en": "A devil guarding the treasure in an ancient king's tomb. If the treasure is stolen, it wakes and attacks the thief.[end]"
  },
  {
   "id": "M3563",
@@ -2457,7 +2457,7 @@
    3563
   ],
   "jp": "山の中で　道に[n]迷った　人間を[n]だまして　おそう[n]鬼のおばあさん[n]手に持つ　包丁は[n]何でも　切れる[end]",
-  "en": ""
+  "en": "An ogre granny who tricks and attacks people lost in the mountains. Her kitchen knife can cut anything.[end]"
  },
  {
   "id": "M3564",
@@ -2472,7 +2472,7 @@
    3564
   ],
   "jp": "頭に　角が[n]生えた　カイリキで[n]ものしりなデビル[n]見た目はコワイが[n]自然を　愛する[n]優しい　性格[end]",
-  "en": ""
+  "en": "A super strong, wise devil with horns on its head. It looks scary, but it loves nature and is very gentle.[end]"
  },
  {
   "id": "M3565",
@@ -2487,7 +2487,7 @@
    3565
   ],
   "jp": "カイリキのウデを[n]たくさん　持つ[n]巨人の　デビル[n]その　カイリキを[n]おそれた　神に[n]フウインされた[end]",
-  "en": ""
+  "en": "A giant devil with many super strong arms. A god who feared its strength sealed it away.[end]"
  },
  {
   "id": "M3566",
@@ -2502,7 +2502,7 @@
    3566
   ],
   "jp": "力で　ハカイの[n]かぎりを　つくす[n]キョウアクな　象[n]その大きな　体で[n]どんな　ものでも[n]ふみつぶす[end]",
-  "en": ""
+  "en": "A vicious elephant that destroys everything with its might. Its huge body tramples anything in its path.[end]"
  },
  {
   "id": "M3567",
@@ -2517,7 +2517,7 @@
    3567
   ],
   "jp": "雷雲に　のって[n]あらわれて　雷や[n]雨をふらす　神[n]とてもきまぐれで[n]気が向いたときに[n]空に　あらわれる[end]",
-  "en": ""
+  "en": "A god who appears riding a thundercloud and brings lightning and rain. Very fickle, it shows up in the sky when it feels like it.[end]"
  },
  {
   "id": "M3568",
@@ -2532,7 +2532,7 @@
    3568
   ],
   "jp": "母親を探すために[n]空を飛ぶ　鳥に[n]変身した赤ん坊の[n]ふくろう　デビル[n]泣き声は　人間の[n]赤ん坊と　同じ[end]",
-  "en": ""
+  "en": "An owl devil, once a baby who turned into a bird to fly off in search of its mom. Its cry sounds just like a human baby's.[end]"
  },
  {
   "id": "M3569",
@@ -2547,7 +2547,7 @@
    3569
   ],
   "jp": "ふれた　だけで[n]すべてを燃やして[n]しまう　１本足の[n]炎をはく　ツル[n]火事を　おこす[n]メイワクなデビル[end]",
-  "en": ""
+  "en": "A one-legged, fire-breathing crane that burns anything it touches. A pesky devil that starts fires.[end]"
  },
  {
   "id": "M3570",
@@ -2562,7 +2562,7 @@
    3570
   ],
   "jp": "神聖な　愛の力を[n]もち　太陽と月を[n]つかさどるネコの[n]姿をした女神[n]主人を　守るときは[n]すごく　コワイ[end]",
-  "en": ""
+  "en": "A cat-shaped goddess of the sun and moon with the power of holy love. She's super scary when guarding her master.[end]"
  },
  {
   "id": "M3571",
@@ -2577,7 +2577,7 @@
    3571
   ],
   "jp": "鳥のような　長い[n]くちばしと　頭を[n]していて[n]死んだ人の　体を[n]ばらばらに　する[n]ひじょうなデビル[end]",
-  "en": ""
+  "en": "A heartless devil with a head and long beak like a bird's. It tears the bodies of the dead to pieces.[end]"
  },
  {
   "id": "M3572",
@@ -2592,7 +2592,7 @@
    3572
   ],
   "jp": "ひたいに　１本の[n]角を持つ　白い[n]体の　聖なる馬[n]ジャアクな存在を[n]ほろぼす　力が[n]あるという[end]",
-  "en": ""
+  "en": "A holy horse with a white body and one horn on its brow. It is said to have the power to destroy evil beings.[end]"
  },
  {
   "id": "M3573",
@@ -2607,7 +2607,7 @@
    3573
   ],
   "jp": "神の言葉を美しい[n]声で人間に伝える[n]首の長い　赤い鳥[n]５色の羽を　持ち[n]体には神の文字が[n]かくされている[end]",
-  "en": ""
+  "en": "A red, long-necked bird with five-colored feathers that sings the words of the gods. Holy letters are hidden on its body.[end]"
  },
  {
   "id": "M3574",
@@ -2622,7 +2622,7 @@
    3574
   ],
   "jp": "悪い　デビルは[n]絶対に　許さない[n]正義感ある　双子の[n]犬の　デビル[n]神社の結界を守る[n]番犬でも　ある[end]",
-  "en": ""
+  "en": "Twin dog devils with a strong sense of justice. They never forgive evil devils, and guard the barriers of shrines.[end]"
  },
  {
   "id": "M3575",
@@ -2637,7 +2637,7 @@
    3575
   ],
   "jp": "アクマの　呪いで[n]ネコの　姿に[n]なって　しまった[n]剣の　達人[n]すばやい動きと刀で[n]アクマをたおす[end]",
-  "en": ""
+  "en": "A master swordsman turned into a cat by a devil's curse. He beats devils with quick moves and his sword.[end]"
  },
  {
   "id": "M3576",
@@ -2652,7 +2652,7 @@
    3576
   ],
   "jp": "ハヤブサの　頭を[n]持つ　不死身の神[n]太陽と　月の力を[n]持つ　ヒトミで[n]朝と夜を　明るく[n]てらす[end]",
-  "en": ""
+  "en": "An immortal god with a falcon's head. His eyes hold the power of the sun and moon, lighting up both day and night.[end]"
  },
  {
   "id": "M3577",
@@ -2667,7 +2667,7 @@
    3577
   ],
   "jp": "大きなツバサで　空を[n]自由に　飛びまわる[n]戦士の　乗る馬[n]キレイな　心の[n]もちぬしだけが[n]乗ることが　できる[end]",
-  "en": ""
+  "en": "A horse that soars freely through the sky on huge wings, carrying warriors. Only the pure of heart can ride it.[end]"
  },
  {
   "id": "M3578",
@@ -2682,7 +2682,7 @@
    3578
   ],
   "jp": "ハヤブサの　頭を[n]した　太陽の神[n]正義をつかさどり[n]国を　ほろぼす[n]悪は　絶対に[n]許さない[end]",
-  "en": ""
+  "en": "A falcon-headed sun god who rules over justice. He never forgives evil that destroys nations.[end]"
  },
  {
   "id": "M3579",
@@ -2697,7 +2697,7 @@
    3579
   ],
   "jp": "どんな　悪事も[n]見のがさない[n]正義の　ライオン[n]いつもは　屋根の[n]上で　じっとして[n]家を　守っている[end]",
-  "en": ""
+  "en": "A lion of justice that lets no wrongdoing slip by. It usually sits quietly on rooftops, guarding the house.[end]"
  },
  {
   "id": "M3580",
@@ -2712,7 +2712,7 @@
    3580
   ],
   "jp": "４つの方角の南を[n]守る　セイジュウ[n]５色の音色でなき[n]火を　つかさどる[n]赤い美しい鳥の[n]姿をしている[end]",
-  "en": ""
+  "en": "The divine beast guarding the south. A beautiful red bird that rules fire and sings in five tones.[end]"
  },
  {
   "id": "M3581",
@@ -2727,7 +2727,7 @@
    3581
   ],
   "jp": "４つの方角の西を[n]守る　セイジュウ[n]空を　自由に飛び[n]雷を　つかさどる[n]真っ白な体をした[n]ドウモウな　トラ[end]",
-  "en": ""
+  "en": "The divine beast guarding the west. A fierce pure-white tiger that rules lightning and flies freely.[end]"
  },
  {
   "id": "M3582",
@@ -2742,7 +2742,7 @@
    3582
   ],
   "jp": "全身が　太陽の[n]ように　まぶしく[n]かがやく　平和の[n]ドラゴンの神[n]人間たちに文字の[n]ちしきを　あたえた[end]",
-  "en": ""
+  "en": "A peaceful dragon god whose whole body shines like the sun. It taught humans how to write.[end]"
  },
  {
   "id": "M3583",
@@ -2757,7 +2757,7 @@
    3583
   ],
   "jp": "戦うのがきらいな[n]ツバサを持つ白いヘビ[n]太陽と　風を[n]つかさどり[n]雷を　あやつる[n]空の　神さま[end]",
-  "en": ""
+  "en": "A white winged serpent who hates fighting. A sky god who rules the sun and wind and controls lightning.[end]"
  },
  {
   "id": "M3584",
@@ -2772,7 +2772,7 @@
    3584
   ],
   "jp": "人間を守るために[n]聖なる　魔法を[n]使って悪をたおす[n]正義の　ライオン[n]ランダとは永遠の[n]ライバルで　ある[end]",
-  "en": ""
+  "en": "A lion of justice that uses holy magic to defeat evil and protect humans. Rangda's eternal rival.[end]"
  },
  {
   "id": "M3585",
@@ -2787,7 +2787,7 @@
    3585
   ],
   "jp": "黄金に　かがやく[n]体をもち　ツバサで[n]だれよりも　はやく[n]ヴィシュヌをのせて[n]空を　飛び回る[n]ヘビがキライな神[end]",
-  "en": ""
+  "en": "A golden-bodied god who flies faster than anyone, carrying Vishnu through the sky. It hates snakes.[end]"
  },
  {
   "id": "M3586",
@@ -2802,7 +2802,7 @@
    3586
   ],
   "jp": "４つの方角の北を[n]守る　セイジュウ[n]水を　つかさどり[n]かたい　コウラと[n]ヘビの　シッポを[n]持つ　大きなカメ[end]",
-  "en": ""
+  "en": "The divine beast guarding the north. A huge turtle that rules water, with a hard shell and a snake for a tail.[end]"
  },
  {
   "id": "M3587",
@@ -2817,7 +2817,7 @@
    3587
   ],
   "jp": "美しい　歌声と[n]おどりで　男を[n]メロメロに　して[n]自分の　しもべに[n]してしまう　[n]愛の　女神[end]",
-  "en": ""
+  "en": "A goddess of love who makes men head over heels with her lovely singing and dancing, then makes them her servants.[end]"
  },
  {
   "id": "M3588",
@@ -2832,7 +2832,7 @@
    3588
   ],
   "jp": "アクマの　力で[n]病気をはやらせる[n]コワイ　魔女[n]色々な　姿に[n]変身して　人間を[n]だます事が大好き[end]",
-  "en": ""
+  "en": "A scary witch who spreads sickness with her devilish power. She loves changing shape to fool people.[end]"
  },
  {
   "id": "M3589",
@@ -2847,7 +2847,7 @@
    3589
   ],
   "jp": "とても　ガンコな[n]暗闇の世界の王様[n]すごくコワイけど[n]人間に　お金を[n]あたえてくれる[n]お金持ち[end]",
-  "en": ""
+  "en": "A very stubborn king of the dark world. He's super scary, but he's rich and gives money to humans.[end]"
  },
  {
   "id": "M3590",
@@ -2862,7 +2862,7 @@
    3590
   ],
   "jp": "１日に　何千キロも[n]走ることができる[n]神聖なケモノの　王様[n]雷とともにあらわれる[n]ひたいの　角が[n]トレードマーク[end]",
-  "en": ""
+  "en": "A holy king of beasts that can run thousands of miles a day. It comes with thunder. Its horn is its trademark.[end]"
  },
  {
   "id": "M3591",
@@ -2877,7 +2877,7 @@
    3591
   ],
   "jp": "４本の　ウデがあり[n]さまざまな　モノに[n]姿を　変える[n]世界を作った強い神[n]悪を　ほろぼし[n]人を　助けるという[end]",
-  "en": ""
+  "en": "A mighty god with four arms who created the world and can take many forms. He destroys evil and saves people.[end]"
  },
  {
   "id": "M3592",
@@ -2892,7 +2892,7 @@
    3592
   ],
   "jp": "４本の　ウデと[n]第３の　目が[n]とくちょうの[n]とても強い　神[n]雷を　自由にあやつり[n]すべてを　ハカイする[end]",
-  "en": ""
+  "en": "A very strong god known for his four arms and third eye. He controls lightning freely and destroys everything.[end]"
  },
  {
   "id": "M3593",
@@ -2907,7 +2907,7 @@
    3593
   ],
   "jp": "魔界で　１番の[n]カリスマ　料理人[n]きゅうきょくの[n]食材を　もとめている[n]ホントは[n]食べるほうがスキ[end]",
-  "en": ""
+  "en": "The most charismatic chef in the Demon World, searching for the ultimate ingredients. Truth is, he'd rather eat.[end]"
  },
  {
   "id": "M3594",
@@ -2922,7 +2922,7 @@
    3594
   ],
   "jp": "えらい　天使の[n]お使いをしていて[n]恋や　愛を[n]人につたえる[n]赤ん坊のような[n]小さな　天使[end]",
-  "en": ""
+  "en": "A tiny baby-like angel who runs errands for great angels, bringing love and romance to people.[end]"
  },
  {
   "id": "M3595",
@@ -2937,7 +2937,7 @@
    3595
   ],
   "jp": "すきとおるような[n]美しい　こえで[n]勝利の　歌を[n]歌ってくれる[n]死にたちむかう[n]姿を持つ　天使[end]",
-  "en": ""
+  "en": "An angel who faces death head-on and sings songs of victory in a clear, beautiful voice.[end]"
  },
  {
   "id": "M3596",
@@ -2952,7 +2952,7 @@
    3596
   ],
   "jp": "人間を　救うため[n]神の　めぐみを[n]みんなに[n]ちょっとずつ[n]プレゼントして[n]とびまわる　天使[end]",
-  "en": ""
+  "en": "An angel who flies around giving everyone a little of God's blessings to save humanity.[end]"
  },
  {
   "id": "M3597",
@@ -2967,7 +2967,7 @@
    3597
   ],
   "jp": "人の心に　入りこみ[n]悪いユウワクをする[n]小さな　デビル[n]でも　気が弱いから[n]ちょっと　おこると[n]すぐに　にげだす[end]",
-  "en": ""
+  "en": "A little devil that sneaks into people's hearts to tempt them. But it's timid and runs off if you get a bit mad.[end]"
  },
  {
   "id": "M3598",
@@ -2982,7 +2982,7 @@
    3598
   ],
   "jp": "世界中の[n]だいとうりょうや[n]そうりだいじんや[n]王様などの[n]えらい人を[n]みまもる　天使[end]",
-  "en": ""
+  "en": "An angel who watches over the world's important people, like presidents, prime ministers and kings.[end]"
  },
  {
   "id": "M3599",
@@ -2997,6 +2997,6 @@
    3599
   ],
   "jp": "神の力という意味の[n]勝利の　天使[n]世界を　守るために[n]武器を　もち[n]悪い　デビルを[n]さがしている[end]",
-  "en": ""
+  "en": "An angel of victory whose name means \"power of God.\" It bears arms and hunts evil devils to protect the world.[end]"
  }
 ]

@@ -15677,7 +15677,7 @@
   "cap": 16,
   "slots": [],
   "jp": "１０ランカー",
-  "en": ""
+  "en": "10th Ranker"
  },
  {
   "id": "F2CC90C",
@@ -15697,7 +15697,7 @@
   "cap": 16,
   "slots": [],
   "jp": "２０ランカー",
-  "en": ""
+  "en": "20th Ranker"
  },
  {
   "id": "F2CC964",
@@ -15717,7 +15717,7 @@
   "cap": 16,
   "slots": [],
   "jp": "３０ランカー",
-  "en": ""
+  "en": "30th Ranker"
  },
  {
   "id": "F2CC9BC",
@@ -15737,7 +15737,7 @@
   "cap": 16,
   "slots": [],
   "jp": "４０ランカー",
-  "en": ""
+  "en": "40th Ranker"
  },
  {
   "id": "F2CCA14",
@@ -15757,7 +15757,7 @@
   "cap": 16,
   "slots": [],
   "jp": "５０ランカー",
-  "en": ""
+  "en": "50th Ranker"
  },
  {
   "id": "F2CCA6C",
@@ -15777,7 +15777,7 @@
   "cap": 16,
   "slots": [],
   "jp": "６０ランカー",
-  "en": ""
+  "en": "60th Ranker"
  },
  {
   "id": "F2CCAC4",
@@ -15797,7 +15797,7 @@
   "cap": 16,
   "slots": [],
   "jp": "７０ランカー",
-  "en": ""
+  "en": "70th Ranker"
  },
  {
   "id": "F2CCB1C",
@@ -15817,7 +15817,7 @@
   "cap": 16,
   "slots": [],
   "jp": "８０ランカー",
-  "en": ""
+  "en": "80th Ranker"
  },
  {
   "id": "F2CCB74",
@@ -15837,7 +15837,7 @@
   "cap": 16,
   "slots": [],
   "jp": "９０ランカー",
-  "en": ""
+  "en": "90th Ranker"
  },
  {
   "id": "F2CCBCC",
@@ -15847,7 +15847,7 @@
   "cap": 16,
   "slots": [],
   "jp": "ＫＡＺＵＭＡ",
-  "en": ""
+  "en": "KAZUMA"
  },
  {
   "id": "F2CCBF8",
@@ -15857,7 +15857,7 @@
   "cap": 16,
   "slots": [],
   "jp": "ラストランカー",
-  "en": ""
+  "en": "Last Ranker"
  },
  {
   "id": "F2CCC24",
@@ -15867,7 +15867,7 @@
   "cap": 16,
   "slots": [],
   "jp": "ＣＯＺＹ",
-  "en": ""
+  "en": "COZY"
  },
  {
   "id": "F2CCD0A",
@@ -16207,7 +16207,7 @@
   "cap": 16,
   "slots": [],
   "jp": "光属性反射",
-  "en": ""
+  "en": "Repel Light"
  },
  {
   "id": "F2CD354",
@@ -16217,7 +16217,7 @@
   "cap": 16,
   "slots": [],
   "jp": "闇属性反射",
-  "en": ""
+  "en": "Repel Dark"
  },
  {
   "id": "F2CD370",
@@ -16227,7 +16227,7 @@
   "cap": 16,
   "slots": [],
   "jp": "火属性反射",
-  "en": ""
+  "en": "Repel Fire"
  },
  {
   "id": "F2CD38C",
@@ -16237,7 +16237,7 @@
   "cap": 16,
   "slots": [],
   "jp": "水属性反射",
-  "en": ""
+  "en": "Repel Water"
  },
  {
   "id": "F2CD3A8",
@@ -16247,7 +16247,7 @@
   "cap": 16,
   "slots": [],
   "jp": "地属性反射",
-  "en": ""
+  "en": "Repel Earth"
  },
  {
   "id": "F2CD3C4",
@@ -16257,7 +16257,7 @@
   "cap": 16,
   "slots": [],
   "jp": "風属性反射",
-  "en": ""
+  "en": "Repel Wind"
  },
  {
   "id": "F2CD3E0",
@@ -16267,7 +16267,7 @@
   "cap": 16,
   "slots": [],
   "jp": "雷属性反射",
-  "en": ""
+  "en": "Repel Thunder"
  },
  {
   "id": "F2CD3FC",
@@ -16277,7 +16277,7 @@
   "cap": 16,
   "slots": [],
   "jp": "氷属性反射",
-  "en": ""
+  "en": "Repel Ice"
  },
  {
   "id": "F2CD418",
@@ -16287,7 +16287,7 @@
   "cap": 16,
   "slots": [],
   "jp": "光属性吸収",
-  "en": ""
+  "en": "Drain Light"
  },
  {
   "id": "F2CD434",
@@ -16297,7 +16297,7 @@
   "cap": 16,
   "slots": [],
   "jp": "闇属性吸収",
-  "en": ""
+  "en": "Drain Dark"
  },
  {
   "id": "F2CD450",
@@ -16307,7 +16307,7 @@
   "cap": 16,
   "slots": [],
   "jp": "火属性吸収",
-  "en": ""
+  "en": "Drain Fire"
  },
  {
   "id": "F2CD46C",
@@ -16317,7 +16317,7 @@
   "cap": 16,
   "slots": [],
   "jp": "水属性吸収",
-  "en": ""
+  "en": "Drain Water"
  },
  {
   "id": "F2CD488",
@@ -16327,7 +16327,7 @@
   "cap": 16,
   "slots": [],
   "jp": "地属性吸収",
-  "en": ""
+  "en": "Drain Earth"
  },
  {
   "id": "F2CD4A4",
@@ -16337,7 +16337,7 @@
   "cap": 16,
   "slots": [],
   "jp": "風属性吸収",
-  "en": ""
+  "en": "Drain Wind"
  },
  {
   "id": "F2CD4C0",
@@ -16347,7 +16347,7 @@
   "cap": 16,
   "slots": [],
   "jp": "雷属性吸収",
-  "en": ""
+  "en": "Drain Thunder"
  },
  {
   "id": "F2CD4DC",
@@ -16357,7 +16357,7 @@
   "cap": 16,
   "slots": [],
   "jp": "氷属性吸収",
-  "en": ""
+  "en": "Drain Ice"
  },
  {
   "id": "F2CD4F8",
@@ -16367,7 +16367,7 @@
   "cap": 16,
   "slots": [],
   "jp": "光属性不死",
-  "en": ""
+  "en": "Null Light"
  },
  {
   "id": "F2CD514",
@@ -16377,7 +16377,7 @@
   "cap": 16,
   "slots": [],
   "jp": "闇属性不死",
-  "en": ""
+  "en": "Null Dark"
  },
  {
   "id": "F2CD530",
@@ -16387,7 +16387,7 @@
   "cap": 16,
   "slots": [],
   "jp": "火属性不死",
-  "en": ""
+  "en": "Null Fire"
  },
  {
   "id": "F2CD54C",
@@ -16397,7 +16397,7 @@
   "cap": 16,
   "slots": [],
   "jp": "水属性不死",
-  "en": ""
+  "en": "Null Water"
  },
  {
   "id": "F2CD568",
@@ -16407,7 +16407,7 @@
   "cap": 16,
   "slots": [],
   "jp": "地属性不死",
-  "en": ""
+  "en": "Null Earth"
  },
  {
   "id": "F2CD584",
@@ -16417,7 +16417,7 @@
   "cap": 16,
   "slots": [],
   "jp": "風属性不死",
-  "en": ""
+  "en": "Null Wind"
  },
  {
   "id": "F2CD5A0",
@@ -16427,7 +16427,7 @@
   "cap": 16,
   "slots": [],
   "jp": "雷属性不死",
-  "en": ""
+  "en": "Null Thunder"
  },
  {
   "id": "F2CD5BC",
@@ -16437,7 +16437,7 @@
   "cap": 16,
   "slots": [],
   "jp": "氷属性不死",
-  "en": ""
+  "en": "Null Ice"
  },
  {
   "id": "F2CD5D8",
@@ -16447,7 +16447,7 @@
   "cap": 16,
   "slots": [],
   "jp": "神種族天敵",
-  "en": ""
+  "en": "God Slayer"
  },
  {
   "id": "F2CD5F4",
@@ -16457,7 +16457,7 @@
   "cap": 16,
   "slots": [],
   "jp": "悪魔種族天敵",
-  "en": ""
+  "en": "Devil Slayer"
  },
  {
   "id": "F2CD610",
@@ -16467,7 +16467,7 @@
   "cap": 16,
   "slots": [],
   "jp": "天使種族天敵",
-  "en": ""
+  "en": "Angel Slayer"
  },
  {
   "id": "F2CD62C",
@@ -16477,7 +16477,7 @@
   "cap": 16,
   "slots": [],
   "jp": "龍種族天敵",
-  "en": ""
+  "en": "Dragon Slayer"
  },
  {
   "id": "F2CD648",
@@ -16487,7 +16487,7 @@
   "cap": 16,
   "slots": [],
   "jp": "鳥種族天敵",
-  "en": ""
+  "en": "Bird Slayer"
  },
  {
   "id": "F2CD664",
@@ -16497,7 +16497,7 @@
   "cap": 16,
   "slots": [],
   "jp": "獣種族天敵",
-  "en": ""
+  "en": "Beast Slayer"
  },
  {
   "id": "F2CD680",
@@ -16507,7 +16507,7 @@
   "cap": 16,
   "slots": [],
   "jp": "鬼種族天敵",
-  "en": ""
+  "en": "Oni Slayer"
  },
  {
   "id": "F2CD69C",
@@ -16517,7 +16517,7 @@
   "cap": 16,
   "slots": [],
   "jp": "霊種族天敵",
-  "en": ""
+  "en": "Spirit Slayer"
  },
  {
   "id": "F2CD6B8",
@@ -16527,7 +16527,7 @@
   "cap": 16,
   "slots": [],
   "jp": "妖魔種族天敵",
-  "en": ""
+  "en": "Fiend Slayer"
  },
  {
   "id": "F2CD6D4",
@@ -16537,7 +16537,7 @@
   "cap": 16,
   "slots": [],
   "jp": "逃走本能",
-  "en": ""
+  "en": "Flight Instinct"
  },
  {
   "id": "F2CD6F0",
@@ -16547,7 +16547,7 @@
   "cap": 16,
   "slots": [],
   "jp": "獣相性良し",
-  "en": ""
+  "en": "Beast Pal"
  },
  {
   "id": "F2CD70C",
@@ -16557,7 +16557,7 @@
   "cap": 16,
   "slots": [],
   "jp": "言語不明相性良し",
-  "en": ""
+  "en": "Babbler Pal"
  },
  {
   "id": "F2CD728",
@@ -16567,7 +16567,7 @@
   "cap": 16,
   "slots": [],
   "jp": "偉そう男相性良し",
-  "en": ""
+  "en": "Snob Guy Pal"
  },
  {
   "id": "F2CD744",
@@ -16577,7 +16577,7 @@
   "cap": 16,
   "slots": [],
   "jp": "偉そう女相性良し",
-  "en": ""
+  "en": "Snob Gal Pal"
  },
  {
   "id": "F2CD760",
@@ -16587,7 +16587,7 @@
   "cap": 16,
   "slots": [],
   "jp": "普通男相性良し",
-  "en": ""
+  "en": "Plain Guy Pal"
  },
  {
   "id": "F2CD77C",
@@ -16597,7 +16597,7 @@
   "cap": 16,
   "slots": [],
   "jp": "普通女相性良し",
-  "en": ""
+  "en": "Plain Gal Pal"
  },
  {
   "id": "F2CD798",
@@ -16607,7 +16607,7 @@
   "cap": 16,
   "slots": [],
   "jp": "ワル男相性良し",
-  "en": ""
+  "en": "Bad Boy Pal"
  },
  {
   "id": "F2CD7B4",
@@ -16617,7 +16617,7 @@
   "cap": 16,
   "slots": [],
   "jp": "ワル女相性良し",
-  "en": ""
+  "en": "Bad Girl Pal"
  },
  {
   "id": "F2CD7D0",
@@ -16627,7 +16627,7 @@
   "cap": 16,
   "slots": [],
   "jp": "応援上手",
-  "en": ""
+  "en": "Cheerleader"
  },
  {
   "id": "F2CD7EC",
@@ -16637,7 +16637,7 @@
   "cap": 16,
   "slots": [],
   "jp": "死なばもろとも",
-  "en": ""
+  "en": "Death Pact"
  },
  {
   "id": "F2CD808",
@@ -16647,7 +16647,7 @@
   "cap": 16,
   "slots": [],
   "jp": "男気",
-  "en": ""
+  "en": "Chivalry"
  },
  {
   "id": "F2CD824",
@@ -16657,7 +16657,7 @@
   "cap": 16,
   "slots": [],
   "jp": "存在感無し",
-  "en": ""
+  "en": "Wallflower"
  },
  {
   "id": "F2CD840",
@@ -16667,7 +16667,7 @@
   "cap": 16,
   "slots": [],
   "jp": "気に障る存在",
-  "en": ""
+  "en": "Annoying"
  },
  {
   "id": "F2CD85C",
@@ -16677,7 +16677,7 @@
   "cap": 16,
   "slots": [],
   "jp": "冷静",
-  "en": ""
+  "en": "Composure"
  },
  {
   "id": "F2CD878",
@@ -16687,7 +16687,7 @@
   "cap": 16,
   "slots": [],
   "jp": "ヌカにクギ",
-  "en": ""
+  "en": "Unfazed"
  },
  {
   "id": "F2CD894",
@@ -16697,7 +16697,7 @@
   "cap": 16,
   "slots": [],
   "jp": "神速",
-  "en": ""
+  "en": "Godspeed"
  },
  {
   "id": "F2CD8B0",
@@ -16707,7 +16707,7 @@
   "cap": 16,
   "slots": [],
   "jp": "水に流す",
-  "en": ""
+  "en": "Let It Go"
  },
  {
   "id": "F2CD8CC",
@@ -16717,7 +16717,7 @@
   "cap": 16,
   "slots": [],
   "jp": "ゲキリン",
-  "en": ""
+  "en": "Wrath"
  },
  {
   "id": "F2CD8E8",
@@ -16727,7 +16727,7 @@
   "cap": 16,
   "slots": [],
   "jp": "開運",
-  "en": ""
+  "en": "Lucky Break"
  },
  {
   "id": "F2CD904",
@@ -16737,7 +16737,7 @@
   "cap": 16,
   "slots": [],
   "jp": "心頭滅却",
-  "en": ""
+  "en": "Iron Will"
  },
  {
   "id": "F2CD920",
@@ -16747,7 +16747,7 @@
   "cap": 16,
   "slots": [],
   "jp": "九死に一生",
-  "en": ""
+  "en": "Close Call"
  },
  {
   "id": "F2CD93C",
@@ -16757,7 +16757,7 @@
   "cap": 16,
   "slots": [],
   "jp": "百発百中",
-  "en": ""
+  "en": "Sure Shot"
  },
  {
   "id": "F2CD958",
@@ -16767,7 +16767,7 @@
   "cap": 16,
   "slots": [],
   "jp": "きぶんや",
-  "en": ""
+  "en": "Moody"
  },
  {
   "id": "F2CD974",
@@ -16777,7 +16777,7 @@
   "cap": 16,
   "slots": [],
   "jp": "きまぐれ",
-  "en": ""
+  "en": "Fickle"
  },
  {
   "id": "F2CD990",
@@ -16787,7 +16787,7 @@
   "cap": 16,
   "slots": [],
   "jp": "トリックスター",
-  "en": ""
+  "en": "Trickster"
  },
  {
   "id": "F2CD9AC",
@@ -16797,7 +16797,7 @@
   "cap": 16,
   "slots": [],
   "jp": "不死身",
-  "en": ""
+  "en": "Undying"
  },
  {
   "id": "F2CD9C8",
@@ -16807,7 +16807,7 @@
   "cap": 16,
   "slots": [],
   "jp": "光の化身",
-  "en": ""
+  "en": "Light Avatar"
  },
  {
   "id": "F2CD9E4",
@@ -16817,7 +16817,7 @@
   "cap": 16,
   "slots": [],
   "jp": "闇の化身",
-  "en": ""
+  "en": "Dark Avatar"
  },
  {
   "id": "F2CDA00",
@@ -16827,7 +16827,7 @@
   "cap": 16,
   "slots": [],
   "jp": "火の化身",
-  "en": ""
+  "en": "Fire Avatar"
  },
  {
   "id": "F2CDA1C",
@@ -16837,7 +16837,7 @@
   "cap": 16,
   "slots": [],
   "jp": "水の化身",
-  "en": ""
+  "en": "Water Avatar"
  },
  {
   "id": "F2CDA38",
@@ -16847,7 +16847,7 @@
   "cap": 16,
   "slots": [],
   "jp": "地の化身",
-  "en": ""
+  "en": "Earth Avatar"
  },
  {
   "id": "F2CDA54",
@@ -16857,7 +16857,7 @@
   "cap": 16,
   "slots": [],
   "jp": "風の化身",
-  "en": ""
+  "en": "Wind Avatar"
  },
  {
   "id": "F2CDA70",
@@ -16867,7 +16867,7 @@
   "cap": 16,
   "slots": [],
   "jp": "雷の化身",
-  "en": ""
+  "en": "Thunder Avatar"
  },
  {
   "id": "F2CDA8C",
@@ -16877,7 +16877,7 @@
   "cap": 16,
   "slots": [],
   "jp": "氷の化身",
-  "en": ""
+  "en": "Ice Avatar"
  },
  {
   "id": "F2CDAA8",
@@ -16887,7 +16887,7 @@
   "cap": 16,
   "slots": [],
   "jp": "集中１",
-  "en": ""
+  "en": "Focus 1"
  },
  {
   "id": "F2CDAC4",
@@ -16897,7 +16897,7 @@
   "cap": 16,
   "slots": [],
   "jp": "集中２",
-  "en": ""
+  "en": "Focus 2"
  },
  {
   "id": "F2CDAE0",
@@ -16907,7 +16907,7 @@
   "cap": 16,
   "slots": [],
   "jp": "集中３",
-  "en": ""
+  "en": "Focus 3"
  },
  {
   "id": "F2CDAFC",
@@ -16917,7 +16917,7 @@
   "cap": 16,
   "slots": [],
   "jp": "重い打撃１",
-  "en": ""
+  "en": "Heavy Blow 1"
  },
  {
   "id": "F2CDB18",
@@ -16927,7 +16927,7 @@
   "cap": 16,
   "slots": [],
   "jp": "重い打撃２",
-  "en": ""
+  "en": "Heavy Blow 2"
  },
  {
   "id": "F2CDB34",
@@ -16937,7 +16937,7 @@
   "cap": 16,
   "slots": [],
   "jp": "重い打撃３",
-  "en": ""
+  "en": "Heavy Blow 3"
  },
  {
   "id": "F2CDB50",
@@ -16947,7 +16947,7 @@
   "cap": 16,
   "slots": [],
   "jp": "おぼろげ１",
-  "en": ""
+  "en": "Hazy 1"
  },
  {
   "id": "F2CDB6C",
@@ -16957,7 +16957,7 @@
   "cap": 16,
   "slots": [],
   "jp": "おぼろげ２",
-  "en": ""
+  "en": "Hazy 2"
  },
  {
   "id": "F2CDB88",
@@ -16967,7 +16967,7 @@
   "cap": 16,
   "slots": [],
   "jp": "おぼろげ３",
-  "en": ""
+  "en": "Hazy 3"
  },
  {
   "id": "F2CDBA4",
@@ -16977,7 +16977,7 @@
   "cap": 16,
   "slots": [],
   "jp": "逃げ上手１",
-  "en": ""
+  "en": "Escape Artist 1"
  },
  {
   "id": "F2CDBC0",
@@ -16987,7 +16987,7 @@
   "cap": 16,
   "slots": [],
   "jp": "逃げ上手２",
-  "en": ""
+  "en": "Escape Artist 2"
  },
  {
   "id": "F2CDBDC",
@@ -16997,7 +16997,7 @@
   "cap": 16,
   "slots": [],
   "jp": "逃げ上手３",
-  "en": ""
+  "en": "Escape Artist 3"
  },
  {
   "id": "F2CDBF8",
@@ -17007,7 +17007,7 @@
   "cap": 16,
   "slots": [],
   "jp": "さむい奴１",
-  "en": ""
+  "en": "Cold Fish 1"
  },
  {
   "id": "F2CDC14",
@@ -17017,7 +17017,7 @@
   "cap": 16,
   "slots": [],
   "jp": "さむい奴２",
-  "en": ""
+  "en": "Cold Fish 2"
  },
  {
   "id": "F2CDC30",
@@ -17027,7 +17027,7 @@
   "cap": 16,
   "slots": [],
   "jp": "嫌な笑い１",
-  "en": ""
+  "en": "Creepy Grin 1"
  },
  {
   "id": "F2CDC4C",
@@ -17037,7 +17037,7 @@
   "cap": 16,
   "slots": [],
   "jp": "嫌な笑い２",
-  "en": ""
+  "en": "Creepy Grin 2"
  },
  {
   "id": "F2CDC68",
@@ -17047,7 +17047,7 @@
   "cap": 16,
   "slots": [],
   "jp": "フェロモン１",
-  "en": ""
+  "en": "Pheromone 1"
  },
  {
   "id": "F2CDC84",
@@ -17057,7 +17057,7 @@
   "cap": 16,
   "slots": [],
   "jp": "フェロモン２",
-  "en": ""
+  "en": "Pheromone 2"
  },
  {
   "id": "F2CDCA0",
@@ -17067,7 +17067,7 @@
   "cap": 16,
   "slots": [],
   "jp": "帯電体質１",
-  "en": ""
+  "en": "Static Body 1"
  },
  {
   "id": "F2CDCBC",
@@ -17077,7 +17077,7 @@
   "cap": 16,
   "slots": [],
   "jp": "帯電体質２",
-  "en": ""
+  "en": "Static Body 2"
  },
  {
   "id": "F2CDCD8",
@@ -17087,7 +17087,7 @@
   "cap": 16,
   "slots": [],
   "jp": "腐った身体１",
-  "en": ""
+  "en": "Rotten Body 1"
  },
  {
   "id": "F2CDCF4",
@@ -17097,7 +17097,7 @@
   "cap": 16,
   "slots": [],
   "jp": "腐った身体２",
-  "en": ""
+  "en": "Rotten Body 2"
  },
  {
   "id": "F2CDD10",
@@ -17107,7 +17107,7 @@
   "cap": 16,
   "slots": [],
   "jp": "忍び足１",
-  "en": ""
+  "en": "Tiptoe 1"
  },
  {
   "id": "F2CDD2C",
@@ -17117,7 +17117,7 @@
   "cap": 16,
   "slots": [],
   "jp": "忍び足２",
-  "en": ""
+  "en": "Tiptoe 2"
  },
  {
   "id": "F2CDD48",
@@ -17127,7 +17127,7 @@
   "cap": 16,
   "slots": [],
   "jp": "忍び足３",
-  "en": ""
+  "en": "Tiptoe 3"
  },
  {
   "id": "F2CDD64",
@@ -17137,7 +17137,7 @@
   "cap": 16,
   "slots": [],
   "jp": "厳重警戒１",
-  "en": ""
+  "en": "High Alert 1"
  },
  {
   "id": "F2CDD80",
@@ -17147,7 +17147,7 @@
   "cap": 16,
   "slots": [],
   "jp": "厳重警戒２",
-  "en": ""
+  "en": "High Alert 2"
  },
  {
   "id": "F2CDD9C",
@@ -17157,7 +17157,7 @@
   "cap": 16,
   "slots": [],
   "jp": "厳重警戒３",
-  "en": ""
+  "en": "High Alert 3"
  },
  {
   "id": "F2CDDB8",
@@ -17167,7 +17167,7 @@
   "cap": 16,
   "slots": [],
   "jp": "孤高",
-  "en": ""
+  "en": "Lone Wolf"
  },
  {
   "id": "F2CDDD4",
@@ -17177,7 +17177,7 @@
   "cap": 16,
   "slots": [],
   "jp": "人気者",
-  "en": ""
+  "en": "Popular"
  },
  {
   "id": "F2CDDF0",
@@ -17187,6 +17187,6 @@
   "cap": 16,
   "slots": [],
   "jp": "恐怖の対象",
-  "en": ""
+  "en": "Dreaded"
  }
 ]

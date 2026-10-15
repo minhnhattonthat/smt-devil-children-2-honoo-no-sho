@@ -316,7 +316,7 @@
    2420
   ],
   "jp": "いらっしゃいませ！[wait][end]",
-  "en": ""
+  "en": "Welcome![wait][end]"
  },
  {
   "id": "M2421",
@@ -331,7 +331,7 @@
    2421
   ],
   "jp": "ここは　マッカをおあずかりする[n]ぎんこうです[wait][end]",
-  "en": ""
+  "en": "This is the bank, where we look after your Macca.[wait][end]"
  },
  {
   "id": "M2422",
@@ -346,7 +346,7 @@
    2422
   ],
   "jp": "そんなにもっていませんよ[n]やりなおしてください[wait][end]",
-  "en": ""
+  "en": "You don't have that much. Please try again.[wait][end]"
  },
  {
   "id": "M2423",
@@ -361,7 +361,7 @@
    2423
   ],
   "jp": "そんなに　あずかっていません[wait][end]",
-  "en": ""
+  "en": "We aren't holding that much for you.[wait][end]"
  },
  {
   "id": "M2424",
@@ -376,7 +376,7 @@
    2424
   ],
   "jp": "おとまりになりますか？[wait][end]",
-  "en": ""
+  "en": "Will you be staying the night?[wait][end]"
  },
  {
   "id": "M2425",
@@ -391,7 +391,7 @@
    2425
   ],
   "jp": "〒[ec:0]になりますが[n]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "That will be 〒[ec:0]. Is that all right?[fb:0][end]"
  },
  {
   "id": "M2426",
@@ -406,7 +406,7 @@
    2426
   ],
   "jp": "キゼツしている　ナカマは[n]いません[wait][end]",
-  "en": ""
+  "en": "None of your allies have fainted.[wait][end]"
  },
  {
   "id": "M2427",
@@ -421,7 +421,7 @@
    2427
   ],
   "jp": "ここは　ケガをしたデビルをなおす[n]ちりょうやです[wait][end]",
-  "en": ""
+  "en": "This is the clinic, where we heal injured demons.[wait][end]"
  },
  {
   "id": "M2428",
@@ -436,7 +436,7 @@
    2428
   ],
   "jp": "ここでは　いろいろなアイテムを[n]とりそろえて　おります[wait][end]",
-  "en": ""
+  "en": "We carry all sorts of items here.[wait][end]"
  },
  {
   "id": "M2429",
@@ -451,7 +451,7 @@
    2429
   ],
   "jp": "なにをおかいもとめですか？[wait][end]",
-  "en": ""
+  "en": "What would you like to buy?[wait][end]"
  },
  {
   "id": "M2430",
@@ -466,7 +466,7 @@
    2430
   ],
   "jp": "回復　[f4]は[n]〒[ec:0]になりますが[wait][clr]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "The recovery item [f4] is 〒[ec:0].[wait][clr]Is that all right?[fb:0][end]"
  },
  {
   "id": "M2431",
@@ -481,7 +481,7 @@
    2431
   ],
   "jp": "この　アイテムは[n]これいじょう　もてませんよ[wait][end]",
-  "en": ""
+  "en": "You can't carry any more of this item.[wait][end]"
  },
  {
   "id": "M2432",
@@ -496,7 +496,7 @@
    2432
   ],
   "jp": "この　アイテムは　うりきれですよ[wait][end]",
-  "en": ""
+  "en": "Sorry, this item is sold out.[wait][end]"
  },
  {
   "id": "M2433",
@@ -511,7 +511,7 @@
    2433
   ],
   "jp": "マッカがたりないよ[wait][end]",
-  "en": ""
+  "en": "You don't have enough Macca![wait][end]"
  },
  {
   "id": "M2434",
@@ -526,7 +526,7 @@
    2434
   ],
   "jp": "まいど[n]ありがとうございます[wait][end]",
-  "en": ""
+  "en": "Thank you very much![wait][end]"
  },
  {
   "id": "M2435",
@@ -545,7 +545,7 @@
    2435
   ],
   "jp": "ここでは　メダルをかけて[n]ゲームができます[wait][end]",
-  "en": ""
+  "en": "Here you can bet medals and play games.[wait][end]"
  },
  {
   "id": "M2436",
@@ -560,7 +560,7 @@
    2436
   ],
   "jp": "ビッグ　＆　スモールです[n]やりますか？[fb:0][end]",
-  "en": ""
+  "en": "This is Big & Small. Want to play?[fb:0][end]"
  },
  {
   "id": "M2437",
@@ -575,7 +575,7 @@
    2437
   ],
   "jp": "メダルがたりません[n]５マイからあそべます[wait][end]",
-  "en": ""
+  "en": "Not enough medals. You need at least 5 to play.[wait][end]"
  },
  {
   "id": "M2438",
@@ -590,7 +590,7 @@
    2438
   ],
   "jp": "メダルを　なんまい　かけますか？[n]　　５マイ　１０マイ　２０マイ[end]",
-  "en": ""
+  "en": "How many medals will you bet?[n]5 Medals  10 Medals  20 Medals[end]"
  },
  {
   "id": "M2439",
@@ -605,7 +605,7 @@
    2439
   ],
   "jp": "かずは[ec:0]です[n]ビッグ？　スモール？[end]",
-  "en": ""
+  "en": "The number is [ec:0].[n]Big? Small?[end]"
  },
  {
   "id": "M2440",
@@ -620,7 +620,7 @@
    2440
   ],
   "jp": "けっかは[ec:0]　です[wait][end]",
-  "en": ""
+  "en": "The result is [ec:0].[wait][end]"
  },
  {
   "id": "M2441",
@@ -635,7 +635,7 @@
    2441
   ],
   "jp": "かち！[wait][end]",
-  "en": ""
+  "en": "You win![wait][end]"
  },
  {
   "id": "M2442",
@@ -650,7 +650,7 @@
    2442
   ],
   "jp": "まけ・・・[wait][end]",
-  "en": ""
+  "en": "You lose...[wait][end]"
  },
  {
   "id": "M2443",
@@ -665,7 +665,7 @@
    2443
   ],
   "jp": "つづける？[fb:0][end]",
-  "en": ""
+  "en": "Continue?[fb:0][end]"
  },
  {
   "id": "M2444",
@@ -680,7 +680,7 @@
    2444
   ],
   "jp": "もう１回　やりますか？[fb:0][end]",
-  "en": ""
+  "en": "Play one more time?[fb:0][end]"
  },
  {
   "id": "M2445",
@@ -695,7 +695,7 @@
    2445
   ],
   "jp": "メダルを　[ec:0]マイ[n]かくとくしました[wait][end]",
-  "en": ""
+  "en": "You got [ec:0] medals.[wait][end]"
  },
  {
   "id": "M2446",
@@ -710,7 +710,7 @@
    2446
   ],
   "jp": "メダルが　たりません[wait][end]",
-  "en": ""
+  "en": "Not enough medals.[wait][end]"
  },
  {
   "id": "M2447",
@@ -725,7 +725,7 @@
    2447
   ],
   "jp": "ここは　メダルはんばいじょです[wait][end]",
-  "en": ""
+  "en": "This is the medal counter.[wait][end]"
  },
  {
   "id": "M2448",
@@ -740,7 +740,7 @@
    2448
   ],
   "jp": "ゲームをするには　メダルがいります[n]メダルを　かいますか？[fb:0][end]",
-  "en": ""
+  "en": "You need medals to play the games. Buy some medals?[fb:0][end]"
  },
  {
   "id": "M2449",
@@ -755,7 +755,7 @@
    2449
   ],
   "jp": "[ec:0]マイ　かいました[wait][end]",
-  "en": ""
+  "en": "Bought [ec:0] medals.[wait][end]"
  },
  {
   "id": "M2450",
@@ -770,7 +770,7 @@
    2450
   ],
   "jp": "なんいどを　せんたくしてください[end]",
-  "en": ""
+  "en": "Please select a difficulty.[end]"
  },
  {
   "id": "M2451",
@@ -785,7 +785,7 @@
    2451
   ],
   "jp": "メダル　[ec:0]マイで１ゲームです[n]やりますか？[fb:0][end]",
-  "en": ""
+  "en": "One game costs [ec:0] medals. Want to play?[fb:0][end]"
  },
  {
   "id": "M2452",
@@ -800,7 +800,7 @@
    2452
   ],
   "jp": "おなじ数字は[n]にゅうりょくできません[wait][end]",
-  "en": ""
+  "en": "You can't enter the same number twice.[wait][end]"
  },
  {
   "id": "M2453",
@@ -815,7 +815,7 @@
    2453
   ],
   "jp": "ゲームのとちゅうですが[n]やめますか？[fb:0][end]",
-  "en": ""
+  "en": "The game isn't over yet. Quit anyway?[fb:0][end]"
  },
  {
   "id": "M2454",
@@ -830,7 +830,7 @@
    2454
   ],
   "jp": "こたえは[n]　　　　[ec:0][ec:1][ec:2][wait][end]",
-  "en": ""
+  "en": "The answer is [ec:0][ec:1][ec:2].[wait][end]"
  },
  {
   "id": "M2455",
@@ -845,7 +845,7 @@
    2455
   ],
   "jp": "ここは　けいひんこうかんじょです[wait][end]",
-  "en": ""
+  "en": "This is the prize exchange.[wait][end]"
  },
  {
   "id": "M2456",
@@ -860,7 +860,7 @@
    2456
   ],
   "jp": "[f4]　ですね[n]メダル　[ec:0]マイです[wait][clr]これで　いいですか？[fb:0][end]",
-  "en": ""
+  "en": "[f4], is it? That's [ec:0] medals.[wait][clr]Is that okay?[fb:0][end]"
  },
  {
   "id": "M2457",
@@ -875,7 +875,7 @@
    2457
   ],
   "jp": "[e8]　ですね[n]メダル　[ec:0]マイです[wait][clr]これで　いいですか？[fb:0][end]",
-  "en": ""
+  "en": "[e8], is it? That's [ec:0] medals.[wait][clr]Is that okay?[fb:0][end]"
  },
  {
   "id": "M2458",
@@ -890,7 +890,7 @@
    2458
   ],
   "jp": "[f4]を　てにいれた！[wait][end]",
-  "en": ""
+  "en": "You got [f4]![wait][end]"
  },
  {
   "id": "M2459",
@@ -905,7 +905,7 @@
    2459
   ],
   "jp": "[e8]を　てにいれた！[wait][end]",
-  "en": ""
+  "en": "You got [e8]![wait][end]"
  },
  {
   "id": "M2460",
@@ -920,7 +920,7 @@
    2460
   ],
   "jp": "こうかんできるものがありません[wait][end]",
-  "en": ""
+  "en": "There's nothing you can exchange.[wait][end]"
  },
  {
   "id": "M2461",
@@ -935,7 +935,7 @@
    2461
   ],
   "jp": "化石を合体させる[n]ゾンビを復活させる[end]",
-  "en": ""
+  "en": "Fuse fossils[n]Revive a zombie[end]"
  },
  {
   "id": "M2462",
@@ -950,7 +950,7 @@
    2462
   ],
   "jp": "化石が　ありません[wait][end]",
-  "en": ""
+  "en": "You don't have any fossils.[wait][end]"
  },
  {
   "id": "M2463",
@@ -965,7 +965,7 @@
    2463
   ],
   "jp": "化石が　足りません[wait][end]",
-  "en": ""
+  "en": "You don't have enough fossils.[wait][end]"
  },
  {
   "id": "M2464",
@@ -980,7 +980,7 @@
    2464
   ],
   "jp": "復活できるゾンビデビルが[n]いません[wait][end]",
-  "en": ""
+  "en": "You don't have any zombie demons to revive.[wait][end]"
  },
  {
   "id": "M2465",
@@ -995,7 +995,7 @@
    2465
   ],
   "jp": "アイテムが　たりません[wait][end]",
-  "en": ""
+  "en": "You don't have enough items.[wait][end]"
  },
  {
   "id": "M2466",
@@ -1010,7 +1010,7 @@
    2466
   ],
   "jp": "化石が　えらばれていません[wait][end]",
-  "en": ""
+  "en": "No fossils have been selected.[wait][end]"
  },
  {
   "id": "M2467",
@@ -1025,7 +1025,7 @@
    2467
   ],
   "jp": "この組み合わせでよろしいですか？[fb:1][end]",
-  "en": ""
+  "en": "Is this combination all right?[fb:1][end]"
  },
  {
   "id": "M2468",
@@ -1040,7 +1040,7 @@
    2468
   ],
   "jp": "合体しますか？[fb:1][end]",
-  "en": ""
+  "en": "Go ahead with the fusion?[fb:1][end]"
  },
  {
   "id": "M2469",
@@ -1055,7 +1055,7 @@
    2469
   ],
   "jp": "ナカマが　いっぱいです[n]へらしてきてください[wait][end]",
-  "en": ""
+  "en": "You have too many allies. Please come back with fewer.[wait][end]"
  },
  {
   "id": "M2470",
@@ -1070,7 +1070,7 @@
    2470
   ],
   "jp": "合体の説明を聞きますか？[fb:1][end]",
-  "en": ""
+  "en": "Hear an explanation of fusion?[fb:1][end]"
  },
  {
   "id": "M2471",
@@ -1085,7 +1085,7 @@
    2471
   ],
   "jp": "化石合体[n]ゾンビ復活[end]",
-  "en": ""
+  "en": "Fossil Fusion[n]Zombie Revival[end]"
  },
  {
   "id": "M2472",
@@ -1100,7 +1100,7 @@
    2472
   ],
   "jp": "ここでの「化石合体」は[n]種類のちがう化石アイテムを[wait][clr]３つ組み合わせることによって[wait][clr]ナカマをつくることができます[wait][clr]では　ためしてみましょう[wait][end]",
-  "en": ""
+  "en": "\"Fossil Fusion\" here takes fossil items of different kinds[wait][clr]and combines three of them[wait][clr]to create an ally.[wait][clr]Now, let's give it a try.[wait][end]"
  },
  {
   "id": "M2473",
@@ -1115,7 +1115,7 @@
    2473
   ],
   "jp": "まず画面の説明をします[wait][end]",
-  "en": ""
+  "en": "First, let me explain the screen.[wait][end]"
  },
  {
   "id": "M2474",
@@ -1130,7 +1130,7 @@
    2474
   ],
   "jp": "「化石１」「化石２」「化石３」は[n]それぞれ種類のちがった[wait][clr]化石アイテムを選びます[wait][end]",
-  "en": ""
+  "en": "\"Fossil 1,\" \"Fossil 2\" and \"Fossil 3\" each hold[wait][clr]a different kind of fossil item.[wait][end]"
  },
  {
   "id": "M2475",
@@ -1145,7 +1145,7 @@
    2475
   ],
   "jp": "「おまかせ」は　もっている[n]化石アイテムを　ランダムに[wait][clr]選んでくれます[wait][end]",
-  "en": ""
+  "en": "\"Auto\" picks fossil items you own[wait][clr]at random.[wait][end]"
  },
  {
   "id": "M2476",
@@ -1160,7 +1160,7 @@
    2476
   ],
   "jp": "「合体」は　組み合わせが終わったら[n]せんたくします[wait][end]",
-  "en": ""
+  "en": "Select \"Fuse\" once you've finished combining.[wait][end]"
  },
  {
   "id": "M2477",
@@ -1175,7 +1175,7 @@
    2477
   ],
   "jp": "それでは　化石アイテムを[n]せんたくします[wait][end]",
-  "en": ""
+  "en": "Now, select the fossil items.[wait][end]"
  },
  {
   "id": "M2478",
@@ -1190,7 +1190,7 @@
    2478
   ],
   "jp": "組み合わせが終わったら[n]「合体」をせんたくします[wait][end]",
-  "en": ""
+  "en": "Once you've finished combining, select \"Fuse.\"[wait][end]"
  },
  {
   "id": "M2479",
@@ -1205,7 +1205,7 @@
    2479
   ],
   "jp": "その後　できるナカマの[n]ニュアンスがつたえられます[wait][end]",
-  "en": ""
+  "en": "After that, you'll get a hint about the ally it will make.[wait][end]"
  },
  {
   "id": "M2480",
@@ -1220,7 +1220,7 @@
    2480
   ],
   "jp": "それでは　合体させてみましょう[wait][end]",
-  "en": ""
+  "en": "Now, let's try fusing them.[wait][end]"
  },
  {
   "id": "M2481",
@@ -1235,7 +1235,7 @@
    2481
   ],
   "jp": "また　さっき組み合わせた[n]化石アイテムの順番がちがっても[wait][clr]できるナカマはかわりません[wait][clr]それと　「化石合体」でしか[wait][clr]できないナカマもいます[wait][end]",
-  "en": ""
+  "en": "Also, even if the fossil items you just combined are in a different order,[wait][clr]the resulting ally won't change.[wait][clr]And there are some allies[wait][clr]you can only make with \"Fossil Fusion.\"[wait][end]"
  },
  {
   "id": "M2482",
@@ -1250,7 +1250,7 @@
    2482
   ],
   "jp": "ここでの「ゾンビ復活」は[n]ゾンビデビルと復活アイテムを[wait][clr]合体させることによって[wait][clr]元のデビルに戻すことができます[wait][clr]では　ためしてみましょう[wait][end]",
-  "en": ""
+  "en": "\"Zombie Revival\" here takes a zombie demon and a revival item[wait][clr]and fuses them together[wait][clr]to turn it back into its original demon.[wait][clr]Now, let's give it a try.[wait][end]"
  },
  {
   "id": "M2483",
@@ -1265,7 +1265,7 @@
    2483
   ],
   "jp": "まず懆作の説明をします[wait][end]",
-  "en": ""
+  "en": "First, let me explain the controls.[wait][end]"
  },
  {
   "id": "M2484",
@@ -1280,7 +1280,7 @@
    2484
   ],
   "jp": "十字ボタンの上下で[n]ナカマのせんたくをして[wait][clr]決定ならばＡボタン[wait][clr]キャンセルならばＢボタンです[wait][end]",
-  "en": ""
+  "en": "Press Up/Down on the +Control Pad to choose an ally,[wait][clr]the A Button to confirm,[wait][clr]and the B Button to cancel.[wait][end]"
  },
  {
   "id": "M2485",
@@ -1295,7 +1295,7 @@
    2485
   ],
   "jp": "ナカマをせんたくします[wait][end]",
-  "en": ""
+  "en": "Select an ally.[wait][end]"
  },
  {
   "id": "M2486",
@@ -1310,7 +1310,7 @@
    2486
   ],
   "jp": "ここでは[n]各ゾンビデビルが復活するための[wait][clr]復活アイテムが表示されます[wait][end]",
-  "en": ""
+  "en": "This shows, for each zombie demon,[wait][clr]the revival item it needs to come back.[wait][end]"
  },
  {
   "id": "M2487",
@@ -1325,7 +1325,7 @@
    2487
   ],
   "jp": "復活アイテムをせんたくします[wait][end]",
-  "en": ""
+  "en": "Select a revival item.[wait][end]"
  },
  {
   "id": "M2488",
@@ -1340,7 +1340,7 @@
    2488
   ],
   "jp": "ここでは[n]復活するデビルが表示されます[wait][clr]決定ならばＡボタン[wait][clr]キャンセルならばＢボタンです[wait][end]",
-  "en": ""
+  "en": "This shows the demon that will be revived.[wait][clr]Press the A Button to confirm,[wait][clr]or the B Button to cancel.[wait][end]"
  },
  {
   "id": "M2489",
@@ -1355,7 +1355,7 @@
    2489
   ],
   "jp": "デビルを復活させてみます[wait][end]",
-  "en": ""
+  "en": "Let's try reviving the demon.[wait][end]"
  },
  {
   "id": "M2490",
@@ -1370,7 +1370,7 @@
    2490
   ],
   "jp": "このあとマホウを最大３つまで[n]けいしょうできます[wait][end]",
-  "en": ""
+  "en": "After this, it can inherit up to three spells.[wait][end]"
  },
  {
   "id": "M2491",
@@ -1385,7 +1385,7 @@
    2491
   ],
   "jp": "そんなにもてませんよ[wait][end]",
-  "en": ""
+  "en": "You can't carry that many.[wait][end]"
  },
  {
   "id": "M2492",
@@ -1400,7 +1400,7 @@
    2492
   ],
   "jp": "そんなにあずかれません[wait][end]",
-  "en": ""
+  "en": "We can't look after that many.[wait][end]"
  },
  {
   "id": "M2493",
@@ -1415,7 +1415,7 @@
    2493
   ],
   "jp": "もちきれませんよ[n]おきゃくさん[wait][end]",
-  "en": ""
+  "en": "You can't carry it all, friend.[wait][end]"
  },
  {
   "id": "M2494",
@@ -1430,7 +1430,7 @@
    2494
   ],
   "jp": "これいじょうあずかれませんよ[wait][end]",
-  "en": ""
+  "en": "We can't look after any more than this.[wait][end]"
  },
  {
   "id": "M2495",
@@ -1445,7 +1445,7 @@
    2495
   ],
   "jp": "だれも　あずかっていませんよ[wait][end]",
-  "en": ""
+  "en": "We aren't looking after anyone for you.[wait][end]"
  },
  {
   "id": "M2496",
@@ -1460,7 +1460,7 @@
    2496
   ],
   "jp": "まだ　くんれんちゅうですけど[n]よろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "It's still in training, though. Is that all right?[fb:0][end]"
  },
  {
   "id": "M2497",
@@ -1475,7 +1475,7 @@
    2497
   ],
   "jp": "きほんきんがくは　[n]〒[ec:0]です[wait][clr]それいじょうを　せっていしてください[wait][end]",
-  "en": ""
+  "en": "The base fee is 〒[ec:0].[wait][clr]Please set an amount at least that high.[wait][end]"
  },
  {
   "id": "M2498",
@@ -1490,7 +1490,7 @@
    2498
   ],
   "jp": "きんがくを　ついかできます[n]せっていしてください[wait][end]",
-  "en": ""
+  "en": "You can add more money. Please set the amount.[wait][end]"
  },
  {
   "id": "M2499",
@@ -1505,7 +1505,7 @@
    2499
   ],
   "jp": "それいじょう　ついかできません[n]やりなおしてください[wait][end]",
-  "en": ""
+  "en": "You can't add any more. Please try again.[wait][end]"
  },
  {
   "id": "M2500",
@@ -1520,7 +1520,7 @@
    2500
   ],
   "jp": "力持ちになる　くんれんです[wait][end]",
-  "en": ""
+  "en": "This training makes it stronger.[wait][end]"
  },
  {
   "id": "M2501",
@@ -1535,7 +1535,7 @@
    2501
   ],
   "jp": "不思議な力を　きたえるくんれんです[wait][end]",
-  "en": ""
+  "en": "This training hones its mystic power.[wait][end]"
  },
  {
   "id": "M2502",
@@ -1550,7 +1550,7 @@
    2502
   ],
   "jp": "誰よりも　速くなるくんれんです[wait][end]",
-  "en": ""
+  "en": "This training makes it faster than anyone.[wait][end]"
  },
  {
   "id": "M2503",
@@ -1565,7 +1565,7 @@
    2503
   ],
   "jp": "がんじょうになる　くんれんです[wait][end]",
-  "en": ""
+  "en": "This training makes it tougher.[wait][end]"
  },
  {
   "id": "M2504",
@@ -1580,7 +1580,7 @@
    2504
   ],
   "jp": "不思議な力に　たえるくんれんです[wait][end]",
-  "en": ""
+  "en": "This training builds resistance to mystic power.[wait][end]"
  },
  {
   "id": "M2505",
@@ -1595,7 +1595,7 @@
    2505
   ],
   "jp": "くんれんじょの説明を聞きますか？[fb:1][end]",
-  "en": ""
+  "en": "Hear an explanation of the training center?[fb:1][end]"
  },
  {
   "id": "M2506",
@@ -1610,7 +1610,7 @@
    2506
   ],
   "jp": "あずける[n]ひきとる[end]",
-  "en": ""
+  "en": "Leave an ally[n]Pick up an ally[end]"
  },
  {
   "id": "M2507",
@@ -1625,7 +1625,7 @@
    2507
   ],
   "jp": "ここでは　くんれんをする[n]ナカマを　せんたくします[wait][clr]では　ためしてみましょう[wait][end]",
-  "en": ""
+  "en": "Here, you choose the ally that will train.[wait][clr]Now, let's give it a try.[wait][end]"
  },
  {
   "id": "M2508",
@@ -1640,7 +1640,7 @@
    2508
   ],
   "jp": "どのナカマを　くんれんするのかを[n]せっていします[wait][end]",
-  "en": ""
+  "en": "Set which ally will train.[wait][end]"
  },
  {
   "id": "M2509",
@@ -1655,7 +1655,7 @@
    2509
   ],
   "jp": "くんれんの　しゅるいを[n]せっていします[wait][end]",
-  "en": ""
+  "en": "Set the type of training.[wait][end]"
  },
  {
   "id": "M2510",
@@ -1670,7 +1670,7 @@
    2510
   ],
   "jp": "くんれんにかかる　きんがくを[n]せっていします[wait][end]",
-  "en": ""
+  "en": "Set how much the training will cost.[wait][end]"
  },
  {
   "id": "M2511",
@@ -1687,7 +1687,7 @@
    2512
   ],
   "jp": "それでは　ナカマを[n]せんたくします[wait][end]",
-  "en": ""
+  "en": "Now, choose an ally.[wait][end]"
  },
  {
   "id": "M2513",
@@ -1702,7 +1702,7 @@
    2513
   ],
   "jp": "つぎに　くんれんのしゅるいを[n]せっていします[wait][end]",
-  "en": ""
+  "en": "Next, set the type of training.[wait][end]"
  },
  {
   "id": "M2514",
@@ -1717,7 +1717,7 @@
    2514
   ],
   "jp": "各くんれんの　しゅるいによって[n]パラメータの　上がり方がちがいます[wait][clr]下の方に　メッセージがでているので[wait][clr]参考にしてみてください[wait][end]",
-  "en": ""
+  "en": "Each type of training raises parameters in a different way.[wait][clr]A message appears at the bottom,[wait][clr]so use it as a guide.[wait][end]"
  },
  {
   "id": "M2515",
@@ -1732,7 +1732,7 @@
    2515
   ],
   "jp": "ここでは　「風」をせんたくします[wait][end]",
-  "en": ""
+  "en": "Here, let's choose \"Wind.\"[wait][end]"
  },
  {
   "id": "M2516",
@@ -1751,7 +1751,7 @@
    2518
   ],
   "jp": "十字ボタンの左右で　カーソルの移動[n]十字ボタンの上下で　数字のへんこうを[wait][clr]します[wait][page]決定ならば　Ａボタン[n]キャンセルならば　Ｂボタンです[wait][end]",
-  "en": ""
+  "en": "Left and right on the +Control Pad move the cursor. Up and down change the numbers[wait][clr]shown.[wait][page]Press the A Button to confirm, or the B Button to cancel.[wait][end]"
  },
  {
   "id": "M2519",
@@ -1768,7 +1768,7 @@
    2520
   ],
   "jp": "しばらくすると　パラメータが[n]上がっているので「ひきとる」を[wait][clr]選んでパラメータを　かくにん[wait][clr]してください[wait][end]",
-  "en": ""
+  "en": "After a while, the parameters will have gone up. Choose \"Pick Up\"[wait][clr]and check the parameters[wait][clr]for yourself.[wait][end]"
  },
  {
   "id": "M2521",
@@ -1789,7 +1789,7 @@
    2521
   ],
   "jp": "説明をやめます[n]いいですか？[fb:1][end]",
-  "en": ""
+  "en": "Quit the explanation. Is that okay?[fb:1][end]"
  },
  {
   "id": "M2522",
@@ -1804,7 +1804,7 @@
    2522
   ],
   "jp": "ここでは　くんれんをしている[n]ナカマを　ひきとることができます[wait][clr]では　ためしてみましょう[wait][end]",
-  "en": ""
+  "en": "Here, you can pick up allies who are in training.[wait][clr]Let's give it a try.[wait][end]"
  },
  {
   "id": "M2523",
@@ -1831,7 +1831,7 @@
    2529
   ],
   "jp": "つぎに　ナカマをひきとってみます[wait][end]",
-  "en": ""
+  "en": "Next, let's pick up an ally.[wait][end]"
  },
  {
   "id": "M2530",
@@ -1846,7 +1846,7 @@
    2530
   ],
   "jp": "ここでは　ナカマのパラメータを[n]みることができます[wait][page]緑色は　パラメータが上がっていて[n]赤色は　パラメータが減っています[wait][page]Ａ・Ｂボタンをおすと[n]かくにんメッセージが表示されます[wait][clr]決定ならば　はい[wait][clr]キャンセルならば　いいえ　です[wait][end]",
-  "en": ""
+  "en": "Here, you can look at an ally's parameters.[wait][page]Green means a parameter went up, and red means it went down.[wait][page]Press the A or B Button and a confirmation message appears.[wait][clr]Choose Yes to confirm,[wait][clr]or No to cancel.[wait][end]"
  },
  {
   "id": "M2531",
@@ -1861,7 +1861,7 @@
    2531
   ],
   "jp": "また　くんれんちゅうの[n]ナカマも　ひきとることはできますが[wait][page]このときに　きんがくが残っていても[n]お返しすることはできません[wait][end]",
-  "en": ""
+  "en": "You can also pick up allies who are still in training,[wait][page]but any time left on what you paid won't be refunded.[wait][end]"
  },
  {
   "id": "M2532",
@@ -1876,7 +1876,7 @@
    2532
   ],
   "jp": "ここはくんれんじょです[wait][end]",
-  "en": ""
+  "en": "This is the training center.[wait][end]"
  },
  {
   "id": "M2533",
@@ -1891,7 +1891,7 @@
    2533
   ],
   "jp": "どうする？[end]",
-  "en": ""
+  "en": "What now?[end]"
  },
  {
   "id": "M2534",
@@ -1906,7 +1906,7 @@
    2534
   ],
   "jp": "コードブレイカーです[n]やりますか？[fb:0][end]",
-  "en": ""
+  "en": "This is Codebreaker. Want to play?[fb:0][end]"
  },
  {
   "id": "M2535",
@@ -1925,7 +1925,7 @@
    2535
   ],
   "jp": "ゲームをする[n]説明を聞く[end]",
-  "en": ""
+  "en": "Play the game[n]Hear the rules[end]"
  },
  {
   "id": "M2536",
@@ -1944,7 +1944,7 @@
    2536
   ],
   "jp": "ゲームの説明を聞きますか？[fb:1][end]",
-  "en": ""
+  "en": "Want to hear how to play?[fb:1][end]"
  },
  {
   "id": "M2537",
@@ -1959,7 +1959,7 @@
    2537
   ],
   "jp": "まずは　ルールの説明をします[wait][page]このゲームは　ならんだ[n]３つの数字を当てるゲームです[wait][page]はじめに　なんいどをえらびます[n]ＮＯＲＭＡＬは０から５[wait][clr]ＨＡＲＤは０から９の[wait][clr]数字が　かくされています[wait][page]かくされた３つの数字は[n]ぜんぶちがう　数字です[wait][page]同じ数字は　選べないように[n]なっています[wait][end]",
-  "en": ""
+  "en": "First, let me explain the rules.[wait][page]In this game, you guess three numbers in a row.[wait][page]First, choose a difficulty. On NORMAL, the hidden numbers are 0 to 5,[wait][clr]on HARD, they're 0 to 9.[wait][clr]Those are the numbers that get hidden.[wait][page]The three hidden numbers are all different.[wait][page]You can't pick the same number twice.[wait][end]"
  },
  {
   "id": "M2538",
@@ -1974,7 +1974,7 @@
    2538
   ],
   "jp": "次に画面の説明をします[wait][end]",
-  "en": ""
+  "en": "Next, let me explain the screen.[wait][end]"
  },
  {
   "id": "M2539",
@@ -1989,7 +1989,7 @@
    2539
   ],
   "jp": "えらんだ　なんいどが表示されます[wait][end]",
-  "en": ""
+  "en": "This shows the difficulty you chose.[wait][end]"
  },
  {
   "id": "M2540",
@@ -2004,7 +2004,7 @@
    2540
   ],
   "jp": "自分の持ちメダル数です[wait][end]",
-  "en": ""
+  "en": "This is how many medals you have.[wait][end]"
  },
  {
   "id": "M2541",
@@ -2019,7 +2019,7 @@
    2541
   ],
   "jp": "今まで入力した数字の[n]りれきが表示されます[wait][end]",
-  "en": ""
+  "en": "This shows a history of the numbers you've entered so far.[wait][end]"
  },
  {
   "id": "M2542",
@@ -2034,7 +2034,7 @@
    2542
   ],
   "jp": "３つの数字を選んで[n]けっていすると　そのけっかが[wait][clr]ここにでます[wait][end]",
-  "en": ""
+  "en": "When you pick three numbers and confirm, the result[wait][clr]shows up here.[wait][end]"
  },
  {
   "id": "M2543",
@@ -2049,7 +2049,7 @@
    2543
   ],
   "jp": "上がヒットしたかずです[wait][page]ヒットは　数字とばしょが[n]あたっているということです[wait][page]そして　下はブローしたかずです[wait][page]ブローは　数字はあたっているが[n]ばしょが　ちがうということです[wait][end]",
-  "en": ""
+  "en": "The top shows the number of hits.[wait][page]A hit means both the number and its spot are right.[wait][page]And the bottom shows the number of blows.[wait][page]A blow means the number is right, but the spot is wrong.[wait][end]"
  },
  {
   "id": "M2544",
@@ -2064,7 +2064,7 @@
    2544
   ],
   "jp": "次に懆作の説明をします[wait][page]十字ボタンの左右で　カーソルの移動[n]十字ボタンの上下で　数字の[wait][clr]へんこうです[wait][page]３つの数字を入力して[n]決定ならば　Ａボタン[wait][clr]ゲームをとちゅうでやめたければ[wait][clr]Ｂボタンです[wait][end]",
-  "en": ""
+  "en": "Next, let me explain the controls.[wait][page]Left and right on the +Control Pad move the cursor. Up and down change[wait][clr]the number.[wait][page]Once you've entered three numbers, press the A Button to confirm.[wait][clr]If you want to quit partway through,[wait][clr]press the B Button.[wait][end]"
  },
  {
   "id": "M2545",
@@ -2079,7 +2079,7 @@
    2545
   ],
   "jp": "それでは　じっさいに[n]ゲームをやってみます[wait][end]",
-  "en": ""
+  "en": "Now, let's actually play the game.[wait][end]"
  },
  {
   "id": "M2546",
@@ -2094,7 +2094,7 @@
    2546
   ],
   "jp": "数字をけっていして[n]Ａボタンを押すと[wait][clr]画面の下と右側に　ＨＩＴとＢＲＯＷの[wait][clr]かずがでました[wait][page]とりあえず０、２をいれかえてみます[wait][end]",
-  "en": ""
+  "en": "Pick the numbers and press the A Button,[wait][clr]and the HIT and BLOW counts appear at the bottom and right[wait][clr]of the screen.[wait][page]For now, let's swap the 0 and the 2.[wait][end]"
  },
  {
   "id": "M2547",
@@ -2109,7 +2109,7 @@
    2547
   ],
   "jp": "ＨＩＴのかずが　減り[n]ＢＲＯＷのかずが　増えました[wait][clr]ここで分かるのは　１のばしょが[wait][clr]ちがうということです[wait][page]１がＨＩＴだったならば　ＨＩＴは[n]減っていません[wait][page]つぎは　０２１にしてみます[wait][end]",
-  "en": ""
+  "en": "The HIT count went down, and the BLOW count went up.[wait][clr]That tells us the 1 is[wait][clr]in the wrong spot.[wait][page]If the 1 had been a HIT, the HIT count wouldn't have gone down.[wait][page]Next, let's try 021.[wait][end]"
  },
  {
   "id": "M2548",
@@ -2124,7 +2124,7 @@
    2548
   ],
   "jp": "このように　画面の下のデータを[n]みながら　すいりしていくゲームです[wait][clr]また　解答数がすくなければ[wait][clr]もらえるメダルは　増えます[wait][end]",
-  "en": ""
+  "en": "So in this game, you look at the data at the bottom of the screen and work out the answer.[wait][clr]And the fewer guesses you need,[wait][clr]the more medals you get.[wait][end]"
  },
  {
   "id": "M2549",
@@ -2139,7 +2139,7 @@
    2549
   ],
   "jp": "まずは　ルールの説明をします[wait][page]このゲームは　表示された[n]数字より　大きいか　小さいかを[wait][clr]当てるゲームです[wait][end]",
-  "en": ""
+  "en": "First, let me explain the rules.[wait][page]In this game, you guess whether the next number will be bigger or smaller[wait][clr]than the one shown.[wait][end]"
  },
  {
   "id": "M2550",
@@ -2154,7 +2154,7 @@
    2550
   ],
   "jp": "ここには　０から９の数字が[n]表示されます[wait][end]",
-  "en": ""
+  "en": "A number from 0 to 9 is shown here.[wait][end]"
  },
  {
   "id": "M2551",
@@ -2169,7 +2169,7 @@
    2551
   ],
   "jp": "左側に表示された　数字がでます[wait][end]",
-  "en": ""
+  "en": "The number shown appears on the left.[wait][end]"
  },
  {
   "id": "M2552",
@@ -2184,7 +2184,7 @@
    2552
   ],
   "jp": "かけたメダル数です[wait][end]",
-  "en": ""
+  "en": "This is how many medals you've bet.[wait][end]"
  },
  {
   "id": "M2553",
@@ -2199,7 +2199,7 @@
    2553
   ],
   "jp": "大きいか　小さいかを選びます[wait][end]",
-  "en": ""
+  "en": "Choose Big or Small.[wait][end]"
  },
  {
   "id": "M2554",
@@ -2214,7 +2214,7 @@
    2554
   ],
   "jp": "次に懆作の説明をします[wait][page]十字ボタンの上下で　カーソルの移動[n]決定ならば　Ａボタンです[wait][end]",
-  "en": ""
+  "en": "Next, let me explain the controls.[wait][page]Up and down on the +Control Pad move the cursor. Press the A Button to confirm.[wait][end]"
  },
  {
   "id": "M2555",
@@ -2229,7 +2229,7 @@
    2555
   ],
   "jp": "１なので　ビッグを選びます[wait][end]",
-  "en": ""
+  "en": "It's a 1, so let's choose Big.[wait][end]"
  },
  {
   "id": "M2556",
@@ -2244,7 +2244,7 @@
    2556
   ],
   "jp": "かけたメダル数は　当たるたびに[n]２倍に　増えていきます[wait][page]とちゅうでやめると　[n]増えた　かけメダルが　もどってきます[wait][page]はずれると　かけたメダル数は[n]０になります[n]６なので　スモールを選んでみます[wait][end]",
-  "en": ""
+  "en": "Every time you win, your bet doubles.[wait][page]If you quit partway, you get back your bet, doubled winnings and all.[wait][page]If you lose, your bet drops to 0. It's a 6, so let's try Small.[wait][end]"
  },
  {
   "id": "M2557",
@@ -2259,7 +2259,7 @@
    2557
   ],
   "jp": "６なので　スモールを選んでみます[wait][end]",
-  "en": ""
+  "en": "It's a 6, so let's try Small.[wait][end]"
  },
  {
   "id": "M2558",
@@ -2274,7 +2274,7 @@
    2558
   ],
   "jp": "はずれてしまったので[n]かけたメダル数は　０になりました[wait][end]",
-  "en": ""
+  "en": "That was wrong, so the bet dropped to 0.[wait][end]"
  },
  {
   "id": "M2559",
@@ -2289,7 +2289,7 @@
    2559
   ],
   "jp": "このように　表示された[n]数字より　大きいか　小さいかを[wait][clr]当てるゲームです[wait][end]",
-  "en": ""
+  "en": "So in this game, you guess whether the next number will be bigger or smaller[wait][clr]than the one shown.[wait][end]"
  },
  {
   "id": "M2560",
@@ -2304,7 +2304,7 @@
    2560
   ],
   "jp": "[e8]を[n]おあずかりします[wait][end]",
-  "en": ""
+  "en": "I'll look after [e8] for you.[wait][end]"
  },
  {
   "id": "M2561",
@@ -2319,7 +2319,7 @@
    2561
   ],
   "jp": "[e8]でいいですか？[fb:0][end]",
-  "en": ""
+  "en": "Is [e8] okay?[fb:0][end]"
  },
  {
   "id": "M2562",
@@ -2334,7 +2334,7 @@
    2562
   ],
   "jp": "この　アイテムは　しなぎれです[wait][end]",
-  "en": ""
+  "en": "Sorry, that item is sold out.[wait][end]"
  },
  {
   "id": "M2563",
@@ -2349,7 +2349,7 @@
    2563
   ],
   "jp": "ここは時のくんれんじょです[wait][end]",
-  "en": ""
+  "en": "This is the Time Training Center.[wait][end]"
  },
  {
   "id": "M2564",
@@ -2380,7 +2380,7 @@
    2572
   ],
   "jp": "では　ナカマをひきとってみます[wait][end]",
-  "en": ""
+  "en": "Now, let's pick up an ally.[wait][end]"
  },
  {
   "id": "M2573",
@@ -2395,7 +2395,7 @@
    2573
   ],
   "jp": "ここでは　ナカマのパラメータを[n]みることができます[wait][page]緑色は　パラメータが上がっています[n]Ａ・Ｂボタンをおすと[wait][clr]かくにんメッセージが表示されます[wait][clr]決定ならば　はい[wait][clr]キャンセルならば　いいえ　です[wait][end]",
-  "en": ""
+  "en": "Here, you can look at an ally's parameters.[wait][page]Green means a parameter went up. Press the A or B Button and[wait][clr]a confirmation message appears.[wait][clr]Choose Yes to confirm,[wait][clr]or No to cancel.[wait][end]"
  },
  {
   "id": "M2574",
@@ -2412,7 +2412,7 @@
    2575
   ],
   "jp": "どうしますか？[end]",
-  "en": ""
+  "en": "What will you do?[end]"
  },
  {
   "id": "M2576",
@@ -2427,7 +2427,7 @@
    2576
   ],
   "jp": "〒[ec:0]　たしかに[n]おあずかりしました[wait][end]",
-  "en": ""
+  "en": "〒[ec:0], safely received.[wait][end]"
  },
  {
   "id": "M2577",
@@ -2442,7 +2442,7 @@
    2577
   ],
   "jp": "〒[ec:0]　たしかに[n]おわたししました[wait][end]",
-  "en": ""
+  "en": "〒[ec:0], safely handed over.[wait][end]"
  },
  {
   "id": "M2578",
@@ -2457,7 +2457,7 @@
    2578
   ],
   "jp": "ここはマホウ強化です[wait][end]",
-  "en": ""
+  "en": "This is Spell Boost.[wait][end]"
  },
  {
   "id": "M2579",
@@ -2472,7 +2472,7 @@
    2579
   ],
   "jp": "マホウ強化の説明を聞きますか？[fb:1][end]",
-  "en": ""
+  "en": "Want to hear how Spell Boost works?[fb:1][end]"
  },
  {
   "id": "M2580",
@@ -2487,7 +2487,7 @@
    2580
   ],
   "jp": "[ef]は　〒[ec:0][n]かかりますがよろしいですか？[fb:0][end]",
-  "en": ""
+  "en": "[ef] will cost 〒[ec:0]. Is that okay?[fb:0][end]"
  },
  {
   "id": "M2581",
@@ -2502,7 +2502,7 @@
    2581
   ],
   "jp": "ここでは　ナカマのマホウを[n]強化することができます[wait][clr]では　ためしてみましょう[wait][end]",
-  "en": ""
+  "en": "Here, you can boost your allies' spells.[wait][clr]Let's give it a try.[wait][end]"
  },
  {
   "id": "M2582",
@@ -2517,7 +2517,7 @@
    2582
   ],
   "jp": "ナカマがおぼえている[n]マホウが　表示されます[wait][page]ワザや黄色で表示されている[n]ものや　すでに強化されたマホウを[wait][clr]所持している場合も　強化できません[wait][end]",
-  "en": ""
+  "en": "This shows the spells your ally knows.[wait][page]Skills, anything shown in yellow, and spells that are already boosted[wait][clr]can't be boosted.[wait][end]"
  },
  {
   "id": "M2583",
@@ -2532,7 +2532,7 @@
    2583
   ],
   "jp": "ここには　強化されたマホウが[n]表示されます[wait][end]",
-  "en": ""
+  "en": "This shows the spell after boosting.[wait][end]"
  },
  {
   "id": "M2584",
@@ -2547,7 +2547,7 @@
    2584
   ],
   "jp": "では　マホウを強化してみます[wait][end]",
-  "en": ""
+  "en": "Now, let's boost a spell.[wait][end]"
  },
  {
   "id": "M2585",
@@ -2562,7 +2562,7 @@
    2585
   ],
   "jp": "また　一度強化したマホウは[n]元に戻すことは　できません[wait][end]",
-  "en": ""
+  "en": "Also, once a spell is boosted, it can't be changed back.[wait][end]"
  },
  {
   "id": "M2586",
@@ -2577,7 +2577,7 @@
    2586
   ],
   "jp": "[ef]は　〒[ec:0][n]かかりますがよろしいですか？[end]",
-  "en": ""
+  "en": "[ef] costs 〒[ec:0].[n]Is that okay?[end]"
  },
  {
   "id": "M2587",
@@ -2592,7 +2592,7 @@
    2587
   ],
   "jp": "なかなか良いくんれんが[n]できたみたいだよ[wait][end]",
-  "en": ""
+  "en": "Looks like that was some pretty good training![wait][end]"
  },
  {
   "id": "M2588",
@@ -2607,7 +2607,7 @@
    2588
   ],
   "jp": "すごくがんばったみたいだね[n]良いくんれんができたよ[wait][end]",
-  "en": ""
+  "en": "Looks like it worked really hard! That was great training![wait][end]"
  },
  {
   "id": "M2589",
@@ -2622,7 +2622,7 @@
    2589
   ],
   "jp": "くんれんきかんを[n]せっていします[wait][end]",
-  "en": ""
+  "en": "Now, set the training length.[wait][end]"
  },
  {
   "id": "M2590",
@@ -2637,7 +2637,7 @@
    2590
   ],
   "jp": "くんれんきかんによって[n]パラメータの上がり方が　ちがいます[wait][end]",
-  "en": ""
+  "en": "How much the parameters go up depends on the training length.[wait][end]"
  },
  {
   "id": "M2591",
@@ -2652,7 +2652,7 @@
    2591
   ],
   "jp": "「じっくり」は　くんれんきかんが[n]長く　パラメータは一番上がります[wait][page]「はやめ」は　くんれんきかんが[n]短く　パラメータはあまり上がりません[wait][end]",
-  "en": ""
+  "en": "\"Thorough\" training takes a long time, but raises parameters the most.[wait][page]\"Quick\" training is short, but parameters won't go up much.[wait][end]"
  },
  {
   "id": "M2592",
@@ -2667,7 +2667,7 @@
    2592
   ],
   "jp": "「じっくり」を　せんたくします[wait][end]",
-  "en": ""
+  "en": "Let's choose \"Thorough.\"[wait][end]"
  },
  {
   "id": "M2593",
@@ -2682,7 +2682,7 @@
    2593
   ],
   "jp": "〒[ec:0]になりますが[n]よろしいですか？[end]",
-  "en": ""
+  "en": "That's 〒[ec:0].[n]Is that okay?[end]"
  },
  {
   "id": "M2594",
@@ -2697,7 +2697,7 @@
    2594
   ],
   "jp": "また　くんれんちゅうの[n]ナカマも　ひきとることはできますが[wait][page]あずけるときに　せっていした[n]きんがくを　お返しすることは[wait][clr]できません[wait][end]",
-  "en": ""
+  "en": "You can also pick up allies who are still in training,[wait][page]but the money you paid when you left them[wait][clr]won't be refunded.[wait][end]"
  },
  {
   "id": "M2595",
@@ -2712,7 +2712,7 @@
    2595
   ],
   "jp": "ここでは　パートナーのワザを[n]おぼえることが　できます[wait][clr]では　ためしてみましょう[wait][end]",
-  "en": ""
+  "en": "Here, your partner can learn skills.[wait][clr]Let's give it a try.[wait][end]"
  },
  {
   "id": "M2596",
@@ -2727,7 +2727,7 @@
    2596
   ],
   "jp": "今おぼえている　ワザ・マホウです[wait][end]",
-  "en": ""
+  "en": "These are the skills and spells it knows now.[wait][end]"
  },
  {
   "id": "M2597",
@@ -2742,7 +2742,7 @@
    2597
   ],
   "jp": "おぼえることができる[n]ワザ・マホウです[wait][page]また　おぼえることができる[n]ワザ・マホウは　全てせんたくを[wait][clr]しなくても　せんたく中に[wait][page]Ｂボタンを押せば　終了メッセージが[n]表示されるので　終了するなら　はい[wait][clr]しないなら　いいえ　を選んでください[wait][end]",
-  "en": ""
+  "en": "These are the skills and spells it can learn.[wait][page]You don't have to choose every skill or spell it can learn.[wait][clr]While choosing,[wait][page]press the B Button and a quit message appears. Choose Yes to quit,[wait][clr]or No to keep going.[wait][end]"
  },
  {
   "id": "M2598",
@@ -2757,7 +2757,7 @@
    2598
   ],
   "jp": "また　おぼえることができる[n]ワザ・マホウは　全てせんたくを[wait][clr]しなくても　せんたく中に[wait][page]Ｂボタンを押せば　終了メッセージが[n]表示されるので　終了するなら　はい[wait][clr]しないなら　いいえ　を選んでください[wait][end]",
-  "en": ""
+  "en": "You don't have to choose every skill or spell it can learn.[wait][clr]While choosing,[wait][page]press the B Button and a quit message appears. Choose Yes to quit,[wait][clr]or No to keep going.[wait][end]"
  },
  {
   "id": "M2599",
@@ -2772,6 +2772,6 @@
    2599
   ],
   "jp": "それでは　やってみます[wait][end]",
-  "en": ""
+  "en": "Okay, let's try it.[wait][end]"
  }
 ]

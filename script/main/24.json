@@ -12,7 +12,7 @@
    4800
   ],
   "jp": "悪いことをした[n]敵全体をおしつぶす[n]神様のくれたしるし[n]合体に使うと[n]ゴッドハンドを[n]習得できる[end]",
-  "en": ""
+  "en": "A sign from God that[n]crushes all foes[n]who have done wrong.[n]Use it in fusion[n]to learn[n]God Hand.[end]"
  },
  {
   "id": "M4801",
@@ -27,7 +27,7 @@
    4801
   ],
   "jp": "敵全体をだまらせる[n]効果のある[n]せいなる　ハンマー[n]合体に使うと[n]ひかりのさばきを[n]習得できる[end]",
-  "en": ""
+  "en": "A holy hammer[n]that silences[n]all foes.[n]Use it in fusion[n]to learn[n]Light Judgment.[end]"
  },
  {
   "id": "M4802",
@@ -42,7 +42,7 @@
    4802
   ],
   "jp": "敵全体になにが[n]おきるかわからない[n]ぶきみな　スナ[n]合体に使うと[n]めいかいのといきを[n]習得できる[end]",
-  "en": ""
+  "en": "Eerie sand that does[n]who-knows-what[n]to all foes.[n]Use it in fusion[n]to learn[n]Hades' Sigh.[end]"
  },
  {
   "id": "M4803",
@@ -57,7 +57,7 @@
    4803
   ],
   "jp": "敵１体を混乱させる[n]効果のある[n]呪われた　仮面[n]合体に使うと[n]テトラプリズンを[n]習得できる[end]",
-  "en": ""
+  "en": "A cursed mask[n]that confuses[n]1 foe.[n]Use it in fusion[n]to learn[n]Tetra Prison.[end]"
  },
  {
   "id": "M4804",
@@ -72,7 +72,7 @@
    4804
   ],
   "jp": "敵１体を眠らせる[n]効果のある[n]きれいな　宝石[n]合体に使うと[n]デルタフォースを[n]習得できる[end]",
-  "en": ""
+  "en": "A pretty gem[n]that puts 1 foe[n]to sleep.[n]Use it in fusion[n]to learn[n]Delta Force.[end]"
  },
  {
   "id": "M4805",
@@ -87,7 +87,7 @@
    4805
   ],
   "jp": "敵１体を　さばく[n]何がかいてあるか[n]わからない石版[n]合体に使うと[n]はかいのてんびんを[n]習得できる[end]",
-  "en": ""
+  "en": "A stone tablet that[n]judges 1 foe. No one[n]can read its writing.[n]Use it in fusion[n]to learn[n]Scales of Ruin.[end]"
  },
  {
   "id": "M4806",
@@ -102,7 +102,7 @@
    4806
   ],
   "jp": "敵１体にドクを[n]あたえる効果のある[n]のろわれた　ツメ[n]合体に使うと[n]どくひっかきを[n]習得できる[end]",
-  "en": ""
+  "en": "A cursed claw[n]that poisons[n]1 foe.[n]Use it in fusion[n]to learn[n]Poison Scratch.[end]"
  },
  {
   "id": "M4807",
@@ -117,7 +117,7 @@
    4807
   ],
   "jp": "敵１体にマヒを[n]あたえる効果のある[n]のろわれた　ツメ[n]合体に使うと[n]マヒひっかきを[n]習得できる[end]",
-  "en": ""
+  "en": "A cursed claw[n]that paralyzes[n]1 foe.[n]Use it in fusion[n]to learn[n]Stun Scratch.[end]"
  },
  {
   "id": "M4808",
@@ -132,7 +132,7 @@
    4808
   ],
   "jp": "敵１体を連続で[n]いためつける[n]コワイ顔の　仮面[n]合体に使うと[n]あしゅられんげきを[n]習得できる[end]",
-  "en": ""
+  "en": "A scary-faced mask[n]that hits 1 foe[n]again and again.[n]Use it in fusion[n]to learn[n]Ashura Barrage.[end]"
  },
  {
   "id": "M4809",
@@ -147,7 +147,7 @@
    4809
   ],
   "jp": "ケモノにだけ[n]すごい　強い[n]すばらしい　刀[n]合体に使うと[n]とらがりを[n]習得できる[end]",
-  "en": ""
+  "en": "A superb sword[n]that's super strong[n]against beasts only.[n]Use it in fusion[n]to learn[n]Tiger Hunt.[end]"
  },
  {
   "id": "M4810",
@@ -162,7 +162,7 @@
    4810
   ],
   "jp": "オニにだけ[n]すごい　強い[n]するどい　ツメ[n]合体に使うと[n]おにばらいを[n]習得できる[end]",
-  "en": ""
+  "en": "A sharp claw[n]that's super strong[n]against Oni only.[n]Use it in fusion[n]to learn[n]Oni Purge.[end]"
  },
  {
   "id": "M4811",
@@ -177,7 +177,7 @@
    4811
   ],
   "jp": "竜にだけ[n]すごい　強い[n]伝説の剣[n]合体に使うと[n]りゅうごろしを[n]習得できる[end]",
-  "en": ""
+  "en": "A legendary sword[n]that's super strong[n]against dragons only.[n]Use it in fusion[n]to learn[n]Dragon Slayer.[end]"
  },
  {
   "id": "M4812",
@@ -192,7 +192,7 @@
    4812
   ],
   "jp": "神だけをきることが[n]できる　すばらしい[n]切れ味の　剣[n]合体に使うと[n]セントバニッシュを[n]習得できる[end]",
-  "en": ""
+  "en": "A superbly sharp[n]sword that can cut[n]down only gods.[n]Use it in fusion[n]to learn[n]Saint Banish.[end]"
  },
  {
   "id": "M4813",
@@ -207,7 +207,7 @@
    4813
   ],
   "jp": "ミュートにだけ[n]すごい　強い[n]力をもった　ヤリ[n]合体に使うと[n]オメガゲインを[n]習得できる[end]",
-  "en": ""
+  "en": "A mighty spear[n]that's super strong[n]against Mutes only.[n]Use it in fusion[n]to learn[n]Omega Gain.[end]"
  },
  {
   "id": "M4814",
@@ -222,7 +222,7 @@
    4814
   ],
   "jp": "天使に悪い心を[n]持たせるという[n]じゃあくな　指輪[n]合体に使うと[n]フォールダウンを[n]習得できる[end]",
-  "en": ""
+  "en": "An evil ring said[n]to fill angels'[n]hearts with evil.[n]Use it in fusion[n]to learn[n]Fall Down.[end]"
  },
  {
   "id": "M4815",
@@ -237,7 +237,7 @@
    4815
   ],
   "jp": "レイを　やすらかな[n]気持ちにさせる[n]聖なる　剣[n]合体に使うと[n]じょれいを[n]習得できる[end]",
-  "en": ""
+  "en": "A holy sword that[n]brings peace[n]to spirits.[n]Use it in fusion[n]to learn[n]Purify.[end]"
  },
  {
   "id": "M4816",
@@ -252,7 +252,7 @@
    4816
   ],
   "jp": "アクマにだけ[n]すごい力をハッキする[n]せいなる　十字架[n]合体に使うと[n]エクソシズムを[n]習得できる[end]",
-  "en": ""
+  "en": "A holy cross that[n]shows great power[n]against devils only.[n]Use it in fusion[n]to learn[n]Exorcism.[end]"
  },
  {
   "id": "M4817",
@@ -267,7 +267,7 @@
    4817
   ],
   "jp": "ヨウマをおいはらう[n]といわれている[n]伝説の　魔剣[n]合体に使うと[n]ダークゲートを[n]習得できる[end]",
-  "en": ""
+  "en": "A legendary cursed[n]sword said to drive[n]away fiends.[n]Use it in fusion[n]to learn[n]Dark Gate.[end]"
  },
  {
   "id": "M4818",
@@ -282,7 +282,7 @@
    4818
   ],
   "jp": "顔に　つけると[n]おくびょうに[n]なってしまう　仮面[n]合体に使うと[n]アウトバーンを[n]習得できる[end]",
-  "en": ""
+  "en": "A mask that turns[n]whoever wears it[n]into a coward.[n]Use it in fusion[n]to learn[n]Autobahn.[end]"
  },
  {
   "id": "M4819",
@@ -297,7 +297,7 @@
    4819
   ],
   "jp": "敵全体の　目にも[n]とまらぬ速さで[n]動ける　キカイ[n]合体に使うと[n]すりぬけぎりを[n]習得できる[end]",
-  "en": ""
+  "en": "A machine that moves[n]too fast for any[n]foe's eyes to follow.[n]Use it in fusion[n]to learn[n]Slip Slash.[end]"
  },
  {
   "id": "M4820",
@@ -312,7 +312,7 @@
    4820
   ],
   "jp": "敵１体の弱点を[n]見つめている[n]目のような　キカイ[n]合体に使うと[n]ウィークポイントを[n]習得できる[end]",
-  "en": ""
+  "en": "An eye-like machine[n]that stares at[n]1 foe's weak spot.[n]Use it in fusion[n]to learn[n]Weak Point.[end]"
  },
  {
   "id": "M4821",
@@ -327,7 +327,7 @@
    4821
   ],
   "jp": "敵全体に　ふしぎな[n]効果が　あらわれる[n]星の形をした　スナ[n]合体に使うと[n]スターダストを[n]習得できる[end]",
-  "en": ""
+  "en": "Star-shaped sand[n]that has strange[n]effects on all foes.[n]Use it in fusion[n]to learn[n]Stardust.[end]"
  },
  {
   "id": "M4822",
@@ -342,7 +342,7 @@
    4822
   ],
   "jp": "魔法を　すいこむ[n]ふしぎな　かべ[n]合体に使うと[n]やみのかべを[n]習得できる[end]",
-  "en": ""
+  "en": "A mysterious wall[n]that absorbs magic.[n]Use it in fusion[n]to learn[n]Shadow Wall.[end]"
  },
  {
   "id": "M4823",
@@ -357,7 +357,7 @@
    4823
   ],
   "jp": "すごい　魔法使いが[n]持っていた魔法の力を[n]すいこむ　指輪[n]合体に使うと[n]まほうのもんを[n]習得できる[end]",
-  "en": ""
+  "en": "A ring that absorbs[n]magic, once owned[n]by a great wizard.[n]Use it in fusion[n]to learn[n]Magic Gate.[end]"
  },
  {
   "id": "M4824",
@@ -372,7 +372,7 @@
    4824
   ],
   "jp": "味方を　守る[n]やさしい騎士の[n]たましい[n]合体に使うと[n]みがわりを[n]習得できる[end]",
-  "en": ""
+  "en": "The soul of a[n]kind knight who[n]protects allies.[n]Use it in fusion[n]to learn[n]Substitute.[end]"
  },
  {
   "id": "M4825",
@@ -387,7 +387,7 @@
    4825
   ],
   "jp": "敵１体を混乱させる[n]効果のある[n]ぶきみな　ハコ[n]合体に使うと[n]ビックリボックスを[n]習得できる[end]",
-  "en": ""
+  "en": "An eerie box[n]that confuses[n]1 foe.[n]Use it in fusion[n]to learn[n]Jack-in-the-Box.[end]"
  },
  {
   "id": "M4826",
@@ -402,7 +402,7 @@
    4826
   ],
   "jp": "敵１体をマヒさせて[n]動けなくしてしまう[n]ぶきみな　目玉[n]合体に使うと[n]かげぬいを[n]習得できる[end]",
-  "en": ""
+  "en": "An eerie eyeball[n]that paralyzes 1 foe[n]so it can't move.[n]Use it in fusion[n]to learn[n]Shadow Stitch.[end]"
  },
  {
   "id": "M4827",
@@ -417,7 +417,7 @@
    4827
   ],
   "jp": "敵全体にバクダンの[n]効果がある[n]真っ黒な　火薬[n]合体に使うと[n]マイトパウダーを[n]習得できる[end]",
-  "en": ""
+  "en": "Pitch-black powder[n]that works like a[n]bomb on all foes.[n]Use it in fusion[n]to learn[n]Might Powder.[end]"
  },
  {
   "id": "M4828",
@@ -432,7 +432,7 @@
    4828
   ],
   "jp": "味方全体を　完全に[n]復活させる　効果の[n]あるという　つばさ[n]合体に使うと[n]ほしのかぜを[n]習得できる[end]",
-  "en": ""
+  "en": "Wings said to[n]fully revive[n]all allies.[n]Use them in fusion[n]to learn[n]Star Wind.[end]"
  },
  {
   "id": "M4829",
@@ -447,7 +447,7 @@
    4829
   ],
   "jp": "炎のような　模様の[n]炎の力を　吸収する[n]真っ赤な　服[n]合体に使うと[n]バーンウォールを[n]習得できる[end]",
-  "en": ""
+  "en": "Flame-patterned[n]bright red clothes[n]that absorb fire.[n]Use them in fusion[n]to learn[n]Burn Wall.[end]"
  },
  {
   "id": "M4830",
@@ -462,7 +462,7 @@
    4830
   ],
   "jp": "海の王が愛用していた[n]水の力を　吸収する[n]力をもつ　ローブ[n]合体に使うと[n]アクアウォールを[n]習得できる[end]",
-  "en": ""
+  "en": "A robe the sea king[n]loved, with the power[n]to absorb water.[n]Use it in fusion[n]to learn[n]Aqua Wall.[end]"
  },
  {
   "id": "M4831",
@@ -477,7 +477,7 @@
    4831
   ],
   "jp": "氷の魔界で眠っていた[n]氷の力を　吸収する[n]力を持つ　指輪[n]合体に使うと[n]アイスウォールを[n]習得できる[end]",
-  "en": ""
+  "en": "A ring that slept in[n]the icy Demon World,[n]able to absorb ice.[n]Use it in fusion[n]to learn[n]Ice Wall.[end]"
  },
  {
   "id": "M4832",
@@ -492,7 +492,7 @@
    4832
   ],
   "jp": "まわりに　音が[n]とどかないようにする[n]音をふせぐ　ソウチ[n]合体に使うと[n]ウェイブウォールを[n]習得できる[end]",
-  "en": ""
+  "en": "A device that keeps[n]sound from reaching[n]its surroundings.[n]Use it in fusion[n]to learn[n]Wave Wall.[end]"
  },
  {
   "id": "M4833",
@@ -507,7 +507,7 @@
    4833
   ],
   "jp": "魔界の地下の石で[n]つくられた　大地の[n]力を吸い取る　仮面[n]合体に使うと[n]ストーンウォールを[n]習得できる[end]",
-  "en": ""
+  "en": "A mask made of stone[n]from under the Demon[n]World; absorbs earth.[n]Use it in fusion[n]to learn[n]Stone Wall.[end]"
  },
  {
   "id": "M4834",
@@ -522,7 +522,7 @@
    4834
   ],
   "jp": "雷神が落としたという[n]雷の力を　吸収する[n]伝説の　指輪[n]合体に使うと[n]サンダーウォールを[n]習得できる[end]",
-  "en": ""
+  "en": "A legendary ring a[n]thunder god dropped,[n]able to absorb bolts.[n]Use it in fusion[n]to learn[n]Thunder Wall.[end]"
  },
  {
   "id": "M4835",
@@ -537,7 +537,7 @@
    4835
   ],
   "jp": "地面を　たたいて[n]地震を　おこす事が[n]できる強力なハンマー[n]合体に使うと[n]グランドブレイクを[n]習得できる[end]",
-  "en": ""
+  "en": "A mighty hammer that[n]can pound the ground[n]and cause quakes.[n]Use it in fusion[n]to learn[n]Ground Break.[end]"
  },
  {
   "id": "M4836",
@@ -552,7 +552,7 @@
    4836
   ],
   "jp": "風の神が　落とした[n]風の力を　吸収する[n]大きな　つばさ[n]合体に使うと[n]ストームウォールを[n]習得できる[end]",
-  "en": ""
+  "en": "Big wings a wind god[n]dropped, which can[n]absorb wind.[n]Use them in fusion[n]to learn[n]Storm Wall.[end]"
  },
  {
   "id": "M4837",
@@ -567,7 +567,7 @@
    4837
   ],
   "jp": "神のしゅくふくを[n]うけた　光の力を[n]吸収する　十字架[n]合体に使うと[n]ライトウォールを[n]習得できる[end]",
-  "en": ""
+  "en": "A cross blessed[n]by God that can[n]absorb light.[n]Use it in fusion[n]to learn[n]Light Wall.[end]"
  },
  {
   "id": "M4838",
@@ -582,7 +582,7 @@
    4838
   ],
   "jp": "闇の力を　吸収して[n]あふれ出ている[n]ぶきみな　水[n]合体に使うと[n]ダークウォールを[n]習得できる[end]",
-  "en": ""
+  "en": "Eerie water that[n]absorbs darkness[n]and overflows.[n]Use it in fusion[n]to learn[n]Dark Wall.[end]"
  },
  {
   "id": "M4839",
@@ -1062,7 +1062,7 @@
    4870
   ],
   "jp": "すばらしい　組み合わせよ！！[n]すごい力を持つデビルができますわ！[wait][end]",
-  "en": ""
+  "en": "What a marvelous combination!! It'll make a demon with amazing power![wait][end]"
  },
  {
   "id": "M4871",
@@ -1077,7 +1077,7 @@
    4871
   ],
   "jp": "この組み合わせは　良い方よ[n]かくれた力を　持ったデビルみたい[wait][end]",
-  "en": ""
+  "en": "This combination's on the good side. Looks like a demon with hidden power.[wait][end]"
  },
  {
   "id": "M4872",
@@ -1092,7 +1092,7 @@
    4872
   ],
   "jp": "理想的な　組み合わせね！！[n]見たことのない　デビルができるわ！[wait][end]",
-  "en": ""
+  "en": "An ideal combination!! It'll make a demon I've never seen before![wait][end]"
  },
  {
   "id": "M4873",
@@ -1107,7 +1107,7 @@
    4873
   ],
   "jp": "うーん　ふつうの組み合わせね[n]ふつうだから　キタイしないでね[wait][end]",
-  "en": ""
+  "en": "Hmm, an ordinary combination. It's ordinary, so don't get your hopes up.[wait][end]"
  },
  {
   "id": "M4874",
@@ -1122,7 +1122,7 @@
    4874
   ],
   "jp": "この　組み合わせ？[n]あまり　おすすめは　できないわ[wait][end]",
-  "en": ""
+  "en": "This combination? I can't really recommend it.[wait][end]"
  },
  {
   "id": "M4875",
@@ -1212,7 +1212,7 @@
    4880
   ],
   "jp": "ゲンブの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Genbu.[end]"
  },
  {
   "id": "M4881",
@@ -1227,7 +1227,7 @@
    4881
   ],
   "jp": "ビャッコの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Byakko.[end]"
  },
  {
   "id": "M4882",
@@ -1242,7 +1242,7 @@
    4882
   ],
   "jp": "セイリュウの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Seiryu.[end]"
  },
  {
   "id": "M4883",
@@ -1257,7 +1257,7 @@
    4883
   ],
   "jp": "スザクの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Suzaku.[end]"
  },
  {
   "id": "M4884",
@@ -1272,7 +1272,7 @@
    4884
   ],
   "jp": "クラーケンの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Kraken.[end]"
  },
  {
   "id": "M4885",
@@ -1287,7 +1287,7 @@
    4885
   ],
   "jp": "ダゴンの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Dagon.[end]"
  },
  {
   "id": "M4886",
@@ -1302,7 +1302,7 @@
    4886
   ],
   "jp": "アモンの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Amon.[end]"
  },
  {
   "id": "M4887",
@@ -1317,7 +1317,7 @@
    4887
   ],
   "jp": "アゼルの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Azel.[end]"
  },
  {
   "id": "M4888",
@@ -1332,7 +1332,7 @@
    4888
   ],
   "jp": "ベヒモスの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Behemoth.[end]"
  },
  {
   "id": "M4889",
@@ -1347,7 +1347,7 @@
    4889
   ],
   "jp": "パズズの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Pazuzu.[end]"
  },
  {
   "id": "M4890",
@@ -1362,7 +1362,7 @@
    4890
   ],
   "jp": "ラミアの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Lamia.[end]"
  },
  {
   "id": "M4891",
@@ -1377,7 +1377,7 @@
    4891
   ],
   "jp": "アルゴスの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Argus.[end]"
  },
  {
   "id": "M4892",
@@ -1392,7 +1392,7 @@
    4892
   ],
   "jp": "バルバトスの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Barbatos.[end]"
  },
  {
   "id": "M4893",
@@ -1407,7 +1407,7 @@
    4893
   ],
   "jp": "ガネーシャの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Ganesha.[end]"
  },
  {
   "id": "M4894",
@@ -1422,7 +1422,7 @@
    4894
   ],
   "jp": "スルトの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Surt.[end]"
  },
  {
   "id": "M4895",
@@ -1437,7 +1437,7 @@
    4895
   ],
   "jp": "ネメアの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Nemea.[end]"
  },
  {
   "id": "M4896",
@@ -1452,7 +1452,7 @@
    4896
   ],
   "jp": "ギリメカラの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Girimehkala.[end]"
  },
  {
   "id": "M4897",
@@ -1467,7 +1467,7 @@
    4897
   ],
   "jp": "ヌエの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Nue.[end]"
  },
  {
   "id": "M4898",
@@ -1482,7 +1482,7 @@
    4898
   ],
   "jp": "アスタロトの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Astaroth.[end]"
  },
  {
   "id": "M4899",
@@ -1497,7 +1497,7 @@
    4899
   ],
   "jp": "フンババの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Humbaba.[end]"
  },
  {
   "id": "M4900",
@@ -1512,7 +1512,7 @@
    4900
   ],
   "jp": "エキドナの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Echidna.[end]"
  },
  {
   "id": "M4901",
@@ -1527,7 +1527,7 @@
    4901
   ],
   "jp": "トナティウの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Tonatiuh.[end]"
  },
  {
   "id": "M4902",
@@ -1542,7 +1542,7 @@
    4902
   ],
   "jp": "アルラウネの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Alraune.[end]"
  },
  {
   "id": "M4903",
@@ -1557,7 +1557,7 @@
    4903
   ],
   "jp": "フラウロスの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Flauros.[end]"
  },
  {
   "id": "M4904",
@@ -1572,7 +1572,7 @@
    4904
   ],
   "jp": "バビルザクの[n]タマシイが[n]封印された玉[end]",
-  "en": ""
+  "en": "An orb that holds[n]the sealed soul[n]of Babilzak.[end]"
  },
  {
   "id": "M4905",
@@ -1587,7 +1587,7 @@
    4905
   ],
   "jp": "ヴァルハラに住む[n]デビルチルドレン[n]戦いになれていて[n]戦いかたが　上手[end]",
-  "en": ""
+  "en": "A DemiKid living[n]in Valhalla. Seasoned[n]in battle and a[n]skilled fighter.[end]"
  },
  {
   "id": "M4906",
@@ -1602,7 +1602,7 @@
    4906
   ],
   "jp": "とっても　気が強い[n]同級生の　女の子[n]天使たちのチカラを[n]かりて　戦うが[n]戦いは　うまくない[end]",
-  "en": ""
+  "en": "A very strong-willed[n]girl in your class.[n]She fights with the[n]angels' power, but[n]isn't very good at it.[end]"
  },
  {
   "id": "M4907",
@@ -1617,7 +1617,7 @@
    4907
   ],
   "jp": "ヴァルハラの[n]デビルチルドレン[n]戦いはキライで[n]なるべくナカマの[n]回復をしようとする[end]",
-  "en": ""
+  "en": "A DemiKid from[n]Valhalla. Hates[n]fighting and tries[n]to heal allies[n]whenever possible.[end]"
  },
  {
   "id": "M4908",
@@ -1632,7 +1632,7 @@
    4908
   ],
   "jp": "エンゼルチルドレン[n]オウギ　タカハルの[n]かわいい妹[n]かわいいタイプの[n]デビルを　あやつる[end]",
-  "en": ""
+  "en": "An AngelKid, the[n]cute little sister[n]of Takaharu Ougi.[n]She controls cute[n]kinds of demons.[end]"
  },
  {
   "id": "M4909",
@@ -1647,7 +1647,7 @@
    4909
   ],
   "jp": "[f3]に[n]よくにたスガタを[n]しているが[n]その正体はナゾである[end]",
-  "en": ""
+  "en": "Looks a lot like[n][f3], but[n]its true identity[n]is a mystery.[end]"
  },
  {
   "id": "M4910",
@@ -1662,7 +1662,7 @@
    4910
   ],
   "jp": "ヴァルハラを作った[n]闇の貴公子の[n]てんせいしたすがた[n]パートナーの[n]ゲイルとともに戦う[end]",
-  "en": ""
+  "en": "The reborn form[n]of the Dark Prince[n]who made Valhalla.[n]Fights alongside[n]his partner Gale.[end]"
  },
  {
   "id": "M4911",
@@ -1677,7 +1677,7 @@
    4911
   ],
   "jp": "クレイを[n]パートナーとする[n]デビルチルドレン[n]おもに　カミナリを[n]使うデビルで戦う[end]",
-  "en": ""
+  "en": "A DemiKid whose[n]partner is Clay.[n]Fights mostly with[n]lightning-using[n]demons.[end]"
  },
  {
   "id": "M4912",
@@ -1692,7 +1692,7 @@
    4912
   ],
   "jp": "レイを[n]パートナーとする[n]エンゼルチルドレン[n]おもに　鳥の[n]デビルで戦う[end]",
-  "en": ""
+  "en": "An AngelKid whose[n]partner is Ray.[n]Fights mostly[n]with bird[n]demons.[end]"
  },
  {
   "id": "M4913",
@@ -1707,7 +1707,7 @@
    4913
   ],
   "jp": "魔界のプリンセス[n]わがままな性格だが[n]デビルたちに[n]とても　人気がある[n]デビル軍団で　戦う[end]",
-  "en": ""
+  "en": "Princess of the[n]Demon World. Selfish,[n]but very popular[n]with demons. Fights[n]with a demon army.[end]"
  },
  {
   "id": "M4914",
@@ -1722,7 +1722,7 @@
    4914
   ],
   "jp": "たくさんの　とおい[n]セカイを　どうじに[n]みることができる[n]ジャアクなデビル[n]あらそいを好む[end]",
-  "en": ""
+  "en": "A wicked demon able[n]to see many distant[n]worlds all at once.[n]It loves[n]conflict.[end]"
  },
  {
   "id": "M4915",
@@ -1737,7 +1737,7 @@
    4915
   ],
   "jp": "クールを[n]パートナーとする[n]デビルチルドレン[n]レイセイな[n]はんだん力を持つ[end]",
-  "en": ""
+  "en": "A DemiKid whose[n]partner is Cool.[n]Blessed with[n]calm, clear[n]judgment.[end]"
  },
  {
   "id": "M4916",
@@ -1752,7 +1752,7 @@
    4916
   ],
   "jp": "ベールを[n]パートナーとする[n]デビルチルドレン[n]風のような[n]すばやさを持つ[end]",
-  "en": ""
+  "en": "A DemiKid whose[n]partner is Veil.[n]Blessed with[n]speed like[n]the wind.[end]"
  },
  {
   "id": "M4917",
@@ -1767,7 +1767,7 @@
    4917
   ],
   "jp": "セツナの弟の[n]エンゼルチルドレン[n]スフィンクスを[n]パートナーとする[end]",
-  "en": ""
+  "en": "Setsuna's little[n]brother, an AngelKid.[n]His partner is[n]a Sphinx.[end]"
  },
  {
   "id": "M4918",
@@ -1782,7 +1782,7 @@
    4918
   ],
   "jp": "魔界をしはいする王[n]色々なデビルを使う[end]",
-  "en": ""
+  "en": "The Demon World's king.[n]Uses many demons.[end]"
  },
  {
   "id": "M4919",
@@ -1797,7 +1797,7 @@
    4919
   ],
   "jp": "ディープホールに[n]住む　最強のデビル[n]すさまじい力で[n]敵を　たおす[end]",
-  "en": ""
+  "en": "The strongest demon[n]of the Deep Hole.[n]It defeats foes[n]with awesome power.[end]"
  },
  {
   "id": "M4920",
@@ -1812,7 +1812,7 @@
    4920
   ],
   "jp": "セカイをつくりだし[n]守るかみさま[n]すべてのそんざいの[n]母であるともいえる[end]",
-  "en": ""
+  "en": "A goddess who made[n]and protects the world.[n]She could be called[n]the mother of all.[end]"
  },
  {
   "id": "M4921",
@@ -1842,7 +1842,7 @@
    4922
   ],
   "jp": "ヴァルハラに住む[n]デビルチルドレン[n]戦いになれていて[n]戦いかたが　上手[end]",
-  "en": ""
+  "en": "A DemiKid living[n]in Valhalla. Seasoned[n]in battle and a[n]skilled fighter.[end]"
  },
  {
   "id": "M4923",
@@ -1872,7 +1872,7 @@
    4924
   ],
   "jp": "ヴァルハラの[n]デビルチルドレン[n]戦いはキライで[n]なるべくナカマの[n]回復をしようとする[end]",
-  "en": ""
+  "en": "A DemiKid from[n]Valhalla. Hates[n]fighting and tries[n]to heal allies[n]whenever possible.[end]"
  },
  {
   "id": "M4925",
@@ -1902,7 +1902,7 @@
    4926
   ],
   "jp": "魔界のプリンセス[n]わがままな性格だが[n]デビルたちに[n]とても　人気がある[n]デビル軍団で　戦う[end]",
-  "en": ""
+  "en": "Princess of the[n]Demon World. Selfish,[n]but very popular[n]with demons. Fights[n]with a demon army.[end]"
  },
  {
   "id": "M4927",
@@ -1932,7 +1932,7 @@
    4928
   ],
   "jp": "セツナの弟の[n]エンゼルチルドレン[n]スフィンクスを[n]パートナーとする[end]",
-  "en": ""
+  "en": "Setsuna's little[n]brother, an AngelKid.[n]His partner is[n]a Sphinx.[end]"
  },
  {
   "id": "M4929",
@@ -1962,7 +1962,7 @@
    4930
   ],
   "jp": "クレイを[n]パートナーとする[n]デビルチルドレン[n]おもに　カミナリを[n]使うデビルで戦う[end]",
-  "en": ""
+  "en": "A DemiKid whose[n]partner is Clay.[n]Fights mostly with[n]lightning-using[n]demons.[end]"
  },
  {
   "id": "M4931",
@@ -1992,7 +1992,7 @@
    4932
   ],
   "jp": "レイを[n]パートナーとする[n]エンゼルチルドレン[n]おもに　鳥の[n]デビルで戦う[end]",
-  "en": ""
+  "en": "An AngelKid whose[n]partner is Ray.[n]Fights mostly[n]with bird[n]demons.[end]"
  },
  {
   "id": "M4933",
@@ -2022,7 +2022,7 @@
    4934
   ],
   "jp": "ベールを[n]パートナーとする[n]デビルチルドレン[n]風のような[n]すばやさを持つ[end]",
-  "en": ""
+  "en": "A DemiKid whose[n]partner is Veil.[n]Blessed with[n]speed like[n]the wind.[end]"
  },
  {
   "id": "M4935",
@@ -2052,7 +2052,7 @@
    4936
   ],
   "jp": "クールを[n]パートナーとする[n]デビルチルドレン[n]レイセイな[n]はんだん力を持つ[end]",
-  "en": ""
+  "en": "A DemiKid whose[n]partner is Cool.[n]Blessed with[n]calm, clear[n]judgment.[end]"
  },
  {
   "id": "M4937",
@@ -2082,7 +2082,7 @@
    4938
   ],
   "jp": "？？？？[n]フロスト系デビルを[n]あやつるアクマ絵師[end]",
-  "en": ""
+  "en": "????[n]A devil artist who[n]controls Frost demons.[end]"
  },
  {
   "id": "M4939",
@@ -2112,7 +2112,7 @@
    4940
   ],
   "jp": "？？？？[n]最強のデビルを[n]あやつるナゾの人物[end]",
-  "en": ""
+  "en": "????[n]A mystery figure who[n]commands top demons.[end]"
  },
  {
   "id": "M4941",

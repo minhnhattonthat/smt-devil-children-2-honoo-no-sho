@@ -10,7 +10,7 @@
   ],
   "idx": [],
   "jp": "えました[wait][clr]ここで分かるのは　１のばしょが[wait][clr]ちがうということです[wait][page]１がＨＩＴだったならば　ＨＩＴは[n]減っていません[wait][page]つぎは　０２１にしてみます[wait][end]",
-  "en": ""
+  "en": "...I changed it.[wait][clr]What this tells us is that[wait][clr]position 1 is different.[wait][page]If 1 had been a HIT, the HITs[n]would not have gone down.[wait][page]Next, I'll try 021.[wait][end]"
  },
  {
   "id": "T277080",
@@ -24,7 +24,7 @@
   ],
   "idx": [],
   "jp": "ダイスダイスダイスです[n]やりますか？[fb:0][end]",
-  "en": ""
+  "en": "This is Dice Dice Dice.[n]Will you play?[fb:0][end]"
  },
  {
   "id": "T2770AA",
@@ -40,7 +40,7 @@
   ],
   "idx": [],
   "jp": "サイコロの目を[n]予想してください[end]",
-  "en": ""
+  "en": "Guess the[n]dice rolls.[end]"
  },
  {
   "id": "T2770CC",
@@ -60,7 +60,7 @@
   ],
   "idx": [],
   "jp": "メダルを何枚[n]かけますか？[end]",
-  "en": ""
+  "en": "How many medals[n]will you bet?[end]"
  },
  {
   "id": "T2770E8",
@@ -76,7 +76,7 @@
   ],
   "idx": [],
   "jp": "ゲームを始めますか？[fb:0][end]",
-  "en": ""
+  "en": "Start the game?[fb:0][end]"
  },
  {
   "id": "T277102",
@@ -92,7 +92,7 @@
   ],
   "idx": [],
   "jp": "ゲームスタート[end]",
-  "en": ""
+  "en": "Game Start[end]"
  },
  {
   "id": "T277112",
@@ -108,7 +108,7 @@
   ],
   "idx": [],
   "jp": "当たりです　メダルを[n][ec:0]枚かくとくしました[wait][end]",
-  "en": ""
+  "en": "A hit! Medals won: [ec:0].[wait][end]"
  },
  {
   "id": "T277142",
@@ -124,7 +124,7 @@
   ],
   "idx": [],
   "jp": "はずれです　メダルは[n][ec:0]枚になりました[wait][end]",
-  "en": ""
+  "en": "A miss! Medals left: [ec:0].[wait][end]"
  },
  {
   "id": "T27716E",
@@ -140,7 +140,7 @@
   ],
   "idx": [],
   "jp": "ゲームをつづけますか？[fb:0][end]",
-  "en": ""
+  "en": "Keep playing?[fb:0][end]"
  },
  {
   "id": "T27718A",
@@ -154,7 +154,7 @@
   ],
   "idx": [],
   "jp": "ダイススロットです[n]やりますか？[fb:0][end]",
-  "en": ""
+  "en": "This is Dice Slot.[n]Will you play?[fb:0][end]"
  },
  {
   "id": "T2771B0",
@@ -168,7 +168,7 @@
   ],
   "idx": [],
   "jp": "メダルが足りません[n]１枚から遊べます[wait][end]",
-  "en": ""
+  "en": "Not enough medals. You need at least 1 to play.[wait][end]"
  },
  {
   "id": "T2771D8",
@@ -182,7 +182,7 @@
   ],
   "idx": [],
   "jp": "メダルが足りません[n]１０枚から遊べます[wait][end]",
-  "en": ""
+  "en": "Not enough medals. You need at least 10 to play.[wait][end]"
  },
  {
   "id": "T277202",
@@ -196,7 +196,7 @@
   ],
   "idx": [],
   "jp": "まずは　ルールの説明をします[wait][page]このゲームは　３つふられる[n]サイコロの目とその順番を[wait][clr]当てるゲームです[wait][page]当たる数が　多ければ[n]多いほど　かくとくメダルが[wait][clr]ふえます[wait][page]また　当たっている時にかくとくする[n]メダルの倍率は　それぞれ[wait][page]１個　３倍[n]２個　２５倍[wait][clr]３個　５０倍[wait][clr]となっています[wait][end]",
-  "en": ""
+  "en": "First, the rules.[wait][page]In this game, three dice are rolled, and you guess their numbers[wait][clr]and the order they come in.[wait][page]The more you guess right, the more medals[wait][clr]you win.[wait][page]When you guess right, the medal payout rate is[wait][page]1 right: x3,[n]2 right: x25,[wait][clr]3 right: x50.[wait][clr]That's how it pays out.[wait][end]"
  },
  {
   "id": "T27732C",
@@ -212,7 +212,7 @@
   ],
   "idx": [],
   "jp": "次に画面の説明をします[wait][end]",
-  "en": ""
+  "en": "Next, the screen layout.[wait][end]"
  },
  {
   "id": "T277346",
@@ -226,7 +226,7 @@
   ],
   "idx": [],
   "jp": "ここで　プレイヤーの[n]サイコロの目を　予想します[wait][page][end]",
-  "en": ""
+  "en": "Here you guess the numbers on your dice.[wait][page][end]"
  },
  {
   "id": "T27737C",
@@ -240,7 +240,7 @@
   ],
   "idx": [],
   "jp": "ここに　コンピュータの[n]サイコロの３つが　左から順番に[wait][clr]ランダムで　ふられていきます[wait][page][end]",
-  "en": ""
+  "en": "Here the computer's three dice are rolled at random,[wait][clr]one by one from the left.[wait][page][end]"
  },
  {
   "id": "T2773D8",
@@ -256,7 +256,7 @@
   ],
   "idx": [],
   "jp": "自分の持ちメダル数です[wait][page][end]",
-  "en": ""
+  "en": "This is how many medals you have.[wait][page][end]"
  },
  {
   "id": "T2773F4",
@@ -272,7 +272,7 @@
   ],
   "idx": [],
   "jp": "かけたメダル数です[wait][page][end]",
-  "en": ""
+  "en": "This is how many medals you bet.[wait][page][end]"
  },
  {
   "id": "T27740C",
@@ -286,7 +286,7 @@
   ],
   "idx": [],
   "jp": "次に懆作の説明をします[wait][page]十字ボタンの左右で　カーソルの移動[n]十字ボタンの上下で　サイコロの[wait][clr]変更とメダルの選択[wait][clr]決定ならば　Ａボタンです[wait][end]",
-  "en": ""
+  "en": "Next, the controls.[wait][page]Left/Right on the +Control Pad moves the cursor. Up/Down changes the dice[wait][clr]and selects medals.[wait][clr]Press the A Button to confirm.[wait][end]"
  },
  {
   "id": "T27749E",
@@ -302,7 +302,7 @@
   ],
   "idx": [],
   "jp": "それでは　じっさいに[n]ゲームをやってみます[wait][end]",
-  "en": ""
+  "en": "Now let's actually play a game.[wait][end]"
  },
  {
   "id": "T2774CC",
@@ -316,7 +316,7 @@
   ],
   "idx": [],
   "jp": "次に　かけるメダル数を選択します[wait][end]",
-  "en": ""
+  "en": "Next, choose how many medals to bet.[wait][end]"
  },
  {
   "id": "T2774F0",
@@ -332,7 +332,7 @@
   ],
   "idx": [],
   "jp": "ゲームスタートかくにんの後で[n]ゲームが始まります[wait][end]",
-  "en": ""
+  "en": "After you confirm Game Start, the game begins.[wait][end]"
  },
  {
   "id": "T277524",
@@ -346,7 +346,7 @@
   ],
   "idx": [],
   "jp": "このように　サイコロの目と[n]順番を当てるゲームです[wait][end]",
-  "en": ""
+  "en": "And that's the game: guess the dice numbers and their order.[wait][end]"
  },
  {
   "id": "T27755A",
@@ -360,7 +360,7 @@
   ],
   "idx": [],
   "jp": "まずは　ルールの説明をします[wait][page]このゲームは　サイコロをふって[n]それでスロットを行うゲームです[wait][page]かけるメダルの枚数[n]１０枚で　よこラインが[wait][clr]２０枚で　たてラインが[wait][clr]３０枚で　ななめラインが[wait][clr]それぞれ有効になり[wait][clr]同じ数字か　連続した数字が[wait][clr]そろえば　かけた枚数の３倍の[wait][clr]メダルがしはらわれます[wait][end]",
-  "en": ""
+  "en": "First, the rules.[wait][page]In this game, you roll dice and play slots with them.[wait][page]Bet 10 medals for the horizontal line,[wait][clr]20 for the vertical line,[wait][clr]or 30 for the diagonal line[wait][clr]to make each one active.[wait][clr]Line up the same number or a run of numbers[wait][clr]and you're paid triple[wait][clr]your bet in medals.[wait][end]"
  },
  {
   "id": "T27768E",
@@ -374,7 +374,7 @@
   ],
   "idx": [],
   "jp": "ここに　ランダムでふられた[n]サイコロが　表示されます[wait][page][end]",
-  "en": ""
+  "en": "The randomly rolled dice are shown here.[wait][page][end]"
  },
  {
   "id": "T2776C8",
@@ -388,7 +388,7 @@
   ],
   "idx": [],
   "jp": "ここに　有効ライン数が[n]表示されます[wait][page][end]",
-  "en": ""
+  "en": "The number of active lines is shown here.[wait][page][end]"
  },
  {
   "id": "T2776F2",
@@ -402,7 +402,7 @@
   ],
   "idx": [],
   "jp": "次に懆作の説明をします[wait][page]十字ボタンの上下で　メダルの選択[n]決定ならば　Ａボタンです[wait][end]",
-  "en": ""
+  "en": "Next, the controls.[wait][page]Up/Down on the +Control Pad selects medals. Press the A Button to confirm.[wait][end]"
  },
  {
   "id": "T27774A",
@@ -416,7 +416,7 @@
   ],
   "idx": [],
   "jp": "このように　サイコロをふって[n]それでスロットを行うゲームです[wait][end]",
-  "en": ""
+  "en": "And that's the game: roll dice and play slots with them.[wait][end]"
  },
  {
   "id": "T2777A0",

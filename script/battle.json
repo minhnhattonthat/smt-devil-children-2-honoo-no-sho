@@ -10,7 +10,7 @@
   ],
   "idx": [],
   "jp": "[f5]はしびれている[end]",
-  "en": ""
+  "en": "[f5] is stunned.[end]"
  },
  {
   "id": "T106B52",
@@ -23,7 +23,7 @@
   ],
   "idx": [],
   "jp": "[f5]はこおっている[end]",
-  "en": ""
+  "en": "[f5] is frozen.[end]"
  },
  {
   "id": "T106B64",
@@ -36,7 +36,7 @@
   ],
   "idx": [],
   "jp": "[f5]はねむっている[end]",
-  "en": ""
+  "en": "[f5] is asleep.[end]"
  },
  {
   "id": "T106B76",
@@ -49,7 +49,7 @@
   ],
   "idx": [],
   "jp": "[f5]はマヒしている[end]",
-  "en": ""
+  "en": "[f5] is paralyzed.[end]"
  },
  {
   "id": "T106B88",
@@ -62,7 +62,7 @@
   ],
   "idx": [],
   "jp": "[f5]はキゼツした[end]",
-  "en": ""
+  "en": "[f5] fainted![end]"
  },
  {
   "id": "T106B98",
@@ -75,7 +75,7 @@
   ],
   "idx": [],
   "jp": "[f5]は毒ダメージをうけた[end]",
-  "en": ""
+  "en": "[f5] took poison damage![end]"
  },
  {
   "id": "T106BB2",
@@ -88,7 +88,7 @@
   ],
   "idx": [],
   "jp": "[f5]は攻撃を反射した[end]",
-  "en": ""
+  "en": "[f5] reflected the attack![end]"
  },
  {
   "id": "T106BC6",
@@ -101,7 +101,7 @@
   ],
   "idx": [],
   "jp": "[f5]は攻撃を吸収した[end]",
-  "en": ""
+  "en": "[f5] absorbed the attack![end]"
  },
  {
   "id": "T106BDA",
@@ -114,7 +114,7 @@
   ],
   "idx": [],
   "jp": "ＨＰがたりない[end]",
-  "en": ""
+  "en": "Not enough HP![end]"
  },
  {
   "id": "T106BEA",
@@ -127,7 +127,7 @@
   ],
   "idx": [],
   "jp": "ＭＰがたりない[end]",
-  "en": ""
+  "en": "Not enough MP![end]"
  },
  {
   "id": "T106BFA",
@@ -140,7 +140,7 @@
   ],
   "idx": [],
   "jp": "[f5]の特殊能力[n]「[ef]」が発動した[end]",
-  "en": ""
+  "en": "[f5]'s special ability[n]\"[ef]\" activated![end]"
  },
  {
   "id": "T106C1C",
@@ -153,7 +153,7 @@
   ],
   "idx": [],
   "jp": "[f5]の[ef]が上がった[end]",
-  "en": ""
+  "en": "[f5]'s [ef] rose![end]"
  },
  {
   "id": "T106C2E",
@@ -166,7 +166,7 @@
   ],
   "idx": [],
   "jp": "[f5]の[ef]が下がった[end]",
-  "en": ""
+  "en": "[f5]'s [ef] fell![end]"
  },
  {
   "id": "T106C40",
@@ -179,7 +179,7 @@
   ],
   "idx": [],
   "jp": "攻撃力[end]",
-  "en": ""
+  "en": "Attack[end]"
  },
  {
   "id": "T106C48",
@@ -192,7 +192,7 @@
   ],
   "idx": [],
   "jp": "肪御力[end]",
-  "en": ""
+  "en": "Defense[end]"
  },
  {
   "id": "T106C50",
@@ -205,7 +205,7 @@
   ],
   "idx": [],
   "jp": "魔力[end]",
-  "en": ""
+  "en": "Magic[end]"
  },
  {
   "id": "T106C56",
@@ -218,7 +218,7 @@
   ],
   "idx": [],
   "jp": "魔法肪御力[end]",
-  "en": ""
+  "en": "Magic Defense[end]"
  },
  {
   "id": "T106C62",
@@ -231,7 +231,7 @@
   ],
   "idx": [],
   "jp": "命中率[end]",
-  "en": ""
+  "en": "Accuracy[end]"
  },
  {
   "id": "T106C6A",
@@ -244,7 +244,7 @@
   ],
   "idx": [],
   "jp": "すばやさ[end]",
-  "en": ""
+  "en": "Speed[end]"
  },
  {
   "id": "T106C74",
@@ -257,7 +257,7 @@
   ],
   "idx": [],
   "jp": "全パラメータ[end]",
-  "en": ""
+  "en": "stats[end]"
  },
  {
   "id": "T106C82",
@@ -270,7 +270,7 @@
   ],
   "idx": [],
   "jp": "すべてのパラメータ変化が打ち消された[end]",
-  "en": ""
+  "en": "All stat changes were canceled![end]"
  },
  {
   "id": "T106CA8",
@@ -283,7 +283,7 @@
   ],
   "idx": [],
   "jp": "[f5]のクリティカルヒット[end]",
-  "en": ""
+  "en": "[f5] landed a critical hit![end]"
  },
  {
   "id": "T106CC0",
@@ -296,7 +296,7 @@
   ],
   "idx": [],
   "jp": "[f5]が爆発した[end]",
-  "en": ""
+  "en": "[f5] exploded![end]"
  },
  {
   "id": "T106CD0",
@@ -309,7 +309,7 @@
   ],
   "idx": [],
   "jp": "[f5]は[n]爆風ダメージをうけた[end]",
-  "en": ""
+  "en": "[f5] took[n]blast damage![end]"
  },
  {
   "id": "T106CEC",
@@ -322,7 +322,7 @@
   ],
   "idx": [],
   "jp": "[f5]は魔法反射した[end]",
-  "en": ""
+  "en": "[f5] reflected the magic![end]"
  },
  {
   "id": "T106CFE",
@@ -335,7 +335,7 @@
   ],
   "idx": [],
   "jp": "[f5]はコンボを反射した[end]",
-  "en": ""
+  "en": "[f5] reflected the combo![end]"
  },
  {
   "id": "T106D14",
@@ -348,7 +348,7 @@
   ],
   "idx": [],
   "jp": "[f5]はワザを反射した[end]",
-  "en": ""
+  "en": "[f5] reflected the skill![end]"
  },
  {
   "id": "T106D28",
@@ -361,7 +361,7 @@
   ],
   "idx": [],
   "jp": "[f5]はナカマをよんだ[end]",
-  "en": ""
+  "en": "[f5] called for allies![end]"
  },
  {
   "id": "T106D3C",
@@ -374,7 +374,7 @@
   ],
   "idx": [],
   "jp": "・・・しかし　だれもこなかった[end]",
-  "en": ""
+  "en": "...But nobody came.[end]"
  },
  {
   "id": "T106D5C",
@@ -387,7 +387,7 @@
   ],
   "idx": [],
   "jp": "[f5]が現れた[end]",
-  "en": ""
+  "en": "[f5] appeared![end]"
  },
  {
   "id": "T106D68",
@@ -400,7 +400,7 @@
   ],
   "idx": [],
   "jp": "[ef]をぬすんだ[end]",
-  "en": ""
+  "en": "Stole [ef]![end]"
  },
  {
   "id": "T106D76",
@@ -413,7 +413,7 @@
   ],
   "idx": [],
   "jp": "アイテムがいっぱいで[n]手に入らなかった[end]",
-  "en": ""
+  "en": "Your items are full,[n]so you couldn't take it.[end]"
  },
  {
   "id": "T106D9E",
@@ -426,7 +426,7 @@
   ],
   "idx": [],
   "jp": "アイテムをもっていなかった[end]",
-  "en": ""
+  "en": "It had no items.[end]"
  },
  {
   "id": "T106DBA",
@@ -439,7 +439,7 @@
   ],
   "idx": [],
   "jp": "強そうな[end]",
-  "en": ""
+  "en": "Strong-looking [end]"
  },
  {
   "id": "T106DC4",
@@ -452,7 +452,7 @@
   ],
   "idx": [],
   "jp": "弱そうな[end]",
-  "en": ""
+  "en": "Weak-looking [end]"
  },
  {
   "id": "T106DCE",
@@ -465,7 +465,7 @@
   ],
   "idx": [],
   "jp": "謎のデビル[end]",
-  "en": ""
+  "en": "Mystery demon[end]"
  },
  {
   "id": "T106DDA",
@@ -478,7 +478,7 @@
   ],
   "idx": [],
   "jp": "が現れた[end]",
-  "en": ""
+  "en": " appeared![end]"
  },
  {
   "id": "T106DE4",
@@ -491,7 +491,7 @@
   ],
   "idx": [],
   "jp": "たちは[end]",
-  "en": ""
+  "en": "'s party[end]"
  },
  {
   "id": "T106DEC",
@@ -504,7 +504,7 @@
   ],
   "idx": [],
   "jp": "先制攻撃を[end]",
-  "en": ""
+  "en": ": surprise attack[end]"
  },
  {
   "id": "T106DF8",
@@ -517,7 +517,7 @@
   ],
   "idx": [],
   "jp": "しかけた[end]",
-  "en": ""
+  "en": " launched![end]"
  },
  {
   "id": "T106E02",
@@ -530,7 +530,7 @@
   ],
   "idx": [],
   "jp": "うけた[end]",
-  "en": ""
+  "en": " suffered![end]"
  },
  {
   "id": "T106E0A",
@@ -543,7 +543,7 @@
   ],
   "idx": [],
   "jp": "の経験値を手に入れた[end]",
-  "en": ""
+  "en": " EXP gained![end]"
  },
  {
   "id": "T106E20",
@@ -556,7 +556,7 @@
   ],
   "idx": [],
   "jp": "のマッカを手に入れた[end]",
-  "en": ""
+  "en": " Macca gained![end]"
  },
  {
   "id": "T106E36",
@@ -569,7 +569,7 @@
   ],
   "idx": [],
   "jp": "はレベルがあがった[end]",
-  "en": ""
+  "en": " leveled up![end]"
  },
  {
   "id": "T106E4A",
@@ -582,7 +582,7 @@
   ],
   "idx": [],
   "jp": "を手に入れた[end]",
-  "en": ""
+  "en": " obtained![end]"
  },
  {
   "id": "T106E58",
@@ -595,7 +595,7 @@
   ],
   "idx": [],
   "jp": "たちは逃げ出した！[end]",
-  "en": ""
+  "en": "'s party ran away![end]"
  },
  {
   "id": "T106E6C",
@@ -608,7 +608,7 @@
   ],
   "idx": [],
   "jp": "・[end]",
-  "en": ""
+  "en": ".[end]"
  },
  {
   "id": "T106E70",
@@ -621,7 +621,7 @@
   ],
   "idx": [],
   "jp": "・・[end]",
-  "en": ""
+  "en": "..[end]"
  },
  {
   "id": "T106E76",
@@ -634,7 +634,7 @@
   ],
   "idx": [],
   "jp": "・・・[end]",
-  "en": ""
+  "en": "...[end]"
  },
  {
   "id": "T106E7E",
@@ -647,7 +647,7 @@
   ],
   "idx": [],
   "jp": "逃げ切れた！[end]",
-  "en": ""
+  "en": "Got away safely![end]"
  },
  {
   "id": "T106E8C",
@@ -660,7 +660,7 @@
   ],
   "idx": [],
   "jp": "逃げられなかった！[end]",
-  "en": ""
+  "en": "Couldn't escape![end]"
  },
  {
   "id": "T106EA0",
@@ -673,7 +673,7 @@
   ],
   "idx": [],
   "jp": "逃げられない！[end]",
-  "en": ""
+  "en": "There's no escape![end]"
  },
  {
   "id": "T106EB0",
@@ -686,7 +686,7 @@
   ],
   "idx": [],
   "jp": "の特殊能力が[end]",
-  "en": ""
+  "en": "'s special ability[end]"
  },
  {
   "id": "T106EBE",
@@ -699,7 +699,7 @@
   ],
   "idx": [],
   "jp": "めざめました[end]",
-  "en": ""
+  "en": " has awakened![end]"
  },
  {
   "id": "T106ECC",
@@ -712,7 +712,7 @@
   ],
   "idx": [],
   "jp": "どちらを使用しますか？[end]",
-  "en": ""
+  "en": "Which one will you use?[end]"
  },
  {
   "id": "T106EF2",
@@ -725,7 +725,7 @@
   ],
   "idx": [],
   "jp": "ナカマがひとりもいない！！[end]",
-  "en": ""
+  "en": "You don't have any allies!![end]"
  },
  {
   "id": "T106F0E",
@@ -738,7 +738,7 @@
   ],
   "idx": [],
   "jp": "効果が無かった[end]",
-  "en": ""
+  "en": "It had no effect.[end]"
  },
  {
   "id": "T106F1E",
@@ -751,7 +751,7 @@
   ],
   "idx": [],
   "jp": "敵デビルがひとりもいなかった・・・[end]",
-  "en": ""
+  "en": "There were no enemy demons...[end]"
  },
  {
   "id": "T106F42",
@@ -764,7 +764,7 @@
   ],
   "idx": [],
   "jp": "たちは負けてしまった[end]",
-  "en": ""
+  "en": "'s party was defeated...[end]"
  },
  {
   "id": "T106F58",
@@ -777,7 +777,7 @@
   ],
   "idx": [],
   "jp": "たちは勝利した[end]",
-  "en": ""
+  "en": "'s party is victorious![end]"
  },
  {
   "id": "T106F68",
@@ -790,7 +790,7 @@
   ],
   "idx": [],
   "jp": "謎の特殊能力[end]",
-  "en": ""
+  "en": "Mystery ability[end]"
  },
  {
   "id": "T106F76",
@@ -803,7 +803,7 @@
   ],
   "idx": [],
   "jp": "[f5]は[n]「[ef]」をつかった[end]",
-  "en": ""
+  "en": "[f5] used[n]\"[ef]\"![end]"
  },
  {
   "id": "T106F8E",
@@ -816,7 +816,7 @@
   ],
   "idx": [],
   "jp": "「？？？」は[n]「[ef]」に変化した[end]",
-  "en": ""
+  "en": "\"???\" changed[n]into \"[ef]\"![end]"
  },
  {
   "id": "T106FAE",
@@ -829,7 +829,7 @@
   ],
   "idx": [],
   "jp": "[ef]を[ec]個　手に入れた[end]",
-  "en": ""
+  "en": "Got [ef] x[ec]![end]"
  },
  {
   "id": "T106FC4",
@@ -842,7 +842,7 @@
   ],
   "idx": [],
   "jp": "マソウ　[ef]を[n][ec]個　手に入れた[end]",
-  "en": ""
+  "en": "Got Arcane [ef][n]x[ec]![end]"
  },
  {
   "id": "T106FE4",
@@ -855,7 +855,7 @@
   ],
   "idx": [],
   "jp": "カード　[ef]を[n][ec]個　手に入れた[end]",
-  "en": ""
+  "en": "Got Card [ef][n]x[ec]![end]"
  },
  {
   "id": "T107004",
@@ -868,7 +868,7 @@
   ],
   "idx": [],
   "jp": "[ef]は[n]これ以上　手に入らない[end]",
-  "en": ""
+  "en": "You can't carry[n]any more [ef].[end]"
  },
  {
   "id": "T107022",
@@ -881,7 +881,7 @@
   ],
   "idx": [],
   "jp": "マソウ　[ef]は[n]これ以上　手に入らない[end]",
-  "en": ""
+  "en": "You can't carry any[n]more Arcane [ef].[end]"
  },
  {
   "id": "T107048",
@@ -894,7 +894,7 @@
   ],
   "idx": [],
   "jp": "カード　[ef]は[n]これ以上　手に入らない[end]",
-  "en": ""
+  "en": "You can't carry any[n]more Card [ef].[end]"
  },
  {
   "id": "S10706E",

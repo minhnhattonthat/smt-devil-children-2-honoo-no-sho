@@ -182,5 +182,10 @@ The lint enforces the Avoid column.
 | デビダスマスター | DemiDex Master | | | |
 | イサク / テークシス | Isaac / Teksis | | | |
 | しょくりゅう | Shokuryu | | (Zhu Long) keep Shokuryu as the game's own reading | |
+| desc wording | "one foe / two foes / all foes / random foes"; 小/中/大ダメージ = small / medium / big damage; "+ shock" | | help-line style (b029-b031) | |
+| status words | faint (気絶), shock (感電), freeze (凍結), poison (毒), paralysis (マヒ), silence (沈黙), confusion (混乱), charm (誘惑), bomb (バクダン), happy (ハッピー) | | | |
+| stats | Attack / Guard / Magic / Magic Guard / Accuracy / Speed | | アタック/ガード/マジック/Ｍガード | |
+| ベール / クール / クレイ / レイ | Veil / Cool / Clay / Ray | | Battle Net partners | Belle |
+| ライル | Lyle | | | |
 - Katakana-only speech: ALL CAPS only for robotic, possessed or eerie voices. Normal katakana emphasis or slang shouts stay
   in normal case (use ! or italics-free emphasis).

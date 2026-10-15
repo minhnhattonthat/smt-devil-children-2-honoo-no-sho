@@ -12,7 +12,7 @@
    4600
   ],
   "jp": "[name:4]ひとつ　ききたいのだが・・・[n]しぬのは　こわいか？[n][wait][end]",
-  "en": ""
+  "en": "[name:4]There is something I wish to ask... Are you afraid of death?[wait][end]"
  },
  {
   "id": "M4601",
@@ -27,7 +27,7 @@
    4601
   ],
   "jp": "[name:4]あなたは　レディーを[n]たいせつにしてくれるヒトですか？[wait][end]",
-  "en": ""
+  "en": "[name:4]Are you someone who treats a lady with care?[wait][end]"
  },
  {
   "id": "M4602",
@@ -42,7 +42,7 @@
    4602
   ],
   "jp": "[name:4]も・も・もしかして・・・[n]キミって　デビルチルドレン？[wait][end]",
-  "en": ""
+  "en": "[name:4]C-c-could it be... Are you a DemiKid?[wait][end]"
  },
  {
   "id": "M4603",
@@ -57,7 +57,7 @@
    4603
   ],
   "jp": "[name:4]あのね・・・　おなかすいてない？[wait][end]",
-  "en": ""
+  "en": "[name:4]Um... Aren't you hungry?[wait][end]"
  },
  {
   "id": "M4604",
@@ -72,7 +72,7 @@
    4604
   ],
   "jp": "[name:4]オマエ　デビルじゃねえな[n]もしかして　デビルチルドレンか？[wait][end]",
-  "en": ""
+  "en": "[name:4]You ain't a demon... You one of them DemiKids?[wait][end]"
  },
  {
   "id": "M4605",
@@ -87,7 +87,7 @@
    4605
   ],
   "jp": "[name:4]オンナってつらいのよねー[n]わかる？[wait][end]",
-  "en": ""
+  "en": "[name:4]Being a girl is SO hard, y'know? Get it?[wait][end]"
  },
  {
   "id": "M4606",
@@ -102,7 +102,7 @@
    4606
   ],
   "jp": "[name:4]オマエ　ウワサノ[n]デビルチルドレン　ダロ？[wait][end]",
-  "en": ""
+  "en": "[name:4]You... DemiKid everybody talk about, yes?[wait][end]"
  },
  {
   "id": "M4607",
@@ -117,7 +117,7 @@
    4607
   ],
   "jp": "[name:4]（なにかをきかれてるみたい・・・[n]　よくわかんないけど　うなずく？）[wait][end]",
-  "en": ""
+  "en": "[name:4](It seems to be asking something... You don't really get it, but nod?)[wait][end]"
  },
  {
   "id": "M4608",
@@ -132,7 +132,7 @@
    4608
   ],
   "jp": "[name:4]まさか　わたしのナマエを[n]しらんのではあるまいな？[wait][end]",
-  "en": ""
+  "en": "[name:4]Surely you do not mean to say you do not know my name?[wait][end]"
  },
  {
   "id": "M4609",
@@ -147,7 +147,7 @@
    4609
   ],
   "jp": "[name:4]デビルとニンゲンって[n]レンアイはせいりつするのかしら？[wait][end]",
-  "en": ""
+  "en": "[name:4]I wonder, can love blossom between a demon and a human?[wait][end]"
  },
  {
   "id": "M4610",
@@ -162,7 +162,7 @@
    4610
   ],
   "jp": "[name:4]ユウジョウってダイジだよね[n]トモダチいっぱいいる？[wait][end]",
-  "en": ""
+  "en": "[name:4]Friendship is really important, huh? Do you have lots of friends?[wait][end]"
  },
  {
   "id": "M4611",
@@ -177,7 +177,7 @@
    4611
   ],
   "jp": "[name:4]ケイヤクしてもやさしくしてくれる？[n][wait][end]",
-  "en": ""
+  "en": "[name:4]Will you still be nice to me after we make a contract?[wait][end]"
  },
  {
   "id": "M4612",
@@ -192,7 +192,7 @@
    4612
   ],
   "jp": "[name:4]オマエは　トモダチを[n]だいじにしてるか？[wait][end]",
-  "en": ""
+  "en": "[name:4]Do you treasure your friends?[wait][end]"
  },
  {
   "id": "M4613",
@@ -207,7 +207,7 @@
    4613
   ],
   "jp": "[name:4]オトコと　オンナで[n]ユウジョウって　アリだとおもう？[wait][end]",
-  "en": ""
+  "en": "[name:4]Do you think a boy and a girl can really be just friends?[wait][end]"
  },
  {
   "id": "M4614",
@@ -222,7 +222,7 @@
    4614
   ],
   "jp": "[name:4]オマエ　オモシロイ・・・[n]オレタチ　トモダチ？[wait][end]",
-  "en": ""
+  "en": "[name:4]You're funny... Are we friends?[wait][end]"
  },
  {
   "id": "M4615",
@@ -237,7 +237,7 @@
    4615
   ],
   "jp": "[name:4]（おなかがすいてるようだ・・・[n]　たべものをあげてみる？）[wait][end]",
-  "en": ""
+  "en": "[name:4](It seems hungry... Try giving it some food?)[wait][end]"
  },
  {
   "id": "M4616",
@@ -252,7 +252,7 @@
    4616
   ],
   "jp": "[name:4]このわたしが　おまえごときと[n]ケイヤクするとでもおもうのか？[wait][end]",
-  "en": ""
+  "en": "[name:4]You think someone like me would make a contract with the likes of you?[wait][end]"
  },
  {
   "id": "M4617",
@@ -267,7 +267,7 @@
    4617
   ],
   "jp": "[name:4]あなたは　マッカがたくさんあると[n]しあわせだと　おもいます？[n][wait][end]",
-  "en": ""
+  "en": "[name:4]Do you think having lots of Macca makes you happy?[wait][end]"
  },
  {
   "id": "M4618",
@@ -282,7 +282,7 @@
    4618
   ],
   "jp": "[name:4]ちょっとききたいんだけど・・・[n]ボクって　こわいデビルかな？[wait][end]",
-  "en": ""
+  "en": "[name:4]Can I ask you something... Am I a scary demon?[wait][end]"
  },
  {
   "id": "M4619",
@@ -297,7 +297,7 @@
    4619
   ],
   "jp": "[name:4]ねぇ　ちょっとちょっと！[n]こっちにきてちょうだい？[wait][end]",
-  "en": ""
+  "en": "[name:4]Hey, hey, psst! Come over here a sec, would you?[wait][end]"
  },
  {
   "id": "M4620",
@@ -312,7 +312,7 @@
    4620
   ],
   "jp": "[name:4]オマエとケイヤクすると[n]なんかいいことでもあるのかよ？[wait][end]",
-  "en": ""
+  "en": "[name:4]What's in it for me if I make a contract with you?[wait][end]"
  },
  {
   "id": "M4621",
@@ -327,7 +327,7 @@
    4621
   ],
   "jp": "[name:4]ケイヤク？　そんなことよりさ[n]アソビにいこうよ？[wait][end]",
-  "en": ""
+  "en": "[name:4]A contract? Forget that, let's go play![wait][end]"
  },
  {
   "id": "M4622",
@@ -822,7 +822,7 @@
    4654
   ],
   "jp": "[name:4]ナルホド・・・[n]キニイッタ[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]I see... I like you.[wait][name:65535][end]"
  },
  {
   "id": "M4655",
@@ -837,7 +837,7 @@
    4655
   ],
   "jp": "[name:4]・・・[n]（おもしろがってるみたいだ・・・）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]... (It seems amused...)[wait][name:65535][end]"
  },
  {
   "id": "M4656",
@@ -852,7 +852,7 @@
    4656
   ],
   "jp": "[name:4]ほう・・・　なかなか[n]みどころがあるようだな[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Hoh... You show some promise.[wait][name:65535][end]"
  },
  {
   "id": "M4657",
@@ -867,7 +867,7 @@
    4657
   ],
   "jp": "[name:4]あら・・・　いがいに[n]きが　あいそうですのね[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Oh my... We seem to get along surprisingly well.[wait][name:65535][end]"
  },
  {
   "id": "M4658",
@@ -882,7 +882,7 @@
    4658
   ],
   "jp": "[name:4]へぇー　そうなんだ！[n]もっと　はなしたいんだけど・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Oh, really? I'd love to talk more, but...[wait][name:65535][end]"
  },
  {
   "id": "M4659",
@@ -897,7 +897,7 @@
    4659
   ],
   "jp": "[name:4]あのね・・・　もうすこし[n]いっしょにいても　いい？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Um... Can I stay with you a little longer?[wait][name:65535][end]"
  },
  {
   "id": "M4660",
@@ -912,7 +912,7 @@
    4660
   ],
   "jp": "[name:4]・・・オマエって　いいやつだろ？[n]そんなんじゃ　くろうするぜ？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...You're a nice guy, aren't you? You'll have it rough like that, y'know.[wait][name:65535][end]"
  },
  {
   "id": "M4661",
@@ -927,7 +927,7 @@
    4661
   ],
   "jp": "[name:4]キャハハー！[n]アンタ　おもしろいね！[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Kyahaha! You're a riot![wait][name:65535][end]"
  },
  {
   "id": "M4662",
@@ -942,7 +942,7 @@
    4662
   ],
   "jp": "[name:4]ハァ？[n]フザケルナヨ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Huh? Don't mess with me...[wait][name:65535][end]"
  },
  {
   "id": "M4663",
@@ -957,7 +957,7 @@
    4663
   ],
   "jp": "[name:4]・・・！[n]（こちらを　にらみつけている！）[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...! (It's glaring at you!)[wait][name:65535][end]"
  },
  {
   "id": "M4664",
@@ -972,7 +972,7 @@
    4664
   ],
   "jp": "[name:4]なに・・・？　わたしを[n]おちょくっているのか？[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]What...? Are you mocking me?[wait][name:65535][end]"
  },
  {
   "id": "M4665",
@@ -987,7 +987,7 @@
    4665
   ],
   "jp": "[name:4]フウ・・・[n]がっかりしました[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Sigh... I'm disappointed.[wait][name:65535][end]"
  },
  {
   "id": "M4666",
@@ -1002,7 +1002,7 @@
    4666
   ],
   "jp": "[name:4]・・・なにいってんの？[n]あーあ　つまんないな[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]...What are you talking about? Ugh, how boring.[wait][name:65535][end]"
  },
  {
   "id": "M4667",
@@ -1017,7 +1017,7 @@
    4667
   ],
   "jp": "[name:4]なんで　そんなこというの？[n]もう・・・きかなきゃよかった・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Why would you say that? Ugh... I wish I hadn't asked...[wait][name:65535][end]"
  },
  {
   "id": "M4668",
@@ -1032,7 +1032,7 @@
    4668
   ],
   "jp": "[name:4]え？　なんだって？[n]きこえねえんだよ・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]Huh? What'd you say? I can't hear you...[wait][name:65535][end]"
  },
  {
   "id": "M4669",
@@ -1047,7 +1047,7 @@
    4669
   ],
   "jp": "[name:4]ウソ！　アンタならわかってくれると[n]おもったんだけどな・・・[wait][name:65535][end]",
-  "en": ""
+  "en": "[name:4]No way! I thought you'd understand me...[wait][name:65535][end]"
  },
  {
   "id": "M4670",
@@ -1062,7 +1062,7 @@
    4670
   ],
   "jp": "オレニ　マカセロ！[wait][end]",
-  "en": ""
+  "en": "Leave it to me![wait][end]"
  },
  {
   "id": "M4671",
@@ -1077,7 +1077,7 @@
    4671
   ],
   "jp": "・・・（オレガヤル）[wait][end]",
-  "en": ""
+  "en": "...(I'll do it.)[wait][end]"
  },
  {
   "id": "M4672",
@@ -1092,7 +1092,7 @@
    4672
   ],
   "jp": "わたくしに　おまかせを[wait][end]",
-  "en": ""
+  "en": "Allow me to handle this.[wait][end]"
  },
  {
   "id": "M4673",
@@ -1107,7 +1107,7 @@
    4673
   ],
   "jp": "こうしょうして　さしあげても[n]よろしくてよ[wait][end]",
-  "en": ""
+  "en": "I suppose I could negotiate for you.[wait][end]"
  },
  {
   "id": "M4674",
@@ -1122,7 +1122,7 @@
    4674
   ],
   "jp": "オレも　まぜてくれよ[wait][end]",
-  "en": ""
+  "en": "Let me in on this![wait][end]"
  },
  {
   "id": "M4675",
@@ -1137,7 +1137,7 @@
    4675
   ],
   "jp": "わたしも　話にまぜてぇ♥[wait][end]",
-  "en": ""
+  "en": "Let me join the talk too♥[wait][end]"
  },
  {
   "id": "M4676",
@@ -1152,7 +1152,7 @@
    4676
   ],
   "jp": "おれの　出番だぜ！[wait][end]",
-  "en": ""
+  "en": "My turn to shine![wait][end]"
  },
  {
   "id": "M4677",
@@ -1167,7 +1167,7 @@
    4677
   ],
   "jp": "あんたは　ひっこんでな！！[wait][end]",
-  "en": ""
+  "en": "You stay outta this!![wait][end]"
  },
  {
   "id": "M4678",
@@ -1422,7 +1422,7 @@
    4694
   ],
   "jp": "デビライザー[end]",
-  "en": ""
+  "en": "Demiloc[end]"
  },
  {
   "id": "M4695",
@@ -1437,7 +1437,7 @@
    4695
   ],
   "jp": "キングライザー[end]",
-  "en": ""
+  "en": "King Riser[end]"
  },
  {
   "id": "M4696",
@@ -1452,7 +1452,7 @@
    4696
   ],
   "jp": "ヴィネコン[end]",
-  "en": ""
+  "en": "Vinecom[end]"
  },
  {
   "id": "M4697",
@@ -1467,7 +1467,7 @@
    4697
   ],
   "jp": "デビダス[end]",
-  "en": ""
+  "en": "DemiDex[end]"
  },
  {
   "id": "M4698",
@@ -1482,7 +1482,7 @@
    4698
   ],
   "jp": "ヴィネセンター[end]",
-  "en": ""
+  "en": "Vine Center[end]"
  },
  {
   "id": "M4699",
@@ -1497,7 +1497,7 @@
    4699
   ],
   "jp": "合体[end]",
-  "en": ""
+  "en": "Fusion[end]"
  },
  {
   "id": "M4700",
@@ -1512,7 +1512,7 @@
    4700
   ],
   "jp": "ウェブネット[end]",
-  "en": ""
+  "en": "Web Net[end]"
  },
  {
   "id": "M4701",
@@ -1527,7 +1527,7 @@
    4701
   ],
   "jp": "バトルネット[end]",
-  "en": ""
+  "en": "Battle Net[end]"
  },
  {
   "id": "M4702",
@@ -1542,7 +1542,7 @@
    4702
   ],
   "jp": "ネットライザー[end]",
-  "en": ""
+  "en": "Net Riser[end]"
  },
  {
   "id": "M4703",
@@ -1557,7 +1557,7 @@
    4703
   ],
   "jp": "マソウ合体[end]",
-  "en": ""
+  "en": "Arcane Fusion[end]"
  },
  {
   "id": "M4704",
@@ -1572,7 +1572,7 @@
    4704
   ],
   "jp": "化石合体[end]",
-  "en": ""
+  "en": "Fossil Fusion[end]"
  },
  {
   "id": "M4705",
@@ -1587,7 +1587,7 @@
    4705
   ],
   "jp": "くんれんじょ[end]",
-  "en": ""
+  "en": "Training Center[end]"
  },
  {
   "id": "M4706",
@@ -1602,7 +1602,7 @@
    4706
   ],
   "jp": "コンボ[end]",
-  "en": ""
+  "en": "Combo[end]"
  },
  {
   "id": "M4707",
@@ -1617,7 +1617,7 @@
    4707
   ],
   "jp": "カード[end]",
-  "en": ""
+  "en": "Card[end]"
  },
  {
   "id": "M4708",
@@ -1632,7 +1632,7 @@
    4708
   ],
   "jp": "炎の使徒[end]",
-  "en": ""
+  "en": "Flame Apostle[end]"
  },
  {
   "id": "M4709",
@@ -1647,7 +1647,7 @@
    4709
   ],
   "jp": "氷の使徒[end]",
-  "en": ""
+  "en": "Ice Apostle[end]"
  },
  {
   "id": "M4710",
@@ -1662,7 +1662,7 @@
    4710
   ],
   "jp": "守護神[end]",
-  "en": ""
+  "en": "Guardian[end]"
  },
  {
   "id": "M4711",
@@ -1677,7 +1677,7 @@
    4711
   ],
   "jp": "ムスペルヘイム[end]",
-  "en": ""
+  "en": "Muspelheim[end]"
  },
  {
   "id": "M4712",
@@ -1692,7 +1692,7 @@
    4712
   ],
   "jp": "ニフルヘイム[end]",
-  "en": ""
+  "en": "Niflheim[end]"
  },
  {
   "id": "M4713",
@@ -1707,7 +1707,7 @@
    4713
   ],
   "jp": "ギンヌンガガップ[end]",
-  "en": ""
+  "en": "Ginnungagap[end]"
  },
  {
   "id": "M4714",
@@ -1722,7 +1722,7 @@
    4714
   ],
   "jp": "ディープホール[end]",
-  "en": ""
+  "en": "Deep Hole[end]"
  },
  {
   "id": "M4715",
@@ -1737,7 +1737,7 @@
    4715
   ],
   "jp": "ハイエストピーク[end]",
-  "en": ""
+  "en": "Highest Peak[end]"
  },
  {
   "id": "M4716",
@@ -2022,7 +2022,7 @@
    4734
   ],
   "jp": "ケイヤクした　デビルを[n]よぶ　魔法のケンジュウ[n]もちぬしのレベルより[n]少しだけ高いデビルまで[n]よべるが　キングクラスの[n]デビルは　よべない[end]",
-  "en": ""
+  "en": "A magic gun that calls[n]demons you've contracted.[n]It can call demons a bit[n]above its owner's level,[n]but not King-class[n]demons.[end]"
  },
  {
   "id": "M4735",
@@ -2037,7 +2037,7 @@
    4735
   ],
   "jp": "ケイヤクした　デビル[n]をよぶ　魔法のケンジュウ[n]デビライザーと　ことなり[n]すべてのクラスのデビルを[n]よぶことができる[end]",
-  "en": ""
+  "en": "A magic gun that calls[n]demons you've contracted.[n]Unlike the Demiloc, it[n]can call demons of[n]every class.[end]"
  },
  {
   "id": "M4736",
@@ -2052,7 +2052,7 @@
    4736
   ],
   "jp": "デビルをキロクできる[n]さいしんしきのパソコン[n]いつでもヴィネセンターに[n]アクセスすることができ[n]ナカマを　いれかえたり[n]することができる[end]",
-  "en": ""
+  "en": "A cutting-edge PC that[n]can record demons. It[n]can access the Vine[n]Center at any time[n]and lets you swap[n]your allies around.[end]"
  },
  {
   "id": "M4737",
@@ -2067,7 +2067,7 @@
    4737
   ],
   "jp": "出会ったデビルや[n]ナカマにしたデビルの[n]データを　きろくする[n]データベースプログラム[end]",
-  "en": ""
+  "en": "A database program[n]that records data on[n]demons you've met and[n]demons you've recruited.[end]"
  },
  {
   "id": "M4738",
@@ -2082,7 +2082,7 @@
    4738
   ],
   "jp": "ケイヤクした　デビルの[n]とうろくをしてくれる[n]デビルの　かんりセンター[n]ウェブネットをつかった[n]つうしんなどができる[end]",
-  "en": ""
+  "en": "A demon management[n]center that registers[n]your contracted demons.[n]It also handles links[n]through the Web Net.[end]"
  },
  {
   "id": "M4739",
@@ -2097,7 +2097,7 @@
    4739
   ],
   "jp": "２体のナカマを合体させて[n]ナカマを　強くしたり[n]新しいナカマを　生み出す[n]ことができる　ヒジュツ[n]どうやって合体しているか[n]まったくのナゾである[end]",
-  "en": ""
+  "en": "A secret art that fuses[n]two allies to make them[n]stronger or create a[n]brand-new ally.[n]How the fusion works[n]is a total mystery.[end]"
  },
  {
   "id": "M4740",
@@ -2112,7 +2112,7 @@
    4740
   ],
   "jp": "つうしんケーブルを[n]つないで　つうしんによる[n]たいせんやデビルこうかん[n]ガッタイをおこなうことが[n]できる[end]",
-  "en": ""
+  "en": "Hook up a link cable[n]and you can battle,[n]trade demons and do[n]fusions with friends[n]over the link.[end]"
  },
  {
   "id": "M4741",
@@ -2127,7 +2127,7 @@
    4741
   ],
   "jp": "ナゾのデビルつかいたちと[n]たいせんすることができる[n]バーチャルバトルワールド[n]バトルに　勝利すれば[n]いいことがあるかも・・・[end]",
-  "en": ""
+  "en": "A virtual battle world[n]where you can fight[n]mysterious summoners.[n]Win your battles and[n]good things may come...[end]"
  },
  {
   "id": "M4742",
@@ -2142,7 +2142,7 @@
    4742
   ],
   "jp": "バトルネットや[n]ウェブネットで[n]つかわれる　ケンジュウ[n]デビライザーとちがい[n]レベルや　クラスの[n]せいげんがない[end]",
-  "en": ""
+  "en": "The gun used on the[n]Battle Net and the[n]Web Net. Unlike the[n]Demiloc, it has no[n]level or class[n]restrictions.[end]"
  },
  {
   "id": "M4743",
@@ -2157,7 +2157,7 @@
    4743
   ],
   "jp": "マソウアイテムとデビルを[n]合体させて　新しいわざを[n]おぼえさせる合体[n]アイテムは　合体すると[n]なくなってしまう[end]",
-  "en": ""
+  "en": "A fusion that combines an[n]Arcane Item with a demon[n]to teach it a new skill.[n]The item is used up[n]once fused.[end]"
  },
  {
   "id": "M4744",
@@ -2172,7 +2172,7 @@
    4744
   ],
   "jp": "３つの化石を組み合わせて[n]デビルを生み出す　合体[n]組み合わせがうまくいくと[n]ひめられた力をもった[n]デビルが　生まれる[n]カノウセイがある[end]",
-  "en": ""
+  "en": "A fusion that combines[n]three fossils to create[n]a demon. If the combo[n]is just right, a demon[n]with hidden powers[n]may be born.[end]"
  },
  {
   "id": "M4745",
@@ -2187,7 +2187,7 @@
    4745
   ],
   "jp": "デビルをあずけると[n]デビルのステータスを強化[n]してくれたりするシセツ[n]他にも　いろいろと[n]してくれるという[n]ウワサがある・・・[end]",
-  "en": ""
+  "en": "A facility where you can[n]leave demons to have[n]their stats boosted.[n]Rumor has it that[n]they do all sorts of[n]other things too...[end]"
  },
  {
   "id": "M4746",
@@ -2202,7 +2202,7 @@
    4746
   ],
   "jp": "決まったデビル同士が[n]いっしょにバトルをすると[n]出すことができる[n]とくしゅなワザ[n]いろいろなコウカがある[end]",
-  "en": ""
+  "en": "Special moves certain[n]demons can unleash[n]when they fight[n]together. They have[n]all kinds of effects.[end]"
  },
  {
   "id": "M4747",
@@ -2217,7 +2217,7 @@
    4747
   ],
   "jp": "デビルチルドレンだけが[n]つかうことができる[n]バトル用のカード[n]たくさんのエネルギーを[n]つかうため１回のバトルで[n]１枚だけしか　つかえない[end]",
-  "en": ""
+  "en": "Battle cards only[n]DemiKids can use.[n]They take so much[n]energy that you can[n]only use one card[n]per battle.[end]"
  },
  {
   "id": "M4748",
@@ -2232,7 +2232,7 @@
    4748
   ],
   "jp": "炎の国　ムスペルヘイムを[n]おさめる　炎のチカラを[n]あやつる　王[n]しかし　その目には[n]ふくざつなかんじょうが[n]みえかくれする・・・[end]",
-  "en": ""
+  "en": "The king who rules the[n]fire land Muspelheim and[n]wields the power of fire.[n]Yet his eyes betray[n]a tangle of mixed[n]feelings...[end]"
  },
  {
   "id": "M4749",
@@ -2247,7 +2247,7 @@
    4749
   ],
   "jp": "氷の国　ニフルヘイムを[n]おさめる　氷のチカラを[n]あやつる　王[n]しかし　その目には[n]ふくざつなかんじょうが[n]みえかくれする・・・[end]",
-  "en": ""
+  "en": "The king who rules the[n]ice land Niflheim and[n]wields the power of ice.[n]Yet his eyes betray[n]a tangle of mixed[n]feelings...[end]"
  },
  {
   "id": "M4750",
@@ -2262,7 +2262,7 @@
    4750
   ],
   "jp": "ギンヌンガガップにいる[n]という　ムスペルヘイムと[n]ニフルヘイムをうみだした[n]伝説の神[n]炎の使徒と氷の使徒の[n]あらそいをかなしんでいる[end]",
-  "en": ""
+  "en": "A legendary god said to[n]live in Ginnungagap, who[n]created Muspelheim and[n]Niflheim. It grieves[n]over the Flame and Ice[n]Apostles' conflict.[end]"
  },
  {
   "id": "M4751",
@@ -2277,7 +2277,7 @@
    4751
   ],
   "jp": "炎の使徒がおさめる[n]炎の国[n]いろいろなところから[n]ヨウガンがふきだしており[n]その　あつさは[n]はかりしれない・・・[end]",
-  "en": ""
+  "en": "The land of fire ruled[n]by the Flame Apostle.[n]Lava spews out from[n]all over the place, and[n]the heat is beyond[n]measure...[end]"
  },
  {
   "id": "M4752",
@@ -2292,7 +2292,7 @@
    4752
   ],
   "jp": "氷の使徒がおさめる[n]氷の国[n]つねに　ユキと氷に[n]おおわれていて[n]けっして　とけることが[n]ないというごっかんの地[end]",
-  "en": ""
+  "en": "The land of ice ruled[n]by the Ice Apostle.[n]A frozen land always[n]covered in snow and ice[n]that is said to never[n]melt.[end]"
  },
  {
   "id": "M4753",
@@ -2307,7 +2307,7 @@
    4753
   ],
   "jp": "ムスペルヘイムと[n]ニフルヘイムのあいだの[n]サケメにある　国[n]サケメが大きいため[n]巨大な橋で　ムスペルと[n]ニフルを　つないでいる[end]",
-  "en": ""
+  "en": "The land in the rift[n]between Muspelheim and[n]Niflheim. The rift is so[n]wide that a huge bridge[n]links Muspel and[n]Nifl.[end]"
  },
  {
   "id": "M4754",
@@ -2322,7 +2322,7 @@
    4754
   ],
   "jp": "アクマもおそれるという[n]ゼブルのすむ　ダンジョン[n]しかし　そのオクには[n]ゼブルをしのぐチカラを[n]もつ　デビルたちが[n]うごめいているらしい[end]",
-  "en": ""
+  "en": "The dungeon of Zebul,[n]whom even devils fear.[n]But in its depths, they[n]say, demons with power[n]greater than Zebul's[n]lurk...[end]"
  },
  {
   "id": "M4755",
@@ -2337,7 +2337,7 @@
    4755
   ],
   "jp": "天界で　チカラをもつ[n]エノクのすむ　城[n]しかし　フウインされた[n]トビラのむこうには[n]すさまじいチカラをもつ[n]ものたちが　いるという[end]",
-  "en": ""
+  "en": "The castle of Enoch, a[n]powerful one in Heaven.[n]But beyond its sealed[n]door, it's said, dwell[n]beings of tremendous[n]power.[end]"
  },
  {
   "id": "M4756",
@@ -2622,7 +2622,7 @@
    4774
   ],
   "jp": "敵全体を燃やす力が[n]あるといわれる[n]伝説の　炎の剣[n]合体に使うと[n]バーニングレイを[n]習得できる[end]",
-  "en": ""
+  "en": "A legendary flame[n]sword said to burn[n]all foes.[n]Use it in fusion[n]to learn[n]Burning Ray.[end]"
  },
  {
   "id": "M4775",
@@ -2637,7 +2637,7 @@
    4775
   ],
   "jp": "敵２体を爆発させる[n]かんたんな　キカイ[n]注意しないと　危険[n]合体に使うと[n]イグニスボムを[n]習得できる[end]",
-  "en": ""
+  "en": "A simple device that[n]blows up 2 foes.[n]Handle with care![n]Use it in fusion[n]to learn[n]Ignis Bomb.[end]"
  },
  {
   "id": "M4776",
@@ -2652,7 +2652,7 @@
    4776
   ],
   "jp": "敵全体を攻撃する[n]秘密の　魔法が[n]書いてある石版[n]合体に使うと[n]メガインフェルノを[n]習得できる[end]",
-  "en": ""
+  "en": "A stone tablet with[n]a secret spell that[n]hits all foes.[n]Use it in fusion[n]to learn[n]Mega Inferno.[end]"
  },
  {
   "id": "M4777",
@@ -2667,7 +2667,7 @@
    4777
   ],
   "jp": "敵１体を攻撃する[n]炎と　バクダンが[n]やどる　ツメ[n]合体に使うと[n]ばくねつのツメを[n]習得できる[end]",
-  "en": ""
+  "en": "A claw holding fire[n]and bombs that hits[n]1 foe.[n]Use it in fusion[n]to learn[n]Blazing Claw.[end]"
  },
  {
   "id": "M4778",
@@ -2682,7 +2682,7 @@
    4778
   ],
   "jp": "敵２体を混乱させる[n]効果のある　７色の[n]きれいな　液体[n]合体に使うと[n]にじのあわを[n]習得できる[end]",
-  "en": ""
+  "en": "A pretty 7-colored[n]liquid that confuses[n]2 foes.[n]Use it in fusion[n]to learn[n]Rainbow Bubble.[end]"
  },
  {
   "id": "M4779",
@@ -2697,7 +2697,7 @@
    4779
   ],
   "jp": "敵全体をマヒさせる[n]効果のある[n]銀色の　水[n]合体に使うと[n]ぎんのキリを[n]習得できる[end]",
-  "en": ""
+  "en": "Silver water that[n]paralyzes[n]all foes.[n]Use it in fusion[n]to learn[n]Silver Mist.[end]"
  },
  {
   "id": "M4780",
@@ -2712,7 +2712,7 @@
    4780
   ],
   "jp": "敵全体に血の雨を[n]ふらす　効果のある[n]血だらけの　ふく[n]合体に使うと[n]ブラッドレインを[n]習得できる[end]",
-  "en": ""
+  "en": "Bloodstained clothes[n]that rain blood on[n]all foes.[n]Use it in fusion[n]to learn[n]Blood Rain.[end]"
  },
  {
   "id": "M4781",
@@ -2727,7 +2727,7 @@
    4781
   ],
   "jp": "敵１体に　氷の[n]かたまりを落とす[n]効果のある　つばさ[n]合体に使うと[n]ひょうてんげきを[n]習得できる[end]",
-  "en": ""
+  "en": "Wings that drop a[n]chunk of ice on[n]1 foe.[n]Use it in fusion[n]to learn[n]Freezing Strike.[end]"
  },
  {
   "id": "M4782",
@@ -2742,7 +2742,7 @@
    4782
   ],
   "jp": "敵１体をこおらせて[n]しまう　氷の魔法が[n]書かれている　石版[n]合体に使うと[n]アイスプリズンを[n]習得できる[end]",
-  "en": ""
+  "en": "A stone tablet with[n]an ice spell that[n]freezes 1 foe.[n]Use it in fusion[n]to learn[n]Ice Prison.[end]"
  },
  {
   "id": "M4783",
@@ -2757,7 +2757,7 @@
    4783
   ],
   "jp": "敵全体を　さむさで[n]話せなくしてしまう[n]大きな　氷の剣[n]合体に使うと[n]アイスブレイドを[n]習得できる[end]",
-  "en": ""
+  "en": "A big ice sword whose[n]chill leaves all foes[n]unable to speak.[n]Use it in fusion[n]to learn[n]Ice Blade.[end]"
  },
  {
   "id": "M4784",
@@ -2772,7 +2772,7 @@
    4784
   ],
   "jp": "敵１体に　目を[n]あけることができない[n]強い風をおくるつばさ[n]合体に使うと[n]ビッグウィングを[n]習得できる[end]",
-  "en": ""
+  "en": "Wings that blast 1 foe[n]with wind too strong[n]to open its eyes.[n]Use it in fusion[n]to learn[n]Big Wing.[end]"
  },
  {
   "id": "M4785",
@@ -2787,7 +2787,7 @@
    4785
   ],
   "jp": "敵全体を　するどい[n]風のやいばで　かこむ[n]効果のある　ふく[n]合体に使うと[n]かぜのまいを[n]習得できる[end]",
-  "en": ""
+  "en": "Clothes that surround[n]all foes with sharp[n]blades of wind.[n]Use it in fusion[n]to learn[n]Wind Dance.[end]"
  },
  {
   "id": "M4786",
@@ -2802,7 +2802,7 @@
    4786
   ],
   "jp": "敵１体をずたずたに[n]きりきざんでしまう[n]効果のある　宝石[n]合体に使うと[n]ふうじんげきを[n]習得できる[end]",
-  "en": ""
+  "en": "A gem that can[n]slice 1 foe[n]to ribbons.[n]Use it in fusion[n]to learn[n]Wind God Strike.[end]"
  },
  {
   "id": "M4787",
@@ -2817,7 +2817,7 @@
    4787
   ],
   "jp": "敵全体を感電させる[n]効果のある[n]とても　軽いヤリ[n]合体に使うと[n]かぶとわりを[n]習得できる[end]",
-  "en": ""
+  "en": "A very light spear[n]that shocks[n]all foes.[n]Use it in fusion[n]to learn[n]Helm Splitter.[end]"
  },
  {
   "id": "M4788",
@@ -2832,7 +2832,7 @@
    4788
   ],
   "jp": "敵２体をマヒさせる[n]効果のある[n]大きな　カナヅチ[n]合体に使うと[n]ビリビリスパークを[n]習得できる[end]",
-  "en": ""
+  "en": "A big hammer that[n]paralyzes[n]2 foes.[n]Use it in fusion[n]to learn[n]Zappy Spark.[end]"
  },
  {
   "id": "M4789",
@@ -2847,7 +2847,7 @@
    4789
   ],
   "jp": "敵１体に感電の[n]効果のある[n]ふしぎな　ハンマー[n]合体に使うと[n]トールハンマーを[n]習得できる[end]",
-  "en": ""
+  "en": "A mysterious hammer[n]that shocks[n]1 foe.[n]Use it in fusion[n]to learn[n]Thor's Hammer.[end]"
  },
  {
   "id": "M4790",
@@ -2862,7 +2862,7 @@
    4790
   ],
   "jp": "敵２体に　岩を[n]ふらす効果のある[n]大地の力を持ったヤリ[n]合体に使うと[n]ガイアバスターを[n]習得できる[end]",
-  "en": ""
+  "en": "A spear with the[n]earth's power that[n]rains rocks on 2 foes.[n]Use it in fusion[n]to learn[n]Gaia Buster.[end]"
  },
  {
   "id": "M4791",
@@ -2877,7 +2877,7 @@
    4791
   ],
   "jp": "敵全体をまきこんで[n]バクハツする[n]ふしぎなスナ[n]合体に使うと[n]はがんだんを[n]習得できる[end]",
-  "en": ""
+  "en": "Mysterious sand that[n]explodes, catching[n]all foes.[n]Use it in fusion[n]to learn[n]Rockbreaker.[end]"
  },
  {
   "id": "M4792",
@@ -2892,7 +2892,7 @@
    4792
   ],
   "jp": "敵全体の　目を[n]見えなくする効果の[n]ある　ふしぎなスナ[n]合体に使うと[n]すなあらしを[n]習得できる[end]",
-  "en": ""
+  "en": "Mysterious sand that[n]blinds[n]all foes.[n]Use it in fusion[n]to learn[n]Sandstorm.[end]"
  },
  {
   "id": "M4793",
@@ -2907,7 +2907,7 @@
    4793
   ],
   "jp": "敵１体に大きな岩を[n]落とす効果のある[n]女神の指輪[n]合体に使うと[n]ロックフォールを[n]習得できる[end]",
-  "en": ""
+  "en": "A goddess's ring that[n]drops a big rock on[n]1 foe.[n]Use it in fusion[n]to learn[n]Rock Fall.[end]"
  },
  {
   "id": "M4794",
@@ -2922,7 +2922,7 @@
    4794
   ],
   "jp": "敵全体を混乱させる[n]効果のある[n]ぶきみな　つばさ[n]合体に使うと[n]かげきなメロディを[n]習得できる[end]",
-  "en": ""
+  "en": "Eerie wings that[n]confuse[n]all foes.[n]Use it in fusion[n]to learn[n]Wild Melody.[end]"
  },
  {
   "id": "M4795",
@@ -2937,7 +2937,7 @@
    4795
   ],
   "jp": "手にもつと[n]敵２体を混乱させる[n]いやな音をだす　ヤリ[n]合体に使うと[n]バズブラストを[n]習得できる[end]",
-  "en": ""
+  "en": "A spear that, when held,[n]makes a nasty noise[n]that confuses 2 foes.[n]Use it in fusion[n]to learn[n]Buzz Blast.[end]"
  },
  {
   "id": "M4796",
@@ -2952,7 +2952,7 @@
    4796
   ],
   "jp": "鳥系のデビルにだけ[n]きこえる　すごい[n]ソウオンをだすキカイ[n]合体に使うと[n]クラッシュノイズを[n]習得できる[end]",
-  "en": ""
+  "en": "A device making a[n]racket only bird[n]demons can hear.[n]Use it in fusion[n]to learn[n]Crash Noise.[end]"
  },
  {
   "id": "M4797",
@@ -2967,7 +2967,7 @@
    4797
   ],
   "jp": "敵全体がキゼツする[n]強力な　魔法が[n]書かれた　石版[n]合体に使うと[n]クロスノヴァを[n]習得できる[end]",
-  "en": ""
+  "en": "A stone tablet with[n]a mighty spell that[n]stuns all foes.[n]Use it in fusion[n]to learn[n]Cross Nova.[end]"
  },
  {
   "id": "M4798",
@@ -2982,7 +2982,7 @@
    4798
   ],
   "jp": "敵全体を　重い[n]空間でおしつぶす[n]ふしぎな水[n]合体に使うと[n]グラビティマインを[n]習得できる[end]",
-  "en": ""
+  "en": "Mysterious water that[n]crushes all foes with[n]heavy space.[n]Use it in fusion[n]to learn[n]Gravity Mine.[end]"
  },
  {
   "id": "M4799",
@@ -2997,6 +2997,6 @@
    4799
   ],
   "jp": "敵２体をだまらせる[n]効果のある[n]神の　十字架[n]合体に使うと[n]ホーリーショットを[n]習得できる[end]",
-  "en": ""
+  "en": "A god's cross that[n]silences[n]2 foes.[n]Use it in fusion[n]to learn[n]Holy Shot.[end]"
  }
 ]

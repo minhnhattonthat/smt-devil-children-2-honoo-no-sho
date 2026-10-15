@@ -2112,7 +2112,7 @@
    1540
   ],
   "jp": "ブッカブー[n]スクーグスロー[n]アエロファンテ[end]",
-  "en": "Buccaboo[n]Skogsra[n]Aerophante[end]"
+  "en": "Buccaboo[n]Skogsra[n]Aerofante[end]"
  },
  {
   "id": "M1541",
@@ -2472,7 +2472,7 @@
    1564
   ],
   "jp": "アエロー[n]アエロファンテ[n]ジーナファイロ[end]",
-  "en": "Aello[n]Aerophante[n]Guiafairo[end]"
+  "en": "Aello[n]Aerofante[n]Guiafairo[end]"
  },
  {
   "id": "M1565",
@@ -2592,7 +2592,7 @@
    1572
   ],
   "jp": "アエロファンテ[n]ギリメカラ[n]スレイプニル[end]",
-  "en": "Aerophante[n]Girimehkala[n]Sleipnir[end]"
+  "en": "Aerofante[n]Girimehkala[n]Sleipnir[end]"
  },
  {
   "id": "M1573",
@@ -2757,7 +2757,7 @@
    1583
   ],
   "jp": "[name:70]アエロファンテは　何色のゾウ？[wait][end]",
-  "en": "[name:70]What color of elephant is Aerophante?[wait][end]"
+  "en": "[name:70]What color of elephant is Aerofante?[wait][end]"
  },
  {
   "id": "M1584",
@@ -2802,7 +2802,7 @@
    1586
   ],
   "jp": "ゴビサバク[n]サハラサバク[n]とっとりさきゅう[end]",
-  "en": ""
+  "en": "Gobi Desert[n]Sahara Desert[n]Tottori Dunes[end]"
  },
  {
   "id": "M1587",
@@ -2817,7 +2817,7 @@
    1587
   ],
   "jp": "[name:70]ウロボロスは　なにのしょうちょうと[n]なっている？[wait][end]",
-  "en": ""
+  "en": "[name:70]What does Ouroboros symbolize?[wait][end]"
  },
  {
   "id": "M1588",
@@ -2832,7 +2832,7 @@
    1588
   ],
   "jp": "お金持ち[n]むげん[n]ふじみ[end]",
-  "en": ""
+  "en": "Wealth[n]Infinity[n]Immortality[end]"
  },
  {
   "id": "M1589",
@@ -2847,7 +2847,7 @@
    1589
   ],
   "jp": "[name:70]ケサランパサランの大好物は何？[wait][end]",
-  "en": ""
+  "en": "[name:70]What is Kesaran Pasaran's favorite food?[wait][end]"
  },
  {
   "id": "M1590",
@@ -2862,7 +2862,7 @@
    1590
   ],
   "jp": "おしろいのこな[n]だいふくのこな[n]きんぷん[end]",
-  "en": ""
+  "en": "Face powder[n]Mochi flour[n]Gold dust[end]"
  },
  {
   "id": "M1591",
@@ -2877,7 +2877,7 @@
    1591
   ],
   "jp": "[name:70]ふうたいのおしりからはえている[n]シッポは　何のシッポ？[wait][end]",
-  "en": ""
+  "en": "[name:70]Whose tail is the tail growing out of Futai's rear end?[wait][end]"
  },
  {
   "id": "M1592",
@@ -2892,7 +2892,7 @@
    1592
   ],
   "jp": "タヌキのシッポ[n]ウサギのシッポ[n]トラのシッポ[end]",
-  "en": ""
+  "en": "A raccoon dog's[n]A rabbit's[n]A tiger's[end]"
  },
  {
   "id": "M1593",
@@ -2907,7 +2907,7 @@
    1593
   ],
   "jp": "のずちが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Nozuchi became your ally![wait][end]"
  },
  {
   "id": "M1594",
@@ -2922,7 +2922,7 @@
    1594
   ],
   "jp": "アグニが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Agni became your ally![wait][end]"
  },
  {
   "id": "M1595",
@@ -2937,7 +2937,7 @@
    1595
   ],
   "jp": "アエロファンテが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Aerofante became your ally![wait][end]"
  },
  {
   "id": "M1596",
@@ -2952,7 +2952,7 @@
    1596
   ],
   "jp": "ダーインが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Dain became your ally![wait][end]"
  },
  {
   "id": "M1597",
@@ -2967,7 +2967,7 @@
    1597
   ],
   "jp": "アングルボダが　ナカマになった！[wait][end]",
-  "en": ""
+  "en": "Angrboda became your ally![wait][end]"
  },
  {
   "id": "M1598",
@@ -2982,7 +2982,7 @@
    1598
   ],
   "jp": "[name:70]すばらしい！　キミは[n]デビダスマスターに　なれるな[wait][page]だが　わたしのクイズも　ここまでだ[n]さいごに　これをあげよう！[wait][end]",
-  "en": ""
+  "en": "[name:70]Splendid! You could become a DemiDex Master![wait][page]But this is the end of my quiz. As a final reward, take this![wait][end]"
  },
  {
   "id": "M1599",
@@ -2997,6 +2997,6 @@
    1599
   ],
   "jp": "[name:70]クイズは　もうおしまいだ[wait][end]",
-  "en": ""
+  "en": "[name:70]The quiz is all over now.[wait][end]"
  }
 ]

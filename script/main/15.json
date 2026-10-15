@@ -12,7 +12,7 @@
    3000
   ],
   "jp": "雷で　敵１体に小ダメージと感電効果[end]",
-  "en": ""
+  "en": "Lightning: light damage and shock, one foe.[end]"
  },
  {
   "id": "M3001",
@@ -27,7 +27,7 @@
    3001
   ],
   "jp": "雷で　敵１体に中ダメージと感電効果[end]",
-  "en": ""
+  "en": "Lightning: medium damage + shock, one foe.[end]"
  },
  {
   "id": "M3002",
@@ -42,7 +42,7 @@
    3002
   ],
   "jp": "雷で　敵２体に小ダメージと感電効果[end]",
-  "en": ""
+  "en": "Lightning: light damage and shock, two foes.[end]"
  },
  {
   "id": "M3003",
@@ -57,7 +57,7 @@
    3003
   ],
   "jp": "岩を落として　敵１体に小ダメージ[end]",
-  "en": ""
+  "en": "Falling rocks: light damage to one foe.[end]"
  },
  {
   "id": "M3004",
@@ -72,7 +72,7 @@
    3004
   ],
   "jp": "岩を落として　敵１体に中ダメージ[end]",
-  "en": ""
+  "en": "Falling rocks: medium damage to one foe.[end]"
  },
  {
   "id": "M3005",
@@ -87,7 +87,7 @@
    3005
   ],
   "jp": "岩を落として　敵２体に小ダメージ[end]",
-  "en": ""
+  "en": "Falling rocks: light damage to two foes.[end]"
  },
  {
   "id": "M3006",
@@ -102,7 +102,7 @@
    3006
   ],
   "jp": "敵１体を　眠らせる[end]",
-  "en": ""
+  "en": "Puts one enemy to sleep.[end]"
  },
  {
   "id": "M3007",
@@ -117,7 +117,7 @@
    3007
   ],
   "jp": "敵１体の　やる気を無くさせる[end]",
-  "en": ""
+  "en": "Saps one enemy's will to fight.[end]"
  },
  {
   "id": "M3008",
@@ -132,7 +132,7 @@
    3008
   ],
   "jp": "敵１体に　毒を与える[end]",
-  "en": ""
+  "en": "Poisons one enemy.[end]"
  },
  {
   "id": "M3009",
@@ -147,7 +147,7 @@
    3009
   ],
   "jp": "敵１体を　誘惑する[end]",
-  "en": ""
+  "en": "Charms one enemy.[end]"
  },
  {
   "id": "M3010",
@@ -162,7 +162,7 @@
    3010
   ],
   "jp": "敵１体を　マヒさせる[end]",
-  "en": ""
+  "en": "Paralyzes one enemy.[end]"
  },
  {
   "id": "M3011",
@@ -177,7 +177,7 @@
    3011
   ],
   "jp": "敵１体を　バクダンに変える[end]",
-  "en": ""
+  "en": "Turns one enemy into a bomb.[end]"
  },
  {
   "id": "M3012",
@@ -192,7 +192,7 @@
    3012
   ],
   "jp": "敵１体の　魔法を封じる[end]",
-  "en": ""
+  "en": "Seals one enemy's magic.[end]"
  },
  {
   "id": "M3013",
@@ -207,7 +207,7 @@
    3013
   ],
   "jp": "敵１体を　混乱させる[end]",
-  "en": ""
+  "en": "Confuses one enemy.[end]"
  },
  {
   "id": "M3014",
@@ -222,7 +222,7 @@
    3014
   ],
   "jp": "敵全体の　アタックを下げる[end]",
-  "en": ""
+  "en": "Lowers the Attack of all enemies.[end]"
  },
  {
   "id": "M3015",
@@ -237,7 +237,7 @@
    3015
   ],
   "jp": "敵全体の　ガードを下げる[end]",
-  "en": ""
+  "en": "Lowers the Guard of all enemies.[end]"
  },
  {
   "id": "M3016",
@@ -252,7 +252,7 @@
    3016
   ],
   "jp": "敵全体の　命中率を下げる[end]",
-  "en": ""
+  "en": "Lowers the accuracy of all enemies.[end]"
  },
  {
   "id": "M3017",
@@ -267,7 +267,7 @@
    3017
   ],
   "jp": "敵全体の全パラメータアップ効果を消す[end]",
-  "en": ""
+  "en": "Cancels all stat boosts on all enemies.[end]"
  },
  {
   "id": "M3018",
@@ -282,7 +282,7 @@
    3018
   ],
   "jp": "呪いで　敵１体に小ダメージと気絶効果[end]",
-  "en": ""
+  "en": "Curse: light damage and faint, one enemy.[end]"
  },
  {
   "id": "M3019",
@@ -297,7 +297,7 @@
    3019
   ],
   "jp": "呪いで　敵２体に中ダメージと気絶効果[end]",
-  "en": ""
+  "en": "Curse: medium damage and faint, two foes.[end]"
  },
  {
   "id": "M3020",
@@ -312,7 +312,7 @@
    3020
   ],
   "jp": "光で　味方１体のＨＰを少し回復する[end]",
-  "en": ""
+  "en": "Light restores a little HP to one ally.[end]"
  },
  {
   "id": "M3021",
@@ -327,7 +327,7 @@
    3021
   ],
   "jp": "光で　味方１体のＨＰを全回復する[end]",
-  "en": ""
+  "en": "Light fully restores one ally's HP.[end]"
  },
  {
   "id": "M3022",
@@ -342,7 +342,7 @@
    3022
   ],
   "jp": "光で　味方全体のＨＰを少し回復する[end]",
-  "en": ""
+  "en": "Light restores a little HP to all allies.[end]"
  },
  {
   "id": "M3023",
@@ -357,7 +357,7 @@
    3023
   ],
   "jp": "光で　味方全体のＨＰを全回復する[end]",
-  "en": ""
+  "en": "Light fully restores all allies' HP.[end]"
  },
  {
   "id": "M3024",
@@ -372,7 +372,7 @@
    3024
   ],
   "jp": "気絶した味方１体を　復活させる[end]",
-  "en": ""
+  "en": "Revives one fainted ally.[end]"
  },
  {
   "id": "M3025",
@@ -387,7 +387,7 @@
    3025
   ],
   "jp": "気絶した味方１体を　完全復活させる[end]",
-  "en": ""
+  "en": "Fully revives one fainted ally.[end]"
  },
  {
   "id": "M3026",
@@ -402,7 +402,7 @@
    3026
   ],
   "jp": "味方１体の気絶以外の状態を回復させる[end]",
-  "en": ""
+  "en": "Cures one ally of ailments except fainting.[end]"
  },
  {
   "id": "M3027",
@@ -417,7 +417,7 @@
    3027
   ],
   "jp": "光で　味方１体のＨＰを大きく回復する[end]",
-  "en": ""
+  "en": "Light restores a lot of HP to one ally.[end]"
  },
  {
   "id": "M3028",
@@ -432,7 +432,7 @@
    3028
   ],
   "jp": "光で　味方全体のＨＰを大きく回復する[end]",
-  "en": ""
+  "en": "Light restores a lot of HP to all allies.[end]"
  },
  {
   "id": "M3029",
@@ -447,7 +447,7 @@
    3029
   ],
   "jp": "敵全体に大ダメージと　自分の状態回復[end]",
-  "en": ""
+  "en": "Big damage to all enemies; cures self.[end]"
  },
  {
   "id": "M3030",
@@ -462,7 +462,7 @@
    3030
   ],
   "jp": "光で　敵全体に３回攻撃する[end]",
-  "en": ""
+  "en": "Light strikes all enemies 3 times.[end]"
  },
  {
   "id": "M3031",
@@ -477,7 +477,7 @@
    3031
   ],
   "jp": "闇で　敵全体に３回攻撃する[end]",
-  "en": ""
+  "en": "Darkness strikes all enemies 3 times.[end]"
  },
  {
   "id": "M3032",
@@ -492,7 +492,7 @@
    3032
   ],
   "jp": "味方全体のアタックが　アップする[end]",
-  "en": ""
+  "en": "Raises the Attack of all allies.[end]"
  },
  {
   "id": "M3033",
@@ -507,7 +507,7 @@
    3033
   ],
   "jp": "味方全体のガードが　アップする[end]",
-  "en": ""
+  "en": "Raises the Guard of all allies.[end]"
  },
  {
   "id": "M3034",
@@ -522,7 +522,7 @@
    3034
   ],
   "jp": "味方全体の命中率が　アップする[end]",
-  "en": ""
+  "en": "Raises the accuracy of all allies.[end]"
  },
  {
   "id": "M3035",
@@ -537,7 +537,7 @@
    3035
   ],
   "jp": "味方全体のマジックが　アップする[end]",
-  "en": ""
+  "en": "Raises the Magic of all allies.[end]"
  },
  {
   "id": "M3036",
@@ -552,7 +552,7 @@
    3036
   ],
   "jp": "味方全体のパラメータダウンを打ち消す[end]",
-  "en": ""
+  "en": "Cancels stat drops on all allies.[end]"
  },
  {
   "id": "M3037",
@@ -567,7 +567,7 @@
    3037
   ],
   "jp": "敵１体に小ダメージと　自分の状態回復[end]",
-  "en": ""
+  "en": "Light damage to one enemy; cures self.[end]"
  },
  {
   "id": "M3038",
@@ -582,7 +582,7 @@
    3038
   ],
   "jp": "敵２体に小ダメージと　自分の状態回復[end]",
-  "en": ""
+  "en": "Light damage to two enemies; cures self.[end]"
  },
  {
   "id": "M3039",
@@ -597,7 +597,7 @@
    3039
   ],
   "jp": "今いる世界の立ち寄った町へ任意で移動[end]",
-  "en": ""
+  "en": "Warps to a visited town in this world.[end]"
  },
  {
   "id": "M3040",
@@ -612,7 +612,7 @@
    3040
   ],
   "jp": "敵１体に　ガード無視の２回攻撃[end]",
-  "en": ""
+  "en": "Hits one enemy twice, ignoring Guard.[end]"
  },
  {
   "id": "M3041",
@@ -627,7 +627,7 @@
    3041
   ],
   "jp": "敵の出現率を　下げる[end]",
-  "en": ""
+  "en": "Demons appear less often.[end]"
  },
  {
   "id": "M3042",
@@ -642,7 +642,7 @@
    3042
   ],
   "jp": "敵の出現率を　上げる[end]",
-  "en": ""
+  "en": "Demons appear more often.[end]"
  },
  {
   "id": "M3043",
@@ -657,7 +657,7 @@
    3043
   ],
   "jp": "光の波動を放って　敵１体に小ダメージ[end]",
-  "en": ""
+  "en": "Light wave: small damage to one foe.[end]"
  },
  {
   "id": "M3044",
@@ -672,7 +672,7 @@
    3044
   ],
   "jp": "光の波動を放って　敵全体に大ダメージ[end]",
-  "en": ""
+  "en": "Light wave: big damage to all foes.[end]"
  },
  {
   "id": "M3045",
@@ -687,7 +687,7 @@
    3045
   ],
   "jp": "光の波動を放って　敵１体に大ダメージ[end]",
-  "en": ""
+  "en": "Light wave: big damage to one foe.[end]"
  },
  {
   "id": "M3046",
@@ -702,7 +702,7 @@
    3046
   ],
   "jp": "天からの拳で　敵全体に大ダメージ[end]",
-  "en": ""
+  "en": "Heavenly fist: big damage to all foes.[end]"
  },
  {
   "id": "M3047",
@@ -717,7 +717,7 @@
    3047
   ],
   "jp": "聖なるオーラで　敵全体に大ダメージ[end]",
-  "en": ""
+  "en": "Holy aura: big damage to all foes.[end]"
  },
  {
   "id": "M3048",
@@ -732,7 +732,7 @@
    3048
   ],
   "jp": "聖なるヤリで　敵１体に２回攻撃[end]",
-  "en": ""
+  "en": "Holy spear: hits one foe twice.[end]"
  },
  {
   "id": "M3049",
@@ -747,7 +747,7 @@
    3049
   ],
   "jp": "闇の刃で敵１体に小ダメージと気絶効果[end]",
-  "en": ""
+  "en": "Dark blade: small damage + faint to one foe.[end]"
  },
  {
   "id": "M3050",
@@ -762,7 +762,7 @@
    3050
   ],
   "jp": "敵全体に大ダメージと　気絶効果[end]",
-  "en": ""
+  "en": "Big damage + faint to all foes.[end]"
  },
  {
   "id": "M3051",
@@ -777,7 +777,7 @@
    3051
   ],
   "jp": "敵１体に敵のＨＰの１／３分のダメージ[end]",
-  "en": ""
+  "en": "Deals damage equal to 1/3 of one foe's HP.[end]"
  },
  {
   "id": "M3052",
@@ -792,7 +792,7 @@
    3052
   ],
   "jp": "敵１体に大ダメージと　ＭＰ吸収[end]",
-  "en": ""
+  "en": "Big damage + drains MP from one foe.[end]"
  },
  {
   "id": "M3053",
@@ -807,7 +807,7 @@
    3053
   ],
   "jp": "敵１体にガード無視で中ダメージと沈黙[end]",
-  "en": ""
+  "en": "Piercing: medium damage + silences one foe.[end]"
  },
  {
   "id": "M3054",
@@ -822,7 +822,7 @@
    3054
   ],
   "jp": "敵１体にガードを無視した　ダメージ[end]",
-  "en": ""
+  "en": "Damages one foe, ignoring Guard.[end]"
  },
  {
   "id": "M3055",
@@ -837,7 +837,7 @@
    3055
   ],
   "jp": "敵１体に炎の矢を放って　小ダメージ[end]",
-  "en": ""
+  "en": "Fire arrow: small damage to one foe.[end]"
  },
  {
   "id": "M3056",
@@ -852,7 +852,7 @@
    3056
   ],
   "jp": "敵１体を闇の炎で　焼き尽くす[end]",
-  "en": ""
+  "en": "Incinerates one foe with dark flames.[end]"
  },
  {
   "id": "M3057",
@@ -867,7 +867,7 @@
    3057
   ],
   "jp": "炎を吐いて　敵全体に小ダメージ[end]",
-  "en": ""
+  "en": "Fire breath: small damage to all foes.[end]"
  },
  {
   "id": "M3058",
@@ -882,7 +882,7 @@
    3058
   ],
   "jp": "敵全体を　炎で包み込み３回ダメージ[end]",
-  "en": ""
+  "en": "Engulfs all foes in flames for 3 hits.[end]"
  },
  {
   "id": "M3059",
@@ -897,7 +897,7 @@
    3059
   ],
   "jp": "自爆して　全体にダメージ[end]",
-  "en": ""
+  "en": "Self-destructs to damage all foes.[end]"
  },
  {
   "id": "M3060",
@@ -912,7 +912,7 @@
    3060
   ],
   "jp": "敵１体にダメージとバクダン効果[end]",
-  "en": ""
+  "en": "Damage + bomb to one foe.[end]"
  },
  {
   "id": "M3061",
@@ -927,7 +927,7 @@
    3061
   ],
   "jp": "水柱で　敵１体に中ダメージ[end]",
-  "en": ""
+  "en": "Water pillar: medium damage to one foe.[end]"
  },
  {
   "id": "M3062",
@@ -942,7 +942,7 @@
    3062
   ],
   "jp": "氷柱で敵１体に　大ダメージと凍結効果[end]",
-  "en": ""
+  "en": "Icicle: big damage + freeze to one foe.[end]"
  },
  {
   "id": "M3063",
@@ -957,7 +957,7 @@
    3063
   ],
   "jp": "冷気で　敵２体に小ダメージと凍結効果[end]",
-  "en": ""
+  "en": "Cold air: small damage + freeze to two foes.[end]"
  },
  {
   "id": "M3064",
@@ -972,7 +972,7 @@
    3064
   ],
   "jp": "敵全体に冷気を放って中ダメージと沈黙[end]",
-  "en": ""
+  "en": "Chill: medium damage + silence to all foes.[end]"
  },
  {
   "id": "M3065",
@@ -987,7 +987,7 @@
    3065
   ],
   "jp": "敵１体に冷気を放って小ダメージと沈黙[end]",
-  "en": ""
+  "en": "Chill: small damage + silence to one foe.[end]"
  },
  {
   "id": "M3066",
@@ -1002,7 +1002,7 @@
    3066
   ],
   "jp": "敵全体に冷気を放って中ダメージと沈黙[end]",
-  "en": ""
+  "en": "Chill: medium damage + silence to all foes.[end]"
  },
  {
   "id": "M3067",
@@ -1017,7 +1017,7 @@
    3067
   ],
   "jp": "翼で風を放って　敵１体に小ダメージ[end]",
-  "en": ""
+  "en": "Wing gust: small damage to one foe.[end]"
  },
  {
   "id": "M3068",
@@ -1032,7 +1032,7 @@
    3068
   ],
   "jp": "風の刃で敵１体を切りつけ中ダメージ[end]",
-  "en": ""
+  "en": "Wind blade: medium damage to one foe.[end]"
  },
  {
   "id": "M3069",
@@ -1047,7 +1047,7 @@
    3069
   ],
   "jp": "敵１体に　中ダメージと毒効果[end]",
-  "en": ""
+  "en": "Medium damage + poison to one foe.[end]"
  },
  {
   "id": "M3070",
@@ -1062,7 +1062,7 @@
    3070
   ],
   "jp": "衝撃波で　敵全体に小ダメージ[end]",
-  "en": ""
+  "en": "Shock wave: small damage to all foes.[end]"
  },
  {
   "id": "M3071",
@@ -1077,7 +1077,7 @@
    3071
   ],
   "jp": "毒の爪で敵１体に小ダメージと毒効果[end]",
-  "en": ""
+  "en": "Poison claw: small damage, poisons one foe.[end]"
  },
  {
   "id": "M3072",
@@ -1092,7 +1092,7 @@
    3072
   ],
   "jp": "敵全体に　大ダメージと毒効果[end]",
-  "en": ""
+  "en": "Big damage + poison to all foes.[end]"
  },
  {
   "id": "M3073",
@@ -1107,7 +1107,7 @@
    3073
   ],
   "jp": "雷で　敵１体に小ダメージと感電効果[end]",
-  "en": ""
+  "en": "Thunder: small damage + shock to one foe.[end]"
  },
  {
   "id": "M3074",
@@ -1122,7 +1122,7 @@
    3074
   ],
   "jp": "電磁波で敵１体に小ダメージと感電効果[end]",
-  "en": ""
+  "en": "Static: small damage + shock to one foe.[end]"
  },
  {
   "id": "M3075",
@@ -1137,7 +1137,7 @@
    3075
   ],
   "jp": "金槌で　敵１体に中ダメージと感電効果[end]",
-  "en": ""
+  "en": "Hammer: medium damage + shocks one foe.[end]"
  },
  {
   "id": "M3076",
@@ -1152,7 +1152,7 @@
    3076
   ],
   "jp": "雷で　敵２体に小ダメージと感電効果[end]",
-  "en": ""
+  "en": "Thunder: small damage + shock to two foes.[end]"
  },
  {
   "id": "M3077",
@@ -1167,7 +1167,7 @@
    3077
   ],
   "jp": "雷で　敵全体に小ダメージと感電効果[end]",
-  "en": ""
+  "en": "Thunder: small damage + shock to all foes.[end]"
  },
  {
   "id": "M3078",
@@ -1182,7 +1182,7 @@
    3078
   ],
   "jp": "雷で　敵全体に大ダメージとマヒ効果[end]",
-  "en": ""
+  "en": "Thunder: big damage + paralysis to all foes.[end]"
  },
  {
   "id": "M3079",
@@ -1197,7 +1197,7 @@
    3079
   ],
   "jp": "体当たりで　敵１体に小ダメージ[end]",
-  "en": ""
+  "en": "Body slam: small damage to one foe.[end]"
  },
  {
   "id": "M3080",
@@ -1212,7 +1212,7 @@
    3080
   ],
   "jp": "巨大な岩石で　敵１体に大ダメージ[end]",
-  "en": ""
+  "en": "Giant boulder: big damage to one foe.[end]"
  },
  {
   "id": "M3081",
@@ -1227,7 +1227,7 @@
    3081
   ],
   "jp": "敵全体に中ダメージとガードダウン効果[end]",
-  "en": ""
+  "en": "Medium damage + Guard down to all foes.[end]"
  },
  {
   "id": "M3082",
@@ -1242,7 +1242,7 @@
    3082
   ],
   "jp": "敵２体に岩のヤリを落として小ダメージ[end]",
-  "en": ""
+  "en": "Rock spears: small damage to two foes.[end]"
  },
  {
   "id": "M3083",
@@ -1257,7 +1257,7 @@
    3083
   ],
   "jp": "敵１体に中ダメージとガードダウン効果[end]",
-  "en": ""
+  "en": "Medium damage + Guard down to one foe.[end]"
  },
  {
   "id": "M3084",
@@ -1272,7 +1272,7 @@
    3084
   ],
   "jp": "敵全体に大ダメージとガードダウン効果[end]",
-  "en": ""
+  "en": "Big damage + Guard down to all foes.[end]"
  },
  {
   "id": "M3085",
@@ -1287,7 +1287,7 @@
    3085
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3086",
@@ -1302,7 +1302,7 @@
    3086
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3087",
@@ -1317,7 +1317,7 @@
    3087
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3088",
@@ -1332,7 +1332,7 @@
    3088
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3089",
@@ -1347,7 +1347,7 @@
    3089
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3090",
@@ -1362,7 +1362,7 @@
    3090
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3091",
@@ -1377,7 +1377,7 @@
    3091
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3092",
@@ -1392,7 +1392,7 @@
    3092
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3093",
@@ -1407,7 +1407,7 @@
    3093
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3094",
@@ -1422,7 +1422,7 @@
    3094
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3095",
@@ -1437,7 +1437,7 @@
    3095
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3096",
@@ -1452,7 +1452,7 @@
    3096
   ],
   "jp": "アイテム用[end]",
-  "en": ""
+  "en": "(For items)[end]"
  },
  {
   "id": "M3097",
@@ -1467,7 +1467,7 @@
    3097
   ],
   "jp": "味方全体のスピードが　アップする[end]",
-  "en": ""
+  "en": "Raises all allies' Speed.[end]"
  },
  {
   "id": "M3098",
@@ -1482,7 +1482,7 @@
    3098
   ],
   "jp": "敵１体に　４回攻撃[end]",
-  "en": ""
+  "en": "Hits one foe 4 times.[end]"
  },
  {
   "id": "M3099",
@@ -1497,7 +1497,7 @@
    3099
   ],
   "jp": "敵全体に８回攻撃する[end]",
-  "en": ""
+  "en": "Hits all foes 8 times.[end]"
  },
  {
   "id": "M3100",
@@ -1512,7 +1512,7 @@
    3100
   ],
   "jp": "敵全体に４回攻撃してアタックアップ[end]",
-  "en": ""
+  "en": "Hits all foes 4 times and raises Attack.[end]"
  },
  {
   "id": "M3101",
@@ -1527,7 +1527,7 @@
    3101
   ],
   "jp": "敵全体のＭガードを　下げる[end]",
-  "en": ""
+  "en": "Lowers all foes' Magic Guard.[end]"
  },
  {
   "id": "M3102",
@@ -1542,7 +1542,7 @@
    3102
   ],
   "jp": "味方全体のＭガードが　アップする[end]",
-  "en": ""
+  "en": "Raises all allies' Magic Guard.[end]"
  },
  {
   "id": "M3103",
@@ -1557,7 +1557,7 @@
    3103
   ],
   "jp": "自分への　魔法を跳ね返す[end]",
-  "en": ""
+  "en": "Reflects magic cast on the user.[end]"
  },
  {
   "id": "M3104",
@@ -1572,7 +1572,7 @@
    3104
   ],
   "jp": "吹き上げる炎で　敵全体に中ダメージ[end]",
-  "en": ""
+  "en": "Erupting flames: medium damage to all foes.[end]"
  },
  {
   "id": "M3105",
@@ -1587,7 +1587,7 @@
    3105
   ],
   "jp": "雷で　敵全体に中ダメージと感電効果[end]",
-  "en": ""
+  "en": "Thunder: medium damage + shock to all foes.[end]"
  },
  {
   "id": "M3106",
@@ -1602,7 +1602,7 @@
    3106
   ],
   "jp": "氷柱で　敵全体に中ダメージと凍結効果[end]",
-  "en": ""
+  "en": "Icicles: medium damage + freeze to all foes.[end]"
  },
  {
   "id": "M3107",
@@ -1617,7 +1617,7 @@
    3107
   ],
   "jp": "岩を落として　敵全体に中ダメージ[end]",
-  "en": ""
+  "en": "Falling rocks: medium damage to all foes.[end]"
  },
  {
   "id": "M3108",
@@ -1632,7 +1632,7 @@
    3108
   ],
   "jp": "カマイタチで　敵全体に中ダメージ[end]",
-  "en": ""
+  "en": "Razor wind: medium damage to all foes.[end]"
  },
  {
   "id": "M3109",
@@ -1647,7 +1647,7 @@
    3109
   ],
   "jp": "敵１体に中ダメージと　マヒ効果[end]",
-  "en": ""
+  "en": "Medium damage + paralysis to one foe.[end]"
  },
  {
   "id": "M3110",
@@ -1662,7 +1662,7 @@
    3110
   ],
   "jp": "敵１体にキバでかみついて　小ダメージ[end]",
-  "en": ""
+  "en": "Fang bite: small damage to one foe.[end]"
  },
  {
   "id": "M3111",
@@ -1677,7 +1677,7 @@
    3111
   ],
   "jp": "敵１体を爪で切り裂いて　小ダメージ[end]",
-  "en": ""
+  "en": "Claw slash: small damage to one foe.[end]"
  },
  {
   "id": "M3112",
@@ -1692,7 +1692,7 @@
    3112
   ],
   "jp": "敵１体に小ダメージと命中率ダウン効果[end]",
-  "en": ""
+  "en": "Small damage + accuracy down to one foe.[end]"
  },
  {
   "id": "M3113",
@@ -1707,7 +1707,7 @@
    3113
   ],
   "jp": "竜巻で　敵２体に中ダメージ[end]",
-  "en": ""
+  "en": "Tornado: medium damage to two foes.[end]"
  },
  {
   "id": "M3114",
@@ -1722,7 +1722,7 @@
    3114
   ],
   "jp": "敵全体に大ダメージと命中率ダウン効果[end]",
-  "en": ""
+  "en": "Big damage + accuracy down to all foes.[end]"
  },
  {
   "id": "M3115",
@@ -1737,7 +1737,7 @@
    3115
   ],
   "jp": "ランダムな敵に　２回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes twice.[end]"
  },
  {
   "id": "M3116",
@@ -1752,7 +1752,7 @@
    3116
   ],
   "jp": "敵１体に　２回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe twice.[end]"
  },
  {
   "id": "M3117",
@@ -1767,7 +1767,7 @@
    3117
   ],
   "jp": "ランダムな敵に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 4 times.[end]"
  },
  {
   "id": "M3118",
@@ -1782,7 +1782,7 @@
    3118
   ],
   "jp": "敵１体に　２回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe twice.[end]"
  },
  {
   "id": "M3119",
@@ -1797,7 +1797,7 @@
    3119
   ],
   "jp": "ランダムな敵に　２回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes twice.[end]"
  },
  {
   "id": "M3120",
@@ -1812,7 +1812,7 @@
    3120
   ],
   "jp": "敵１体に　２回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe twice.[end]"
  },
  {
   "id": "M3121",
@@ -1827,7 +1827,7 @@
    3121
   ],
   "jp": "ランダムな敵に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 4 times.[end]"
  },
  {
   "id": "M3122",
@@ -1842,7 +1842,7 @@
    3122
   ],
   "jp": "敵１体に　２回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe twice.[end]"
  },
  {
   "id": "M3123",
@@ -1857,7 +1857,7 @@
    3123
   ],
   "jp": "ランダムな敵に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 4 times.[end]"
  },
  {
   "id": "M3124",
@@ -1872,7 +1872,7 @@
    3124
   ],
   "jp": "敵１体に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe 4 times.[end]"
  },
  {
   "id": "M3125",
@@ -1887,7 +1887,7 @@
    3125
   ],
   "jp": "ランダムな敵に　２回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes twice.[end]"
  },
  {
   "id": "M3126",
@@ -1902,7 +1902,7 @@
    3126
   ],
   "jp": "敵１体に　２回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe twice.[end]"
  },
  {
   "id": "M3127",
@@ -1917,7 +1917,7 @@
    3127
   ],
   "jp": "ランダムな敵に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 4 times.[end]"
  },
  {
   "id": "M3128",
@@ -1932,7 +1932,7 @@
    3128
   ],
   "jp": "敵１体に　２回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe twice.[end]"
  },
  {
   "id": "M3129",
@@ -1947,7 +1947,7 @@
    3129
   ],
   "jp": "ランダムな敵に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 4 times.[end]"
  },
  {
   "id": "M3130",
@@ -1962,7 +1962,7 @@
    3130
   ],
   "jp": "敵１体に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe 4 times.[end]"
  },
  {
   "id": "M3131",
@@ -1977,7 +1977,7 @@
    3131
   ],
   "jp": "力をためて　アタックをアップさせる[end]",
-  "en": ""
+  "en": "Builds up power to raise Attack.[end]"
  },
  {
   "id": "M3132",
@@ -1992,7 +1992,7 @@
    3132
   ],
   "jp": "敵全体を嵐で攻撃し　命中率ダウン効果[end]",
-  "en": ""
+  "en": "Storm hits all foes + accuracy down.[end]"
  },
  {
   "id": "M3133",
@@ -2007,7 +2007,7 @@
    3133
   ],
   "jp": "炎を放って　敵１体に２回攻撃する[end]",
-  "en": ""
+  "en": "Fire: hits one foe twice.[end]"
  },
  {
   "id": "M3134",
@@ -2022,7 +2022,7 @@
    3134
   ],
   "jp": "炎を放って　敵１体に３回攻撃する[end]",
-  "en": ""
+  "en": "Fire: hits one foe 3 times.[end]"
  },
  {
   "id": "M3135",
@@ -2037,7 +2037,7 @@
    3135
   ],
   "jp": "敵味方すべてのパラメータ変化を消す[end]",
-  "en": ""
+  "en": "Clears all stat changes on both sides.[end]"
  },
  {
   "id": "M3136",
@@ -2052,7 +2052,7 @@
    3136
   ],
   "jp": "１番はやく攻撃をし敵１体に小ダメージ[end]",
-  "en": ""
+  "en": "Strikes fastest: small damage to one foe.[end]"
  },
  {
   "id": "M3137",
@@ -2067,7 +2067,7 @@
    3137
   ],
   "jp": "敵１体に　必ず　先制攻撃をする[end]",
-  "en": ""
+  "en": "Always strikes one foe first.[end]"
  },
  {
   "id": "M3138",
@@ -2082,7 +2082,7 @@
    3138
   ],
   "jp": "自分への技を　はねかえしてダメージ[end]",
-  "en": ""
+  "en": "Reflects skills used on the user as damage.[end]"
  },
  {
   "id": "M3139",
@@ -2097,7 +2097,7 @@
    3139
   ],
   "jp": "ＨＰが少ないとき敵１体に逆転の一撃[end]",
-  "en": ""
+  "en": "When HP is low: comeback strike on one foe.[end]"
  },
  {
   "id": "M3140",
@@ -2112,7 +2112,7 @@
    3140
   ],
   "jp": "バトル中の敵１体を　コールでチェンジ[end]",
-  "en": ""
+  "en": "Calls in a swap for one foe in battle.[end]"
  },
  {
   "id": "M3141",
@@ -2127,7 +2127,7 @@
    3141
   ],
   "jp": "ＨＰが少ないとき　敵全体に逆転の一撃[end]",
-  "en": ""
+  "en": "When HP is low: comeback strike on all foes.[end]"
  },
  {
   "id": "M3142",
@@ -2142,7 +2142,7 @@
    3142
   ],
   "jp": "ランダムな敵に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 4 times.[end]"
  },
  {
   "id": "M3143",
@@ -2157,7 +2157,7 @@
    3143
   ],
   "jp": "敵１体に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe 4 times.[end]"
  },
  {
   "id": "M3144",
@@ -2172,7 +2172,7 @@
    3144
   ],
   "jp": "ランダムな敵に　８回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 8 times.[end]"
  },
  {
   "id": "M3145",
@@ -2187,7 +2187,7 @@
    3145
   ],
   "jp": "敵１体に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe 4 times.[end]"
  },
  {
   "id": "M3146",
@@ -2202,7 +2202,7 @@
    3146
   ],
   "jp": "敵１体に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe 4 times.[end]"
  },
  {
   "id": "M3147",
@@ -2217,7 +2217,7 @@
    3147
   ],
   "jp": "ランダムな敵に　８回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 8 times.[end]"
  },
  {
   "id": "M3148",
@@ -2232,7 +2232,7 @@
    3148
   ],
   "jp": "ランダムな敵に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 4 times.[end]"
  },
  {
   "id": "M3149",
@@ -2247,7 +2247,7 @@
    3149
   ],
   "jp": "敵１体に　ダメージとバクダン効果[end]",
-  "en": ""
+  "en": "Damage + bomb to one foe.[end]"
  },
  {
   "id": "M3150",
@@ -2262,7 +2262,7 @@
    3150
   ],
   "jp": "敵１体に　ダメージと混乱効果[end]",
-  "en": ""
+  "en": "Damage + confusion to one foe.[end]"
  },
  {
   "id": "M3151",
@@ -2277,7 +2277,7 @@
    3151
   ],
   "jp": "敵１体に　ダメージとマヒ効果[end]",
-  "en": ""
+  "en": "Damage + paralysis to one foe.[end]"
  },
  {
   "id": "M3152",
@@ -2292,7 +2292,7 @@
    3152
   ],
   "jp": "敵１体に　ダメージと毒効果[end]",
-  "en": ""
+  "en": "Damage + poison to one foe.[end]"
  },
  {
   "id": "M3153",
@@ -2307,7 +2307,7 @@
    3153
   ],
   "jp": "敵１体にダメージとアタックダウン効果[end]",
-  "en": ""
+  "en": "Damage + Attack down to one foe.[end]"
  },
  {
   "id": "M3154",
@@ -2322,7 +2322,7 @@
    3154
   ],
   "jp": "敵１体にダメージとガードダウン効果[end]",
-  "en": ""
+  "en": "Damage + Guard down to one foe.[end]"
  },
  {
   "id": "M3155",
@@ -2337,7 +2337,7 @@
    3155
   ],
   "jp": "敵１体にダメージとＭガードダウン効果[end]",
-  "en": ""
+  "en": "Damage + Magic Guard down to one foe.[end]"
  },
  {
   "id": "M3156",
@@ -2352,7 +2352,7 @@
    3156
   ],
   "jp": "味方１体のＨＰと気絶以外の状態を回復[end]",
-  "en": ""
+  "en": "Restores one ally's HP; cures all but fainting.[end]"
  },
  {
   "id": "M3157",
@@ -2367,7 +2367,7 @@
    3157
   ],
   "jp": "呪いの波動で　敵１体のＨＰを吸収[end]",
-  "en": ""
+  "en": "Curse wave: drains HP from one foe.[end]"
  },
  {
   "id": "M3158",
@@ -2382,7 +2382,7 @@
    3158
   ],
   "jp": "吹き上げる炎で敵全体に２回大ダメージ[end]",
-  "en": ""
+  "en": "Erupting flames: 2 big hits on all foes.[end]"
  },
  {
   "id": "M3159",
@@ -2397,7 +2397,7 @@
    3159
   ],
   "jp": "雷で敵全体に２回大ダメージと感電効果[end]",
-  "en": ""
+  "en": "Thunder: 2 big hits + shock on all foes.[end]"
  },
  {
   "id": "M3160",
@@ -2412,7 +2412,7 @@
    3160
   ],
   "jp": "氷で敵全体に２回大ダメージと凍結効果[end]",
-  "en": ""
+  "en": "Ice: 2 big hits + freeze on all foes.[end]"
  },
  {
   "id": "M3161",
@@ -2427,7 +2427,7 @@
    3161
   ],
   "jp": "岩を落として　敵全体に２回大ダメージ[end]",
-  "en": ""
+  "en": "Falling rocks: 2 big hits on all foes.[end]"
  },
  {
   "id": "M3162",
@@ -2442,7 +2442,7 @@
    3162
   ],
   "jp": "カマイタチで　敵全体に２回大ダメージ[end]",
-  "en": ""
+  "en": "Razor wind: 2 big hits on all foes.[end]"
  },
  {
   "id": "M3163",
@@ -2457,7 +2457,7 @@
    3163
   ],
   "jp": "すばやく攻撃して敵１体に２回攻撃[end]",
-  "en": ""
+  "en": "Quick strike: hits one foe twice.[end]"
  },
  {
   "id": "M3164",
@@ -2472,7 +2472,7 @@
    3164
   ],
   "jp": "敵全体にランダムで４回攻撃[end]",
-  "en": ""
+  "en": "Hits all foes 4 times at random.[end]"
  },
  {
   "id": "M3165",
@@ -2487,7 +2487,7 @@
    3165
   ],
   "jp": "敵１体に中ダメージと　気絶効果[end]",
-  "en": ""
+  "en": "Medium damage + faint to one foe.[end]"
  },
  {
   "id": "M3166",
@@ -2502,7 +2502,7 @@
    3166
   ],
   "jp": "炎で２回攻撃しダメージとバクダン効果[end]",
-  "en": ""
+  "en": "Fire: 2 hits of damage + bomb.[end]"
  },
  {
   "id": "M3167",
@@ -2517,7 +2517,7 @@
    3167
   ],
   "jp": "ランダムに敵１体を選び必ず誘惑にする[end]",
-  "en": ""
+  "en": "Always charms one random foe.[end]"
  },
  {
   "id": "M3168",
@@ -2532,7 +2532,7 @@
    3168
   ],
   "jp": "敵１体をマヒさせ　パラメータアップ[end]",
-  "en": ""
+  "en": "Paralyzes one foe and raises stats.[end]"
  },
  {
   "id": "M3169",
@@ -2547,7 +2547,7 @@
    3169
   ],
   "jp": "先制攻撃し敵全体にダメージと効果消し[end]",
-  "en": ""
+  "en": "Strikes first: damage to all foes + dispel.[end]"
  },
  {
   "id": "M3170",
@@ -2562,7 +2562,7 @@
    3170
   ],
   "jp": "敵の方に向かって　敵１体に３回攻撃[end]",
-  "en": ""
+  "en": "Charges one foe: hits 3 times.[end]"
  },
  {
   "id": "M3171",
@@ -2577,7 +2577,7 @@
    3171
   ],
   "jp": "敵全体にＭＰ吸収とガードダウン効果[end]",
-  "en": ""
+  "en": "Drains MP + Guard down on all foes.[end]"
  },
  {
   "id": "M3172",
@@ -2592,7 +2592,7 @@
    3172
   ],
   "jp": "敵全体に　８回ダメージとハッピー効果[end]",
-  "en": ""
+  "en": "Hits all foes 8 times + happy.[end]"
  },
  {
   "id": "M3173",
@@ -2607,7 +2607,7 @@
    3173
   ],
   "jp": "敵１体に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe 4 times.[end]"
  },
  {
   "id": "M3174",
@@ -2622,7 +2622,7 @@
    3174
   ],
   "jp": "ランダムな敵に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 4 times.[end]"
  },
  {
   "id": "M3175",
@@ -2637,7 +2637,7 @@
    3175
   ],
   "jp": "敵１体に　４回ダメージ[end]",
-  "en": ""
+  "en": "Hits one foe 4 times.[end]"
  },
  {
   "id": "M3176",
@@ -2652,7 +2652,7 @@
    3176
   ],
   "jp": "ランダムな敵に　８回ダメージ[end]",
-  "en": ""
+  "en": "Hits random foes 8 times.[end]"
  },
  {
   "id": "M3177",
@@ -2667,7 +2667,7 @@
    3177
   ],
   "jp": "光の波動で　敵全体に小ダメージ[end]",
-  "en": ""
+  "en": "Light wave: small damage to all foes.[end]"
  },
  {
   "id": "M3178",
@@ -2682,7 +2682,7 @@
    3178
   ],
   "jp": "先制攻撃で　敵１体に小ダメージ[end]",
-  "en": ""
+  "en": "Strikes first: small damage to one foe.[end]"
  },
  {
   "id": "M3179",
@@ -2697,7 +2697,7 @@
    3179
   ],
   "jp": "闇の波動で　敵全体に小ダメージ[end]",
-  "en": ""
+  "en": "Dark wave: small damage to all foes.[end]"
  },
  {
   "id": "M3180",
@@ -2712,7 +2712,7 @@
    3180
   ],
   "jp": "敵１体に小ダメージとガードダウン効果[end]",
-  "en": ""
+  "en": "Small damage + Guard down to one foe.[end]"
  },
  {
   "id": "M3181",
@@ -2727,7 +2727,7 @@
    3181
   ],
   "jp": "吹き上げる炎で　敵１体に大ダメージ[end]",
-  "en": ""
+  "en": "Erupting flames: big damage to one foe.[end]"
  },
  {
   "id": "M3182",
@@ -2742,7 +2742,7 @@
    3182
   ],
   "jp": "吹き上げる水柱で　敵１体に小ダメージ[end]",
-  "en": ""
+  "en": "Water spout: small damage to one foe.[end]"
  },
  {
   "id": "M3183",
@@ -2757,7 +2757,7 @@
    3183
   ],
   "jp": "吹き上げる水柱で　敵１体に大ダメージ[end]",
-  "en": ""
+  "en": "Water spout: big damage to one foe.[end]"
  },
  {
   "id": "M3184",
@@ -2772,7 +2772,7 @@
    3184
   ],
   "jp": "吹き上げる水柱で　敵２体に小ダメージ[end]",
-  "en": ""
+  "en": "Water spout: small damage to two foes.[end]"
  },
  {
   "id": "M3185",
@@ -2787,7 +2787,7 @@
    3185
   ],
   "jp": "吹き上げる水柱で　敵全体に中ダメージ[end]",
-  "en": ""
+  "en": "Water spout: medium damage to all foes.[end]"
  },
  {
   "id": "M3186",
@@ -2802,7 +2802,7 @@
    3186
   ],
   "jp": "強力な水柱で　敵全体に２回大ダメージ[end]",
-  "en": ""
+  "en": "Mighty water spout: 2 big hits on all foes.[end]"
  },
  {
   "id": "M3187",
@@ -2817,7 +2817,7 @@
    3187
   ],
   "jp": "雷で　敵１体に大ダメージと感電効果[end]",
-  "en": ""
+  "en": "Thunder: big damage + shock to one foe.[end]"
  },
  {
   "id": "M3188",
@@ -2832,7 +2832,7 @@
    3188
   ],
   "jp": "敵全体を４回攻撃して毒効果[end]",
-  "en": ""
+  "en": "Hits all foes 4 times + poison.[end]"
  },
  {
   "id": "M3189",
@@ -2847,7 +2847,7 @@
    3189
   ],
   "jp": "敵全体を４回攻撃し命中率をダウン[end]",
-  "en": ""
+  "en": "Hits all foes 4 times + accuracy down.[end]"
  },
  {
   "id": "M3190",
@@ -2862,7 +2862,7 @@
    3190
   ],
   "jp": "味方全体のＨＰを回復してパラメアップ[end]",
-  "en": ""
+  "en": "Heals all allies' HP and raises stats.[end]"
  },
  {
   "id": "M3191",
@@ -2877,7 +2877,7 @@
    3191
   ],
   "jp": "敵全体に２回攻撃とマヒ効果[end]",
-  "en": ""
+  "en": "Hits all foes twice + paralysis.[end]"
  },
  {
   "id": "M3192",
@@ -2892,7 +2892,7 @@
    3192
   ],
   "jp": "敵１体に４回攻撃[end]",
-  "en": ""
+  "en": "Hits one foe 4 times.[end]"
  },
  {
   "id": "M3193",
@@ -2907,7 +2907,7 @@
    3193
   ],
   "jp": "氷柱で　敵１体に大ダメージと凍結効果[end]",
-  "en": ""
+  "en": "Icicle: big damage + freeze to one foe.[end]"
  },
  {
   "id": "M3194",
@@ -2922,7 +2922,7 @@
    3194
   ],
   "jp": "衝撃波で　敵１体に大ダメージ[end]",
-  "en": ""
+  "en": "Shock wave: big damage to one foe.[end]"
  },
  {
   "id": "M3195",
@@ -2937,7 +2937,7 @@
    3195
   ],
   "jp": "岩を落として　敵１体に大ダメージ[end]",
-  "en": ""
+  "en": "Falling rocks: big damage to one foe.[end]"
  },
  {
   "id": "M3196",
@@ -2952,7 +2952,7 @@
    3196
   ],
   "jp": "敵全体に２回攻撃[end]",
-  "en": ""
+  "en": "Hits all foes twice.[end]"
  },
  {
   "id": "M3197",
@@ -2967,7 +2967,7 @@
    3197
   ],
   "jp": "敵１体に４回攻撃とガードダウン効果[end]",
-  "en": ""
+  "en": "Hits one foe 4 times + Guard down.[end]"
  },
  {
   "id": "M3198",
@@ -2982,7 +2982,7 @@
    3198
   ],
   "jp": "敵１体に２回攻撃と混乱変化[end]",
-  "en": ""
+  "en": "Hits one foe twice + confusion.[end]"
  },
  {
   "id": "M3199",
@@ -2997,6 +2997,6 @@
    3199
   ],
   "jp": "敵１体に２回先制攻撃と誘惑効果[end]",
-  "en": ""
+  "en": "Strikes one foe first, twice + charm.[end]"
  }
 ]
