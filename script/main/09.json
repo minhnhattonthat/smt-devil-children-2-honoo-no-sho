@@ -507,7 +507,7 @@
    1911
   ],
   "jp": "[f4]を[n][ec:0]こ　すてました[wait][end]",
-  "en": "Threw away [f4]. Amount: [ec:0].[wait][end]"
+  "en": "Threw away [f4] x [ec:0].[wait][end]"
  },
  {
   "id": "M1912",
@@ -1302,7 +1302,7 @@
    1964
   ],
   "jp": "Ｍガードが[ec:0]あがった！[wait][end]",
-  "en": "M.Guard rose by [ec:0]![wait][end]"
+  "en": "Magic Guard rose by [ec:0]![wait][end]"
  },
  {
   "id": "M1965",

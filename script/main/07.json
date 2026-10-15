@@ -1557,7 +1557,7 @@
    1503
   ],
   "jp": "[name:70]ホヤウカムイは　日本の[n]どこに住んでいる？[wait][end]",
-  "en": "[name:70]Where in Japan does Hoyau Kamui live?[wait][end]"
+  "en": "[name:70]Where in Japan does Hoyau Kamuy live?[wait][end]"
  },
  {
   "id": "M1504",
@@ -1602,7 +1602,7 @@
    1506
   ],
   "jp": "グランガチ[n]オロファト[n]ピクシー[end]",
-  "en": "Grangach[n]Orofat[n]Pixie[end]"
+  "en": "Grangach[n]Olofat[n]Pixie[end]"
  },
  {
   "id": "M1507",
@@ -1662,7 +1662,7 @@
    1510
   ],
   "jp": "サゴジョウ[n]すいこ[n]スーパーカッパ[end]",
-  "en": "Sagojou[n]Suiko[n]Super Kappa[end]"
+  "en": "Sa Gojo[n]Suiko[n]Super Kappa[end]"
  },
  {
   "id": "M1511",
@@ -1827,7 +1827,7 @@
    1521
   ],
   "jp": "[name:70]ゲンクロウは　どんなデビル？[wait][end]",
-  "en": "[name:70]What kind of demon is Genkuro?[wait][end]"
+  "en": "[name:70]What kind of demon is Genkurou?[wait][end]"
  },
  {
   "id": "M1522",
@@ -1857,7 +1857,7 @@
    1523
   ],
   "jp": "[name:70]ベナンガルはなにを守っている？[wait][end]",
-  "en": "[name:70]What does Benangal guard?[wait][end]"
+  "en": "[name:70]What does Penanggal guard?[wait][end]"
  },
  {
   "id": "M1524",
@@ -2112,7 +2112,7 @@
    1540
   ],
   "jp": "ブッカブー[n]スクーグスロー[n]アエロファンテ[end]",
-  "en": "Buccaboo[n]Skogsra[n]Aerofante[end]"
+  "en": "Bucca-Boo[n]Skogsra[n]Aerofante[end]"
  },
  {
   "id": "M1541",
@@ -2142,7 +2142,7 @@
    1542
   ],
   "jp": "ヴィーヴル[n]ヴォロス[n]バビルザク[end]",
-  "en": "Vouivre[n]Volos[n]Pabilsag[end]"
+  "en": "Vouivre[n]Volos[n]Babilzak[end]"
  },
  {
   "id": "M1543",
@@ -2187,7 +2187,7 @@
    1545
   ],
   "jp": "[name:70]アナベルグのすんでいる場所はどこ？[wait][end]",
-  "en": "[name:70]Where does Annaberg live?[wait][end]"
+  "en": "[name:70]Where does Annaberge live?[wait][end]"
  },
  {
   "id": "M1546",
@@ -2337,7 +2337,7 @@
    1555
   ],
   "jp": "[name:70]ペクヨンは　何色のドラゴン？[wait][end]",
-  "en": "[name:70]What color of dragon is Baekyong?[wait][end]"
+  "en": "[name:70]What color of dragon is Paekyong?[wait][end]"
  },
  {
   "id": "M1556",
@@ -2412,7 +2412,7 @@
    1560
   ],
   "jp": "カッパ[n]すいこ[n]サゴジョウ[end]",
-  "en": "Kappa[n]Suiko[n]Sagojou[end]"
+  "en": "Kappa[n]Suiko[n]Sa Gojo[end]"
  },
  {
   "id": "M1561",
@@ -2487,7 +2487,7 @@
    1565
   ],
   "jp": "[name:70]ヤロヴィートは[n]どんなものを持っている？[wait][end]",
-  "en": "[name:70]What does Jarovit carry?[wait][end]"
+  "en": "[name:70]What does Yarovit carry?[wait][end]"
  },
  {
   "id": "M1566",

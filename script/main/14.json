@@ -177,7 +177,7 @@
    2811
   ],
   "jp": "敵全員の全ステータスを　ダウンさせる[end]",
-  "en": "Lowers all stats of every enemy.[end]"
+  "en": "Lowers all stats of every foe.[end]"
  },
  {
   "id": "M2812",
@@ -372,7 +372,7 @@
    2824
   ],
   "jp": "雷の魔法・技のダメージを半分ガード[end]",
-  "en": "Halves damage from thunder magic or skills.[end]"
+  "en": "Halves damage from thunder magic/skills.[end]"
  },
  {
   "id": "M2825",

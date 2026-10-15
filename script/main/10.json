@@ -1047,7 +1047,7 @@
    2069
   ],
   "jp": "このちかくには[n]宝箱が[ec:0]こ[wait][clr]あやしいばしょが[ec:1]かしょ[wait][clr]あるみたいだ[wait][end]",
-  "en": "Treasure chests nearby: [ec:0][wait][clr]Suspicious spots: [ec:1][wait][clr]...or so it seems.[wait][end]"
+  "en": "Nearby, it looks like there are:[wait][clr]Treasure chests: [ec:0][wait][clr]Suspicious spots: [ec:1][wait][end]"
  },
  {
   "id": "M2070",

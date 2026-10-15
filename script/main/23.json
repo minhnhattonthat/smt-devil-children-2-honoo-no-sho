@@ -2637,7 +2637,7 @@
    4775
   ],
   "jp": "敵２体を爆発させる[n]かんたんな　キカイ[n]注意しないと　危険[n]合体に使うと[n]イグニスボムを[n]習得できる[end]",
-  "en": "A simple device that[n]blows up 2 foes.[n]Handle with care![n]Use it in fusion[n]to learn[n]Ignis Bomb.[end]"
+  "en": "A simple device that[n]blows up two foes.[n]Handle with care![n]Use it in fusion[n]to learn[n]Ignis Bomb.[end]"
  },
  {
   "id": "M4776",
@@ -2667,7 +2667,7 @@
    4777
   ],
   "jp": "敵１体を攻撃する[n]炎と　バクダンが[n]やどる　ツメ[n]合体に使うと[n]ばくねつのツメを[n]習得できる[end]",
-  "en": "A claw holding fire[n]and bombs that hits[n]1 foe.[n]Use it in fusion[n]to learn[n]Blazing Claw.[end]"
+  "en": "A claw holding fire[n]and bombs that hits[n]one foe.[n]Use it in fusion[n]to learn[n]Blazing Claw.[end]"
  },
  {
   "id": "M4778",
@@ -2682,7 +2682,7 @@
    4778
   ],
   "jp": "敵２体を混乱させる[n]効果のある　７色の[n]きれいな　液体[n]合体に使うと[n]にじのあわを[n]習得できる[end]",
-  "en": "A pretty 7-colored[n]liquid that confuses[n]2 foes.[n]Use it in fusion[n]to learn[n]Rainbow Bubble.[end]"
+  "en": "A pretty 7-colored[n]liquid that confuses[n]two foes.[n]Use it in fusion[n]to learn[n]Rainbow Bubble.[end]"
  },
  {
   "id": "M4779",
@@ -2727,7 +2727,7 @@
    4781
   ],
   "jp": "敵１体に　氷の[n]かたまりを落とす[n]効果のある　つばさ[n]合体に使うと[n]ひょうてんげきを[n]習得できる[end]",
-  "en": "Wings that drop a[n]chunk of ice on[n]1 foe.[n]Use it in fusion[n]to learn[n]Freezing Strike.[end]"
+  "en": "Wings that drop a[n]chunk of ice on[n]one foe.[n]Use it in fusion[n]to learn[n]Freezing Strike.[end]"
  },
  {
   "id": "M4782",
@@ -2742,7 +2742,7 @@
    4782
   ],
   "jp": "敵１体をこおらせて[n]しまう　氷の魔法が[n]書かれている　石版[n]合体に使うと[n]アイスプリズンを[n]習得できる[end]",
-  "en": "A stone tablet with[n]an ice spell that[n]freezes 1 foe.[n]Use it in fusion[n]to learn[n]Ice Prison.[end]"
+  "en": "A stone tablet with[n]an ice spell that[n]freezes one foe.[n]Use it in fusion[n]to learn[n]Ice Prison.[end]"
  },
  {
   "id": "M4783",
@@ -2772,7 +2772,7 @@
    4784
   ],
   "jp": "敵１体に　目を[n]あけることができない[n]強い風をおくるつばさ[n]合体に使うと[n]ビッグウィングを[n]習得できる[end]",
-  "en": "Wings that blast 1 foe[n]with wind too strong[n]to open its eyes.[n]Use it in fusion[n]to learn[n]Big Wing.[end]"
+  "en": "Wings that blast one foe[n]with wind too strong[n]to open its eyes.[n]Use it in fusion[n]to learn[n]Big Wing.[end]"
  },
  {
   "id": "M4785",
@@ -2802,7 +2802,7 @@
    4786
   ],
   "jp": "敵１体をずたずたに[n]きりきざんでしまう[n]効果のある　宝石[n]合体に使うと[n]ふうじんげきを[n]習得できる[end]",
-  "en": "A gem that can[n]slice 1 foe[n]to ribbons.[n]Use it in fusion[n]to learn[n]Wind God Strike.[end]"
+  "en": "A gem that can[n]slice one foe[n]to ribbons.[n]Use it in fusion[n]to learn[n]Wind God Strike.[end]"
  },
  {
   "id": "M4787",
@@ -2832,7 +2832,7 @@
    4788
   ],
   "jp": "敵２体をマヒさせる[n]効果のある[n]大きな　カナヅチ[n]合体に使うと[n]ビリビリスパークを[n]習得できる[end]",
-  "en": "A big hammer that[n]paralyzes[n]2 foes.[n]Use it in fusion[n]to learn[n]Zappy Spark.[end]"
+  "en": "A big hammer that[n]paralyzes[n]two foes.[n]Use it in fusion[n]to learn[n]Zappy Spark.[end]"
  },
  {
   "id": "M4789",
@@ -2847,7 +2847,7 @@
    4789
   ],
   "jp": "敵１体に感電の[n]効果のある[n]ふしぎな　ハンマー[n]合体に使うと[n]トールハンマーを[n]習得できる[end]",
-  "en": "A mysterious hammer[n]that shocks[n]1 foe.[n]Use it in fusion[n]to learn[n]Thor's Hammer.[end]"
+  "en": "A mysterious hammer[n]that shocks[n]one foe.[n]Use it in fusion[n]to learn[n]Thor's Hammer.[end]"
  },
  {
   "id": "M4790",
@@ -2862,7 +2862,7 @@
    4790
   ],
   "jp": "敵２体に　岩を[n]ふらす効果のある[n]大地の力を持ったヤリ[n]合体に使うと[n]ガイアバスターを[n]習得できる[end]",
-  "en": "A spear with the[n]earth's power that[n]rains rocks on 2 foes.[n]Use it in fusion[n]to learn[n]Gaia Buster.[end]"
+  "en": "A spear with the[n]earth's power that[n]rains rocks on two foes.[n]Use it in fusion[n]to learn[n]Gaia Buster.[end]"
  },
  {
   "id": "M4791",
@@ -2907,7 +2907,7 @@
    4793
   ],
   "jp": "敵１体に大きな岩を[n]落とす効果のある[n]女神の指輪[n]合体に使うと[n]ロックフォールを[n]習得できる[end]",
-  "en": "A goddess's ring that[n]drops a big rock on[n]1 foe.[n]Use it in fusion[n]to learn[n]Rock Fall.[end]"
+  "en": "A goddess's ring that[n]drops a big rock on[n]one foe.[n]Use it in fusion[n]to learn[n]Rock Fall.[end]"
  },
  {
   "id": "M4794",
@@ -2937,7 +2937,7 @@
    4795
   ],
   "jp": "手にもつと[n]敵２体を混乱させる[n]いやな音をだす　ヤリ[n]合体に使うと[n]バズブラストを[n]習得できる[end]",
-  "en": "A spear that, when held,[n]makes a nasty noise[n]that confuses 2 foes.[n]Use it in fusion[n]to learn[n]Buzz Blast.[end]"
+  "en": "A spear that, when held,[n]makes a nasty noise[n]that confuses two foes.[n]Use it in fusion[n]to learn[n]Buzz Blast.[end]"
  },
  {
   "id": "M4796",
@@ -2967,7 +2967,7 @@
    4797
   ],
   "jp": "敵全体がキゼツする[n]強力な　魔法が[n]書かれた　石版[n]合体に使うと[n]クロスノヴァを[n]習得できる[end]",
-  "en": "A stone tablet with[n]a mighty spell that[n]stuns all foes.[n]Use it in fusion[n]to learn[n]Cross Nova.[end]"
+  "en": "A stone tablet with[n]a mighty spell that[n]makes all foes faint.[n]Use it in fusion[n]to learn[n]Cross Nova.[end]"
  },
  {
   "id": "M4798",
@@ -2997,6 +2997,6 @@
    4799
   ],
   "jp": "敵２体をだまらせる[n]効果のある[n]神の　十字架[n]合体に使うと[n]ホーリーショットを[n]習得できる[end]",
-  "en": "A god's cross that[n]silences[n]2 foes.[n]Use it in fusion[n]to learn[n]Holy Shot.[end]"
+  "en": "A god's cross that[n]silences[n]two foes.[n]Use it in fusion[n]to learn[n]Holy Shot.[end]"
  }
 ]

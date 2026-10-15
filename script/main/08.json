@@ -1529,7 +1529,7 @@
    1702
   ],
   "jp": "なにーーーーっ！？[wait][page]レジーヌの[n]お姉ちゃんがセクだって！？[wait][page]おっと　いかんいかん[n]声が大きかったぜ[wait][page]セクって言ったら　あんた[n]このあたりじゃ知らないヤツは[wait][clr]いないくらいの[wait][clr]うでききのギゾクの名前だぜ？[wait][page]この間も　あのワナの多い[n]氷の使徒さまのお城に　しのびこんで[wait][clr]ぶじに帰ってきたとか・・・[wait][page]どんなお宝を手に入れてきたのか[n]オレには想像つかないけど[wait][page]レジーヌのお姉ちゃんが[n]あのセクだっていうのか・・・！？[wait][page]でも・・・まてよ？[wait][page]たまたま　名前が[n]同じだっただけかもしれないし・・・[wait][page]うう・・・ワケがわからなく[n]なってきた・・・うーん・・・[wait][end]",
-  "en": "WHAAAAAT?![wait][page]Regine's big sister is Sek?![wait][page]Whoops, shouldn't have done that. I was too loud.[wait][page]Listen, around here there's nobody who[wait][clr]hasn't heard of Sek.[wait][clr]She's a master thief who steals from the rich![wait][page]Just the other day, I heard she snuck into the great Ice Apostle's trap-filled castle[wait][clr]and got back out safe and sound...[wait][page]I can't even imagine what kind of treasure she came back with.[wait][page]And Regine's big sister is THAT Sek...?![wait][page]But... wait a sec.[wait][page]Maybe they just happen to have the same name...[wait][page]Ugh... I'm getting all confused... Hmmm...[wait][end]"
+  "en": "WHAT?![wait][page]Regine's big sister is Sek?![wait][page]Whoops, shouldn't have done that. I was too loud.[wait][page]Listen, around here there's nobody who[wait][clr]hasn't heard of Sek.[wait][clr]She's a master thief who steals from the rich![wait][page]Just the other day, I heard she snuck into the great Ice Apostle's trap-filled castle[wait][clr]and got back out safe and sound...[wait][page]I can't even imagine what kind of treasure she came back with.[wait][page]And Regine's big sister is THAT Sek...?![wait][page]But... wait a sec.[wait][page]Maybe they just happen to have the same name...[wait][page]Ugh... I'm getting all confused... Hmmm...[wait][end]"
  },
  {
   "id": "M1703",
@@ -1694,7 +1694,7 @@
    1713
   ],
   "jp": "[name:1][face:255]これが　伝説のキノコか・・・[wait][page][f3]！[wait][page]はやくテシスに[n]この　伝説のキノコを届けよう！[wait][page]病気のピクシーを助けるんだ！！[wait][end]",
-  "en": "[name:1][face:255]So this is the Legendary Shroom...[wait][page][f3]![wait][page]Let's hurry and take this Legendary Shroom to Tesis![wait][page]We gotta save that sick Pixie!![wait][end]"
+  "en": "[name:1][face:255]So this is the Legendary Shroom...[wait][page][f3]![wait][page]Let's hurry and take this Legendary Shroom to Teksis![wait][page]We gotta save that sick Pixie!![wait][end]"
  },
  {
   "id": "M1714",

@@ -342,7 +342,7 @@
    2622
   ],
   "jp": "光の波動で　敵１体にダメージ[end]",
-  "en": "Light wave damages one enemy.[end]"
+  "en": "Light wave damages one foe.[end]"
  },
  {
   "id": "M2623",
@@ -357,7 +357,7 @@
    2623
   ],
   "jp": "光の波動で　敵２体に大ダメージ[end]",
-  "en": "Light wave: big damage to two enemies.[end]"
+  "en": "Light wave: big damage to two foes.[end]"
  },
  {
   "id": "M2624",
@@ -372,7 +372,7 @@
    2624
   ],
   "jp": "呪いの波動で　敵１体にダメージ[end]",
-  "en": "Curse wave damages one enemy.[end]"
+  "en": "Curse wave damages one foe.[end]"
  },
  {
   "id": "M2625",
@@ -387,7 +387,7 @@
    2625
   ],
   "jp": "呪いの波動で　敵２体に大ダメージ[end]",
-  "en": "Curse wave: big damage to two enemies.[end]"
+  "en": "Curse wave: big damage to two foes.[end]"
  },
  {
   "id": "M2626",
@@ -402,7 +402,7 @@
    2626
   ],
   "jp": "炎の柱で　敵１体に大ダメージ[end]",
-  "en": "Pillar of fire deals big damage to one enemy.[end]"
+  "en": "Pillar of fire deals big damage to one foe.[end]"
  },
  {
   "id": "M2627",
@@ -417,7 +417,7 @@
    2627
   ],
   "jp": "炎のウズで　敵２体にダメージ[end]",
-  "en": "Fire vortex damages two enemies.[end]"
+  "en": "Fire vortex damages two foes.[end]"
  },
  {
   "id": "M2628",
@@ -432,7 +432,7 @@
    2628
   ],
   "jp": "氷で　敵１体をこおらせて大ダメージ[end]",
-  "en": "Freezes one enemy with ice for big damage.[end]"
+  "en": "Freezes one foe with ice for big damage.[end]"
  },
  {
   "id": "M2629",
@@ -447,7 +447,7 @@
    2629
   ],
   "jp": "氷で　敵２体をこおらせてダメージ[end]",
-  "en": "Freezes two enemies with ice for damage.[end]"
+  "en": "Freezes two foes with ice for damage.[end]"
  },
  {
   "id": "M2630",
@@ -462,7 +462,7 @@
    2630
   ],
   "jp": "竜巻で　敵１体に大ダメージ[end]",
-  "en": "Tornado deals big damage to one enemy.[end]"
+  "en": "Tornado deals big damage to one foe.[end]"
  },
  {
   "id": "M2631",
@@ -477,7 +477,7 @@
    2631
   ],
   "jp": "竜巻で　敵２体にダメージ[end]",
-  "en": "Tornado damages two enemies.[end]"
+  "en": "Tornado damages two foes.[end]"
  },
  {
   "id": "M2632",
@@ -522,7 +522,7 @@
    2634
   ],
   "jp": "岩を降らせて　敵１体に大ダメージ[end]",
-  "en": "Falling rocks deal big damage to one enemy.[end]"
+  "en": "Falling rocks deal big damage to one foe.[end]"
  },
  {
   "id": "M2635",
@@ -537,7 +537,7 @@
    2635
   ],
   "jp": "地震で　敵２体にダメージ[end]",
-  "en": "Earthquake damages two enemies.[end]"
+  "en": "Earthquake damages two foes.[end]"
  },
  {
   "id": "M2636",
@@ -807,7 +807,7 @@
    2653
   ],
   "jp": "水圧で　敵１体に大ダメージ[end]",
-  "en": "Water pressure: big damage to one enemy.[end]"
+  "en": "Water pressure: big damage to one foe.[end]"
  },
  {
   "id": "M2654",
@@ -822,7 +822,7 @@
    2654
   ],
   "jp": "水圧で　敵２体にダメージ[end]",
-  "en": "Water pressure damages two enemies.[end]"
+  "en": "Water pressure damages two foes.[end]"
  },
  {
   "id": "M2655",
