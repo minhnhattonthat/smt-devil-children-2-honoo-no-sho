@@ -177,7 +177,7 @@
    811
   ],
   "jp": "[name:30]ナカマが　いっぱいのようだ[wait][page]ワレを　ナカマにできるようにして[n]またくるのだな・・・[wait][end]",
-  "en": "[name:30]Your party seems to be full.[wait][page]Make room for me, then return...[wait][end]"
+  "en": "[name:30]It seems you have too many allies.[wait][page]Make room for me, then return...[wait][end]"
  },
  {
   "id": "M0812",
@@ -582,7 +582,7 @@
    838
   ],
   "jp": "[name:30]ナカマが　いっぱいのようですね[wait][page]わたしを　ナカマにできるようにして[n]またきてください・・・[wait][end]",
-  "en": "[name:30]Your party seems to be full.[wait][page]Please make room for me, then return...[wait][end]"
+  "en": "[name:30]It seems you have too many allies.[wait][page]Please make room for me, then return...[wait][end]"
  },
  {
   "id": "M0839",
@@ -747,7 +747,7 @@
    849
   ],
   "jp": "天使の聖水をかける[n]天使の聖水をかけない[end]",
-  "en": "Pour Holy Water[n]Don't pour it[end]"
+  "en": "Pour Angel's Holy Water[n]Don't pour it[end]"
  },
  {
   "id": "M0850",
@@ -807,7 +807,7 @@
    853
   ],
   "jp": "[name:39]ワタシの名は　サンダルフォン[n]天界をすべる　天使のひとりだ・・・[wait][page]みたこともない　デビルに[n]きゅうにおそわれ[wait][clr]フウインされて　しまったのだ[wait][page]エノクさまでさえも・・・[wait][page]クッ・・・！[wait][page]兄上のエノクも　いずこかに[n]つれさられてしまった・・・[wait][page]このままでは　天界をすべる天使として[n]メンボクがたたん！！[wait][page]デビルチルドレン！！[n]ワタシを　ナカマにしてくれないか？[wait][end]",
-  "en": "[name:39]My name is Sandalphon, one of the angels who rule Heaven...[wait][page]I was suddenly attacked by a demon I had never seen before[wait][clr]and sealed away.[wait][page]Even Enoch...[wait][page]Ngh...![wait][page]My elder brother Enoch was taken off somewhere too...[wait][page]At this rate, I will be disgraced as an angel who rules Heaven!![wait][page]DemiKid!! Will you let me join you as an ally?[wait][end]"
+  "en": "[name:39]My name is Sandalphon, one of the angels who rule Heaven...[wait][page]I was suddenly attacked by a demon I had never seen before[wait][clr]and sealed away.[wait][page]Even Lord Enoch...[wait][page]Ngh...![wait][page]My elder brother Enoch was taken off somewhere too...[wait][page]At this rate, I will be disgraced as an angel who rules Heaven!![wait][page]DemiKid!! Will you let me join you as an ally?[wait][end]"
  },
  {
   "id": "M0854",
@@ -837,7 +837,7 @@
    855
   ],
   "jp": "[name:39]では・・・[wait][page]ワタシの名は　サンダルフォン・・・[n]こんごとも　よろしくたのむ・・・[wait][end]",
-  "en": "[name:39]Then...[wait][page]My name is Sandalphon... I look forward to fighting at your side from now on...[wait][end]"
+  "en": "[name:39]Then...[wait][page]My name is Sandalphon... I look forward to working with you...[wait][end]"
  },
  {
   "id": "M0856",
@@ -927,7 +927,7 @@
    861
   ],
   "jp": "[name:40]オレの名は　メルキセデク[n]いご　よろしくたのむ！[wait][end]",
-  "en": "[name:40]My name's Melchizedek. Glad to be with you from now on![wait][end]"
+  "en": "[name:40]My name's Melchizedek. I look forward to working with you![wait][end]"
  },
  {
   "id": "M0862",
@@ -2547,7 +2547,7 @@
    969
   ],
   "jp": "[name:0][face:1]なんだよ？[wait][end]",
-  "en": "[name:0][face:1]However what?[wait][end]"
+  "en": "[name:0][face:1]What's the catch?[wait][end]"
  },
  {
   "id": "M0970",

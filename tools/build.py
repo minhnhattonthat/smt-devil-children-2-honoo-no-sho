@@ -110,7 +110,7 @@ class Space:
         return at
 
 
-def build(mode='en', only=None, out=OUT):
+def build(mode='en', only=None, out=OUT, arrays=True):
     rom = bytearray(ORIG.read_bytes())
     ranges = []
     if mode == 'identity':
@@ -121,7 +121,8 @@ def build(mode='en', only=None, out=OUT):
     font_bins()
     out.parent.mkdir(exist_ok=True)
     out.write_bytes(rom)
-    r = subprocess.run([str(ARMIPS), str(ROOT / 'asm/main.asm'), '-root', str(ROOT)], capture_output=True, text=True)
+    r = subprocess.run([str(ARMIPS), str(ROOT / 'asm/main.asm'), '-root', str(ROOT), '-strequ', 'ROMPATH',
+                        str(Path(out).resolve())], capture_output=True, text=True)
     if r.returncode:
         raise SystemExit('armips failed:\n' + r.stdout + r.stderr)
     rom = bytearray(out.read_bytes())
@@ -195,7 +196,7 @@ def build(mode='en', only=None, out=OUT):
                 layout[e['id']] = off
         except Exception as x:
             errors.append('%s %s: %s' % (e['_file'], e['id'], x))
-    if mode != 'identity' and only is None:
+    if mode != 'identity' and only is None and arrays:
         for base, stride, names in ARRAYS:
             for i, name in enumerate(names):
                 if name not in longnames:
@@ -227,6 +228,7 @@ if __name__ == '__main__':
     ap.add_argument('--identity', action='store_true')
     ap.add_argument('--only')
     ap.add_argument('--out')
+    ap.add_argument('--no-arrays', action='store_true')
     a = ap.parse_args()
     mode = 'identity' if a.identity else ('marker' if a.marker else 'en')
-    build(mode, set(a.only.split(',')) if a.only else None, Path(a.out) if a.out else OUT)
+    build(mode, set(a.only.split(',')) if a.only else None, Path(a.out) if a.out else OUT, not a.no_arrays)

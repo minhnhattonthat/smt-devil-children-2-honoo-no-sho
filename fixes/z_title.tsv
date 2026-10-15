@@ -1,0 +1,4 @@
+# title screen strings: 2-byte glyph cells (OBJ text) -> fullwidth
+S27594C	[fw]PUSH START
+S275962	[fw]New Game
+S27596E	[fw]Continue

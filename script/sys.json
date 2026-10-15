@@ -10,7 +10,9 @@
   ],
   "idx": [],
   "jp": "えました[wait][clr]ここで分かるのは　１のばしょが[wait][clr]ちがうということです[wait][page]１がＨＩＴだったならば　ＨＩＴは[n]減っていません[wait][page]つぎは　０２１にしてみます[wait][end]",
-  "en": "...I changed it.[wait][clr]What this tells us is that[wait][clr]position 1 is different.[wait][page]If 1 had been a HIT, the HITs[n]would not have gone down.[wait][page]Next, I'll try 021.[wait][end]"
+  "en": "...I changed it.[wait][clr]What this tells us is that[wait][clr]position 1 is different.[wait][page]If 1 had been a HIT, the HITs[n]would not have gone down.[wait][page]Next, I'll try 021.[wait][end]",
+  "keep": true,
+  "notes": "false pointer (slot 0x0FEA58 is data that equals a mid-message address): never relocate"
  },
  {
   "id": "T277080",

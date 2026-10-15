@@ -2547,7 +2547,7 @@
    769
   ],
   "jp": "[name:30]ホワッツ！？[n]ボーイ！！　ナカマがいっぱいだぜ[wait][page]オレを　ナカマにできるようにして[n]かならず　もどってくるんだぜ！！[wait][end]",
-  "en": "[name:30]Whaaat?! Boy!! Your party's packed, man![wait][page]Make room so I can join ya, and come back for sure!![wait][end]"
+  "en": "[name:30]Whaaat?! Boy!! You've got too many allies, man![wait][page]Make room so I can join ya, and come back for sure!![wait][end]"
  },
  {
   "id": "M0770",
@@ -2862,7 +2862,7 @@
    790
   ],
   "jp": "[name:30]なんと！[n]ナカマが　いっぱいでゲスよ！？[wait][page]オイラを　ナカマにできるようにして[n]またくるでゲスよ！！[wait][end]",
-  "en": "[name:30]Whaaat! Your party's full, yessiree!?[wait][page]Make room so ya can take me on, and come back!![wait][end]"
+  "en": "[name:30]Whaaat! You have too many allies, yessiree!?[wait][page]Make room so ya can take me on, and come back!![wait][end]"
  },
  {
   "id": "M0791",

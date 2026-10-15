@@ -1,7 +1,7 @@
 ; Entry point; tools/build.py runs: armips asm/main.asm -root <repo>
 ; build/ holds the generated font sheets (tools/build.py writes them before assembling).
 .gba
-.open "build/honoo_en.gba", 0x08000000
+.open ROMPATH, 0x08000000          ; ROMPATH: armips -strequ ROMPATH <file> (tools/build.py)
 
 ENGINE_BASE     equ 0x08800000
 LONGNAMES       equ 0x0880F000      ; 256 u32 pointers, filled by tools/build.py (long names of 16-byte fields)
@@ -16,15 +16,18 @@ EN12_OBJ:
     .halfword 0, 1, 24, 12          ; flags, bpp, width tiles (16 glyphs * 12 px), height tiles (8 rows * 12 px)
     .word   0, EN12_DATA, 8*24      ; palette map, data, bytes per tile row
     .word   EN12_W
+    .align 4
 EN12_HDR:
     .word   24*12*8 + 16
     .halfword 24, 12, 16
     .byte   12, 12, 1, 0
+    .align 4
 EN8_OBJ:
     .word   EN8_HDR
     .halfword 0, 1, 16, 8           ; 16 glyphs * 8 px wide, 8 rows * 8 px
     .word   0, EN8_DATA, 8*16
     .word   EN8_W
+    .align 4
 EN8_HDR:
     .word   16*8*8 + 16
     .halfword 16, 8, 16

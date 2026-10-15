@@ -135,7 +135,7 @@
    "0F98F0"
   ],
   "jp": "ＰＵＳＨ　ＳＴＡＲＴ",
-  "en": "PUSH START"
+  "en": "[fw]PUSH START"
  },
  {
   "id": "S275962",
@@ -148,7 +148,7 @@
    "0F9904"
   ],
   "jp": "はじめから",
-  "en": "New Game"
+  "en": "[fw]New Game"
  },
  {
   "id": "S27596E",
@@ -161,7 +161,7 @@
    "0F9908"
   ],
   "jp": "つづきから",
-  "en": "Continue"
+  "en": "[fw]Continue"
  },
  {
   "id": "S27597A",

@@ -1,0 +1,8 @@
+M0769	[name:30]Whaaat?! Boy!! You've got too many allies, man![wait][page]Make room so I can join ya, and come back for sure!![wait][end]
+M0790	[name:30]Whaaat! You have too many allies, yessiree!?[wait][page]Make room so ya can take me on, and come back!![wait][end]
+M0811	[name:30]It seems you have too many allies.[wait][page]Make room for me, then return...[wait][end]
+M0838	[name:30]It seems you have too many allies.[wait][page]Please make room for me, then return...[wait][end]
+M0855	[name:39]Then...[wait][page]My name is Sandalphon... I look forward to working with you...[wait][end]
+M0861	[name:40]My name's Melchizedek. I look forward to working with you![wait][end]
+M0849	Pour Angel's Holy Water[n]Don't pour it[end]
+M0853	[name:39]My name is Sandalphon, one of the angels who rule Heaven...[wait][page]I was suddenly attacked by a demon I had never seen before[wait][clr]and sealed away.[wait][page]Even Lord Enoch...[wait][page]Ngh...![wait][page]My elder brother Enoch was taken off somewhere too...[wait][page]At this rate, I will be disgraced as an angel who rules Heaven!![wait][page]DemiKid!! Will you let me join you as an ally?[wait][end]

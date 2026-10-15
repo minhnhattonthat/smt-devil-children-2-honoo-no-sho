@@ -147,7 +147,7 @@
    1409
   ],
   "jp": "[name:18]まさか・・・[n]このワタシが負けるとは・・・[wait][page]デビルチルドレン・・・[n]そのチカラ　本物ですね・・・[wait][page][f3]よ・・・[n]ワタシをナカマにしてください[wait][page]アナタと　いっしょに旅をすれば[n]ワタシも　強くなれるでしょう[wait][end]",
-  "en": "[name:18]I cannot believe it...I, of all beings, defeated...[wait][page]DemiKid...your power is the real thing...[wait][page][f3]...please, make me your ally.[wait][page]If I travel together with you, I too can grow stronger.[wait][end]"
+  "en": "[name:18]I cannot believe it... I, of all beings, have been defeated...[wait][page]DemiKid... your power is the real thing...[wait][page][f3]... please, make me your ally.[wait][page]If I travel together with you, I too can grow stronger.[wait][end]"
  },
  {
   "id": "M1410",
@@ -177,7 +177,7 @@
    1411
   ],
   "jp": "ミカエルが　ナカマになった！[wait][end]",
-  "en": "Michael joined you![wait][end]"
+  "en": "Michael became your ally![wait][end]"
  },
  {
   "id": "M1412",

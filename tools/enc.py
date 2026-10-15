@@ -102,7 +102,17 @@ def encode_msg(text, dialect='dlg'):
     return bytes(out)
 
 
+FW_SRC = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
+FW_DST = '０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ'
+FW_MAP = dict(zip(FW_SRC, FW_DST))
+FW_MAP.update({' ': '　', '!': '！', '?': '？', '.': '。', '-': '－', '/': '／', ':': '：', '(': '（', ')': '）', '+': '＋'})
+
+
 def encode_str(text):
+    """[fw] prefix = store as fullwidth glyph codes (for screens that use 2-byte glyph cells, e.g. the title);
+    DrawString still shows fullwidth letters as proportional English."""
+    if text.startswith('[fw]'):
+        text = ''.join(FW_MAP.get(c, c) for c in text[4:])
     out = bytearray()
     for m in TOK.finditer(text):
         if m.group(1):
