@@ -189,6 +189,19 @@ def cmd_merge(a):
     return 0
 
 
+def cmd_pairs(a):
+    """work/tl/<batch>.pairs.txt for the reviewer: id | speaker | form, JP, EN (merged English)."""
+    files = load()
+    byid = {e['id']: e for es in files.values() for e in es}
+    out = []
+    for line in open(TL / (a.batch + '.tsv'), encoding='utf-8'):
+        p = line.rstrip('\n').split('\t')
+        e = byid[p[0]]
+        out.append('>> %s | %s | %s\nJP: %s\nEN: %s\n' % (p[0], p[1], p[2], e['jp'], e.get('en', '')))
+    (TL / (a.batch + '.pairs.txt')).write_text('\n'.join(out), encoding='utf-8', newline='\n')
+    print('wrote', a.batch + '.pairs.txt')
+
+
 def cmd_status(a):
     files = load()
     byid = {e['id']: e for es in files.values() for e in es}
@@ -206,10 +219,10 @@ if __name__ == '__main__':
     sp = ap.add_subparsers(dest='cmd', required=True)
     s = sp.add_parser('split')
     s.add_argument('--size', type=int, default=3000)
-    for c in ('check', 'merge'):
+    for c in ('check', 'merge', 'pairs'):
         s = sp.add_parser(c)
         s.add_argument('batch')
         s.add_argument('--force', action='store_true')
     sp.add_parser('status')
     a = ap.parse_args()
-    sys.exit({'split': cmd_split, 'check': cmd_check, 'merge': cmd_merge, 'status': cmd_status}[a.cmd](a) or 0)
+    sys.exit({'split': cmd_split, 'check': cmd_check, 'merge': cmd_merge, 'pairs': cmd_pairs, 'status': cmd_status}[a.cmd](a) or 0)

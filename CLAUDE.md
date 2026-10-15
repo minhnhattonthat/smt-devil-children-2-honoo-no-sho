@@ -25,7 +25,16 @@ Batch brief: H:/translation/batch/projects/BATCH_BRIEF.md (all rulings pre-appro
   Credits English. Graphics text in scope. Full names; engine work before abbreviation.
 - Freeze tools/{enc,wrap,forms,lint}.py and font/*.txt while translator agents run (widths!).
 
+## Debug tools (tools/debug/)
+- `msgtour.py IDS --jobs 4` = any main-table message in the real box (state work/states/show.mss, `--regen` after builds).
+- `runscript.lua` (--var AFTER=900 --var "SCRIPT='hex bytes'") runs a hand-made event script from the cold-boot intro
+  route ("600 -;6 start;120 -;6 a;120 -;6 a"): `3C 03 03` = staff roll; `32 MM 00 XX YY DD 05 1D 00 35 00 03` = warp to map MM.
+  Event opcodes: table 0x08224088 (16 xx xx = show message, 03 = end). evlog.lua logs executed opcodes.
+- Review: `tools/batches.py pairs bNNN` -> reviewer brief docs/reviewer-brief.md; fixes in fixes/*.tsv -> tools/apply_fixes.py.
+  Cross-batch spellings: tools/normalize.tsv -> tools/normalize.py.
+
 ## Status (2026-10-16)
+- All 7137 entries translated (b000-b055) and merged. Reviews of batches in progress.
 - Done: Step 0, recon (encoding, fonts, all text located), extraction (4910 msgs, 517 strs, 1719 fields), VWF engine, marker build
   boots through intro to field, pilot b000 merged; batches b001-b055 split; b001-b004 dispatched.
 - Next: dispatch remaining batches; English name entry screen; debug states (menus, battle, shops); graphics survey; width gate
