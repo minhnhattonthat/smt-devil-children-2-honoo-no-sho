@@ -1,0 +1,3002 @@
+[
+ {
+  "id": "M4400",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "27023C",
+  "end": "27024E",
+  "slots": [
+   "253128"
+  ],
+  "idx": [
+   4400
+  ],
+  "jp": "[f5]　・・・すまん[end]",
+  "en": ""
+ },
+ {
+  "id": "M4401",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27024E",
+  "end": "270260",
+  "slots": [
+   "25312C"
+  ],
+  "idx": [
+   4401
+  ],
+  "jp": "敵が　強いのか？[end]",
+  "en": ""
+ },
+ {
+  "id": "M4402",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "270260",
+  "end": "270276",
+  "slots": [
+   "253130"
+  ],
+  "idx": [
+   4402
+  ],
+  "jp": "[f5]じゃ　ダメなのか？[end]",
+  "en": ""
+ },
+ {
+  "id": "M4403",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "270276",
+  "end": "27028A",
+  "slots": [
+   "253134"
+  ],
+  "idx": [
+   4403
+  ],
+  "jp": "まさか　[f5]が・・・[end]",
+  "en": ""
+ },
+ {
+  "id": "M4404",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "27028A",
+  "end": "2702A0",
+  "slots": [
+   "253138"
+  ],
+  "idx": [
+   4404
+  ],
+  "jp": "そんな・・・[f5]・・・[end]",
+  "en": ""
+ },
+ {
+  "id": "M4405",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2702A0",
+  "end": "2702D0",
+  "slots": [
+   "25313C"
+  ],
+  "idx": [
+   4405
+  ],
+  "jp": "無理なのか？　[f5][end]",
+  "en": ""
+ },
+ {
+  "id": "M4406",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2702B2",
+  "end": "2702D0",
+  "slots": [
+   "253140"
+  ],
+  "idx": [
+   4406
+  ],
+  "jp": "えっ？　そんなはずじゃ・・・[end]",
+  "en": ""
+ },
+ {
+  "id": "M4407",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2702D0",
+  "end": "2702EE",
+  "slots": [
+   "253144"
+  ],
+  "idx": [
+   4407
+  ],
+  "jp": "そんな・・・信じられない！？[end]",
+  "en": ""
+ },
+ {
+  "id": "M4408",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2702EE",
+  "end": "270302",
+  "slots": [
+   "253148"
+  ],
+  "idx": [
+   4408
+  ],
+  "jp": "[f5]　ゆだんした！？[end]",
+  "en": ""
+ },
+ {
+  "id": "M4409",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270302",
+  "end": "27031C",
+  "slots": [
+   "25314C"
+  ],
+  "idx": [
+   4409
+  ],
+  "jp": "今日は　調子が悪いかな？[end]",
+  "en": ""
+ },
+ {
+  "id": "M4410",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27031C",
+  "end": "270336",
+  "slots": [
+   "253150"
+  ],
+  "idx": [
+   4410
+  ],
+  "jp": "なかなか　あなどれないな[end]",
+  "en": ""
+ },
+ {
+  "id": "M4411",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270336",
+  "end": "270352",
+  "slots": [
+   "253154"
+  ],
+  "idx": [
+   4411
+  ],
+  "jp": "オレのせいだな・・・すまん[end]",
+  "en": ""
+ },
+ {
+  "id": "M4412",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270352",
+  "end": "27036A",
+  "slots": [
+   "253158"
+  ],
+  "idx": [
+   4412
+  ],
+  "jp": "敵ながら　強いやつだ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4413",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "27036A",
+  "end": "270382",
+  "slots": [
+   "25315C"
+  ],
+  "idx": [
+   4413
+  ],
+  "jp": "[f5]　やすんでていいぞ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4414",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270382",
+  "end": "2703A2",
+  "slots": [
+   "253160"
+  ],
+  "idx": [
+   4414
+  ],
+  "jp": "[name:4]・・・キタイスルナヨ[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4415",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2703A2",
+  "end": "2703D4",
+  "slots": [
+   "253164"
+  ],
+  "idx": [
+   4415
+  ],
+  "jp": "[name:4]・・・[n]（なんかじしんなさそう・・・）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4416",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2703D4",
+  "end": "2703FC",
+  "slots": [
+   "253168"
+  ],
+  "idx": [
+   4416
+  ],
+  "jp": "[name:4]どうなっても[n]しらんよ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4417",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2703FC",
+  "end": "27041E",
+  "slots": [
+   "25316C"
+  ],
+  "idx": [
+   4417
+  ],
+  "jp": "[name:4]きっとムリですわ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4418",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27041E",
+  "end": "270448",
+  "slots": [
+   "253170"
+  ],
+  "idx": [
+   4418
+  ],
+  "jp": "[name:4]がんばるよ・・・でもダメかも？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4419",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270448",
+  "end": "27047A",
+  "slots": [
+   "253174"
+  ],
+  "idx": [
+   4419
+  ],
+  "jp": "[name:4]なんか[n]コワいかおしてるんだけど・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4420",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27047A",
+  "end": "2704BA",
+  "slots": [
+   "253178"
+  ],
+  "idx": [
+   4420
+  ],
+  "jp": "[name:4]アイツ　オレのこと[n]キライなんじゃねえのかなあ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4421",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2704BA",
+  "end": "2704E6",
+  "slots": [
+   "25317C"
+  ],
+  "idx": [
+   4421
+  ],
+  "jp": "[name:4]ウソ！[n]ホントにアタシでいいの？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4422",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2704E6",
+  "end": "27050A",
+  "slots": [
+   "253180"
+  ],
+  "idx": [
+   4422
+  ],
+  "jp": "[name:4]マァ　ヤッテミルカ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4423",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27050A",
+  "end": "27051C",
+  "slots": [
+   "253184"
+  ],
+  "idx": [
+   4423
+  ],
+  "jp": "[name:4]・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4424",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27051C",
+  "end": "270542",
+  "slots": [
+   "253188"
+  ],
+  "idx": [
+   4424
+  ],
+  "jp": "[name:4]わたしが？[n]それでは・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4425",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270542",
+  "end": "270576",
+  "slots": [
+   "25318C"
+  ],
+  "idx": [
+   4425
+  ],
+  "jp": "[name:4]どうでしょうか？[n]やってみますけど・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4426",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270576",
+  "end": "2705A2",
+  "slots": [
+   "253190"
+  ],
+  "idx": [
+   4426
+  ],
+  "jp": "[name:4]あんまり　きたいしないでね・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4427",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2705A2",
+  "end": "2705CE",
+  "slots": [
+   "253194"
+  ],
+  "idx": [
+   4427
+  ],
+  "jp": "[name:4]えーっと[n]だいじょうぶかな・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4428",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2705CE",
+  "end": "270602",
+  "slots": [
+   "253198"
+  ],
+  "idx": [
+   4428
+  ],
+  "jp": "[name:4]オレか？[n]よーし　がんばってくるぜ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4429",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270602",
+  "end": "27062C",
+  "slots": [
+   "25319C"
+  ],
+  "idx": [
+   4429
+  ],
+  "jp": "[name:4]オッケー！[n]やってみるよ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4430",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27062C",
+  "end": "27064A",
+  "slots": [
+   "2531A0"
+  ],
+  "idx": [
+   4430
+  ],
+  "jp": "[name:4]オレニ　マカセロ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4431",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27064A",
+  "end": "270676",
+  "slots": [
+   "2531A4"
+  ],
+  "idx": [
+   4431
+  ],
+  "jp": "[name:4]！！！[n]（じしんがありそうだ！）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4432",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270676",
+  "end": "27069A",
+  "slots": [
+   "2531A8"
+  ],
+  "idx": [
+   4432
+  ],
+  "jp": "[name:4]だまってみているがよい！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4433",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27069A",
+  "end": "2706B8",
+  "slots": [
+   "2531AC"
+  ],
+  "idx": [
+   4433
+  ],
+  "jp": "[name:4]かるいものですわ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4434",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2706B8",
+  "end": "2706E2",
+  "slots": [
+   "2531B0"
+  ],
+  "idx": [
+   4434
+  ],
+  "jp": "[name:4]かるーく　カタをつけてやるさ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4435",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2706E2",
+  "end": "27070C",
+  "slots": [
+   "2531B4"
+  ],
+  "idx": [
+   4435
+  ],
+  "jp": "[name:4]わたしに　まかせてちょうだい！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4436",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27070C",
+  "end": "27072A",
+  "slots": [
+   "2531B8"
+  ],
+  "idx": [
+   4436
+  ],
+  "jp": "[name:4]オレにまかせとけ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4437",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27072A",
+  "end": "270748",
+  "slots": [
+   "2531BC"
+  ],
+  "idx": [
+   4437
+  ],
+  "jp": "[name:4]アタシにまかせて！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4438",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270748",
+  "end": "270768",
+  "slots": [
+   "2531C0"
+  ],
+  "idx": [
+   4438
+  ],
+  "jp": "[name:4]ケイヤク　セイリツ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4439",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270768",
+  "end": "270794",
+  "slots": [
+   "2531C4"
+  ],
+  "idx": [
+   4439
+  ],
+  "jp": "[name:4]・・・！[n]（ケイヤクできそうだ）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4440",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270794",
+  "end": "2707B4",
+  "slots": [
+   "2531C8"
+  ],
+  "idx": [
+   4440
+  ],
+  "jp": "[name:4]ケイヤクしてやろう！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4441",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2707B4",
+  "end": "2707DA",
+  "slots": [
+   "2531CC"
+  ],
+  "idx": [
+   4441
+  ],
+  "jp": "[name:4]ケイヤクしてあげましょう！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4442",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2707DA",
+  "end": "270802",
+  "slots": [
+   "2531D0"
+  ],
+  "idx": [
+   4442
+  ],
+  "jp": "[name:4]ボク　キミとケイヤクするよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4443",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270802",
+  "end": "270826",
+  "slots": [
+   "2531D4"
+  ],
+  "idx": [
+   4443
+  ],
+  "jp": "[name:4]ねえ　ケイヤクしようよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4444",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270826",
+  "end": "27084E",
+  "slots": [
+   "2531D8"
+  ],
+  "idx": [
+   4444
+  ],
+  "jp": "[name:4]ケイヤクしてやってもいいぜ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4445",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27084E",
+  "end": "27087A",
+  "slots": [
+   "2531DC"
+  ],
+  "idx": [
+   4445
+  ],
+  "jp": "[name:4]ケイヤク？　してあげようかなー♥[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4446",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27087A",
+  "end": "27089C",
+  "slots": [
+   "2531E0"
+  ],
+  "idx": [
+   4446
+  ],
+  "jp": "[name:4]オマエ[n]ゲンキ　ナイ？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4447",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27089C",
+  "end": "2708D0",
+  "slots": [
+   "2531E4"
+  ],
+  "idx": [
+   4447
+  ],
+  "jp": "[name:4]・・・？[n]（ケガをなおしてくれるようだ）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4448",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2708D0",
+  "end": "27090A",
+  "slots": [
+   "2531E8"
+  ],
+  "idx": [
+   4448
+  ],
+  "jp": "[name:4]ウム・・・[n]これぐらいしか　してやれんが・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4449",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27090A",
+  "end": "270938",
+  "slots": [
+   "2531EC"
+  ],
+  "idx": [
+   4449
+  ],
+  "jp": "[name:4]おや[n]ケガを　しているようですね？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4450",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270938",
+  "end": "270962",
+  "slots": [
+   "2531F0"
+  ],
+  "idx": [
+   4450
+  ],
+  "jp": "[name:4]ボクが　ゲンキにしてあげるよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4451",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270962",
+  "end": "270990",
+  "slots": [
+   "2531F4"
+  ],
+  "idx": [
+   4451
+  ],
+  "jp": "[name:4]ねぇ！[n]ケガ　なおしてあげようか？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4452",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270990",
+  "end": "2709C2",
+  "slots": [
+   "2531F8"
+  ],
+  "idx": [
+   4452
+  ],
+  "jp": "[name:4]ケガしてるじゃねえか！[n]ムリすんなよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4453",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2709C2",
+  "end": "2709F6",
+  "slots": [
+   "2531FC"
+  ],
+  "idx": [
+   4453
+  ],
+  "jp": "[name:4]あれー？[n]アンタ　ケガしてるんじゃない？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4454",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2709F6",
+  "end": "270A14",
+  "slots": [
+   "253200"
+  ],
+  "idx": [
+   4454
+  ],
+  "jp": "[name:4]マッカ・・・　ヤル[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4455",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270A14",
+  "end": "270A40",
+  "slots": [
+   "253204"
+  ],
+  "idx": [
+   4455
+  ],
+  "jp": "[name:4]・・・[n]（マッカをくれるようだ）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4456",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270A40",
+  "end": "270A6E",
+  "slots": [
+   "253208"
+  ],
+  "idx": [
+   4456
+  ],
+  "jp": "[name:4]すこしだが[n]これでも　つかってくれ[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4457",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270A6E",
+  "end": "270AA4",
+  "slots": [
+   "25320C"
+  ],
+  "idx": [
+   4457
+  ],
+  "jp": "[name:4]おくりものを　どうぞ[n]マッカ　ですが・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4458",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270AA4",
+  "end": "270AEA",
+  "slots": [
+   "253210"
+  ],
+  "idx": [
+   4458
+  ],
+  "jp": "[name:4]ボクが　いっしょうけんめいためた[n]おかねだけど　あげるよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4459",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270AEA",
+  "end": "270B12",
+  "slots": [
+   "253214"
+  ],
+  "idx": [
+   4459
+  ],
+  "jp": "[name:4]あのね・・・[n]マッカ　あげる[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4460",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270B12",
+  "end": "270B52",
+  "slots": [
+   "253218"
+  ],
+  "idx": [
+   4460
+  ],
+  "jp": "[name:4]オマエ　はらへってねえか？[n]これで　メシでもくえよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4461",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270B52",
+  "end": "270B98",
+  "slots": [
+   "25321C"
+  ],
+  "idx": [
+   4461
+  ],
+  "jp": "[name:4]アンタ　もうちょっとオシャレしたら？[n]これでもつかってよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4462",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270B98",
+  "end": "270BBA",
+  "slots": [
+   "253220"
+  ],
+  "idx": [
+   4462
+  ],
+  "jp": "[name:4]タカラモノ・・・　ヤル[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4463",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270BBA",
+  "end": "270BEA",
+  "slots": [
+   "253224"
+  ],
+  "idx": [
+   4463
+  ],
+  "jp": "[name:4]・・・♥[n]（アイテムをくれるようだ）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4464",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270BEA",
+  "end": "270C24",
+  "slots": [
+   "253228"
+  ],
+  "idx": [
+   4464
+  ],
+  "jp": "[name:4]たいしたものではないが[n]これでも　つかってくれ[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4465",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270C24",
+  "end": "270C5C",
+  "slots": [
+   "25322C"
+  ],
+  "idx": [
+   4465
+  ],
+  "jp": "[name:4]おくりものを　どうぞ[n]アイテム　ですが・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4466",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270C5C",
+  "end": "270C98",
+  "slots": [
+   "253230"
+  ],
+  "idx": [
+   4466
+  ],
+  "jp": "[name:4]ともだちのしるしに[n]ボクの　たからものをあげるよ[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4467",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270C98",
+  "end": "270CCA",
+  "slots": [
+   "253234"
+  ],
+  "idx": [
+   4467
+  ],
+  "jp": "[name:4]ほんのきもちだけど[n]これ　プレゼント！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4468",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270CCA",
+  "end": "270CFA",
+  "slots": [
+   "253238"
+  ],
+  "idx": [
+   4468
+  ],
+  "jp": "[name:4]きにいったよ！[n]これ　もっていきな！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4469",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270CFA",
+  "end": "270D32",
+  "slots": [
+   "25323C"
+  ],
+  "idx": [
+   4469
+  ],
+  "jp": "[name:4]コレ　あげるから[n]また　あそんでちょーだい！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4470",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270D32",
+  "end": "270D5A",
+  "slots": [
+   "253240"
+  ],
+  "idx": [
+   4470
+  ],
+  "jp": "[name:4]ナニモ　ハナスコトハ　ナイ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4471",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270D5A",
+  "end": "270D82",
+  "slots": [
+   "253244"
+  ],
+  "idx": [
+   4471
+  ],
+  "jp": "[name:4]・・・[n]（ムシされた・・・）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4472",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270D82",
+  "end": "270DB2",
+  "slots": [
+   "253248"
+  ],
+  "idx": [
+   4472
+  ],
+  "jp": "[name:4]そんなことをしている[n]ヒマはないぞ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4473",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270DB2",
+  "end": "270DEA",
+  "slots": [
+   "25324C"
+  ],
+  "idx": [
+   4473
+  ],
+  "jp": "[name:4]あなたと　はなすことなんて[n]ありません・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4474",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270DEA",
+  "end": "270E16",
+  "slots": [
+   "253250"
+  ],
+  "idx": [
+   4474
+  ],
+  "jp": "[name:4]さあ！[n]たたかいをつづけようよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4475",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270E16",
+  "end": "270E48",
+  "slots": [
+   "253254"
+  ],
+  "idx": [
+   4475
+  ],
+  "jp": "[name:4]なにいってんの？[n]ジャマよ　ジャマ！！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4476",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270E48",
+  "end": "270E92",
+  "slots": [
+   "253258"
+  ],
+  "idx": [
+   4476
+  ],
+  "jp": "[name:4]はなしなんか　ききたくねえな！[n]さて　どいつからたおそうかな？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4477",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270E92",
+  "end": "270ED0",
+  "slots": [
+   "25325C"
+  ],
+  "idx": [
+   4477
+  ],
+  "jp": "[name:4]もー　ウルサイ！！　だまってな！[n]ホントおこるよ？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4478",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270ED0",
+  "end": "270EEA",
+  "slots": [
+   "253260"
+  ],
+  "idx": [
+   4478
+  ],
+  "jp": "[name:4]アマイナ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4479",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270EEA",
+  "end": "270F1A",
+  "slots": [
+   "253264"
+  ],
+  "idx": [
+   4479
+  ],
+  "jp": "[name:4]・・・[n]（なんかイヤなよかん・・・）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4480",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270F1A",
+  "end": "270F36",
+  "slots": [
+   "253268"
+  ],
+  "idx": [
+   4480
+  ],
+  "jp": "[name:4]スキだらけだな！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4481",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270F36",
+  "end": "270F66",
+  "slots": [
+   "25326C"
+  ],
+  "idx": [
+   4481
+  ],
+  "jp": "[name:4]いいですか？[n]わたしからいきますよ？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4482",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270F66",
+  "end": "270F82",
+  "slots": [
+   "253270"
+  ],
+  "idx": [
+   4482
+  ],
+  "jp": "[name:4]スキありっ！！！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4483",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270F82",
+  "end": "270FAC",
+  "slots": [
+   "253274"
+  ],
+  "idx": [
+   4483
+  ],
+  "jp": "[name:4]あれ？　もしかして　チャンス？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4484",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270FAC",
+  "end": "270FD8",
+  "slots": [
+   "253278"
+  ],
+  "idx": [
+   4484
+  ],
+  "jp": "[name:4]オレをあまくみんなよ？　コラ！！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4485",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270FD8",
+  "end": "27100A",
+  "slots": [
+   "25327C"
+  ],
+  "idx": [
+   4485
+  ],
+  "jp": "[name:4]アハハッ！[n]んじゃ　アタシからいくね♥[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4486",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27100A",
+  "end": "271034",
+  "slots": [
+   "253280"
+  ],
+  "idx": [
+   4486
+  ],
+  "jp": "[name:4]・・・ツキアッテラレン[n]サラバ[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4487",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271034",
+  "end": "271066",
+  "slots": [
+   "253284"
+  ],
+  "idx": [
+   4487
+  ],
+  "jp": "[name:4]・・・[n]（きょうみがなくなったようだ）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4488",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271066",
+  "end": "2710A6",
+  "slots": [
+   "253288"
+  ],
+  "idx": [
+   4488
+  ],
+  "jp": "[name:4]じかんのむだ　だな！[n]きょうはみのがしてやろう・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4489",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2710A6",
+  "end": "2710EE",
+  "slots": [
+   "25328C"
+  ],
+  "idx": [
+   4489
+  ],
+  "jp": "[name:4]・・・きぶんがわるくなりました[n]ここにいることすら　イヤです[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4490",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2710EE",
+  "end": "271124",
+  "slots": [
+   "253290"
+  ],
+  "idx": [
+   4490
+  ],
+  "jp": "[name:4]もう　つきあっていられないよ！[n]ボクかえる[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4491",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271124",
+  "end": "271160",
+  "slots": [
+   "253294"
+  ],
+  "idx": [
+   4491
+  ],
+  "jp": "[name:4]ウェー！　ヤダヤダ！[n]もう　かおもみたくないよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4492",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271160",
+  "end": "271196",
+  "slots": [
+   "253298"
+  ],
+  "idx": [
+   4492
+  ],
+  "jp": "[name:4]ハー・・・[n]あきれて　やるきがなくなったよ[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4493",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271196",
+  "end": "2711E4",
+  "slots": [
+   "25329C"
+  ],
+  "idx": [
+   4493
+  ],
+  "jp": "[name:4]アンタ　ホント　ムカツク！！[n]アタシ　かえる！！　ついてくんなよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4494",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2711E4",
+  "end": "271218",
+  "slots": [
+   "2532A0"
+  ],
+  "idx": [
+   4494
+  ],
+  "jp": "[name:4]ガルル！！[n]オレノ　ホンキ　ミセテヤル！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4495",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271218",
+  "end": "271246",
+  "slots": [
+   "2532A4"
+  ],
+  "idx": [
+   4495
+  ],
+  "jp": "[name:4]・・・[n]（かなりおこってるようだ）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4496",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271246",
+  "end": "271288",
+  "slots": [
+   "2532A8"
+  ],
+  "idx": [
+   4496
+  ],
+  "jp": "[name:4]わたしを　おこらせるとは・・・[n]たたきつぶしてやる！！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4497",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271288",
+  "end": "2712CA",
+  "slots": [
+   "2532AC"
+  ],
+  "idx": [
+   4497
+  ],
+  "jp": "[name:4]わかっていないようですね・・・[n]ホンキでいきますよ！！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4498",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2712CA",
+  "end": "271306",
+  "slots": [
+   "2532B0"
+  ],
+  "idx": [
+   4498
+  ],
+  "jp": "[name:4]あったまきたーー！[n]ボク　ホントはつよいんだぞ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4499",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271306",
+  "end": "271342",
+  "slots": [
+   "2532B4"
+  ],
+  "idx": [
+   4499
+  ],
+  "jp": "[name:4]ねぇ　みてみて！[n]これが　じつりょくってヤツよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4500",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271342",
+  "end": "27138C",
+  "slots": [
+   "2532B8"
+  ],
+  "idx": [
+   4500
+  ],
+  "jp": "[name:4]オマエ　おれをナメてんだろ？[n]ホンキだすから　かかってこい！！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4501",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27138C",
+  "end": "2713C4",
+  "slots": [
+   "2532BC"
+  ],
+  "idx": [
+   4501
+  ],
+  "jp": "[name:4]もう　あそびは　ヤメ！[n]こっから　ホンキね！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4502",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2713C4",
+  "end": "2713F2",
+  "slots": [
+   "2532C0"
+  ],
+  "idx": [
+   4502
+  ],
+  "jp": "[name:4]コレデモ　クラエ！！！[n]ウォーッ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4503",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2713F2",
+  "end": "271424",
+  "slots": [
+   "2532C4"
+  ],
+  "idx": [
+   4503
+  ],
+  "jp": "[name:4]・・・！[n]（いかり　くるっている！！）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4504",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271424",
+  "end": "271466",
+  "slots": [
+   "2532C8"
+  ],
+  "idx": [
+   4504
+  ],
+  "jp": "[name:4]すこしは　はんせい　するがいい！！！[n]コレで　どうだ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4505",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271466",
+  "end": "2714A0",
+  "slots": [
+   "2532CC"
+  ],
+  "idx": [
+   4505
+  ],
+  "jp": "[name:4]そのまま　たおれてしまうがいいわ！！[n]ホラッ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4506",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2714A0",
+  "end": "2714C8",
+  "slots": [
+   "2532D0"
+  ],
+  "idx": [
+   4506
+  ],
+  "jp": "[name:4]たおれちゃいな！！　エイッ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4507",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2714C8",
+  "end": "27150A",
+  "slots": [
+   "2532D4"
+  ],
+  "idx": [
+   4507
+  ],
+  "jp": "[name:4]けんこうっていいよね！[n]んじゃ　くるしいのはどうかな？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4508",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27150A",
+  "end": "271544",
+  "slots": [
+   "2532D8"
+  ],
+  "idx": [
+   4508
+  ],
+  "jp": "[name:4]オレに　そんなくちをきいたバツだ！[n]くるしめ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4509",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271544",
+  "end": "27158E",
+  "slots": [
+   "2532DC"
+  ],
+  "idx": [
+   4509
+  ],
+  "jp": "[name:4]からだのちょうし　よさそうだけど[n]きょうでさいごね！　アハハ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4510",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27158E",
+  "end": "2715B0",
+  "slots": [
+   "2532E0"
+  ],
+  "idx": [
+   4510
+  ],
+  "jp": "[name:4]オマエ　ヨワスギ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4511",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2715B0",
+  "end": "2715DE",
+  "slots": [
+   "2532E4"
+  ],
+  "idx": [
+   4511
+  ],
+  "jp": "[name:4]（へんじがない　けいけんぶそく？）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4512",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2715DE",
+  "end": "27161C",
+  "slots": [
+   "2532E8"
+  ],
+  "idx": [
+   4512
+  ],
+  "jp": "[name:4]おまえのような　みじゅくものとは[n]はなしにならん！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4513",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27161C",
+  "end": "271670",
+  "slots": [
+   "2532EC"
+  ],
+  "idx": [
+   4513
+  ],
+  "jp": "[name:4]あなた・・・　じつりょくもないのに[n]わたしに　なんのようがあるのですか？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4514",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271670",
+  "end": "2716B4",
+  "slots": [
+   "2532F0"
+  ],
+  "idx": [
+   4514
+  ],
+  "jp": "[name:4]キミキミ！　まだよわいんだから[n]はなすことなんてないよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4515",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2716B4",
+  "end": "2716F4",
+  "slots": [
+   "2532F4"
+  ],
+  "idx": [
+   4515
+  ],
+  "jp": "[name:4]そこの　ボクー♥[n]よわいくせに　はなしかけないでねー[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4516",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2716F4",
+  "end": "27173C",
+  "slots": [
+   "2532F8"
+  ],
+  "idx": [
+   4516
+  ],
+  "jp": "[name:4]オマエ　よわいんだから[n]そんなことしてるバアイじゃねーだろ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4517",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27173C",
+  "end": "271784",
+  "slots": [
+   "2532FC"
+  ],
+  "idx": [
+   4517
+  ],
+  "jp": "[name:4]アタシ　よわいひとには[n]ゼンゼン　きょうみないの　ゴメンね♥[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4518",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271784",
+  "end": "2717B6",
+  "slots": [
+   "253300"
+  ],
+  "idx": [
+   4518
+  ],
+  "jp": "[name:4]ケイヤク　シタイナラ[n]〒[ec]　クレ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4519",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2717B6",
+  "end": "2717EC",
+  "slots": [
+   "253304"
+  ],
+  "idx": [
+   4519
+  ],
+  "jp": "[name:4]・・・　〒[n]（〒[ec]　ほしがっているようだ）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4520",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2717EC",
+  "end": "271830",
+  "slots": [
+   "253308"
+  ],
+  "idx": [
+   4520
+  ],
+  "jp": "[name:4]〒[ec]　ほど　だせば[n]はなしを　きいてやってもいいが・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4521",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271830",
+  "end": "271878",
+  "slots": [
+   "25330C"
+  ],
+  "idx": [
+   4521
+  ],
+  "jp": "[name:4]〒[ec]　いただけますか？[n]あなたの　きもちをみせていただきたい[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4522",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271878",
+  "end": "2718C2",
+  "slots": [
+   "253310"
+  ],
+  "idx": [
+   4522
+  ],
+  "jp": "[name:4]ボク　おなかすいた・・・[wait][n]おやつ　かうから[clr]〒[ec]　ちょうだい[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4523",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2718C2",
+  "end": "271924",
+  "slots": [
+   "253314"
+  ],
+  "idx": [
+   4523
+  ],
+  "jp": "[name:4]ねえねえ[n]ほしい　アクセサリーがあるんだ・・・[wait][clr]〒[ec]　くれたら[clr]かえるんだけど・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4524",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271924",
+  "end": "271972",
+  "slots": [
+   "253318"
+  ],
+  "idx": [
+   4524
+  ],
+  "jp": "[name:4]おい！　ちょっとまった！[wait][n]〒[ec][clr]くれたら　はなし　きいてやるぜ？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4525",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271972",
+  "end": "2719B8",
+  "slots": [
+   "25331C"
+  ],
+  "idx": [
+   4525
+  ],
+  "jp": "[name:4]あのさー・・・[wait][n]〒[ec][clr]で　イイコト　してあげるけど・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4526",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2719B8",
+  "end": "2719D8",
+  "slots": [
+   "253320"
+  ],
+  "idx": [
+   4526
+  ],
+  "jp": "[name:4]？？[n]タリナイ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4527",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2719D8",
+  "end": "271A0A",
+  "slots": [
+   "253324"
+  ],
+  "idx": [
+   4527
+  ],
+  "jp": "[name:4]・・・[n]（あれ？　たりなかった・・・）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4528",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271A0A",
+  "end": "271A4A",
+  "slots": [
+   "253328"
+  ],
+  "idx": [
+   4528
+  ],
+  "jp": "[name:4]たりんではないか・・・[n]ふざけるにも　ほどがあるぞ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4529",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271A4A",
+  "end": "271A7C",
+  "slots": [
+   "25332C"
+  ],
+  "idx": [
+   4529
+  ],
+  "jp": "[name:4]あなたは[n]さいていな　ひとですね・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4530",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271A7C",
+  "end": "271AA6",
+  "slots": [
+   "253330"
+  ],
+  "idx": [
+   4530
+  ],
+  "jp": "[name:4]たりないじゃないか！[n]ダメダメ！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M4531",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271AAC",
+  "end": "271AD8",
+  "slots": [
+   "253334"
+  ],
+  "idx": [
+   4531
+  ],
+  "jp": "[name:4]たりないよ？[n]あーあ　ガッカリ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4532",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271AD8",
+  "end": "271B18",
+  "slots": [
+   "253338"
+  ],
+  "idx": [
+   4532
+  ],
+  "jp": "[name:4]なんだそりゃ？[n]もってねーんだろ？　このウソツキが！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4533",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271B18",
+  "end": "271B6E",
+  "slots": [
+   "25333C"
+  ],
+  "idx": [
+   4533
+  ],
+  "jp": "[name:4]ねえ　ちょっと！[n]みんな　みた？[wait][clr]このひと[clr]アタシを　だまそうとしてた！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4534",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271B6E",
+  "end": "271B98",
+  "slots": [
+   "253340"
+  ],
+  "idx": [
+   4534
+  ],
+  "jp": "[name:4]オマエ・・・[n]シンヨウデキソウ[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4535",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271B98",
+  "end": "271BCA",
+  "slots": [
+   "253344"
+  ],
+  "idx": [
+   4535
+  ],
+  "jp": "[name:4]・・・[n]（ケイヤクしてくれそう・・・）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4536",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271BCA",
+  "end": "271BEE",
+  "slots": [
+   "253348"
+  ],
+  "idx": [
+   4536
+  ],
+  "jp": "[name:4]ケイヤクか？[n]いいだろう[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4537",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271BEE",
+  "end": "271C20",
+  "slots": [
+   "25334C"
+  ],
+  "idx": [
+   4537
+  ],
+  "jp": "[name:4]あなたの　きもちは[n]わかりました・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4538",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271C20",
+  "end": "271C4E",
+  "slots": [
+   "253350"
+  ],
+  "idx": [
+   4538
+  ],
+  "jp": "[name:4]やったー！[n]ケイヤク？　もちろん！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4539",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271C4E",
+  "end": "271C8C",
+  "slots": [
+   "253354"
+  ],
+  "idx": [
+   4539
+  ],
+  "jp": "[name:4]ホント？　ウレシー！[n]なんでもいうこときいちゃう！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4540",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271C8C",
+  "end": "271CCA",
+  "slots": [
+   "253358"
+  ],
+  "idx": [
+   4540
+  ],
+  "jp": "[name:4]サンキュー！[n]いやー　ひさしぶりにメシがくえるぜ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4541",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271CCA",
+  "end": "271CF4",
+  "slots": [
+   "25335C"
+  ],
+  "idx": [
+   4541
+  ],
+  "jp": "[name:4]ウフフ・・・[n]なにしてほしい？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4542",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271CF4",
+  "end": "271D16",
+  "slots": [
+   "253360"
+  ],
+  "idx": [
+   4542
+  ],
+  "jp": "[name:4]ハナシニ　ナラン・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4543",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271D16",
+  "end": "271D48",
+  "slots": [
+   "253364"
+  ],
+  "idx": [
+   4543
+  ],
+  "jp": "[name:4]・・・[n]（ガッカリしてるようだ・・・）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4544",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271D48",
+  "end": "271D6A",
+  "slots": [
+   "253368"
+  ],
+  "idx": [
+   4544
+  ],
+  "jp": "[name:4]では　はなしは　ナシだ[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4545",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271D6A",
+  "end": "271DA4",
+  "slots": [
+   "25336C"
+  ],
+  "idx": [
+   4545
+  ],
+  "jp": "[name:4]あなたは[n]そのていどのひとだったのですね・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4546",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271DA4",
+  "end": "271DDC",
+  "slots": [
+   "253370"
+  ],
+  "idx": [
+   4546
+  ],
+  "jp": "[name:4]エーーッ！[n]ケチーーッ！　もうしんないよ！！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4547",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271DDC",
+  "end": "271E0E",
+  "slots": [
+   "253374"
+  ],
+  "idx": [
+   4547
+  ],
+  "jp": "[name:4]ウェーン！！[n]きたいして　ソンしたー！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4548",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271E0E",
+  "end": "271E42",
+  "slots": [
+   "253378"
+  ],
+  "idx": [
+   4548
+  ],
+  "jp": "[name:4]もってんなら[n]だせよ！　このヤロー！！！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4549",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271E42",
+  "end": "271E88",
+  "slots": [
+   "25337C"
+  ],
+  "idx": [
+   4549
+  ],
+  "jp": "[name:4]アタシは　べつに　いいんだけどー[n]こまるのは　アンタだしー[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4550",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271E88",
+  "end": "271EAC",
+  "slots": [
+   "253380"
+  ],
+  "idx": [
+   4550
+  ],
+  "jp": "[name:4][f4]　[ec]コ[n]クイタイ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4551",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271EAC",
+  "end": "271EE2",
+  "slots": [
+   "253384"
+  ],
+  "idx": [
+   4551
+  ],
+  "jp": "[name:4]・・・？（[f4]　[ec]こ[n]ほしがっているようだ）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4552",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271EE2",
+  "end": "271F20",
+  "slots": [
+   "253388"
+  ],
+  "idx": [
+   4552
+  ],
+  "jp": "[name:4][f4]　を　[ec]こ[n]くれれば　はなしだけならきくが・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4553",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271F20",
+  "end": "271F4A",
+  "slots": [
+   "25338C"
+  ],
+  "idx": [
+   4553
+  ],
+  "jp": "[name:4][f4]　を　[ec]こ[n]いただけますか？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4554",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271F4A",
+  "end": "271F6C",
+  "slots": [
+   "253390"
+  ],
+  "idx": [
+   4554
+  ],
+  "jp": "[name:4][f4]　[ec]こ[n]ちょうだい？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4555",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271F6C",
+  "end": "271F98",
+  "slots": [
+   "253394"
+  ],
+  "idx": [
+   4555
+  ],
+  "jp": "[name:4]あのねー　[f4]　[ec]コ[n]ちょーだい？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4556",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271F98",
+  "end": "271FBE",
+  "slots": [
+   "253398"
+  ],
+  "idx": [
+   4556
+  ],
+  "jp": "[name:4]あのさ　[f4]　[ec]こ[n]くれよ？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4557",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "271FBE",
+  "end": "271FEC",
+  "slots": [
+   "25339C"
+  ],
+  "idx": [
+   4557
+  ],
+  "jp": "[name:4]あのさぁ　[f4][ec]コ[n]くれないかなぁ？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4558",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "271FEC",
+  "end": "272024",
+  "slots": [
+   "2533A0"
+  ],
+  "idx": [
+   4558
+  ],
+  "jp": "[name:4]ハラヘッタ・・・[n]オマエ　ツメタイヤツ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4559",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272024",
+  "end": "272058",
+  "slots": [
+   "2533A4"
+  ],
+  "idx": [
+   4559
+  ],
+  "jp": "[name:4]・・・[n]（こちらを　にらんでいる・・・）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4560",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272058",
+  "end": "272086",
+  "slots": [
+   "2533A8"
+  ],
+  "idx": [
+   4560
+  ],
+  "jp": "[name:4]ならば　こうしょうは　けつれつだな[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4561",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272086",
+  "end": "2720BC",
+  "slots": [
+   "2533AC"
+  ],
+  "idx": [
+   4561
+  ],
+  "jp": "[name:4]なるほど[n]なんとも　ケチなひとですね・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4562",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2720BC",
+  "end": "2720E2",
+  "slots": [
+   "2533B0"
+  ],
+  "idx": [
+   4562
+  ],
+  "jp": "[name:4]ウソ！？　しんじらんない！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4563",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2720E2",
+  "end": "272116",
+  "slots": [
+   "2533B4"
+  ],
+  "idx": [
+   4563
+  ],
+  "jp": "[name:4]あれ？[n]あなたって　そういうひとなんだぁ[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4564",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272116",
+  "end": "272144",
+  "slots": [
+   "2533B8"
+  ],
+  "idx": [
+   4564
+  ],
+  "jp": "[name:4]ふざけんな！[n]すなおに　わたせよ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4565",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272144",
+  "end": "272174",
+  "slots": [
+   "2533BC"
+  ],
+  "idx": [
+   4565
+  ],
+  "jp": "[name:4]マジでぇ！？[n]ちょっと　ひどくない？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4566",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272174",
+  "end": "272194",
+  "slots": [
+   "2533C0"
+  ],
+  "idx": [
+   4566
+  ],
+  "jp": "[name:4]？？[n]ウソツキ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4567",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272194",
+  "end": "2721C6",
+  "slots": [
+   "2533C4"
+  ],
+  "idx": [
+   4567
+  ],
+  "jp": "[name:4]・・・[n]（あれ？　たりなかった・・・）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4568",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2721C6",
+  "end": "272202",
+  "slots": [
+   "2533C8"
+  ],
+  "idx": [
+   4568
+  ],
+  "jp": "[name:4]・・・わたしをバカにしているのか？[n]ふざけるな！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4569",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272202",
+  "end": "272250",
+  "slots": [
+   "2533CC"
+  ],
+  "idx": [
+   4569
+  ],
+  "jp": "[name:4]あなたを　すこしでもしんじてしまった[n]わたしが　おろかでした・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4570",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272250",
+  "end": "272282",
+  "slots": [
+   "2533D0"
+  ],
+  "idx": [
+   4570
+  ],
+  "jp": "[name:4]たりないみたいだね・・・[n]ガッカリだよ！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M4571",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272288",
+  "end": "2722D2",
+  "slots": [
+   "2533D4"
+  ],
+  "idx": [
+   4571
+  ],
+  "jp": "[name:4]えー？　たりないじゃない！[n]そんなことしてたら　キラわれるよ？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4572",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2722D2",
+  "end": "27230E",
+  "slots": [
+   "2533D8"
+  ],
+  "idx": [
+   4572
+  ],
+  "jp": "[name:4]アレ？　これだけ？[n]オレのいったこと　きいてた？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4573",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27230E",
+  "end": "272344",
+  "slots": [
+   "2533DC"
+  ],
+  "idx": [
+   4573
+  ],
+  "jp": "[name:4]アンタ・・・[n]アタシをなめてんじゃないの？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4574",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272344",
+  "end": "27236E",
+  "slots": [
+   "2533E0"
+  ],
+  "idx": [
+   4574
+  ],
+  "jp": "[name:4]オマエ・・・[n]シンヨウデキソウ[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4575",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27236E",
+  "end": "2723A0",
+  "slots": [
+   "2533E4"
+  ],
+  "idx": [
+   4575
+  ],
+  "jp": "[name:4]・・・[n]（ケイヤクしてくれそう・・・）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4576",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2723A0",
+  "end": "2723C4",
+  "slots": [
+   "2533E8"
+  ],
+  "idx": [
+   4576
+  ],
+  "jp": "[name:4]ケイヤクか？[n]いいだろう[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4577",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2723C4",
+  "end": "2723F6",
+  "slots": [
+   "2533EC"
+  ],
+  "idx": [
+   4577
+  ],
+  "jp": "[name:4]あなたの　きもちは[n]わかりました・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4578",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2723F6",
+  "end": "272424",
+  "slots": [
+   "2533F0"
+  ],
+  "idx": [
+   4578
+  ],
+  "jp": "[name:4]やったー！[n]ケイヤク？　もちろん！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4579",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272424",
+  "end": "272462",
+  "slots": [
+   "2533F4"
+  ],
+  "idx": [
+   4579
+  ],
+  "jp": "[name:4]ホント？　ウレシー！[n]なんでもいうこときいちゃう！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4580",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272462",
+  "end": "2724A0",
+  "slots": [
+   "2533F8"
+  ],
+  "idx": [
+   4580
+  ],
+  "jp": "[name:4]サンキュー！[n]いやー　ひさしぶりにメシがくえるぜ！[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4581",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2724A0",
+  "end": "2724CA",
+  "slots": [
+   "2533FC"
+  ],
+  "idx": [
+   4581
+  ],
+  "jp": "[name:4]ウフフ・・・[n]なにしてほしい？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4582",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2724CA",
+  "end": "272504",
+  "slots": [
+   "253400"
+  ],
+  "idx": [
+   4582
+  ],
+  "jp": "[name:4][f1]　ガ　イナケレバ[n]ケイヤクシテモイイガ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4583",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272504",
+  "end": "27252E",
+  "slots": [
+   "253404"
+  ],
+  "idx": [
+   4583
+  ],
+  "jp": "[name:4]・・・[n]（[f1]がキライみたいだ）[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4584",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27252E",
+  "end": "272570",
+  "slots": [
+   "253408"
+  ],
+  "idx": [
+   4584
+  ],
+  "jp": "[name:4][f1]　が　いるとは！[n]そいつをなんとかしてくれんか・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4585",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272570",
+  "end": "2725B2",
+  "slots": [
+   "25340C"
+  ],
+  "idx": [
+   4585
+  ],
+  "jp": "[name:4][f1]さんが　コワイかおで[n]わたしをにらんでますけど・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4586",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2725B2",
+  "end": "2725EC",
+  "slots": [
+   "253410"
+  ],
+  "idx": [
+   4586
+  ],
+  "jp": "[name:4]じつはさぁ　[f1][n]って　キライなんだよなぁ・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4587",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2725EC",
+  "end": "272628",
+  "slots": [
+   "253414"
+  ],
+  "idx": [
+   4587
+  ],
+  "jp": "[name:4]あれ？　[f1]がいる！[n]あいつがいなかったらね・・・[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4588",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272628",
+  "end": "27266C",
+  "slots": [
+   "253418"
+  ],
+  "idx": [
+   4588
+  ],
+  "jp": "[name:4][f1]だな！　コノヤロー！[n]アイツといっしょには　なれねえな[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4589",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27266C",
+  "end": "2726B4",
+  "slots": [
+   "25341C"
+  ],
+  "idx": [
+   4589
+  ],
+  "jp": "[name:4]アタシ　[f1]　ダメなんだ[n]アイツとアタシだったらどっちをとる？[wait][name:65535][end]",
+  "en": ""
+ },
+ {
+  "id": "M4590",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2726B4",
+  "end": "2726E6",
+  "slots": [
+   "253420"
+  ],
+  "idx": [
+   4590
+  ],
+  "jp": "[name:4]オマエ　ナゼ　タタカウ[n]デビル　キライカ？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M4591",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2726E6",
+  "end": "27271C",
+  "slots": [
+   "253424"
+  ],
+  "idx": [
+   4591
+  ],
+  "jp": "[name:4]（にらまれてるみたい・・・[n]　にらみかえす？）[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M4592",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27271C",
+  "end": "272752",
+  "slots": [
+   "253428"
+  ],
+  "idx": [
+   4592
+  ],
+  "jp": "[name:4]もしや　おまえがウワサの[n]デビルチルドレンか？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M4593",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272752",
+  "end": "272788",
+  "slots": [
+   "25342C"
+  ],
+  "idx": [
+   4593
+  ],
+  "jp": "[name:4]わたしって　きれいかしら？[n]むしろ　かわいい？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M4594",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272788",
+  "end": "2727B0",
+  "slots": [
+   "253430"
+  ],
+  "idx": [
+   4594
+  ],
+  "jp": "[name:4]ケイヤク？[n]それって　たのしい？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M4595",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2727B0",
+  "end": "2727EE",
+  "slots": [
+   "253434"
+  ],
+  "idx": [
+   4595
+  ],
+  "jp": "[name:4]なんか　ゲンキないみたいね[n]もしかして　つかれてるとか？[end]",
+  "en": ""
+ },
+ {
+  "id": "M4596",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2727EE",
+  "end": "272828",
+  "slots": [
+   "253438"
+  ],
+  "idx": [
+   4596
+  ],
+  "jp": "[name:4]オマエもオトコだろ[n]オトコってツライよな！　なあ？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M4597",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272828",
+  "end": "272860",
+  "slots": [
+   "25343C"
+  ],
+  "idx": [
+   4597
+  ],
+  "jp": "[name:4]アタシさー　いま　ヒマなんだよね[n]アンタ　ヒマ？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M4598",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272860",
+  "end": "272894",
+  "slots": [
+   "253440"
+  ],
+  "idx": [
+   4598
+  ],
+  "jp": "[name:4]オレ　ニク　ダイスキ！[n]オマエ　ニク　スキ？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M4599",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "272894",
+  "end": "2728C8",
+  "slots": [
+   "253444"
+  ],
+  "idx": [
+   4599
+  ],
+  "jp": "[name:4]（たのしいようだ・・・[n]　ちかよってみる？）[wait][end]",
+  "en": ""
+ }
+]

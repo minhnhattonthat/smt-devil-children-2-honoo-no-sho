@@ -1,0 +1,3002 @@
+[
+ {
+  "id": "M3200",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B868",
+  "end": "25B886",
+  "slots": [
+   "251E68"
+  ],
+  "idx": [
+   3200
+  ],
+  "jp": "敵１体にガード無視の２回攻撃[end]",
+  "en": ""
+ },
+ {
+  "id": "M3201",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B886",
+  "end": "25B89A",
+  "slots": [
+   "251E6C"
+  ],
+  "idx": [
+   3201
+  ],
+  "jp": "敵１体に　４回攻撃[end]",
+  "en": ""
+ },
+ {
+  "id": "M3202",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B89A",
+  "end": "25B8BC",
+  "slots": [
+   "251E70"
+  ],
+  "idx": [
+   3202
+  ],
+  "jp": "敵全体に　８回攻撃とバクダン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3203",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B8BC",
+  "end": "25B8DA",
+  "slots": [
+   "251E74"
+  ],
+  "idx": [
+   3203
+  ],
+  "jp": "太陽の炎で　敵全体に８回攻撃[end]",
+  "en": ""
+ },
+ {
+  "id": "M3204",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B8DA",
+  "end": "25B8FA",
+  "slots": [
+   "251E78"
+  ],
+  "idx": [
+   3204
+  ],
+  "jp": "敵２体にダメージとバクダン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3205",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B8FA",
+  "end": "25B920",
+  "slots": [
+   "251E7C"
+  ],
+  "idx": [
+   3205
+  ],
+  "jp": "炎で焼き尽くして　敵全体に大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3206",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B920",
+  "end": "25B946",
+  "slots": [
+   "251E80"
+  ],
+  "idx": [
+   3206
+  ],
+  "jp": "レーザーで敵１体を攻撃し　マヒさせる[end]",
+  "en": ""
+ },
+ {
+  "id": "M3207",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B946",
+  "end": "25B96C",
+  "slots": [
+   "251E84"
+  ],
+  "idx": [
+   3207
+  ],
+  "jp": "水圧で切り裂いて　敵１体に小ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3208",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B96C",
+  "end": "25B992",
+  "slots": [
+   "251E88"
+  ],
+  "idx": [
+   3208
+  ],
+  "jp": "水圧で押し潰して　敵２体に小ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3209",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B992",
+  "end": "25B9B8",
+  "slots": [
+   "251E8C"
+  ],
+  "idx": [
+   3209
+  ],
+  "jp": "毒で敵１体を包み　小ダメージと毒効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3210",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B9B8",
+  "end": "25B9DE",
+  "slots": [
+   "251E90"
+  ],
+  "idx": [
+   3210
+  ],
+  "jp": "泡で　敵２体に　中ダメージと混乱効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3211",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25B9DE",
+  "end": "25BA04",
+  "slots": [
+   "251E94"
+  ],
+  "idx": [
+   3211
+  ],
+  "jp": "銀の霧で敵全体に小ダメージとマヒ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3212",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BA04",
+  "end": "25BA2A",
+  "slots": [
+   "251E98"
+  ],
+  "idx": [
+   3212
+  ],
+  "jp": "津波を呼び寄せて　敵全体に中ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3213",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BA2A",
+  "end": "25BA4E",
+  "slots": [
+   "251E9C"
+  ],
+  "idx": [
+   3213
+  ],
+  "jp": "渦潮を呼び寄せ　敵全体に大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3214",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BA4E",
+  "end": "25BA74",
+  "slots": [
+   "251EA0"
+  ],
+  "idx": [
+   3214
+  ],
+  "jp": "敵全体に８回攻撃と　ガードダウン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3215",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BA74",
+  "end": "25BA9A",
+  "slots": [
+   "251EA4"
+  ],
+  "idx": [
+   3215
+  ],
+  "jp": "つららを落として　敵１体に小ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3216",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BA9A",
+  "end": "25BABA",
+  "slots": [
+   "251EA8"
+  ],
+  "idx": [
+   3216
+  ],
+  "jp": "敵１体に　小ダメージと凍結効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3217",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BABA",
+  "end": "25BAD6",
+  "slots": [
+   "251EAC"
+  ],
+  "idx": [
+   3217
+  ],
+  "jp": "氷柱で　敵１体に大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3218",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BAD6",
+  "end": "25BAF8",
+  "slots": [
+   "251EB0"
+  ],
+  "idx": [
+   3218
+  ],
+  "jp": "氷で敵１体に大ダメージと凍結効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3219",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BAF8",
+  "end": "25BB14",
+  "slots": [
+   "251EB4"
+  ],
+  "idx": [
+   3219
+  ],
+  "jp": "風で　敵全体に８回ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3220",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BB14",
+  "end": "25BB38",
+  "slots": [
+   "251EB8"
+  ],
+  "idx": [
+   3220
+  ],
+  "jp": "闇の刃で敵全体に２回攻撃と気絶効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3221",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BB38",
+  "end": "25BB5E",
+  "slots": [
+   "251EBC"
+  ],
+  "idx": [
+   3221
+  ],
+  "jp": "竜巻で切り刻んで　敵１体に大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3222",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BB5E",
+  "end": "25BB7C",
+  "slots": [
+   "251EC0"
+  ],
+  "idx": [
+   3222
+  ],
+  "jp": "敵味方全員に　雷がふりそそぐ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3223",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BB7C",
+  "end": "25BB9C",
+  "slots": [
+   "251EC4"
+  ],
+  "idx": [
+   3223
+  ],
+  "jp": "敵２体に中ダメージと　マヒ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3224",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BB9C",
+  "end": "25BBBC",
+  "slots": [
+   "251EC8"
+  ],
+  "idx": [
+   3224
+  ],
+  "jp": "敵１体に中ダメージと　感電効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3225",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BBBC",
+  "end": "25BBD6",
+  "slots": [
+   "251ECC"
+  ],
+  "idx": [
+   3225
+  ],
+  "jp": "雷で　敵１体に大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3226",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BBD6",
+  "end": "25BBFC",
+  "slots": [
+   "251ED0"
+  ],
+  "idx": [
+   3226
+  ],
+  "jp": "敵１体に小ダメージと命中率ダウン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3227",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BBFC",
+  "end": "25BC1E",
+  "slots": [
+   "251ED4"
+  ],
+  "idx": [
+   3227
+  ],
+  "jp": "飛び散った岩で　周囲にもダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3228",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BC1E",
+  "end": "25BC44",
+  "slots": [
+   "251ED8"
+  ],
+  "idx": [
+   3228
+  ],
+  "jp": "敵全体に中ダメージと命中率ダウン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3229",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BC44",
+  "end": "25BC6A",
+  "slots": [
+   "251EDC"
+  ],
+  "idx": [
+   3229
+  ],
+  "jp": "音楽で　敵全体に小ダメージと混乱効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3230",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BC6A",
+  "end": "25BC90",
+  "slots": [
+   "251EE0"
+  ],
+  "idx": [
+   3230
+  ],
+  "jp": "敵全体に４回攻撃とアタックアップ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3231",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BC90",
+  "end": "25BCAE",
+  "slots": [
+   "251EE4"
+  ],
+  "idx": [
+   3231
+  ],
+  "jp": "敵全体に　４回攻撃とマヒ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3232",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BCAE",
+  "end": "25BCCE",
+  "slots": [
+   "251EE8"
+  ],
+  "idx": [
+   3232
+  ],
+  "jp": "敵２体に　中ダメージと混乱効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3233",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BCCE",
+  "end": "25BCEC",
+  "slots": [
+   "251EEC"
+  ],
+  "idx": [
+   3233
+  ],
+  "jp": "鳥系デビルにのみ　大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3234",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BCEC",
+  "end": "25BD12",
+  "slots": [
+   "251EF0"
+  ],
+  "idx": [
+   3234
+  ],
+  "jp": "波動で　敵１体に大ダメージと混乱効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3235",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BD12",
+  "end": "25BD36",
+  "slots": [
+   "251EF4"
+  ],
+  "idx": [
+   3235
+  ],
+  "jp": "敵全体に４回攻撃とガードダウン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3236",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BD36",
+  "end": "25BD5C",
+  "slots": [
+   "251EF8"
+  ],
+  "idx": [
+   3236
+  ],
+  "jp": "味方全体のＨＰを回復してパラメアップ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3237",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BD5C",
+  "end": "25BD7C",
+  "slots": [
+   "251EFC"
+  ],
+  "idx": [
+   3237
+  ],
+  "jp": "敵全体に　大ダメージと気絶効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3238",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BD7C",
+  "end": "25BD9C",
+  "slots": [
+   "251F00"
+  ],
+  "idx": [
+   3238
+  ],
+  "jp": "敵全体に　するどい爪で２回攻撃[end]",
+  "en": ""
+ },
+ {
+  "id": "M3239",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BD9C",
+  "end": "25BDB4",
+  "slots": [
+   "251F04"
+  ],
+  "idx": [
+   3239
+  ],
+  "jp": "敵全体を　２回攻撃する[end]",
+  "en": ""
+ },
+ {
+  "id": "M3240",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BDB4",
+  "end": "25BDD2",
+  "slots": [
+   "251F08"
+  ],
+  "idx": [
+   3240
+  ],
+  "jp": "重力で　敵全体に２回ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3241",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BDD2",
+  "end": "25BDF8",
+  "slots": [
+   "251F0C"
+  ],
+  "idx": [
+   3241
+  ],
+  "jp": "光の弾で敵２体に小ダメージと沈黙効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3242",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BDF8",
+  "end": "25BE1C",
+  "slots": [
+   "251F10"
+  ],
+  "idx": [
+   3242
+  ],
+  "jp": "光で　敵全体に大ダメージと沈黙効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3243",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BE1C",
+  "end": "25BE42",
+  "slots": [
+   "251F14"
+  ],
+  "idx": [
+   3243
+  ],
+  "jp": "敵全体に　状態異常がランダムでおきる[end]",
+  "en": ""
+ },
+ {
+  "id": "M3244",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BE42",
+  "end": "25BE68",
+  "slots": [
+   "251F18"
+  ],
+  "idx": [
+   3244
+  ],
+  "jp": "呪いの力を投げつけ敵１体のＨＰを吸収[end]",
+  "en": ""
+ },
+ {
+  "id": "M3245",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BE68",
+  "end": "25BE8E",
+  "slots": [
+   "251F1C"
+  ],
+  "idx": [
+   3245
+  ],
+  "jp": "敵全体に呪いで　大ダメージと気絶効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3246",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BE8E",
+  "end": "25BEAE",
+  "slots": [
+   "251F20"
+  ],
+  "idx": [
+   3246
+  ],
+  "jp": "敵１体に　大ダメージと混乱効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3247",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BEAE",
+  "end": "25BECE",
+  "slots": [
+   "251F24"
+  ],
+  "idx": [
+   3247
+  ],
+  "jp": "敵１体に　大ダメージと睡眠効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3248",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BECE",
+  "end": "25BEEA",
+  "slots": [
+   "251F28"
+  ],
+  "idx": [
+   3248
+  ],
+  "jp": "敵全体を　攻撃してダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3249",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BEEA",
+  "end": "25BF10",
+  "slots": [
+   "251F2C"
+  ],
+  "idx": [
+   3249
+  ],
+  "jp": "敵ＨＰと使用者本人のＨＰ差がダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3250",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BF10",
+  "end": "25BF36",
+  "slots": [
+   "251F30"
+  ],
+  "idx": [
+   3250
+  ],
+  "jp": "突撃して　中ダメージと自分がダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3251",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BF36",
+  "end": "25BF5C",
+  "slots": [
+   "251F34"
+  ],
+  "idx": [
+   3251
+  ],
+  "jp": "２ターン　通常ダメージ半分を敵に返す[end]",
+  "en": ""
+ },
+ {
+  "id": "M3252",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BF5C",
+  "end": "25BF7C",
+  "slots": [
+   "251F38"
+  ],
+  "idx": [
+   3252
+  ],
+  "jp": "敵１体に小ダメージと　マヒ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3253",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BF7C",
+  "end": "25BF9A",
+  "slots": [
+   "251F3C"
+  ],
+  "idx": [
+   3253
+  ],
+  "jp": "敵１体に素早い　厘続４回攻撃[end]",
+  "en": ""
+ },
+ {
+  "id": "M3254",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BF9A",
+  "end": "25BFB8",
+  "slots": [
+   "251F40"
+  ],
+  "idx": [
+   3254
+  ],
+  "jp": "獣系デビルにのみ　大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3255",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BFB8",
+  "end": "25BFD6",
+  "slots": [
+   "251F44"
+  ],
+  "idx": [
+   3255
+  ],
+  "jp": "鬼系デビルにのみ　大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3256",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BFD6",
+  "end": "25BFF4",
+  "slots": [
+   "251F48"
+  ],
+  "idx": [
+   3256
+  ],
+  "jp": "龍系デビルにのみ　大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3257",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25BFF4",
+  "end": "25C012",
+  "slots": [
+   "251F4C"
+  ],
+  "idx": [
+   3257
+  ],
+  "jp": "神系デビルにのみ　大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3258",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C012",
+  "end": "25C036",
+  "slots": [
+   "251F50"
+  ],
+  "idx": [
+   3258
+  ],
+  "jp": "ミュート系デビルにのみ　大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3259",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C036",
+  "end": "25C056",
+  "slots": [
+   "251F54"
+  ],
+  "idx": [
+   3259
+  ],
+  "jp": "天使系デビルにのみ　大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3260",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C056",
+  "end": "25C076",
+  "slots": [
+   "251F58"
+  ],
+  "idx": [
+   3260
+  ],
+  "jp": "レイ系デビルにのみ　大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3261",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C076",
+  "end": "25C098",
+  "slots": [
+   "251F5C"
+  ],
+  "idx": [
+   3261
+  ],
+  "jp": "アクマ系デビルにのみ　大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3262",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C098",
+  "end": "25C0B8",
+  "slots": [
+   "251F60"
+  ],
+  "idx": [
+   3262
+  ],
+  "jp": "妖魔系デビルにのみ　大ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3263",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C0B8",
+  "end": "25C0DC",
+  "slots": [
+   "251F64"
+  ],
+  "idx": [
+   3263
+  ],
+  "jp": "スピンして敵全体を攻撃し　混乱効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3264",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C0DC",
+  "end": "25C100",
+  "slots": [
+   "251F68"
+  ],
+  "idx": [
+   3264
+  ],
+  "jp": "闇のタマで敵１体を攻撃し　気絶効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3265",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C100",
+  "end": "25C126",
+  "slots": [
+   "251F6C"
+  ],
+  "idx": [
+   3265
+  ],
+  "jp": "敵１体に４回攻撃して　アタックアップ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3266",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C126",
+  "end": "25C14A",
+  "slots": [
+   "251F70"
+  ],
+  "idx": [
+   3266
+  ],
+  "jp": "敵１体の酌点を攻撃してクリティカル[end]",
+  "en": ""
+ },
+ {
+  "id": "M3267",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C14A",
+  "end": "25C16A",
+  "slots": [
+   "251F74"
+  ],
+  "idx": [
+   3267
+  ],
+  "jp": "敵全体に　不思議な効果が訪れる[end]",
+  "en": ""
+ },
+ {
+  "id": "M3268",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C16A",
+  "end": "25C18C",
+  "slots": [
+   "251F78"
+  ],
+  "idx": [
+   3268
+  ],
+  "jp": "丸くなって　ガードをアップさせる[end]",
+  "en": ""
+ },
+ {
+  "id": "M3269",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C18C",
+  "end": "25C1AE",
+  "slots": [
+   "251F7C"
+  ],
+  "idx": [
+   3269
+  ],
+  "jp": "すべてのステータスをアップさせる[end]",
+  "en": ""
+ },
+ {
+  "id": "M3270",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C1AE",
+  "end": "25C1D4",
+  "slots": [
+   "251F80"
+  ],
+  "idx": [
+   3270
+  ],
+  "jp": "味方全体のＨＰを回復してパラメアップ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3271",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C1D4",
+  "end": "25C1FA",
+  "slots": [
+   "251F84"
+  ],
+  "idx": [
+   3271
+  ],
+  "jp": "爆発で敵全体に４回攻撃とバクダン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3272",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C1FA",
+  "end": "25C220",
+  "slots": [
+   "251F88"
+  ],
+  "idx": [
+   3272
+  ],
+  "jp": "敵１体にかみついて２回攻撃と混乱効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3273",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C220",
+  "end": "25C244",
+  "slots": [
+   "251F8C"
+  ],
+  "idx": [
+   3273
+  ],
+  "jp": "魔法ダメージを　１ターン無効化する[end]",
+  "en": ""
+ },
+ {
+  "id": "M3274",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C244",
+  "end": "25C26A",
+  "slots": [
+   "251F90"
+  ],
+  "idx": [
+   3274
+  ],
+  "jp": "敵の魔法ダメージをＭＰにして吸収する[end]",
+  "en": ""
+ },
+ {
+  "id": "M3275",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C26A",
+  "end": "25C28C",
+  "slots": [
+   "251F94"
+  ],
+  "idx": [
+   3275
+  ],
+  "jp": "敵全体に　２回攻撃とバクダン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3276",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C28C",
+  "end": "25C2A0",
+  "slots": [
+   "251F98"
+  ],
+  "idx": [
+   3276
+  ],
+  "jp": "敵１体に　混乱効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3277",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C2A0",
+  "end": "25C2B4",
+  "slots": [
+   "251F9C"
+  ],
+  "idx": [
+   3277
+  ],
+  "jp": "敵１体に　マヒ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3278",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C2B4",
+  "end": "25C2DA",
+  "slots": [
+   "251FA0"
+  ],
+  "idx": [
+   3278
+  ],
+  "jp": "スピードを上げて　敵の攻撃を回避する[end]",
+  "en": ""
+ },
+ {
+  "id": "M3279",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C2DA",
+  "end": "25C2F4",
+  "slots": [
+   "251FA4"
+  ],
+  "idx": [
+   3279
+  ],
+  "jp": "敵全体を　バクダンにする[end]",
+  "en": ""
+ },
+ {
+  "id": "M3280",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C2F4",
+  "end": "25C31A",
+  "slots": [
+   "251FA8"
+  ],
+  "idx": [
+   3280
+  ],
+  "jp": "自分は気絶しＨＰ・異常状態・気絶回復[end]",
+  "en": ""
+ },
+ {
+  "id": "M3281",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C31A",
+  "end": "25C338",
+  "slots": [
+   "251FAC"
+  ],
+  "idx": [
+   3281
+  ],
+  "jp": "敵１体との　交渉成功率アップ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3282",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C338",
+  "end": "25C35A",
+  "slots": [
+   "251FB0"
+  ],
+  "idx": [
+   3282
+  ],
+  "jp": "１ターンだけ　火属性の攻撃無効化[end]",
+  "en": ""
+ },
+ {
+  "id": "M3283",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C35A",
+  "end": "25C37C",
+  "slots": [
+   "251FB4"
+  ],
+  "idx": [
+   3283
+  ],
+  "jp": "１ターンだけ　水属性の攻撃無効化[end]",
+  "en": ""
+ },
+ {
+  "id": "M3284",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C37C",
+  "end": "25C3A2",
+  "slots": [
+   "251FB8"
+  ],
+  "idx": [
+   3284
+  ],
+  "jp": "敵１体にかみついて２回攻撃とマヒ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3285",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C3A2",
+  "end": "25C3C4",
+  "slots": [
+   "251FBC"
+  ],
+  "idx": [
+   3285
+  ],
+  "jp": "１ターンだけ　氷属性の攻撃無効化[end]",
+  "en": ""
+ },
+ {
+  "id": "M3286",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C3C4",
+  "end": "25C3E6",
+  "slots": [
+   "251FC0"
+  ],
+  "idx": [
+   3286
+  ],
+  "jp": "１ターンだけ　地属性の攻撃無効化[end]",
+  "en": ""
+ },
+ {
+  "id": "M3287",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C3E6",
+  "end": "25C404",
+  "slots": [
+   "251FC4"
+  ],
+  "idx": [
+   3287
+  ],
+  "jp": "敵全体に３回攻撃し　凍結効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3288",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C404",
+  "end": "25C426",
+  "slots": [
+   "251FC8"
+  ],
+  "idx": [
+   3288
+  ],
+  "jp": "１ターンだけ　風属性の攻撃無効化[end]",
+  "en": ""
+ },
+ {
+  "id": "M3289",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C426",
+  "end": "25C448",
+  "slots": [
+   "251FCC"
+  ],
+  "idx": [
+   3289
+  ],
+  "jp": "１ターンだけ　光属性の攻撃無効化[end]",
+  "en": ""
+ },
+ {
+  "id": "M3290",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C448",
+  "end": "25C46A",
+  "slots": [
+   "251FD0"
+  ],
+  "idx": [
+   3290
+  ],
+  "jp": "１ターンだけ　闇属性の攻撃無効化[end]",
+  "en": ""
+ },
+ {
+  "id": "M3291",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C46A",
+  "end": "25C48C",
+  "slots": [
+   "251FD4"
+  ],
+  "idx": [
+   3291
+  ],
+  "jp": "１ターンだけ　雷属性の攻撃無効化[end]",
+  "en": ""
+ },
+ {
+  "id": "M3292",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C48C",
+  "end": "25C4B2",
+  "slots": [
+   "251FD8"
+  ],
+  "idx": [
+   3292
+  ],
+  "jp": "敵全体に光のヤリで２回攻撃と気絶効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3293",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C4B2",
+  "end": "25C4CE",
+  "slots": [
+   "251FDC"
+  ],
+  "idx": [
+   3293
+  ],
+  "jp": "魔法反射とガードアップ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3294",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C4CE",
+  "end": "25C4EA",
+  "slots": [
+   "251FE0"
+  ],
+  "idx": [
+   3294
+  ],
+  "jp": "魔法反射とガードアップ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3295",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C4EA",
+  "end": "25C510",
+  "slots": [
+   "251FE4"
+  ],
+  "idx": [
+   3295
+  ],
+  "jp": "敵全体に２回攻撃しアタックアップ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3296",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C510",
+  "end": "25C536",
+  "slots": [
+   "251FE8"
+  ],
+  "idx": [
+   3296
+  ],
+  "jp": "敵全体に２回攻撃しアタックアップ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3297",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C536",
+  "end": "25C544",
+  "slots": [
+   "251FEC"
+  ],
+  "idx": [
+   3297
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3298",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C544",
+  "end": "25C552",
+  "slots": [
+   "251FF0"
+  ],
+  "idx": [
+   3298
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3299",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C552",
+  "end": "25C560",
+  "slots": [
+   "251FF4"
+  ],
+  "idx": [
+   3299
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3300",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C560",
+  "end": "25C56E",
+  "slots": [
+   "251FF8"
+  ],
+  "idx": [
+   3300
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3301",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C56E",
+  "end": "25C57C",
+  "slots": [
+   "251FFC"
+  ],
+  "idx": [
+   3301
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3302",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C57C",
+  "end": "25C58A",
+  "slots": [
+   "252000"
+  ],
+  "idx": [
+   3302
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3303",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C58A",
+  "end": "25C598",
+  "slots": [
+   "252004"
+  ],
+  "idx": [
+   3303
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3304",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C598",
+  "end": "25C5A6",
+  "slots": [
+   "252008"
+  ],
+  "idx": [
+   3304
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3305",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C5A6",
+  "end": "25C5B4",
+  "slots": [
+   "25200C"
+  ],
+  "idx": [
+   3305
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3306",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C5B4",
+  "end": "25C5C2",
+  "slots": [
+   "252010"
+  ],
+  "idx": [
+   3306
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3307",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C5C2",
+  "end": "25C5D0",
+  "slots": [
+   "252014"
+  ],
+  "idx": [
+   3307
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3308",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C5D0",
+  "end": "25C5DE",
+  "slots": [
+   "252018"
+  ],
+  "idx": [
+   3308
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3309",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C5DE",
+  "end": "25C5EC",
+  "slots": [
+   "25201C"
+  ],
+  "idx": [
+   3309
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3310",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C5EC",
+  "end": "25C5FA",
+  "slots": [
+   "252020"
+  ],
+  "idx": [
+   3310
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3311",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C5FA",
+  "end": "25C608",
+  "slots": [
+   "252024"
+  ],
+  "idx": [
+   3311
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3312",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C608",
+  "end": "25C616",
+  "slots": [
+   "252028"
+  ],
+  "idx": [
+   3312
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3313",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C616",
+  "end": "25C624",
+  "slots": [
+   "25202C"
+  ],
+  "idx": [
+   3313
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3314",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C624",
+  "end": "25C632",
+  "slots": [
+   "252030"
+  ],
+  "idx": [
+   3314
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3315",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C632",
+  "end": "25C640",
+  "slots": [
+   "252034"
+  ],
+  "idx": [
+   3315
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3316",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C640",
+  "end": "25C64E",
+  "slots": [
+   "252038"
+  ],
+  "idx": [
+   3316
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3317",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C64E",
+  "end": "25C65C",
+  "slots": [
+   "25203C"
+  ],
+  "idx": [
+   3317
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3318",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C65C",
+  "end": "25C66A",
+  "slots": [
+   "252040"
+  ],
+  "idx": [
+   3318
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3319",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C66A",
+  "end": "25C678",
+  "slots": [
+   "252044"
+  ],
+  "idx": [
+   3319
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3320",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C678",
+  "end": "25C686",
+  "slots": [
+   "252048"
+  ],
+  "idx": [
+   3320
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3321",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C686",
+  "end": "25C694",
+  "slots": [
+   "25204C"
+  ],
+  "idx": [
+   3321
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3322",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C694",
+  "end": "25C6A2",
+  "slots": [
+   "252050"
+  ],
+  "idx": [
+   3322
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3323",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C6A2",
+  "end": "25C6B0",
+  "slots": [
+   "252054"
+  ],
+  "idx": [
+   3323
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3324",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C6B0",
+  "end": "25C6BE",
+  "slots": [
+   "252058"
+  ],
+  "idx": [
+   3324
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3325",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C6BE",
+  "end": "25C6CC",
+  "slots": [
+   "25205C"
+  ],
+  "idx": [
+   3325
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3326",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C6CC",
+  "end": "25C6DA",
+  "slots": [
+   "252060"
+  ],
+  "idx": [
+   3326
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3327",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C6DA",
+  "end": "25C6E8",
+  "slots": [
+   "252064"
+  ],
+  "idx": [
+   3327
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3328",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C6E8",
+  "end": "25C6F6",
+  "slots": [
+   "252068"
+  ],
+  "idx": [
+   3328
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3329",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C6F6",
+  "end": "25C704",
+  "slots": [
+   "25206C"
+  ],
+  "idx": [
+   3329
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3330",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C704",
+  "end": "25C712",
+  "slots": [
+   "252070"
+  ],
+  "idx": [
+   3330
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3331",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C712",
+  "end": "25C720",
+  "slots": [
+   "252074"
+  ],
+  "idx": [
+   3331
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3332",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C720",
+  "end": "25C72E",
+  "slots": [
+   "252078"
+  ],
+  "idx": [
+   3332
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3333",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C72E",
+  "end": "25C73C",
+  "slots": [
+   "25207C"
+  ],
+  "idx": [
+   3333
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3334",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C73C",
+  "end": "25C74A",
+  "slots": [
+   "252080"
+  ],
+  "idx": [
+   3334
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3335",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C74A",
+  "end": "25C758",
+  "slots": [
+   "252084"
+  ],
+  "idx": [
+   3335
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3336",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C758",
+  "end": "25C766",
+  "slots": [
+   "252088"
+  ],
+  "idx": [
+   3336
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3337",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C766",
+  "end": "25C774",
+  "slots": [
+   "25208C"
+  ],
+  "idx": [
+   3337
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3338",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C774",
+  "end": "25C782",
+  "slots": [
+   "252090"
+  ],
+  "idx": [
+   3338
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3339",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C782",
+  "end": "25C790",
+  "slots": [
+   "252094"
+  ],
+  "idx": [
+   3339
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3340",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C790",
+  "end": "25C79E",
+  "slots": [
+   "252098"
+  ],
+  "idx": [
+   3340
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3341",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C79E",
+  "end": "25C7AC",
+  "slots": [
+   "25209C"
+  ],
+  "idx": [
+   3341
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3342",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C7AC",
+  "end": "25C7BA",
+  "slots": [
+   "2520A0"
+  ],
+  "idx": [
+   3342
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3343",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C7BA",
+  "end": "25C7C8",
+  "slots": [
+   "2520A4"
+  ],
+  "idx": [
+   3343
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3344",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C7C8",
+  "end": "25C7D6",
+  "slots": [
+   "2520A8"
+  ],
+  "idx": [
+   3344
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3345",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C7D6",
+  "end": "25C7E4",
+  "slots": [
+   "2520AC"
+  ],
+  "idx": [
+   3345
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3346",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C7E4",
+  "end": "25C7F2",
+  "slots": [
+   "2520B0"
+  ],
+  "idx": [
+   3346
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3347",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C7F2",
+  "end": "25C800",
+  "slots": [
+   "2520B4"
+  ],
+  "idx": [
+   3347
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3348",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C800",
+  "end": "25C80E",
+  "slots": [
+   "2520B8"
+  ],
+  "idx": [
+   3348
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3349",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C80E",
+  "end": "25C81C",
+  "slots": [
+   "2520BC"
+  ],
+  "idx": [
+   3349
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3350",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C81C",
+  "end": "25C82A",
+  "slots": [
+   "2520C0"
+  ],
+  "idx": [
+   3350
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3351",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C82A",
+  "end": "25C838",
+  "slots": [
+   "2520C4"
+  ],
+  "idx": [
+   3351
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3352",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C838",
+  "end": "25C846",
+  "slots": [
+   "2520C8"
+  ],
+  "idx": [
+   3352
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3353",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C846",
+  "end": "25C854",
+  "slots": [
+   "2520CC"
+  ],
+  "idx": [
+   3353
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3354",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C854",
+  "end": "25C862",
+  "slots": [
+   "2520D0"
+  ],
+  "idx": [
+   3354
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3355",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C862",
+  "end": "25C870",
+  "slots": [
+   "2520D4"
+  ],
+  "idx": [
+   3355
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3356",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C870",
+  "end": "25C87E",
+  "slots": [
+   "2520D8"
+  ],
+  "idx": [
+   3356
+  ],
+  "jp": "■アイテム用[end]",
+  "en": ""
+ },
+ {
+  "id": "M3357",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C87E",
+  "end": "25C89C",
+  "slots": [
+   "2520DC"
+  ],
+  "idx": [
+   3357
+  ],
+  "jp": "敵全体に２回攻撃し　凍結効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3358",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C89C",
+  "end": "25C8BA",
+  "slots": [
+   "2520E0"
+  ],
+  "idx": [
+   3358
+  ],
+  "jp": "敵全体に３回攻撃し　沈黙効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3359",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C8BA",
+  "end": "25C8D4",
+  "slots": [
+   "2520E4"
+  ],
+  "idx": [
+   3359
+  ],
+  "jp": "敵１体に攻撃し　誘惑効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3360",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C8D4",
+  "end": "25C8FA",
+  "slots": [
+   "2520E8"
+  ],
+  "idx": [
+   3360
+  ],
+  "jp": "甘いイキで　敵１体に攻撃し　マヒ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3361",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C8FA",
+  "end": "25C91A",
+  "slots": [
+   "2520EC"
+  ],
+  "idx": [
+   3361
+  ],
+  "jp": "いちげきで　敵１体を気絶させる[end]",
+  "en": ""
+ },
+ {
+  "id": "M3362",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C91A",
+  "end": "25C93C",
+  "slots": [
+   "2520F0"
+  ],
+  "idx": [
+   3362
+  ],
+  "jp": "敵全体に４回攻撃し　バクダン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3363",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C93C",
+  "end": "25C95A",
+  "slots": [
+   "2520F4"
+  ],
+  "idx": [
+   3363
+  ],
+  "jp": "敵全体に４回攻撃し　凍結効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3364",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C95A",
+  "end": "25C978",
+  "slots": [
+   "2520F8"
+  ],
+  "idx": [
+   3364
+  ],
+  "jp": "敵１体に４回攻撃し　マヒ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3365",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C978",
+  "end": "25C99A",
+  "slots": [
+   "2520FC"
+  ],
+  "idx": [
+   3365
+  ],
+  "jp": "敵１体に２回攻撃し　バクダン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3366",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C9A6",
+  "end": "25C9C0",
+  "slots": [
+   "252100"
+  ],
+  "idx": [
+   3366
+  ],
+  "jp": "敵全体に　聖なるダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3367",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C9C0",
+  "end": "25C9E2",
+  "slots": [
+   "252104"
+  ],
+  "idx": [
+   3367
+  ],
+  "jp": "味方全体の　全パラメータが上がる[end]",
+  "en": ""
+ },
+ {
+  "id": "M3368",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C9E2",
+  "end": "25C9FE",
+  "slots": [
+   "252108"
+  ],
+  "idx": [
+   3368
+  ],
+  "jp": "敵全体に　２回かみつき攻撃[end]",
+  "en": ""
+ },
+ {
+  "id": "M3369",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25C9FE",
+  "end": "25CA1A",
+  "slots": [
+   "25210C"
+  ],
+  "idx": [
+   3369
+  ],
+  "jp": "敵全体を　２回なぐって攻撃[end]",
+  "en": ""
+ },
+ {
+  "id": "M3370",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CA1A",
+  "end": "25CA34",
+  "slots": [
+   "252110"
+  ],
+  "idx": [
+   3370
+  ],
+  "jp": "敵全体に　邪悪なダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3371",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CA34",
+  "end": "25CA4E",
+  "slots": [
+   "252114"
+  ],
+  "idx": [
+   3371
+  ],
+  "jp": "敵全体に　邪悪なダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3372",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CA4E",
+  "end": "25CA70",
+  "slots": [
+   "252118"
+  ],
+  "idx": [
+   3372
+  ],
+  "jp": "敵全体に　炎をまきちらしダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3373",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CA70",
+  "end": "25CA94",
+  "slots": [
+   "25211C"
+  ],
+  "idx": [
+   3373
+  ],
+  "jp": "敵全体に炎でダメージとバクダン効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3374",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CA94",
+  "end": "25CAB6",
+  "slots": [
+   "252120"
+  ],
+  "idx": [
+   3374
+  ],
+  "jp": "敵全体に　ドラゴンの息でダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3375",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CAB6",
+  "end": "25CADC",
+  "slots": [
+   "252124"
+  ],
+  "idx": [
+   3375
+  ],
+  "jp": "敵全体に氷をはいてダメージと凍結効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3376",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CADC",
+  "end": "25CB02",
+  "slots": [
+   "252128"
+  ],
+  "idx": [
+   3376
+  ],
+  "jp": "敵全体に氷を放ってダメージと凍結効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3377",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CB02",
+  "end": "25CB26",
+  "slots": [
+   "25212C"
+  ],
+  "idx": [
+   3377
+  ],
+  "jp": "敵全体に氷の風でダメージと凍結効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3378",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CB26",
+  "end": "25CB4C",
+  "slots": [
+   "252130"
+  ],
+  "idx": [
+   3378
+  ],
+  "jp": "敵全体に　かまいたちを放ってダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3379",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CB4C",
+  "end": "25CB6E",
+  "slots": [
+   "252134"
+  ],
+  "idx": [
+   3379
+  ],
+  "jp": "敵全体に　死の風を送ってダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3380",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CB6E",
+  "end": "25CB92",
+  "slots": [
+   "252138"
+  ],
+  "idx": [
+   3380
+  ],
+  "jp": "敵全体に　聖なる風を放ってダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3381",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CB92",
+  "end": "25CBB2",
+  "slots": [
+   "25213C"
+  ],
+  "idx": [
+   3381
+  ],
+  "jp": "敵全体に雷でダメージと感電効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3382",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CBB2",
+  "end": "25CBD8",
+  "slots": [
+   "252140"
+  ],
+  "idx": [
+   3382
+  ],
+  "jp": "敵全体に雷がふってダメージと感電効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3383",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CBD8",
+  "end": "25CBFA",
+  "slots": [
+   "252144"
+  ],
+  "idx": [
+   3383
+  ],
+  "jp": "敵全体を　おしつぶして　ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3384",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CBFA",
+  "end": "25CC20",
+  "slots": [
+   "252148"
+  ],
+  "idx": [
+   3384
+  ],
+  "jp": "敵全体を　はげしくつぶして　ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3385",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CC20",
+  "end": "25CC42",
+  "slots": [
+   "25214C"
+  ],
+  "idx": [
+   3385
+  ],
+  "jp": "味方全体の　全パラメータをアップ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3386",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CC42",
+  "end": "25CC5E",
+  "slots": [
+   "252150"
+  ],
+  "idx": [
+   3386
+  ],
+  "jp": "味方全体を　ふっかつさせる[end]",
+  "en": ""
+ },
+ {
+  "id": "M3387",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CC5E",
+  "end": "25CC80",
+  "slots": [
+   "252154"
+  ],
+  "idx": [
+   3387
+  ],
+  "jp": "味方全体の　全パラメータをアップ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3388",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CC80",
+  "end": "25CC9C",
+  "slots": [
+   "252158"
+  ],
+  "idx": [
+   3388
+  ],
+  "jp": "敵全体に　火の玉でダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3389",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CC9C",
+  "end": "25CCBC",
+  "slots": [
+   "25215C"
+  ],
+  "idx": [
+   3389
+  ],
+  "jp": "敵全体に雷でダメージと感電効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3390",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CCBC",
+  "end": "25CCE2",
+  "slots": [
+   "252160"
+  ],
+  "idx": [
+   3390
+  ],
+  "jp": "敵全体に　大地の怒りを放ち　ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3391",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CCE2",
+  "end": "25CD08",
+  "slots": [
+   "252164"
+  ],
+  "idx": [
+   3391
+  ],
+  "jp": "敵全体に　強力な水圧をあたえダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3392",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CD08",
+  "end": "25CD2E",
+  "slots": [
+   "252168"
+  ],
+  "idx": [
+   3392
+  ],
+  "jp": "敵全体に　強力な水圧をあたえダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3393",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CD2E",
+  "end": "25CD54",
+  "slots": [
+   "25216C"
+  ],
+  "idx": [
+   3393
+  ],
+  "jp": "敵全体に　サンの雨をふらせてダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3394",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CD54",
+  "end": "25CD7A",
+  "slots": [
+   "252170"
+  ],
+  "idx": [
+   3394
+  ],
+  "jp": "敵全体に　強力な津波をよび　ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3395",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CD7A",
+  "end": "25CD9E",
+  "slots": [
+   "252174"
+  ],
+  "idx": [
+   3395
+  ],
+  "jp": "敵全体に　強力なはめつの　ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3396",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CD9E",
+  "end": "25CDC2",
+  "slots": [
+   "252178"
+  ],
+  "idx": [
+   3396
+  ],
+  "jp": "敵全体に　強力なはめつの　ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3397",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CDC2",
+  "end": "25CDE2",
+  "slots": [
+   "25217C"
+  ],
+  "idx": [
+   3397
+  ],
+  "jp": "敵全体に　暗黒の氷で　ダメージ[end]",
+  "en": ""
+ },
+ {
+  "id": "M3398",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CDE2",
+  "end": "25CE08",
+  "slots": [
+   "252180"
+  ],
+  "idx": [
+   3398
+  ],
+  "jp": "敵全体に魔法の力でダメージとマヒ効果[end]",
+  "en": ""
+ },
+ {
+  "id": "M3399",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25CE08",
+  "end": "25CE26",
+  "slots": [
+   "252184"
+  ],
+  "idx": [
+   3399
+  ],
+  "jp": "敵全体に　肪御無視のダメージ[end]",
+  "en": ""
+ }
+]

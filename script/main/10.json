@@ -1,0 +1,3002 @@
+[
+ {
+  "id": "M2000",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254BDC",
+  "end": "254BF2",
+  "slots": [
+   "250BA8"
+  ],
+  "idx": [
+   2000
+  ],
+  "jp": "キャンセルしました[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2001",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254BF2",
+  "end": "254C0A",
+  "slots": [
+   "250BAC"
+  ],
+  "idx": [
+   2001
+  ],
+  "jp": "キャンセルされました[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2002",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254C0A",
+  "end": "254C28",
+  "slots": [
+   "250BB0"
+  ],
+  "idx": [
+   2002
+  ],
+  "jp": "このナカマでいいですか？[fb:0][end]",
+  "en": ""
+ },
+ {
+  "id": "M2003",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254C28",
+  "end": "254C3C",
+  "slots": [
+   "250BB4"
+  ],
+  "idx": [
+   2003
+  ],
+  "jp": "こうかんしました[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2004",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254C3C",
+  "end": "254C48",
+  "slots": [
+   "250BB8"
+  ],
+  "idx": [
+   2004
+  ],
+  "jp": "セーブ中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2005",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254A6A",
+  "end": "254A8C",
+  "slots": [
+   "250BBC"
+  ],
+  "idx": [
+   2005
+  ],
+  "jp": "この組み合わせは合体できません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2006",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254A8C",
+  "end": "254ABC",
+  "slots": [
+   "250BC0"
+  ],
+  "idx": [
+   2006
+  ],
+  "jp": "このとくしゅのうりょくを[n]イデンしますか？[fb:0][end]",
+  "en": ""
+ },
+ {
+  "id": "M2007",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254F90",
+  "end": "254FAE",
+  "slots": [
+   "250BC4"
+  ],
+  "idx": [
+   2007
+  ],
+  "jp": "合体の説明をききますか？[fb:1][end]",
+  "en": ""
+ },
+ {
+  "id": "M2008",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254FAE",
+  "end": "255012",
+  "slots": [
+   "250BC8"
+  ],
+  "idx": [
+   2008
+  ],
+  "jp": "ここでの「合体」は２体のナカマから[n]１体のナカマを作ることができます[wait][clr]では　ためしてみましょう[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2009",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255012",
+  "end": "25505E",
+  "slots": [
+   "250BCC"
+  ],
+  "idx": [
+   2009
+  ],
+  "jp": "まず　合体する２体のナカマを[n]えらびます[wait][page]ここでは表からえらんでみます[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2010",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25505E",
+  "end": "255078",
+  "slots": [
+   "250BD0"
+  ],
+  "idx": [
+   2010
+  ],
+  "jp": "まず画面の説明をします[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2011",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255078",
+  "end": "2550DA",
+  "slots": [
+   "250BD4"
+  ],
+  "idx": [
+   2011
+  ],
+  "jp": "左にはナカマの名前があります[n]この中から１体目のナカマを[wait][clr]十字ボタンの上下でえらんでください[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2012",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2550DA",
+  "end": "255146",
+  "slots": [
+   "250BD8"
+  ],
+  "idx": [
+   2012
+  ],
+  "jp": "ここの数字は左のナカマを[n]さしています[wait][page]この中から２体目のナカマを[n]十字ボタンの左右でえらんでください[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2013",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255146",
+  "end": "2551D8",
+  "slots": [
+   "250BDC"
+  ],
+  "idx": [
+   2013
+  ],
+  "jp": "ここは合体の結果予想が表示されます[n]通常は[f7:3]緑色[f7:1]で表示されますが[wait][page]合体事故がおこるかもしれない[n]組み合わせは[f7:6]水色[f7:1]で表示されます[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2014",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2551D8",
+  "end": "255300",
+  "slots": [
+   "250BE0"
+  ],
+  "idx": [
+   2014
+  ],
+  "jp": "ここで合体する２体のナカマを[n]えらびます[wait][page]×は合体できません[n]○は合体できます[wait][page]◎は合体事故がおこるかもしれない[n]組み合わせです[wait][page]十字ボタンでえらびＡボタンで決定です[wait][page]えらんでいるときに[n]Ｒボタンで１体目　Ｌボタンで２体目[wait][clr]スタートボタンで結果予想ナカマの[wait][clr]ステータスを表示します[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2015",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255300",
+  "end": "255324",
+  "slots": [
+   "250BE4"
+  ],
+  "idx": [
+   2015
+  ],
+  "jp": "では　この組み合わせで合体します[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2016",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255324",
+  "end": "25534A",
+  "slots": [
+   "250BE8"
+  ],
+  "idx": [
+   2016
+  ],
+  "jp": "ここで合体結果のかくにんができます[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2017",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25534A",
+  "end": "2554B2",
+  "slots": [
+   "250BEC"
+  ],
+  "idx": [
+   2017
+  ],
+  "jp": "[e8]ができましたが[n]たまに合体事故がおきることが[wait][page]あります　合体事故がおきると[n]種族がミュートのデビルがうまれます[wait][page]それからこのあとマホウを最大３つまで[n]けいしょうできます[wait][page]さらに１体目のとくしゅのうりょくを[n]イデンさせることができます[wait][page]１体目のとくしゅのうりょくがなく[n]２体目がもっていれば[wait][page]２体目のとくしゅのうりょくを[n]イデンすることができます[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2018",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2554B2",
+  "end": "2554D2",
+  "slots": [
+   "250BF0"
+  ],
+  "idx": [
+   2018
+  ],
+  "jp": "デビルは[n][e8]でいいですか？[fb:0][end]",
+  "en": ""
+ },
+ {
+  "id": "M2019",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2554D2",
+  "end": "2554FA",
+  "slots": [
+   "250BF4"
+  ],
+  "idx": [
+   2019
+  ],
+  "jp": "ここで合体結果のかくにんができるアル[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2020",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2554FA",
+  "end": "255556",
+  "slots": [
+   "250BF8"
+  ],
+  "idx": [
+   2020
+  ],
+  "jp": "左にはナカマの名前がアルネ[n]この中から１体目のナカマを[wait][clr]十字ボタンの上下でえらぶアルヨ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2021",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255556",
+  "end": "2555CA",
+  "slots": [
+   "250BFC"
+  ],
+  "idx": [
+   2021
+  ],
+  "jp": "それから　パートナーは[n]特別な合体です[wait][clr]パートナーはどのナカマと合体しても[wait][clr]強くはなるがパートナーのままです[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2022",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2555CA",
+  "end": "255646",
+  "slots": [
+   "250C00"
+  ],
+  "idx": [
+   2022
+  ],
+  "jp": "ここは合体の結果予想が表示されるアル[wait][page]純血合体は[f7:5]黄色[f7:1]で表示されるアル[n]混血合体は[f7:6]水色[f7:1]で表示されるアルヨ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2023",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255646",
+  "end": "25573E",
+  "slots": [
+   "250C04"
+  ],
+  "idx": [
+   2023
+  ],
+  "jp": "ここで合体する２体のナカマを[n]えらぶアル[wait][page]×は合体できないネ[n]○は合体するアル[wait][page]十字ボタンでえらびＡボタンで決定アル[wait][page]えらんでいるときに[n]Ｒボタンで１体目　Ｌボタンで２体目[wait][clr]スタートボタンで結果予想ナカマの[wait][clr]ステータスを表示するアルネ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2024",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25573E",
+  "end": "255846",
+  "slots": [
+   "250C08"
+  ],
+  "idx": [
+   2024
+  ],
+  "jp": "[e8]ができたアルヨ[wait][page]このあとマホウを最大３つまで[n]けいしょうできるアル[wait][page]さらに１体目のとくしゅのうりょくを[n]イデンさせることができるアルネ[wait][page]１体目のとくしゅのうりょくがなく[n]２体目がもっていれば[wait][page]２体目のとくしゅのうりょくを[n]イデンすることができるアルヨ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2025",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255846",
+  "end": "25585A",
+  "slots": [
+   "250C0C"
+  ],
+  "idx": [
+   2025
+  ],
+  "jp": "純血合体[n]混血合体[end]",
+  "en": ""
+ },
+ {
+  "id": "M2026",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25585A",
+  "end": "2558DA",
+  "slots": [
+   "250C10"
+  ],
+  "idx": [
+   2026
+  ],
+  "jp": "「純血合体」は同じ２体のナカマを[n]合体してナカマを強くしたり[wait][clr]ランクアップさせることができるネ[wait][clr]では　ためしてみるアルヨ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2027",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2558DA",
+  "end": "25597A",
+  "slots": [
+   "250C14"
+  ],
+  "idx": [
+   2027
+  ],
+  "jp": "「混血合体」は違う２体のナカマを[n]合体してナカマを強くしたり[wait][clr]１体目と同じ種族のナカマに[wait][clr]ランクアップさせることができるアル[wait][clr]では　ためしてみるアルネ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2028",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25597A",
+  "end": "2559B8",
+  "slots": [
+   "250C18"
+  ],
+  "idx": [
+   2028
+  ],
+  "jp": "では　純血合体なので同じデビルの[n]組み合わせで合体するアル[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2029",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2559B8",
+  "end": "2559F6",
+  "slots": [
+   "250C1C"
+  ],
+  "idx": [
+   2029
+  ],
+  "jp": "では　混血合体なので違うデビルの[n]組み合わせで合体するアル[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2030",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2559F6",
+  "end": "255B08",
+  "slots": [
+   "250C20"
+  ],
+  "idx": [
+   2030
+  ],
+  "jp": "[e8]ができたアルヨ[wait][page]このあとマホウ・ワザをおぼえる[n]場合がアルネ[wait][page]またランクアップ時には[n]１体目のとくしゅのうりょくを[wait][clr]イデンすることができるアル[wait][page]１体目のとくしゅのうりょくがなく[n]２体目がもっていれば[wait][page]２体目のとくしゅのうりょくを[n]イデンすることができるアルヨ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2031",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255B08",
+  "end": "255B80",
+  "slots": [
+   "250C24"
+  ],
+  "idx": [
+   2031
+  ],
+  "jp": "それから　パートナーは[n]特別な合体アルヨ[wait][clr]パートナーはどのナカマと合体しても[wait][clr]強くはなるがパートナーのままアルヨ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2032",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255B80",
+  "end": "255BEA",
+  "slots": [
+   "250C28"
+  ],
+  "idx": [
+   2032
+  ],
+  "jp": "ここの数字は左のナカマを[n]さしてるアルヨ[wait][page]この中から２体目のナカマを[n]十字ボタンの左右でえらぶアルヨ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2033",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255BEA",
+  "end": "255C56",
+  "slots": [
+   "250C2C"
+  ],
+  "idx": [
+   2033
+  ],
+  "jp": "ここでの合体は[n]「マソウ合体」といいます[wait][page]ナカマとマソウアイテムを合体して[n]ワザを覚えることができます[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2034",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255C56",
+  "end": "255C6E",
+  "slots": [
+   "250C30"
+  ],
+  "idx": [
+   2034
+  ],
+  "jp": "まずナカマを選びます[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2035",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255C6E",
+  "end": "255C7C",
+  "slots": [
+   "250C34"
+  ],
+  "idx": [
+   2035
+  ],
+  "jp": "[e8]にします[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2036",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255C7C",
+  "end": "255C9C",
+  "slots": [
+   "250C38"
+  ],
+  "idx": [
+   2036
+  ],
+  "jp": "次にマソウアイテムを選びます[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2037",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255C9C",
+  "end": "255CAA",
+  "slots": [
+   "250C3C"
+  ],
+  "idx": [
+   2037
+  ],
+  "jp": "[f4]にします[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2038",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255CAA",
+  "end": "255CBC",
+  "slots": [
+   "250C40"
+  ],
+  "idx": [
+   2038
+  ],
+  "jp": "では合体します[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2039",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255CBC",
+  "end": "255D0A",
+  "slots": [
+   "250C44"
+  ],
+  "idx": [
+   2039
+  ],
+  "jp": "このときマホウ・ワザが[n]これ以上もてないなら[wait][clr]マホウ・ワザを１つけします[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2040",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255D0A",
+  "end": "255D38",
+  "slots": [
+   "250C48"
+  ],
+  "idx": [
+   2040
+  ],
+  "jp": "デビルの反対の属性の[n]ワザは覚えられません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2041",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255D38",
+  "end": "255D5A",
+  "slots": [
+   "250C4C"
+  ],
+  "idx": [
+   2041
+  ],
+  "jp": "このワザは　すでにもっています[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2042",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255D5A",
+  "end": "255D64",
+  "slots": [
+   "250C50"
+  ],
+  "idx": [
+   2042
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2043",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255D64",
+  "end": "255D6E",
+  "slots": [
+   "250C54"
+  ],
+  "idx": [
+   2043
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2044",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255D6E",
+  "end": "255D8C",
+  "slots": [
+   "250C58"
+  ],
+  "idx": [
+   2044
+  ],
+  "jp": "終了します　いいですか？[fb:1][end]",
+  "en": ""
+ },
+ {
+  "id": "M2045",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255D8C",
+  "end": "255DA4",
+  "slots": [
+   "250C5C"
+  ],
+  "idx": [
+   2045
+  ],
+  "jp": "これでいいですか？[fb:0][end]",
+  "en": ""
+ },
+ {
+  "id": "M2046",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255DA4",
+  "end": "255DC6",
+  "slots": [
+   "250C60"
+  ],
+  "idx": [
+   2046
+  ],
+  "jp": "もう１度　やりなおしますか？[fb:0][end]",
+  "en": ""
+ },
+ {
+  "id": "M2047",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255DC6",
+  "end": "255DDC",
+  "slots": [
+   "250C64"
+  ],
+  "idx": [
+   2047
+  ],
+  "jp": "[ef]を[n]おぼえました[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2048",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254200",
+  "end": "254214",
+  "slots": [
+   "250C68"
+  ],
+  "idx": [
+   2048
+  ],
+  "jp": "ナカマがいません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2049",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255DDC",
+  "end": "255DEC",
+  "slots": [
+   "250C6C"
+  ],
+  "idx": [
+   2049
+  ],
+  "jp": "落とし穴だ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2050",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255DEC",
+  "end": "255E12",
+  "slots": [
+   "250C70"
+  ],
+  "idx": [
+   2050
+  ],
+  "jp": "　　　　　　　　　　　　　　　　　　[end]",
+  "en": ""
+ },
+ {
+  "id": "M2051",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255E12",
+  "end": "255E5C",
+  "slots": [
+   "250C74"
+  ],
+  "idx": [
+   2051
+  ],
+  "jp": "あいうえお　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　[end]",
+  "en": ""
+ },
+ {
+  "id": "M2052",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255E5C",
+  "end": "255E84",
+  "slots": [
+   "250C78"
+  ],
+  "idx": [
+   2052
+  ],
+  "jp": "合体の説明をやめます[n]いいですか？[fb:1][end]",
+  "en": ""
+ },
+ {
+  "id": "M2053",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254C48",
+  "end": "254C7A",
+  "slots": [
+   "250C7C"
+  ],
+  "idx": [
+   2053
+  ],
+  "jp": "こうかんしました[n]つづけてこうかんしますか？[fb:0][end]",
+  "en": ""
+ },
+ {
+  "id": "M2054",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254C7A",
+  "end": "254CC2",
+  "slots": [
+   "250C80"
+  ],
+  "idx": [
+   2054
+  ],
+  "jp": "つうしんたいせんをはじめます[n]データのセーブをします　いいですか？[fb:1][end]",
+  "en": ""
+ },
+ {
+  "id": "M2055",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254CC2",
+  "end": "254CE6",
+  "slots": [
+   "250C84"
+  ],
+  "idx": [
+   2055
+  ],
+  "jp": "セーブしないとたいせんできません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2056",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254CE6",
+  "end": "254CFA",
+  "slots": [
+   "250C88"
+  ],
+  "idx": [
+   2056
+  ],
+  "jp": "[f3]たちの勝利です[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2057",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254CFA",
+  "end": "254D0E",
+  "slots": [
+   "250C8C"
+  ],
+  "idx": [
+   2057
+  ],
+  "jp": "[f3]たちの負けです[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2058",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254D0E",
+  "end": "254D4A",
+  "slots": [
+   "250C90"
+  ],
+  "idx": [
+   2058
+  ],
+  "jp": "つうしん合体をおこないます[n]合体がおわったらセーブします[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2059",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254D4A",
+  "end": "254D5E",
+  "slots": [
+   "250C94"
+  ],
+  "idx": [
+   2059
+  ],
+  "jp": "２体目は[n][e8]です[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2060",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254D5E",
+  "end": "254DA2",
+  "slots": [
+   "250C98"
+  ],
+  "idx": [
+   2060
+  ],
+  "jp": "ことなるせんたくをしています！[n]さいしょからやりなおしてください[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2061",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "254DA2",
+  "end": "254DB4",
+  "slots": [
+   "250C9C"
+  ],
+  "idx": [
+   2061
+  ],
+  "jp": "つうしんチェック[end]",
+  "en": ""
+ },
+ {
+  "id": "M2062",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2540BC",
+  "end": "254100",
+  "slots": [
+   "250CA0"
+  ],
+  "idx": [
+   2062
+  ],
+  "jp": "セーブ中です　でんげんをきったり[n]リセットしたり　しないでください[end]",
+  "en": ""
+ },
+ {
+  "id": "M2063",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255E84",
+  "end": "255E9E",
+  "slots": [
+   "250CA4"
+  ],
+  "idx": [
+   2063
+  ],
+  "jp": "[f4]を[ec:0]こ[n]手に入れた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2064",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255E9E",
+  "end": "255EB2",
+  "slots": [
+   "250CA8"
+  ],
+  "idx": [
+   2064
+  ],
+  "jp": "[e8]を[n]手に入れた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2065",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255EB2",
+  "end": "255ED4",
+  "slots": [
+   "250CAC"
+  ],
+  "idx": [
+   2065
+  ],
+  "jp": "あんたつよいね[n]こいつあげるよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2066",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255F00",
+  "end": "255F16",
+  "slots": [
+   "250CB0"
+  ],
+  "idx": [
+   2066
+  ],
+  "jp": "いまはつかえません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2067",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255ED4",
+  "end": "255F00",
+  "slots": [
+   "250CB4"
+  ],
+  "idx": [
+   2067
+  ],
+  "jp": "対戦相手から[n]メッセージがとどいています[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2068",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255F16",
+  "end": "255F3C",
+  "slots": [
+   "250CB8"
+  ],
+  "idx": [
+   2068
+  ],
+  "jp": "なにもしない[n][f2]とはなす[n]宝をさがす[end]",
+  "en": ""
+ },
+ {
+  "id": "M2069",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255F3C",
+  "end": "255F8A",
+  "slots": [
+   "250CBC"
+  ],
+  "idx": [
+   2069
+  ],
+  "jp": "このちかくには[n]宝箱が[ec:0]こ[wait][clr]あやしいばしょが[ec:1]かしょ[wait][clr]あるみたいだ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2070",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255F8A",
+  "end": "255FB8",
+  "slots": [
+   "250CC0"
+  ],
+  "idx": [
+   2070
+  ],
+  "jp": "パートナーにワザをおしえる[n]ナカマをきたえる[end]",
+  "en": ""
+ },
+ {
+  "id": "M2071",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255FB8",
+  "end": "255FD6",
+  "slots": [
+   "250CC4"
+  ],
+  "idx": [
+   2071
+  ],
+  "jp": "どのワザをおしえますか？[fb:0][end]",
+  "en": ""
+ },
+ {
+  "id": "M2072",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255FD6",
+  "end": "255FFE",
+  "slots": [
+   "250CC8"
+  ],
+  "idx": [
+   2072
+  ],
+  "jp": "おぼえられるマホウ・ワザがありません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2073",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "255FFE",
+  "end": "256024",
+  "slots": [
+   "250CCC"
+  ],
+  "idx": [
+   2073
+  ],
+  "jp": "いまなら〒[ec:0]です[n]いいですか？[fb:0][end]",
+  "en": ""
+ },
+ {
+  "id": "M2074",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256024",
+  "end": "256038",
+  "slots": [
+   "250CD0"
+  ],
+  "idx": [
+   2074
+  ],
+  "jp": "マッカがたりない[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2075",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256038",
+  "end": "256066",
+  "slots": [
+   "250CD4"
+  ],
+  "idx": [
+   2075
+  ],
+  "jp": "いらっしゃいませ！！[n]ここはアイテムやだよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2076",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256066",
+  "end": "256072",
+  "slots": [
+   "250CD8"
+  ],
+  "idx": [
+   2076
+  ],
+  "jp": "どうする？[end]",
+  "en": ""
+ },
+ {
+  "id": "M2077",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256072",
+  "end": "25609E",
+  "slots": [
+   "250CDC"
+  ],
+  "idx": [
+   2077
+  ],
+  "jp": "あたらしいクラスが[n]えらべるようになった[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2078",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25609E",
+  "end": "2560C0",
+  "slots": [
+   "250CE0"
+  ],
+  "idx": [
+   2078
+  ],
+  "jp": "あたらしいあいてが[n]あらわれた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2079",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2560C0",
+  "end": "2560F4",
+  "slots": [
+   "250CE4"
+  ],
+  "idx": [
+   2079
+  ],
+  "jp": "あたらしいアイテム[n]ネットライザー２を手に入れた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2080",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2560F4",
+  "end": "256132",
+  "slots": [
+   "250CE8"
+  ],
+  "idx": [
+   2080
+  ],
+  "jp": "おめでとうございます！[n]バトルネット勝ち抜き戦をクリアです[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2081",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256132",
+  "end": "25615C",
+  "slots": [
+   "250CEC"
+  ],
+  "idx": [
+   2081
+  ],
+  "jp": "このアイテムは[n]すてることができない！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2082",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25615C",
+  "end": "256182",
+  "slots": [
+   "250CF0"
+  ],
+  "idx": [
+   2082
+  ],
+  "jp": "このバージョンではセーブできません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2083",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2561A4",
+  "end": "2561D6",
+  "slots": [
+   "250CF4"
+  ],
+  "idx": [
+   2083
+  ],
+  "jp": "このパワーユニットは[n]デビライザーせんようです[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2084",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2561D6",
+  "end": "25620A",
+  "slots": [
+   "250CF8"
+  ],
+  "idx": [
+   2084
+  ],
+  "jp": "このパワーユニットは[n]キングライザーせんようです[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2085",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256182",
+  "end": "2561A4",
+  "slots": [
+   "250CFC"
+  ],
+  "idx": [
+   2085
+  ],
+  "jp": "このバージョンではつかえません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2086",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25620A",
+  "end": "256230",
+  "slots": [
+   "250D00"
+  ],
+  "idx": [
+   2086
+  ],
+  "jp": "このアイテムは　うることができない[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2087",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256230",
+  "end": "256264",
+  "slots": [
+   "250D04"
+  ],
+  "idx": [
+   2087
+  ],
+  "jp": "つうしんケーブルが[n]正しくせつぞくされていません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2088",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256264",
+  "end": "256286",
+  "slots": [
+   "250D08"
+  ],
+  "idx": [
+   2088
+  ],
+  "jp": "ディスクの中身をせいりしました[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2089",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256286",
+  "end": "25629A",
+  "slots": [
+   "250D0C"
+  ],
+  "idx": [
+   2089
+  ],
+  "jp": "デビルがいません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2090",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25629A",
+  "end": "2562D0",
+  "slots": [
+   "250D10"
+  ],
+  "idx": [
+   2090
+  ],
+  "jp": "これいじょうマッカをもてません[n]マッカをあきらめた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2091",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2562D0",
+  "end": "25630A",
+  "slots": [
+   "250D14"
+  ],
+  "idx": [
+   2091
+  ],
+  "jp": "合体が行えるじょうたいの[n]ナカマが２体いじょういません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2092",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25630A",
+  "end": "256328",
+  "slots": [
+   "250D18"
+  ],
+  "idx": [
+   2092
+  ],
+  "jp": "つうしんエラー[n]じかんぎれ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2093",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256328",
+  "end": "256356",
+  "slots": [
+   "250D1C"
+  ],
+  "idx": [
+   2093
+  ],
+  "jp": "つうしんエラー[n]ケーブルせつぞくされてない[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2094",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256356",
+  "end": "256376",
+  "slots": [
+   "250D20"
+  ],
+  "idx": [
+   2094
+  ],
+  "jp": "つうしんエラー[n]ハードエラー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2095",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256376",
+  "end": "2563A2",
+  "slots": [
+   "250D24"
+  ],
+  "idx": [
+   2095
+  ],
+  "jp": "つうしんエラー[n]ケーブルせつぞくおかしい[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2096",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2563A2",
+  "end": "2563CA",
+  "slots": [
+   "250D28"
+  ],
+  "idx": [
+   2096
+  ],
+  "jp": "つうしんエラー[n]ＩＤオーバーしてます[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2097",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2563CA",
+  "end": "2563F6",
+  "slots": [
+   "250D2C"
+  ],
+  "idx": [
+   2097
+  ],
+  "jp": "つうしんエラー[n]おやをにんしきできません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2098",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2563F6",
+  "end": "256424",
+  "slots": [
+   "250D30"
+  ],
+  "idx": [
+   2098
+  ],
+  "jp": "ナカマがいっぱいで[n]これいじょうもてません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2099",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256424",
+  "end": "256442",
+  "slots": [
+   "250D34"
+  ],
+  "idx": [
+   2099
+  ],
+  "jp": "ヴィネセンターへ[n]あきらめる[end]",
+  "en": ""
+ },
+ {
+  "id": "M2100",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256442",
+  "end": "256470",
+  "slots": [
+   "250D38"
+  ],
+  "idx": [
+   2100
+  ],
+  "jp": "マソウをあげよう[n]うまく　つかってくれよ？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2101",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256470",
+  "end": "25649C",
+  "slots": [
+   "250D3C"
+  ],
+  "idx": [
+   2101
+  ],
+  "jp": "このデビルあげる[n]次は負けないんだから！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2102",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25649C",
+  "end": "2564A6",
+  "slots": [
+   "250D40"
+  ],
+  "idx": [
+   2102
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2103",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2564A6",
+  "end": "2564B0",
+  "slots": [
+   "250D44"
+  ],
+  "idx": [
+   2103
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2104",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2564B0",
+  "end": "2564CA",
+  "slots": [
+   "250D48"
+  ],
+  "idx": [
+   2104
+  ],
+  "jp": "・・・　・・・　ツカエ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2105",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2564CA",
+  "end": "2564E4",
+  "slots": [
+   "250D4C"
+  ],
+  "idx": [
+   2105
+  ],
+  "jp": "[f3][n]これをもっていけよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2106",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2564E4",
+  "end": "25650C",
+  "slots": [
+   "250D50"
+  ],
+  "idx": [
+   2106
+  ],
+  "jp": "オレのパートナーだ[n]つかってみてくれ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2107",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25650C",
+  "end": "256534",
+  "slots": [
+   "250D54"
+  ],
+  "idx": [
+   2107
+  ],
+  "jp": "パートナーのレイだ[n]キミにあずけるよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2108",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256534",
+  "end": "25654E",
+  "slots": [
+   "250D58"
+  ],
+  "idx": [
+   2108
+  ],
+  "jp": "・・・　・・・　・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2109",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25654E",
+  "end": "256568",
+  "slots": [
+   "250D5C"
+  ],
+  "idx": [
+   2109
+  ],
+  "jp": "・・・　・・・　・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2110",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256568",
+  "end": "256590",
+  "slots": [
+   "250D60"
+  ],
+  "idx": [
+   2110
+  ],
+  "jp": "オレのパートナーを[n]つかってみるか？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2111",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256590",
+  "end": "2565B0",
+  "slots": [
+   "250D64"
+  ],
+  "idx": [
+   2111
+  ],
+  "jp": "ベールのチカラをかしてあげる[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2112",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2565B0",
+  "end": "2565C8",
+  "slots": [
+   "250D68"
+  ],
+  "idx": [
+   2112
+  ],
+  "jp": "ボクのパートナーです[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2113",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2565C8",
+  "end": "2565DE",
+  "slots": [
+   "250D6C"
+  ],
+  "idx": [
+   2113
+  ],
+  "jp": "このマソウをやろう[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2114",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2565DE",
+  "end": "2565F6",
+  "slots": [
+   "250D70"
+  ],
+  "idx": [
+   2114
+  ],
+  "jp": "コレをつかってみなよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2115",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2565F6",
+  "end": "25662E",
+  "slots": [
+   "250D74"
+  ],
+  "idx": [
+   2115
+  ],
+  "jp": "チカラのつかいみちを[n]あやまらないことを　いのります[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2116",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25662E",
+  "end": "256638",
+  "slots": [
+   "250D78"
+  ],
+  "idx": [
+   2116
+  ],
+  "jp": "ダミー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2117",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256638",
+  "end": "25665A",
+  "slots": [
+   "250D7C"
+  ],
+  "idx": [
+   2117
+  ],
+  "jp": "さきは長いけど[n]がんばってくれ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2118",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25665A",
+  "end": "256664",
+  "slots": [
+   "250D80"
+  ],
+  "idx": [
+   2118
+  ],
+  "jp": "ダミー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2119",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256664",
+  "end": "25669E",
+  "slots": [
+   "250D84"
+  ],
+  "idx": [
+   2119
+  ],
+  "jp": "あんまり　とばして戦うと[n]あとがきついわ[wait][clr]きをつけて[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2120",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25669E",
+  "end": "2566A8",
+  "slots": [
+   "250D88"
+  ],
+  "idx": [
+   2120
+  ],
+  "jp": "ダミー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2121",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2566A8",
+  "end": "2566EE",
+  "slots": [
+   "250D8C"
+  ],
+  "idx": [
+   2121
+  ],
+  "jp": "負けたなんて　みとめないわよ！？[n]ゼーッタイ　みとめないんだから！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2122",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2566EE",
+  "end": "2566F8",
+  "slots": [
+   "250D90"
+  ],
+  "idx": [
+   2122
+  ],
+  "jp": "ダミー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2123",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2566F8",
+  "end": "256710",
+  "slots": [
+   "250D94"
+  ],
+  "idx": [
+   2123
+  ],
+  "jp": "やっぱりつよいですね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2124",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256710",
+  "end": "25671A",
+  "slots": [
+   "250D98"
+  ],
+  "idx": [
+   2124
+  ],
+  "jp": "ダミー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2125",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25671A",
+  "end": "25673E",
+  "slots": [
+   "250D9C"
+  ],
+  "idx": [
+   2125
+  ],
+  "jp": "ようやくはんぶんだ　ガンバレよ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2126",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25673E",
+  "end": "256748",
+  "slots": [
+   "250DA0"
+  ],
+  "idx": [
+   2126
+  ],
+  "jp": "ダミー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2127",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256748",
+  "end": "256776",
+  "slots": [
+   "250DA4"
+  ],
+  "idx": [
+   2127
+  ],
+  "jp": "ここからがほんばんだね[n]ふんばりどころだよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2128",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256776",
+  "end": "256780",
+  "slots": [
+   "250DA8"
+  ],
+  "idx": [
+   2128
+  ],
+  "jp": "ダミー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2129",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256780",
+  "end": "2567C8",
+  "slots": [
+   "250DAC"
+  ],
+  "idx": [
+   2129
+  ],
+  "jp": "私をたおしたんだから[n]この先負けちゃダメよ？[wait][clr]・・・なんちゃってね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2130",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2567C8",
+  "end": "2567D2",
+  "slots": [
+   "250DB0"
+  ],
+  "idx": [
+   2130
+  ],
+  "jp": "ダミー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2131",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2567D2",
+  "end": "2567F6",
+  "slots": [
+   "250DB4"
+  ],
+  "idx": [
+   2131
+  ],
+  "jp": "ここからがながいぜ[n]負けるなよ？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2132",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2567F6",
+  "end": "256800",
+  "slots": [
+   "250DB8"
+  ],
+  "idx": [
+   2132
+  ],
+  "jp": "ダミー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2133",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256800",
+  "end": "25681C",
+  "slots": [
+   "250DBC"
+  ],
+  "idx": [
+   2133
+  ],
+  "jp": "あと１０にんだ　がんばれ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2134",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25681C",
+  "end": "256826",
+  "slots": [
+   "250DC0"
+  ],
+  "idx": [
+   2134
+  ],
+  "jp": "ダミー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2135",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256826",
+  "end": "256862",
+  "slots": [
+   "250DC4"
+  ],
+  "idx": [
+   2135
+  ],
+  "jp": "よく　ここまできた！[n]キミのけんとうを　ほめたたえよう！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2136",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256862",
+  "end": "25688A",
+  "slots": [
+   "250DC8"
+  ],
+  "idx": [
+   2136
+  ],
+  "jp": "勝ち抜き　かんぜんせいは[n]おめでとう[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2137",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25688A",
+  "end": "256894",
+  "slots": [
+   "250DCC"
+  ],
+  "idx": [
+   2137
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2138",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256894",
+  "end": "25689E",
+  "slots": [
+   "250DD0"
+  ],
+  "idx": [
+   2138
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2139",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25689E",
+  "end": "2568A8",
+  "slots": [
+   "250DD4"
+  ],
+  "idx": [
+   2139
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2140",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2568A8",
+  "end": "2568B2",
+  "slots": [
+   "250DD8"
+  ],
+  "idx": [
+   2140
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2141",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2568B2",
+  "end": "2568BC",
+  "slots": [
+   "250DDC"
+  ],
+  "idx": [
+   2141
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2142",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2568BC",
+  "end": "2568C6",
+  "slots": [
+   "250DE0"
+  ],
+  "idx": [
+   2142
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2143",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2568C6",
+  "end": "2568D0",
+  "slots": [
+   "250DE4"
+  ],
+  "idx": [
+   2143
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2144",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2568D0",
+  "end": "2568DA",
+  "slots": [
+   "250DE8"
+  ],
+  "idx": [
+   2144
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2145",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2568DA",
+  "end": "2568E4",
+  "slots": [
+   "250DEC"
+  ],
+  "idx": [
+   2145
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2146",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2568E4",
+  "end": "2568EE",
+  "slots": [
+   "250DF0"
+  ],
+  "idx": [
+   2146
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2147",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2568EE",
+  "end": "2568F8",
+  "slots": [
+   "250DF4"
+  ],
+  "idx": [
+   2147
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2148",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2568F8",
+  "end": "256902",
+  "slots": [
+   "250DF8"
+  ],
+  "idx": [
+   2148
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2149",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256902",
+  "end": "25690C",
+  "slots": [
+   "250DFC"
+  ],
+  "idx": [
+   2149
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2150",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25690C",
+  "end": "256916",
+  "slots": [
+   "250E00"
+  ],
+  "idx": [
+   2150
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2151",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256916",
+  "end": "256920",
+  "slots": [
+   "250E04"
+  ],
+  "idx": [
+   2151
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2152",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256920",
+  "end": "25692A",
+  "slots": [
+   "250E08"
+  ],
+  "idx": [
+   2152
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2153",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25692A",
+  "end": "256934",
+  "slots": [
+   "250E0C"
+  ],
+  "idx": [
+   2153
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2154",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256934",
+  "end": "25693E",
+  "slots": [
+   "250E10"
+  ],
+  "idx": [
+   2154
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2155",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25693E",
+  "end": "256948",
+  "slots": [
+   "250E14"
+  ],
+  "idx": [
+   2155
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2156",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256948",
+  "end": "256952",
+  "slots": [
+   "250E18"
+  ],
+  "idx": [
+   2156
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2157",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256952",
+  "end": "25695C",
+  "slots": [
+   "250E1C"
+  ],
+  "idx": [
+   2157
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2158",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25695C",
+  "end": "256966",
+  "slots": [
+   "250E20"
+  ],
+  "idx": [
+   2158
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2159",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256966",
+  "end": "256970",
+  "slots": [
+   "250E24"
+  ],
+  "idx": [
+   2159
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2160",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256970",
+  "end": "25697A",
+  "slots": [
+   "250E28"
+  ],
+  "idx": [
+   2160
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2161",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25697A",
+  "end": "256984",
+  "slots": [
+   "250E2C"
+  ],
+  "idx": [
+   2161
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2162",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256984",
+  "end": "25698E",
+  "slots": [
+   "250E30"
+  ],
+  "idx": [
+   2162
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2163",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25698E",
+  "end": "256998",
+  "slots": [
+   "250E34"
+  ],
+  "idx": [
+   2163
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2164",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256998",
+  "end": "2569A2",
+  "slots": [
+   "250E38"
+  ],
+  "idx": [
+   2164
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2165",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2569A2",
+  "end": "2569AC",
+  "slots": [
+   "250E3C"
+  ],
+  "idx": [
+   2165
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2166",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2569AC",
+  "end": "2569B6",
+  "slots": [
+   "250E40"
+  ],
+  "idx": [
+   2166
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2167",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2569B6",
+  "end": "2569C0",
+  "slots": [
+   "250E44"
+  ],
+  "idx": [
+   2167
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2168",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2569C0",
+  "end": "2569CA",
+  "slots": [
+   "250E48"
+  ],
+  "idx": [
+   2168
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2169",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2569CA",
+  "end": "2569D4",
+  "slots": [
+   "250E4C"
+  ],
+  "idx": [
+   2169
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2170",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2569D4",
+  "end": "2569DE",
+  "slots": [
+   "250E50"
+  ],
+  "idx": [
+   2170
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2171",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2569DE",
+  "end": "2569E8",
+  "slots": [
+   "250E54"
+  ],
+  "idx": [
+   2171
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2172",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2569E8",
+  "end": "2569F2",
+  "slots": [
+   "250E58"
+  ],
+  "idx": [
+   2172
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2173",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2569F2",
+  "end": "2569FC",
+  "slots": [
+   "250E5C"
+  ],
+  "idx": [
+   2173
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2174",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2569FC",
+  "end": "256A06",
+  "slots": [
+   "250E60"
+  ],
+  "idx": [
+   2174
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2175",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A06",
+  "end": "256A10",
+  "slots": [
+   "250E64"
+  ],
+  "idx": [
+   2175
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2176",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A10",
+  "end": "256A1A",
+  "slots": [
+   "250E68"
+  ],
+  "idx": [
+   2176
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2177",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A1A",
+  "end": "256A24",
+  "slots": [
+   "250E6C"
+  ],
+  "idx": [
+   2177
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2178",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A24",
+  "end": "256A2E",
+  "slots": [
+   "250E70"
+  ],
+  "idx": [
+   2178
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2179",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A2E",
+  "end": "256A38",
+  "slots": [
+   "250E74"
+  ],
+  "idx": [
+   2179
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2180",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A38",
+  "end": "256A42",
+  "slots": [
+   "250E78"
+  ],
+  "idx": [
+   2180
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2181",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A42",
+  "end": "256A4C",
+  "slots": [
+   "250E7C"
+  ],
+  "idx": [
+   2181
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2182",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A4C",
+  "end": "256A56",
+  "slots": [
+   "250E80"
+  ],
+  "idx": [
+   2182
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2183",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A56",
+  "end": "256A60",
+  "slots": [
+   "250E84"
+  ],
+  "idx": [
+   2183
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2184",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A60",
+  "end": "256A6A",
+  "slots": [
+   "250E88"
+  ],
+  "idx": [
+   2184
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2185",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A6A",
+  "end": "256A74",
+  "slots": [
+   "250E8C"
+  ],
+  "idx": [
+   2185
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2186",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A74",
+  "end": "256A7E",
+  "slots": [
+   "250E90"
+  ],
+  "idx": [
+   2186
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2187",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A7E",
+  "end": "256A88",
+  "slots": [
+   "250E94"
+  ],
+  "idx": [
+   2187
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2188",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A88",
+  "end": "256A92",
+  "slots": [
+   "250E98"
+  ],
+  "idx": [
+   2188
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2189",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A92",
+  "end": "256A9C",
+  "slots": [
+   "250E9C"
+  ],
+  "idx": [
+   2189
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2190",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256A9C",
+  "end": "256AA6",
+  "slots": [
+   "250EA0"
+  ],
+  "idx": [
+   2190
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2191",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256AA6",
+  "end": "256AB0",
+  "slots": [
+   "250EA4"
+  ],
+  "idx": [
+   2191
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2192",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256AB0",
+  "end": "256ABA",
+  "slots": [
+   "250EA8"
+  ],
+  "idx": [
+   2192
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2193",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256ABA",
+  "end": "256AC4",
+  "slots": [
+   "250EAC"
+  ],
+  "idx": [
+   2193
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2194",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256AC4",
+  "end": "256ACE",
+  "slots": [
+   "250EB0"
+  ],
+  "idx": [
+   2194
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2195",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256ACE",
+  "end": "256AD8",
+  "slots": [
+   "250EB4"
+  ],
+  "idx": [
+   2195
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2196",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256AD8",
+  "end": "256AE2",
+  "slots": [
+   "250EB8"
+  ],
+  "idx": [
+   2196
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2197",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256AE2",
+  "end": "256AEC",
+  "slots": [
+   "250EBC"
+  ],
+  "idx": [
+   2197
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2198",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256AEC",
+  "end": "256AF6",
+  "slots": [
+   "250EC0"
+  ],
+  "idx": [
+   2198
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2199",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256AF6",
+  "end": "256B00",
+  "slots": [
+   "250EC4"
+  ],
+  "idx": [
+   2199
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ }
+]

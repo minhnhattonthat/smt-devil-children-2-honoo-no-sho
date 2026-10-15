@@ -1,0 +1,2972 @@
+[
+ {
+  "id": "M2200",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B00",
+  "end": "256B0A",
+  "slots": [
+   "250EC8"
+  ],
+  "idx": [
+   2200
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2201",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B0A",
+  "end": "256B14",
+  "slots": [
+   "250ECC"
+  ],
+  "idx": [
+   2201
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2202",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B14",
+  "end": "256B1E",
+  "slots": [
+   "250ED0"
+  ],
+  "idx": [
+   2202
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2203",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B1E",
+  "end": "256B28",
+  "slots": [
+   "250ED4"
+  ],
+  "idx": [
+   2203
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2204",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B28",
+  "end": "256B32",
+  "slots": [
+   "250ED8"
+  ],
+  "idx": [
+   2204
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2205",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B32",
+  "end": "256B3C",
+  "slots": [
+   "250EDC"
+  ],
+  "idx": [
+   2205
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2206",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B3C",
+  "end": "256B46",
+  "slots": [
+   "250EE0"
+  ],
+  "idx": [
+   2206
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2207",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B46",
+  "end": "256B50",
+  "slots": [
+   "250EE4"
+  ],
+  "idx": [
+   2207
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2208",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B50",
+  "end": "256B5A",
+  "slots": [
+   "250EE8"
+  ],
+  "idx": [
+   2208
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2209",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B5A",
+  "end": "256B64",
+  "slots": [
+   "250EEC"
+  ],
+  "idx": [
+   2209
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2210",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B64",
+  "end": "256B6E",
+  "slots": [
+   "250EF0"
+  ],
+  "idx": [
+   2210
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2211",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B6E",
+  "end": "256B78",
+  "slots": [
+   "250EF4"
+  ],
+  "idx": [
+   2211
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2212",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B78",
+  "end": "256B82",
+  "slots": [
+   "250EF8"
+  ],
+  "idx": [
+   2212
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2213",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B82",
+  "end": "256B8C",
+  "slots": [
+   "250EFC"
+  ],
+  "idx": [
+   2213
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2214",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B8C",
+  "end": "256B96",
+  "slots": [
+   "250F00"
+  ],
+  "idx": [
+   2214
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2215",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256B96",
+  "end": "256BA0",
+  "slots": [
+   "250F04"
+  ],
+  "idx": [
+   2215
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2216",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BA0",
+  "end": "256BAA",
+  "slots": [
+   "250F08"
+  ],
+  "idx": [
+   2216
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2217",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BAA",
+  "end": "256BB4",
+  "slots": [
+   "250F0C"
+  ],
+  "idx": [
+   2217
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2218",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BB4",
+  "end": "256BBE",
+  "slots": [
+   "250F10"
+  ],
+  "idx": [
+   2218
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2219",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BBE",
+  "end": "256BC8",
+  "slots": [
+   "250F14"
+  ],
+  "idx": [
+   2219
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2220",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BC8",
+  "end": "256BD2",
+  "slots": [
+   "250F18"
+  ],
+  "idx": [
+   2220
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2221",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BD2",
+  "end": "256BDC",
+  "slots": [
+   "250F1C"
+  ],
+  "idx": [
+   2221
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2222",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BDC",
+  "end": "256BE4",
+  "slots": [
+   "250F20"
+  ],
+  "idx": [
+   2222
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2223",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BE4",
+  "end": "256BEC",
+  "slots": [
+   "250F24"
+  ],
+  "idx": [
+   2223
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2224",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BEC",
+  "end": "256BF4",
+  "slots": [
+   "250F28"
+  ],
+  "idx": [
+   2224
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2225",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BF4",
+  "end": "256BFC",
+  "slots": [
+   "250F2C"
+  ],
+  "idx": [
+   2225
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2226",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256BFC",
+  "end": "256C04",
+  "slots": [
+   "250F30"
+  ],
+  "idx": [
+   2226
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2227",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C04",
+  "end": "256C0C",
+  "slots": [
+   "250F34"
+  ],
+  "idx": [
+   2227
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2228",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C0C",
+  "end": "256C14",
+  "slots": [
+   "250F38"
+  ],
+  "idx": [
+   2228
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2229",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C14",
+  "end": "256C1C",
+  "slots": [
+   "250F3C"
+  ],
+  "idx": [
+   2229
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2230",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C1C",
+  "end": "256C24",
+  "slots": [
+   "250F40"
+  ],
+  "idx": [
+   2230
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2231",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C24",
+  "end": "256C2C",
+  "slots": [
+   "250F44"
+  ],
+  "idx": [
+   2231
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2232",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C2C",
+  "end": "256C34",
+  "slots": [
+   "250F48"
+  ],
+  "idx": [
+   2232
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2233",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C34",
+  "end": "256C3C",
+  "slots": [
+   "250F4C"
+  ],
+  "idx": [
+   2233
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2234",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C3C",
+  "end": "256C44",
+  "slots": [
+   "250F50"
+  ],
+  "idx": [
+   2234
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2235",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C44",
+  "end": "256C4C",
+  "slots": [
+   "250F54"
+  ],
+  "idx": [
+   2235
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2236",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C4C",
+  "end": "256C54",
+  "slots": [
+   "250F58"
+  ],
+  "idx": [
+   2236
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2237",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C54",
+  "end": "256C5C",
+  "slots": [
+   "250F5C"
+  ],
+  "idx": [
+   2237
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2238",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C5C",
+  "end": "256C64",
+  "slots": [
+   "250F60"
+  ],
+  "idx": [
+   2238
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2239",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C64",
+  "end": "256C6C",
+  "slots": [
+   "250F64"
+  ],
+  "idx": [
+   2239
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2240",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C6C",
+  "end": "256C74",
+  "slots": [
+   "250F68"
+  ],
+  "idx": [
+   2240
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2241",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C74",
+  "end": "256C7C",
+  "slots": [
+   "250F6C"
+  ],
+  "idx": [
+   2241
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2242",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C7C",
+  "end": "256C84",
+  "slots": [
+   "250F70"
+  ],
+  "idx": [
+   2242
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2243",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C84",
+  "end": "256C8C",
+  "slots": [
+   "250F74"
+  ],
+  "idx": [
+   2243
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2244",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C8C",
+  "end": "256C94",
+  "slots": [
+   "250F78"
+  ],
+  "idx": [
+   2244
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2245",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C94",
+  "end": "256C9C",
+  "slots": [
+   "250F7C"
+  ],
+  "idx": [
+   2245
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2246",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256C9C",
+  "end": "256CA4",
+  "slots": [
+   "250F80"
+  ],
+  "idx": [
+   2246
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2247",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256CA4",
+  "end": "256CBE",
+  "slots": [
+   "250F84"
+  ],
+  "idx": [
+   2247
+  ],
+  "jp": "ここでは　つかえません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2248",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256CBE",
+  "end": "256D16",
+  "slots": [
+   "250F88"
+  ],
+  "idx": [
+   2248
+  ],
+  "jp": "これいじょう　マッカを[n]もつことができません[wait][page][f4]　[ec:0]こで[n]〒[ec:1]でうりますか？[fb:0][end]",
+  "en": ""
+ },
+ {
+  "id": "M2249",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256D16",
+  "end": "256D76",
+  "slots": [
+   "250F8C"
+  ],
+  "idx": [
+   2249
+  ],
+  "jp": "光の書　闇の書とのせんとうに[n]さんかできないデビルがいます[wait][page]デビルをえらびなおしてください[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2250",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256D76",
+  "end": "256D8E",
+  "slots": [
+   "250F90"
+  ],
+  "idx": [
+   2250
+  ],
+  "jp": "カードをもってません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2251",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256D8E",
+  "end": "256DBC",
+  "slots": [
+   "250F94"
+  ],
+  "idx": [
+   2251
+  ],
+  "jp": "しんにゅうしゃ　ハッケン！[n]はいじょします[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2252",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256DBC",
+  "end": "256DE8",
+  "slots": [
+   "250F98"
+  ],
+  "idx": [
+   2252
+  ],
+  "jp": "いまは　このカードを[n]使うことができない[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2253",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256DE8",
+  "end": "256E0E",
+  "slots": [
+   "250F9C"
+  ],
+  "idx": [
+   2253
+  ],
+  "jp": "このナカマはえらぶことができません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2254",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256E0E",
+  "end": "256E48",
+  "slots": [
+   "250FA0"
+  ],
+  "idx": [
+   2254
+  ],
+  "jp": "決定するとキャンセルできません[n]使ってもいいですか？[fb:1][end]",
+  "en": ""
+ },
+ {
+  "id": "M2255",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256E48",
+  "end": "256E66",
+  "slots": [
+   "250FA4"
+  ],
+  "idx": [
+   2255
+  ],
+  "jp": "カード　[f4]が[n]はいっていた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2256",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256E66",
+  "end": "256E84",
+  "slots": [
+   "250FA8"
+  ],
+  "idx": [
+   2256
+  ],
+  "jp": "マソウ　[f4]が[n]はいっていた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2257",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256E84",
+  "end": "256EA8",
+  "slots": [
+   "250FAC"
+  ],
+  "idx": [
+   2257
+  ],
+  "jp": "カード　[f4]が[n]いっぱいでもてない[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2258",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256EA8",
+  "end": "256ECC",
+  "slots": [
+   "250FB0"
+  ],
+  "idx": [
+   2258
+  ],
+  "jp": "マソウ　[f4]が[n]いっぱいでもてない[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2259",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256ECC",
+  "end": "256EE8",
+  "slots": [
+   "250FB4"
+  ],
+  "idx": [
+   2259
+  ],
+  "jp": "カード　[f4]を[n]あきらめた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2260",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256EE8",
+  "end": "256F04",
+  "slots": [
+   "250FB8"
+  ],
+  "idx": [
+   2260
+  ],
+  "jp": "マソウ　[f4]を[n]あきらめた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2261",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256F04",
+  "end": "256F20",
+  "slots": [
+   "250FBC"
+  ],
+  "idx": [
+   2261
+  ],
+  "jp": "カード　[f4]を[n]手に入れた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2262",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256F20",
+  "end": "256F3C",
+  "slots": [
+   "250FC0"
+  ],
+  "idx": [
+   2262
+  ],
+  "jp": "マソウ　[f4]を[n]手に入れた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2263",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256F3C",
+  "end": "256F44",
+  "slots": [
+   "250FC4"
+  ],
+  "idx": [
+   2263
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2264",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256F44",
+  "end": "256F6E",
+  "slots": [
+   "250FC8"
+  ],
+  "idx": [
+   2264
+  ],
+  "jp": "ナカマをすべておくってもいいですか？[fb:0][end]",
+  "en": ""
+ },
+ {
+  "id": "M2265",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "256F6E",
+  "end": "257004",
+  "slots": [
+   "250FCC"
+  ],
+  "idx": [
+   2265
+  ],
+  "jp": "バトルネット[n]ノーマル戦へようこそ[wait][page]キミは　各地にあらわれる[n]サマナーたちをたおして[wait][clr]どこまですすめるかな？[wait][page]さあ！はじめようか！[n]コール！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2266",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257004",
+  "end": "25701E",
+  "slots": [
+   "250FD0"
+  ],
+  "idx": [
+   2266
+  ],
+  "jp": "[f3]！[n]負けないわよー！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2267",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25701E",
+  "end": "25706C",
+  "slots": [
+   "250FD4"
+  ],
+  "idx": [
+   2267
+  ],
+  "jp": "あんまり　バトルって[n]すきじゃないんだけど・・・[wait][clr]しょうがないわね・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2268",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25706C",
+  "end": "25709C",
+  "slots": [
+   "250FD8"
+  ],
+  "idx": [
+   2268
+  ],
+  "jp": "ばとる？[wait][page]うん　いいよ[n]あそぼう　あそぼう[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2269",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25709C",
+  "end": "2570B6",
+  "slots": [
+   "250FDC"
+  ],
+  "idx": [
+   2269
+  ],
+  "jp": "・・・　・・・　・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2270",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2570B6",
+  "end": "2570F2",
+  "slots": [
+   "250FE0"
+  ],
+  "idx": [
+   2270
+  ],
+  "jp": "おっ　[f3]か・・・[wait][page]ひさしぶりに[n]ウデだめしと　いこうか[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2271",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2570F2",
+  "end": "257138",
+  "slots": [
+   "250FE4"
+  ],
+  "idx": [
+   2271
+  ],
+  "jp": "バトル？[n]ああ！　いいぜ！[wait][page]どっちが強いか・・・[n]しょうぶだっ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2272",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257138",
+  "end": "2571BA",
+  "slots": [
+   "250FE8"
+  ],
+  "idx": [
+   2272
+  ],
+  "jp": "そうか・・・[n]キミもデビルチルドレンか[wait][page]よくよく　デビルチルドレンには[n]えんがあるらしい[wait][page]じゃ　ひとしょうぶしてみるかい？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2273",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2571BA",
+  "end": "257200",
+  "slots": [
+   "250FEC"
+  ],
+  "idx": [
+   2273
+  ],
+  "jp": "なによアンタ・・・[wait][page]じろじろ見てると[n]やっつけちゃうんだからね！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2274",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257200",
+  "end": "25721C",
+  "slots": [
+   "250FF0"
+  ],
+  "idx": [
+   2274
+  ],
+  "jp": "わがチカラ　おもいしれ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2275",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25721C",
+  "end": "257244",
+  "slots": [
+   "250FF4"
+  ],
+  "idx": [
+   2275
+  ],
+  "jp": "勝負・・・？[n]いいぜ　いつでもきなよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2276",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257244",
+  "end": "2572AA",
+  "slots": [
+   "250FF8"
+  ],
+  "idx": [
+   2276
+  ],
+  "jp": "へえ　あなたのナカマ[n]つよそうね[wait][page]わたしの　ベールとどっちが[n]つよいかしら？[wait][clr]バトルしましょ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2277",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2572AA",
+  "end": "257318",
+  "slots": [
+   "250FFC"
+  ],
+  "idx": [
+   2277
+  ],
+  "jp": "へえ　ここまでくるなんて[n]そうとう　つよいんですね[wait][page]かてるかなあ・・・[n]ふあんだけど・・・しょうぶです！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2278",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257318",
+  "end": "25736C",
+  "slots": [
+   "251000"
+  ],
+  "idx": [
+   2278
+  ],
+  "jp": "バトルか？[n]よかろう　ちょうど[wait][clr]ウデが　なまっていたところだ[wait][clr]あいてをしよう[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2279",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25736C",
+  "end": "257398",
+  "slots": [
+   "251004"
+  ],
+  "idx": [
+   2279
+  ],
+  "jp": "バトルだろう？[n]さっそく　はじめようか？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2280",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257398",
+  "end": "257404",
+  "slots": [
+   "251008"
+  ],
+  "idx": [
+   2280
+  ],
+  "jp": "あなたが　真につよきものならば[n]時のチカラと星のチカラが[wait][clr]やどるでしょう・・・[wait][page]それでは　まいります[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2281",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257404",
+  "end": "257434",
+  "slots": [
+   "25100C"
+  ],
+  "idx": [
+   2281
+  ],
+  "jp": "ＯＫ　次にすすんでくれ[wait][page]魔界へ[n]ヴァルハラへ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2282",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257434",
+  "end": "25745A",
+  "slots": [
+   "251010"
+  ],
+  "idx": [
+   2282
+  ],
+  "jp": "くやしーい！[wait][page]原宿へ[n]原宿小学校へ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2283",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25745A",
+  "end": "2574A4",
+  "slots": [
+   "251014"
+  ],
+  "idx": [
+   2283
+  ],
+  "jp": "ふう　なれないことは[n]するものじゃないわね[wait][page]原宿小学校へ[n]マンションへ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2284",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2574A4",
+  "end": "2574D6",
+  "slots": [
+   "251018"
+  ],
+  "idx": [
+   2284
+  ],
+  "jp": "まけちゃった・・・ちぇっ[wait][page]神社へ[n]原宿タワーへ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2285",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2574D6",
+  "end": "257506",
+  "slots": [
+   "25101C"
+  ],
+  "idx": [
+   2285
+  ],
+  "jp": "・・・　・・・　・・・[wait][page]原宿タワーへ[n]天界へ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2286",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257506",
+  "end": "257534",
+  "slots": [
+   "251020"
+  ],
+  "idx": [
+   2286
+  ],
+  "jp": "つぎは負けないぜ？[wait][page]天界へ[n]ダークパレスへ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2287",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257534",
+  "end": "257580",
+  "slots": [
+   "251024"
+  ],
+  "idx": [
+   2287
+  ],
+  "jp": "キミ　つよいな[n]また　バトルしようぜ！[wait][page]コロシアムへ[n]オルゴールルームへ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2288",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257580",
+  "end": "2575C8",
+  "slots": [
+   "251028"
+  ],
+  "idx": [
+   2288
+  ],
+  "jp": "さすがだね・・・[n]負けたよ・・・[wait][page]オルゴールルームへ[n]ライトパレスへ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2289",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2575C8",
+  "end": "257606",
+  "slots": [
+   "25102C"
+  ],
+  "idx": [
+   2289
+  ],
+  "jp": "なによ・・・！[n]あっちいってよ！[wait][page]ライトパレスへ[n]王の間へ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2290",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257606",
+  "end": "257638",
+  "slots": [
+   "251030"
+  ],
+  "idx": [
+   2290
+  ],
+  "jp": "いまいましい・・・[wait][page]王の間へ[n]ディープホールへ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2291",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257638",
+  "end": "257650",
+  "slots": [
+   "251034"
+  ],
+  "idx": [
+   2291
+  ],
+  "jp": "なかなかやるな・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2292",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257650",
+  "end": "257674",
+  "slots": [
+   "251038"
+  ],
+  "idx": [
+   2292
+  ],
+  "jp": "うわあ・・・[n]ホントにつよいわね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2293",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257674",
+  "end": "257692",
+  "slots": [
+   "25103C"
+  ],
+  "idx": [
+   2293
+  ],
+  "jp": "やっぱ　負けちゃいましたね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2294",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257692",
+  "end": "2576AE",
+  "slots": [
+   "251040"
+  ],
+  "idx": [
+   2294
+  ],
+  "jp": "ウデをあげたな・・・[n][f3][wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2295",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2576AE",
+  "end": "2576C6",
+  "slots": [
+   "251044"
+  ],
+  "idx": [
+   2295
+  ],
+  "jp": "楽しませてもらったよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2296",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2576C6",
+  "end": "2576FC",
+  "slots": [
+   "251048"
+  ],
+  "idx": [
+   2296
+  ],
+  "jp": "つよきものよ・・・[n]あなたに　時と星のカゴを・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2297",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2576FC",
+  "end": "257734",
+  "slots": [
+   "25104C"
+  ],
+  "idx": [
+   2297
+  ],
+  "jp": "おいおい　キミのチカラは[n]そんなもんじゃないだろう？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2298",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257734",
+  "end": "257758",
+  "slots": [
+   "251050"
+  ],
+  "idx": [
+   2298
+  ],
+  "jp": "あれっ？　うそ！？[n]かっちゃった[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2299",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257758",
+  "end": "25777C",
+  "slots": [
+   "251054"
+  ],
+  "idx": [
+   2299
+  ],
+  "jp": "だいじょうぶ？[n]ケガしなかった？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2300",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25777C",
+  "end": "2577A8",
+  "slots": [
+   "251058"
+  ],
+  "idx": [
+   2300
+  ],
+  "jp": "やったね！かったかった！[n]またあそぼうね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2301",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2577A8",
+  "end": "2577C2",
+  "slots": [
+   "25105C"
+  ],
+  "idx": [
+   2301
+  ],
+  "jp": "・・・　・・・　・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2302",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2577C2",
+  "end": "2577D8",
+  "slots": [
+   "251060"
+  ],
+  "idx": [
+   2302
+  ],
+  "jp": "つぎもまけないぜ？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2303",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2577D8",
+  "end": "2577EE",
+  "slots": [
+   "251064"
+  ],
+  "idx": [
+   2303
+  ],
+  "jp": "よし！　かったぜ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2304",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2577EE",
+  "end": "257808",
+  "slots": [
+   "251068"
+  ],
+  "idx": [
+   2304
+  ],
+  "jp": "まだチカラが足りないな[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2305",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257808",
+  "end": "257828",
+  "slots": [
+   "25106C"
+  ],
+  "idx": [
+   2305
+  ],
+  "jp": "ふふん[n]とうぜんのけっかよね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2306",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257828",
+  "end": "25785C",
+  "slots": [
+   "251070"
+  ],
+  "idx": [
+   2306
+  ],
+  "jp": "フハハハハ・・・[n]ぶざまだな　デビルチルドレン！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2307",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25785C",
+  "end": "257878",
+  "slots": [
+   "251074"
+  ],
+  "idx": [
+   2307
+  ],
+  "jp": "いつでも　あいてになるぜ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2308",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257878",
+  "end": "25789C",
+  "slots": [
+   "251078"
+  ],
+  "idx": [
+   2308
+  ],
+  "jp": "どう？[n]ベールつよかったでしょ？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2309",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "25789C",
+  "end": "2578B0",
+  "slots": [
+   "25107C"
+  ],
+  "idx": [
+   2309
+  ],
+  "jp": "ゆだんしましたね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2310",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2578B0",
+  "end": "2578EA",
+  "slots": [
+   "251080"
+  ],
+  "idx": [
+   2310
+  ],
+  "jp": "もっとつよくなれ・・・[n]そしてワタシをこえてみせてくれ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2311",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2578EA",
+  "end": "257916",
+  "slots": [
+   "251084"
+  ],
+  "idx": [
+   2311
+  ],
+  "jp": "マカイのチカラ[n]あじわってもらえたかな？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2312",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257916",
+  "end": "257938",
+  "slots": [
+   "251088"
+  ],
+  "idx": [
+   2312
+  ],
+  "jp": "まだ　時はみちぬようです・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M2313",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257938",
+  "end": "257940",
+  "slots": [
+   "25108C"
+  ],
+  "idx": [
+   2313
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2314",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257940",
+  "end": "257948",
+  "slots": [
+   "251090"
+  ],
+  "idx": [
+   2314
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2315",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257948",
+  "end": "257950",
+  "slots": [
+   "251094"
+  ],
+  "idx": [
+   2315
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2316",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257950",
+  "end": "257958",
+  "slots": [
+   "251098"
+  ],
+  "idx": [
+   2316
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2317",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257958",
+  "end": "257960",
+  "slots": [
+   "25109C"
+  ],
+  "idx": [
+   2317
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2318",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257960",
+  "end": "257968",
+  "slots": [
+   "2510A0"
+  ],
+  "idx": [
+   2318
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2319",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "257968",
+  "end": "257970",
+  "slots": [
+   "2510A4"
+  ],
+  "idx": [
+   2319
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2322",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E888",
+  "end": "24E892",
+  "slots": [
+   "2510B0"
+  ],
+  "idx": [
+   2322
+  ],
+  "jp": "使用禁止[end]",
+  "en": ""
+ },
+ {
+  "id": "M2323",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E892",
+  "end": "24E89C",
+  "slots": [
+   "2510B4"
+  ],
+  "idx": [
+   2323
+  ],
+  "jp": "使用禁止[end]",
+  "en": ""
+ },
+ {
+  "id": "M2324",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E89C",
+  "end": "24E8A6",
+  "slots": [
+   "2510B8"
+  ],
+  "idx": [
+   2324
+  ],
+  "jp": "使用禁止[end]",
+  "en": ""
+ },
+ {
+  "id": "M2325",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8A6",
+  "end": "24E8AE",
+  "slots": [
+   "2510BC"
+  ],
+  "idx": [
+   2325
+  ],
+  "jp": "アキラ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2326",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8AE",
+  "end": "24E8B4",
+  "slots": [
+   "2510C0"
+  ],
+  "idx": [
+   2326
+  ],
+  "jp": "レナ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2327",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8B4",
+  "end": "24E8BA",
+  "slots": [
+   "2510C4"
+  ],
+  "idx": [
+   2327
+  ],
+  "jp": "アミ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2328",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8BA",
+  "end": "24E8C0",
+  "slots": [
+   "2510C8"
+  ],
+  "idx": [
+   2328
+  ],
+  "jp": "パク[end]",
+  "en": ""
+ },
+ {
+  "id": "M2329",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8C0",
+  "end": "24E8CA",
+  "slots": [
+   "2510CC"
+  ],
+  "idx": [
+   2329
+  ],
+  "jp": "ハーミル[end]",
+  "en": ""
+ },
+ {
+  "id": "M2330",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8CA",
+  "end": "24E8D2",
+  "slots": [
+   "2510D0"
+  ],
+  "idx": [
+   2330
+  ],
+  "jp": "ゲイル[end]",
+  "en": ""
+ },
+ {
+  "id": "M2331",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8D2",
+  "end": "24E8DA",
+  "slots": [
+   "2510D4"
+  ],
+  "idx": [
+   2331
+  ],
+  "jp": "ランド[end]",
+  "en": ""
+ },
+ {
+  "id": "M2332",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8DA",
+  "end": "24E8E6",
+  "slots": [
+   "2510D8"
+  ],
+  "idx": [
+   2332
+  ],
+  "jp": "おかあさん[end]",
+  "en": ""
+ },
+ {
+  "id": "M2333",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8E6",
+  "end": "24E8F2",
+  "slots": [
+   "2510DC"
+  ],
+  "idx": [
+   2333
+  ],
+  "jp": "メフィスト[end]",
+  "en": ""
+ },
+ {
+  "id": "M2334",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8F2",
+  "end": "24E8FE",
+  "slots": [
+   "2510E0"
+  ],
+  "idx": [
+   2334
+  ],
+  "jp": "ラクシュミ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2335",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E8FE",
+  "end": "24E90A",
+  "slots": [
+   "2510E4"
+  ],
+  "idx": [
+   2335
+  ],
+  "jp": "ルシファー[end]",
+  "en": ""
+ },
+ {
+  "id": "M2336",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E90A",
+  "end": "24E914",
+  "slots": [
+   "2510E8"
+  ],
+  "idx": [
+   2336
+  ],
+  "jp": "キヨヒメ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2337",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E914",
+  "end": "24E91E",
+  "slots": [
+   "2510EC"
+  ],
+  "idx": [
+   2337
+  ],
+  "jp": "レミエル[end]",
+  "en": ""
+ },
+ {
+  "id": "M2338",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E91E",
+  "end": "24E928",
+  "slots": [
+   "2510F0"
+  ],
+  "idx": [
+   2338
+  ],
+  "jp": "ミカエル[end]",
+  "en": ""
+ },
+ {
+  "id": "M2339",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E928",
+  "end": "24E93A",
+  "slots": [
+   "2510F4"
+  ],
+  "idx": [
+   2339
+  ],
+  "jp": "アリアンフロッド[end]",
+  "en": ""
+ },
+ {
+  "id": "M2340",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E93A",
+  "end": "24E946",
+  "slots": [
+   "2510F8"
+  ],
+  "idx": [
+   2340
+  ],
+  "jp": "シュゴシン[end]",
+  "en": ""
+ },
+ {
+  "id": "M2341",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E946",
+  "end": "24E94E",
+  "slots": [
+   "2510FC"
+  ],
+  "idx": [
+   2341
+  ],
+  "jp": "ゾズマ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2342",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E94E",
+  "end": "24E958",
+  "slots": [
+   "251100"
+  ],
+  "idx": [
+   2342
+  ],
+  "jp": "ファルハ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2343",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E958",
+  "end": "24E962",
+  "slots": [
+   "251104"
+  ],
+  "idx": [
+   2343
+  ],
+  "jp": "ケルミド[end]",
+  "en": ""
+ },
+ {
+  "id": "M2344",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E962",
+  "end": "24E96A",
+  "slots": [
+   "251108"
+  ],
+  "idx": [
+   2344
+  ],
+  "jp": "クーン[end]",
+  "en": ""
+ },
+ {
+  "id": "M2345",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E96A",
+  "end": "24E972",
+  "slots": [
+   "25110C"
+  ],
+  "idx": [
+   2345
+  ],
+  "jp": "ムール[end]",
+  "en": ""
+ },
+ {
+  "id": "M2346",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E972",
+  "end": "24E97C",
+  "slots": [
+   "251110"
+  ],
+  "idx": [
+   2346
+  ],
+  "jp": "レジーヌ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2347",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E97C",
+  "end": "24E984",
+  "slots": [
+   "251114"
+  ],
+  "idx": [
+   2347
+  ],
+  "jp": "ガンク[end]",
+  "en": ""
+ },
+ {
+  "id": "M2348",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E984",
+  "end": "24E98A",
+  "slots": [
+   "251118"
+  ],
+  "idx": [
+   2348
+  ],
+  "jp": "セク[end]",
+  "en": ""
+ },
+ {
+  "id": "M2349",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E98A",
+  "end": "24E990",
+  "slots": [
+   "25111C"
+  ],
+  "idx": [
+   2349
+  ],
+  "jp": "セク[end]",
+  "en": ""
+ },
+ {
+  "id": "M2350",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E990",
+  "end": "24E99C",
+  "slots": [
+   "251120"
+  ],
+  "idx": [
+   2350
+  ],
+  "jp": "？？？？？[end]",
+  "en": ""
+ },
+ {
+  "id": "M2351",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E99C",
+  "end": "24E9A8",
+  "slots": [
+   "251124"
+  ],
+  "idx": [
+   2351
+  ],
+  "jp": "アマテラス[end]",
+  "en": ""
+ },
+ {
+  "id": "M2352",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E9A8",
+  "end": "24E9B2",
+  "slots": [
+   "251128"
+  ],
+  "idx": [
+   2352
+  ],
+  "jp": "スサノオ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2353",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E9B2",
+  "end": "24E9BC",
+  "slots": [
+   "25112C"
+  ],
+  "idx": [
+   2353
+  ],
+  "jp": "ツクヨミ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2354",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E9BC",
+  "end": "24E9C6",
+  "slots": [
+   "251130"
+  ],
+  "idx": [
+   2354
+  ],
+  "jp": "ナシュア[end]",
+  "en": ""
+ },
+ {
+  "id": "M2355",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E9C6",
+  "end": "24E9D2",
+  "slots": [
+   "251134"
+  ],
+  "idx": [
+   2355
+  ],
+  "jp": "合体研究家[end]",
+  "en": ""
+ },
+ {
+  "id": "M2356",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E9D2",
+  "end": "24E9DA",
+  "slots": [
+   "251138"
+  ],
+  "idx": [
+   2356
+  ],
+  "jp": "エノク[end]",
+  "en": ""
+ },
+ {
+  "id": "M2357",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E9DA",
+  "end": "24E9EC",
+  "slots": [
+   "25113C"
+  ],
+  "idx": [
+   2357
+  ],
+  "jp": "ダークノース村長[end]",
+  "en": ""
+ },
+ {
+  "id": "M2358",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E9EC",
+  "end": "24E9F8",
+  "slots": [
+   "251140"
+  ],
+  "idx": [
+   2358
+  ],
+  "jp": "グランガチ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2359",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24E9F8",
+  "end": "24EA08",
+  "slots": [
+   "251144"
+  ],
+  "idx": [
+   2359
+  ],
+  "jp": "サンダルフォン[end]",
+  "en": ""
+ },
+ {
+  "id": "M2360",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA08",
+  "end": "24EA16",
+  "slots": [
+   "251148"
+  ],
+  "idx": [
+   2360
+  ],
+  "jp": "メルキセデク[end]",
+  "en": ""
+ },
+ {
+  "id": "M2361",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA16",
+  "end": "24EA24",
+  "slots": [
+   "25114C"
+  ],
+  "idx": [
+   2361
+  ],
+  "jp": "しょうじょう[end]",
+  "en": ""
+ },
+ {
+  "id": "M2362",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA24",
+  "end": "24EA2E",
+  "slots": [
+   "251150"
+  ],
+  "idx": [
+   2362
+  ],
+  "jp": "ピクシー[end]",
+  "en": ""
+ },
+ {
+  "id": "M2363",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA2E",
+  "end": "24EA36",
+  "slots": [
+   "251154"
+  ],
+  "idx": [
+   2363
+  ],
+  "jp": "女の子[end]",
+  "en": ""
+ },
+ {
+  "id": "M2364",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA36",
+  "end": "24EA3E",
+  "slots": [
+   "251158"
+  ],
+  "idx": [
+   2364
+  ],
+  "jp": "テシス[end]",
+  "en": ""
+ },
+ {
+  "id": "M2365",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA3E",
+  "end": "24EA48",
+  "slots": [
+   "25115C"
+  ],
+  "idx": [
+   2365
+  ],
+  "jp": "氷の使徒[end]",
+  "en": ""
+ },
+ {
+  "id": "M2366",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA48",
+  "end": "24EA56",
+  "slots": [
+   "251160"
+  ],
+  "idx": [
+   2366
+  ],
+  "jp": "ピュグマリオ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2367",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA56",
+  "end": "24EA64",
+  "slots": [
+   "251164"
+  ],
+  "idx": [
+   2367
+  ],
+  "jp": "バフォメット[end]",
+  "en": ""
+ },
+ {
+  "id": "M2368",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA64",
+  "end": "24EA70",
+  "slots": [
+   "251168"
+  ],
+  "idx": [
+   2368
+  ],
+  "jp": "ルキフグス[end]",
+  "en": ""
+ },
+ {
+  "id": "M2369",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA70",
+  "end": "24EA7C",
+  "slots": [
+   "25116C"
+  ],
+  "idx": [
+   2369
+  ],
+  "jp": "イブリース[end]",
+  "en": ""
+ },
+ {
+  "id": "M2370",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA7C",
+  "end": "24EA82",
+  "slots": [
+   "251170"
+  ],
+  "idx": [
+   2370
+  ],
+  "jp": "ブネ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2371",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA82",
+  "end": "24EA90",
+  "slots": [
+   "251174"
+  ],
+  "idx": [
+   2371
+  ],
+  "jp": "しょくりゅう[end]",
+  "en": ""
+ },
+ {
+  "id": "M2372",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EA90",
+  "end": "24EAA2",
+  "slots": [
+   "251178"
+  ],
+  "idx": [
+   2372
+  ],
+  "jp": "アンフィプテール[end]",
+  "en": ""
+ },
+ {
+  "id": "M2373",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EAA2",
+  "end": "24EAAC",
+  "slots": [
+   "25117C"
+  ],
+  "idx": [
+   2373
+  ],
+  "jp": "ペクヨン[end]",
+  "en": ""
+ },
+ {
+  "id": "M2374",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EAAC",
+  "end": "24EAB8",
+  "slots": [
+   "251180"
+  ],
+  "idx": [
+   2374
+  ],
+  "jp": "オロファト[end]",
+  "en": ""
+ },
+ {
+  "id": "M2375",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EAB8",
+  "end": "24EAC4",
+  "slots": [
+   "251184"
+  ],
+  "idx": [
+   2375
+  ],
+  "jp": "ヴィーヴル[end]",
+  "en": ""
+ },
+ {
+  "id": "M2376",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EAC4",
+  "end": "24EACC",
+  "slots": [
+   "251188"
+  ],
+  "idx": [
+   2376
+  ],
+  "jp": "ゲイル[end]",
+  "en": ""
+ },
+ {
+  "id": "M2377",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EACC",
+  "end": "24EADC",
+  "slots": [
+   "25118C"
+  ],
+  "idx": [
+   2377
+  ],
+  "jp": "ブリザックの親[end]",
+  "en": ""
+ },
+ {
+  "id": "M2378",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EADC",
+  "end": "24EAE8",
+  "slots": [
+   "251190"
+  ],
+  "idx": [
+   2378
+  ],
+  "jp": "ブリザック[end]",
+  "en": ""
+ },
+ {
+  "id": "M2379",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EAE8",
+  "end": "24EAFA",
+  "slots": [
+   "251194"
+  ],
+  "idx": [
+   2379
+  ],
+  "jp": "エースたいちょう[end]",
+  "en": ""
+ },
+ {
+  "id": "M2380",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EAFA",
+  "end": "24EB04",
+  "slots": [
+   "251198"
+  ],
+  "idx": [
+   2380
+  ],
+  "jp": "メルクリ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2381",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB04",
+  "end": "24EB10",
+  "slots": [
+   "25119C"
+  ],
+  "idx": [
+   2381
+  ],
+  "jp": "フランケン[end]",
+  "en": ""
+ },
+ {
+  "id": "M2382",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB10",
+  "end": "24EB1E",
+  "slots": [
+   "2511A0"
+  ],
+  "idx": [
+   2382
+  ],
+  "jp": "パラレルスス[end]",
+  "en": ""
+ },
+ {
+  "id": "M2383",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB1E",
+  "end": "24EB2C",
+  "slots": [
+   "2511A4"
+  ],
+  "idx": [
+   2383
+  ],
+  "jp": "アングルボダ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2384",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB2C",
+  "end": "24EB3A",
+  "slots": [
+   "2511A8"
+  ],
+  "idx": [
+   2384
+  ],
+  "jp": "タケミカヅチ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2385",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB3A",
+  "end": "24EB42",
+  "slots": [
+   "2511AC"
+  ],
+  "idx": [
+   2385
+  ],
+  "jp": "ハティ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2386",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB42",
+  "end": "24EB52",
+  "slots": [
+   "2511B0"
+  ],
+  "idx": [
+   2386
+  ],
+  "jp": "ペルーン（老）[end]",
+  "en": ""
+ },
+ {
+  "id": "M2387",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB52",
+  "end": "24EB62",
+  "slots": [
+   "2511B4"
+  ],
+  "idx": [
+   2387
+  ],
+  "jp": "ペルーン（苔）[end]",
+  "en": ""
+ },
+ {
+  "id": "M2388",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB62",
+  "end": "24EB68",
+  "slots": [
+   "2511B8"
+  ],
+  "idx": [
+   2388
+  ],
+  "jp": "ルブ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2389",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB68",
+  "end": "24EB6E",
+  "slots": [
+   "2511BC"
+  ],
+  "idx": [
+   2389
+  ],
+  "jp": "リブ[end]",
+  "en": ""
+ },
+ {
+  "id": "M2390",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB6E",
+  "end": "24EB7A",
+  "slots": [
+   "2511C0"
+  ],
+  "idx": [
+   2390
+  ],
+  "jp": "エリゴール[end]",
+  "en": ""
+ },
+ {
+  "id": "M2391",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB7A",
+  "end": "24EB86",
+  "slots": [
+   "2511C4"
+  ],
+  "idx": [
+   2391
+  ],
+  "jp": "ファルハ父[end]",
+  "en": ""
+ },
+ {
+  "id": "M2392",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB86",
+  "end": "24EB8E",
+  "slots": [
+   "2511C8"
+  ],
+  "idx": [
+   2392
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2393",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB8E",
+  "end": "24EB96",
+  "slots": [
+   "2511CC"
+  ],
+  "idx": [
+   2393
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2394",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB96",
+  "end": "24EB9E",
+  "slots": [
+   "2511D0"
+  ],
+  "idx": [
+   2394
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2395",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EB9E",
+  "end": "24EBA6",
+  "slots": [
+   "2511D4"
+  ],
+  "idx": [
+   2395
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2396",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EBA6",
+  "end": "24EBAE",
+  "slots": [
+   "2511D8"
+  ],
+  "idx": [
+   2396
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2397",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EBAE",
+  "end": "24EBB6",
+  "slots": [
+   "2511DC"
+  ],
+  "idx": [
+   2397
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2398",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EBB6",
+  "end": "24EBBE",
+  "slots": [
+   "2511E0"
+  ],
+  "idx": [
+   2398
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M2399",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "24EBBE",
+  "end": "24EBC6",
+  "slots": [
+   "2511E4"
+  ],
+  "idx": [
+   2399
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ }
+]

@@ -1,0 +1,1592 @@
+[
+ {
+  "id": "M4294",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FB48",
+  "end": "26FB58",
+  "slots": [
+   "252F80"
+  ],
+  "idx": [
+   4294
+  ],
+  "jp": "ガルルゥーー！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4295",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FB58",
+  "end": "26FB60",
+  "slots": [
+   "252F84"
+  ],
+  "idx": [
+   4295
+  ],
+  "jp": "！！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4296",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FB60",
+  "end": "26FB7E",
+  "slots": [
+   "252F88"
+  ],
+  "idx": [
+   4296
+  ],
+  "jp": "このいちげきを　うけてみろ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4297",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FB7E",
+  "end": "26FB90",
+  "slots": [
+   "252F8C"
+  ],
+  "idx": [
+   4297
+  ],
+  "jp": "まけませんわよ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4298",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FB90",
+  "end": "26FBA2",
+  "slots": [
+   "252F90"
+  ],
+  "idx": [
+   4298
+  ],
+  "jp": "これでもくらえ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4299",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FBA2",
+  "end": "26FBB4",
+  "slots": [
+   "252F94"
+  ],
+  "idx": [
+   4299
+  ],
+  "jp": "ガツンといくよ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4300",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FBB4",
+  "end": "26FBBE",
+  "slots": [
+   "252F98"
+  ],
+  "idx": [
+   4300
+  ],
+  "jp": "オラァ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4301",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FBBE",
+  "end": "26FBCC",
+  "slots": [
+   "252F9C"
+  ],
+  "idx": [
+   4301
+  ],
+  "jp": "このヤロー！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4302",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FBCC",
+  "end": "26FBDC",
+  "slots": [
+   "252FA0"
+  ],
+  "idx": [
+   4302
+  ],
+  "jp": "クラエ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4303",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FBDC",
+  "end": "26FBEE",
+  "slots": [
+   "252FA4"
+  ],
+  "idx": [
+   4303
+  ],
+  "jp": "・・・！　（[ef]）[end]",
+  "en": ""
+ },
+ {
+  "id": "M4304",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FBEE",
+  "end": "26FBF8",
+  "slots": [
+   "252FA8"
+  ],
+  "idx": [
+   4304
+  ],
+  "jp": "[ef]　だ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4305",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FBF8",
+  "end": "26FC04",
+  "slots": [
+   "252FAC"
+  ],
+  "idx": [
+   4305
+  ],
+  "jp": "[ef]　です！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4306",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC04",
+  "end": "26FC14",
+  "slots": [
+   "252FB0"
+  ],
+  "idx": [
+   4306
+  ],
+  "jp": "エイっ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4307",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC14",
+  "end": "26FC24",
+  "slots": [
+   "252FB4"
+  ],
+  "idx": [
+   4307
+  ],
+  "jp": "イケっ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4308",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC24",
+  "end": "26FC34",
+  "slots": [
+   "252FB8"
+  ],
+  "idx": [
+   4308
+  ],
+  "jp": "くらえ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4309",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC34",
+  "end": "26FC3E",
+  "slots": [
+   "252FBC"
+  ],
+  "idx": [
+   4309
+  ],
+  "jp": "[ef]　よ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4310",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC3E",
+  "end": "26FC4E",
+  "slots": [
+   "252FC0"
+  ],
+  "idx": [
+   4310
+  ],
+  "jp": "クラエ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4311",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC4E",
+  "end": "26FC60",
+  "slots": [
+   "252FC4"
+  ],
+  "idx": [
+   4311
+  ],
+  "jp": "・・・！　（[ef]）[end]",
+  "en": ""
+ },
+ {
+  "id": "M4312",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC60",
+  "end": "26FC6A",
+  "slots": [
+   "252FC8"
+  ],
+  "idx": [
+   4312
+  ],
+  "jp": "[ef]　だ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4313",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC6A",
+  "end": "26FC76",
+  "slots": [
+   "252FCC"
+  ],
+  "idx": [
+   4313
+  ],
+  "jp": "[ef]　です！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4314",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC76",
+  "end": "26FC86",
+  "slots": [
+   "252FD0"
+  ],
+  "idx": [
+   4314
+  ],
+  "jp": "エイっ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4315",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC86",
+  "end": "26FC96",
+  "slots": [
+   "252FD4"
+  ],
+  "idx": [
+   4315
+  ],
+  "jp": "イケっ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4316",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FC96",
+  "end": "26FCA6",
+  "slots": [
+   "252FD8"
+  ],
+  "idx": [
+   4316
+  ],
+  "jp": "くらえ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4317",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FCA6",
+  "end": "26FCB0",
+  "slots": [
+   "252FDC"
+  ],
+  "idx": [
+   4317
+  ],
+  "jp": "[ef]　よ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4318",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FCB0",
+  "end": "26FCC2",
+  "slots": [
+   "252FE0"
+  ],
+  "idx": [
+   4318
+  ],
+  "jp": "カイフク！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4319",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FCC2",
+  "end": "26FCD4",
+  "slots": [
+   "252FE4"
+  ],
+  "idx": [
+   4319
+  ],
+  "jp": "・・・！　（[ef]）[end]",
+  "en": ""
+ },
+ {
+  "id": "M4320",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FCD4",
+  "end": "26FCE6",
+  "slots": [
+   "252FE8"
+  ],
+  "idx": [
+   4320
+  ],
+  "jp": "かいふく！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4321",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FCE6",
+  "end": "26FCF8",
+  "slots": [
+   "252FEC"
+  ],
+  "idx": [
+   4321
+  ],
+  "jp": "なおって！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4322",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FCF8",
+  "end": "26FD06",
+  "slots": [
+   "252FF0"
+  ],
+  "idx": [
+   4322
+  ],
+  "jp": "えいっ　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4323",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FD06",
+  "end": "26FD18",
+  "slots": [
+   "252FF4"
+  ],
+  "idx": [
+   4323
+  ],
+  "jp": "なおって！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4324",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FD18",
+  "end": "26FD20",
+  "slots": [
+   "252FF8"
+  ],
+  "idx": [
+   4324
+  ],
+  "jp": "[ef]！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4325",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FD20",
+  "end": "26FD28",
+  "slots": [
+   "252FFC"
+  ],
+  "idx": [
+   4325
+  ],
+  "jp": "[ef]！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4326",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FD28",
+  "end": "26FD3C",
+  "slots": [
+   "253000"
+  ],
+  "idx": [
+   4326
+  ],
+  "jp": "[ef]　ヲ　クラエ！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4327",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FD3C",
+  "end": "26FD4E",
+  "slots": [
+   "253004"
+  ],
+  "idx": [
+   4327
+  ],
+  "jp": "・・・！　（[ef]）[end]",
+  "en": ""
+ },
+ {
+  "id": "M4328",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FD4E",
+  "end": "26FD66",
+  "slots": [
+   "253008"
+  ],
+  "idx": [
+   4328
+  ],
+  "jp": "[ef]　でもくらいなさい！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4329",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FD66",
+  "end": "26FD76",
+  "slots": [
+   "25300C"
+  ],
+  "idx": [
+   4329
+  ],
+  "jp": "[ef]　ですわ！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4330",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FD76",
+  "end": "26FD88",
+  "slots": [
+   "253010"
+  ],
+  "idx": [
+   4330
+  ],
+  "jp": "エイ！！　[ef]だ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4331",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FD88",
+  "end": "26FD9A",
+  "slots": [
+   "253014"
+  ],
+  "idx": [
+   4331
+  ],
+  "jp": "キャハッ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4332",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FD9A",
+  "end": "26FDAC",
+  "slots": [
+   "253018"
+  ],
+  "idx": [
+   4332
+  ],
+  "jp": "くらいな！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4333",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FDAC",
+  "end": "26FDBE",
+  "slots": [
+   "25301C"
+  ],
+  "idx": [
+   4333
+  ],
+  "jp": "どう？　[ef]　よ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4334",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FDBE",
+  "end": "26FDD0",
+  "slots": [
+   "253020"
+  ],
+  "idx": [
+   4334
+  ],
+  "jp": "イクゾ！　[ef]！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4335",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FDD0",
+  "end": "26FDE2",
+  "slots": [
+   "253024"
+  ],
+  "idx": [
+   4335
+  ],
+  "jp": "・・・！　（[ef]）[end]",
+  "en": ""
+ },
+ {
+  "id": "M4336",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FDE2",
+  "end": "26FDF6",
+  "slots": [
+   "253028"
+  ],
+  "idx": [
+   4336
+  ],
+  "jp": "さぁ！！　[ef]　だ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4337",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FDF6",
+  "end": "26FE0A",
+  "slots": [
+   "25302C"
+  ],
+  "idx": [
+   4337
+  ],
+  "jp": "いくわよ！　[ef]！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4338",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FE0A",
+  "end": "26FE1C",
+  "slots": [
+   "253030"
+  ],
+  "idx": [
+   4338
+  ],
+  "jp": "いくぞ！　[ef]！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4339",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FE1C",
+  "end": "26FE30",
+  "slots": [
+   "253034"
+  ],
+  "idx": [
+   4339
+  ],
+  "jp": "みんな！　[ef]　よ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4340",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FE30",
+  "end": "26FE42",
+  "slots": [
+   "253038"
+  ],
+  "idx": [
+   4340
+  ],
+  "jp": "いくぜ！　[ef]！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4341",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FE42",
+  "end": "26FE54",
+  "slots": [
+   "25303C"
+  ],
+  "idx": [
+   4341
+  ],
+  "jp": "ほら！　[ef]　よ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4342",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FE54",
+  "end": "26FE66",
+  "slots": [
+   "253040"
+  ],
+  "idx": [
+   4342
+  ],
+  "jp": "カイフク！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4343",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FE66",
+  "end": "26FE78",
+  "slots": [
+   "253044"
+  ],
+  "idx": [
+   4343
+  ],
+  "jp": "・・・！　（[ef]）[end]",
+  "en": ""
+ },
+ {
+  "id": "M4344",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FE78",
+  "end": "26FE8A",
+  "slots": [
+   "253048"
+  ],
+  "idx": [
+   4344
+  ],
+  "jp": "かいふく！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4345",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FE8A",
+  "end": "26FE9C",
+  "slots": [
+   "25304C"
+  ],
+  "idx": [
+   4345
+  ],
+  "jp": "なおって！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4346",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FE9C",
+  "end": "26FEAA",
+  "slots": [
+   "253050"
+  ],
+  "idx": [
+   4346
+  ],
+  "jp": "えいっ　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4347",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FEAA",
+  "end": "26FEBC",
+  "slots": [
+   "253054"
+  ],
+  "idx": [
+   4347
+  ],
+  "jp": "なおって！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4348",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FEBC",
+  "end": "26FEC4",
+  "slots": [
+   "253058"
+  ],
+  "idx": [
+   4348
+  ],
+  "jp": "[ef]！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4349",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FEC4",
+  "end": "26FECC",
+  "slots": [
+   "25305C"
+  ],
+  "idx": [
+   4349
+  ],
+  "jp": "[ef]！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4350",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FECC",
+  "end": "26FEDE",
+  "slots": [
+   "253060"
+  ],
+  "idx": [
+   4350
+  ],
+  "jp": "フッカツ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4351",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FEDE",
+  "end": "26FEF0",
+  "slots": [
+   "253064"
+  ],
+  "idx": [
+   4351
+  ],
+  "jp": "・・・！　（[ef]）[end]",
+  "en": ""
+ },
+ {
+  "id": "M4352",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FEF0",
+  "end": "26FF06",
+  "slots": [
+   "253068"
+  ],
+  "idx": [
+   4352
+  ],
+  "jp": "ふっかつせよ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4353",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FF06",
+  "end": "26FF1A",
+  "slots": [
+   "25306C"
+  ],
+  "idx": [
+   4353
+  ],
+  "jp": "ふっかつよ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4354",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FF1A",
+  "end": "26FF2C",
+  "slots": [
+   "253070"
+  ],
+  "idx": [
+   4354
+  ],
+  "jp": "ふっかつ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4355",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FF2C",
+  "end": "26FF42",
+  "slots": [
+   "253074"
+  ],
+  "idx": [
+   4355
+  ],
+  "jp": "ふっかつして！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4356",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FF42",
+  "end": "26FF58",
+  "slots": [
+   "253078"
+  ],
+  "idx": [
+   4356
+  ],
+  "jp": "ふっかつしろ！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4357",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FF58",
+  "end": "26FF6E",
+  "slots": [
+   "25307C"
+  ],
+  "idx": [
+   4357
+  ],
+  "jp": "ふっかつしな！　[ef]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4358",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FF6E",
+  "end": "26FF84",
+  "slots": [
+   "253080"
+  ],
+  "idx": [
+   4358
+  ],
+  "jp": "・・・オボエテロヨ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4359",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FF84",
+  "end": "26FF94",
+  "slots": [
+   "253084"
+  ],
+  "idx": [
+   4359
+  ],
+  "jp": "・・・　・・・[end]",
+  "en": ""
+ },
+ {
+  "id": "M4360",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FF94",
+  "end": "26FFB8",
+  "slots": [
+   "253088"
+  ],
+  "idx": [
+   4360
+  ],
+  "jp": "・・・きょうは　かんべんしてやる！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4361",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FFB8",
+  "end": "26FFD6",
+  "slots": [
+   "25308C"
+  ],
+  "idx": [
+   4361
+  ],
+  "jp": "・・・おぼえておきなさい！！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4362",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FFD6",
+  "end": "26FFF8",
+  "slots": [
+   "253090"
+  ],
+  "idx": [
+   4362
+  ],
+  "jp": "・・・かてっこないよ　サヨナラ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4363",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "26FFF8",
+  "end": "270018",
+  "slots": [
+   "253094"
+  ],
+  "idx": [
+   4363
+  ],
+  "jp": "・・・またこんどね　バイバイ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4364",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270018",
+  "end": "27003C",
+  "slots": [
+   "253098"
+  ],
+  "idx": [
+   4364
+  ],
+  "jp": "・・・やってらんねーや！　んじゃ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4365",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27003C",
+  "end": "27005C",
+  "slots": [
+   "25309C"
+  ],
+  "idx": [
+   4365
+  ],
+  "jp": "・・・アイテにしてらんないわ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4366",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27005C",
+  "end": "27006C",
+  "slots": [
+   "2530A0"
+  ],
+  "idx": [
+   4366
+  ],
+  "jp": "ぼうぎょ：　[ef][end]",
+  "en": ""
+ },
+ {
+  "id": "M4367",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27006C",
+  "end": "270074",
+  "slots": [
+   "2530A4"
+  ],
+  "idx": [
+   4367
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4368",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270074",
+  "end": "27007C",
+  "slots": [
+   "2530A8"
+  ],
+  "idx": [
+   4368
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4369",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27007C",
+  "end": "270084",
+  "slots": [
+   "2530AC"
+  ],
+  "idx": [
+   4369
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4370",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270084",
+  "end": "27008C",
+  "slots": [
+   "2530B0"
+  ],
+  "idx": [
+   4370
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4371",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27008C",
+  "end": "270094",
+  "slots": [
+   "2530B4"
+  ],
+  "idx": [
+   4371
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4372",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "270094",
+  "end": "27009C",
+  "slots": [
+   "2530B8"
+  ],
+  "idx": [
+   4372
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4373",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27009C",
+  "end": "2700A4",
+  "slots": [
+   "2530BC"
+  ],
+  "idx": [
+   4373
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4374",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2700A4",
+  "end": "2700B2",
+  "slots": [
+   "2530C0"
+  ],
+  "idx": [
+   4374
+  ],
+  "jp": "ほじょ：　[ef][end]",
+  "en": ""
+ },
+ {
+  "id": "M4375",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2700B2",
+  "end": "2700BA",
+  "slots": [
+   "2530C4"
+  ],
+  "idx": [
+   4375
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4376",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2700BA",
+  "end": "2700C2",
+  "slots": [
+   "2530C8"
+  ],
+  "idx": [
+   4376
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4377",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2700C2",
+  "end": "2700CA",
+  "slots": [
+   "2530CC"
+  ],
+  "idx": [
+   4377
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4378",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2700CA",
+  "end": "2700D2",
+  "slots": [
+   "2530D0"
+  ],
+  "idx": [
+   4378
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4379",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2700D2",
+  "end": "2700DA",
+  "slots": [
+   "2530D4"
+  ],
+  "idx": [
+   4379
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4380",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2700DA",
+  "end": "2700E2",
+  "slots": [
+   "2530D8"
+  ],
+  "idx": [
+   4380
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4381",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2700E2",
+  "end": "2700EA",
+  "slots": [
+   "2530DC"
+  ],
+  "idx": [
+   4381
+  ],
+  "jp": "開発中[end]",
+  "en": ""
+ },
+ {
+  "id": "M4382",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2700EA",
+  "end": "2700FE",
+  "slots": [
+   "2530E0"
+  ],
+  "idx": [
+   4382
+  ],
+  "jp": "[f5]！　いってこい！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4383",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2700FE",
+  "end": "270114",
+  "slots": [
+   "2530E4"
+  ],
+  "idx": [
+   4383
+  ],
+  "jp": "[f5]のちからをみせろ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4384",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "270114",
+  "end": "27012A",
+  "slots": [
+   "2530E8"
+  ],
+  "idx": [
+   4384
+  ],
+  "jp": "おまえの出番だ　[f5]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4385",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "27012A",
+  "end": "27013C",
+  "slots": [
+   "2530EC"
+  ],
+  "idx": [
+   4385
+  ],
+  "jp": "[f5]！　たのんだ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4386",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "27013C",
+  "end": "27014E",
+  "slots": [
+   "2530F0"
+  ],
+  "idx": [
+   4386
+  ],
+  "jp": "負けるなよ　[f5]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4387",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "27014E",
+  "end": "270162",
+  "slots": [
+   "2530F4"
+  ],
+  "idx": [
+   4387
+  ],
+  "jp": "[f5]　ムリはするな！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4388",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "270162",
+  "end": "270178",
+  "slots": [
+   "2530F8"
+  ],
+  "idx": [
+   4388
+  ],
+  "jp": "[f5]　ユダンはするな！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4389",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "270178",
+  "end": "270188",
+  "slots": [
+   "2530FC"
+  ],
+  "idx": [
+   4389
+  ],
+  "jp": "[f5]なら勝てる！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4390",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "270188",
+  "end": "270198",
+  "slots": [
+   "253100"
+  ],
+  "idx": [
+   4390
+  ],
+  "jp": "[f5]　出番だぜ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4391",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "270198",
+  "end": "2701AA",
+  "slots": [
+   "253104"
+  ],
+  "idx": [
+   4391
+  ],
+  "jp": "まかせる！　[f5]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4392",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2701AA",
+  "end": "2701CC",
+  "slots": [
+   "253108"
+  ],
+  "idx": [
+   4392
+  ],
+  "jp": "よゆうだな　[f5][end]",
+  "en": ""
+ },
+ {
+  "id": "M4393",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2701BA",
+  "end": "2701CC",
+  "slots": [
+   "25310C"
+  ],
+  "idx": [
+   4393
+  ],
+  "jp": "[f5]　いってこい！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4394",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2701CC",
+  "end": "2701DA",
+  "slots": [
+   "253110"
+  ],
+  "idx": [
+   4394
+  ],
+  "jp": "いけ！　[f5]！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4395",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2701DA",
+  "end": "2701F0",
+  "slots": [
+   "253114"
+  ],
+  "idx": [
+   4395
+  ],
+  "jp": "[f5]　ゆだんするなよ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4396",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "2701F0",
+  "end": "270202",
+  "slots": [
+   "253118"
+  ],
+  "idx": [
+   4396
+  ],
+  "jp": "[f5]　一気にいけ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4397",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "270202",
+  "end": "270212",
+  "slots": [
+   "25311C"
+  ],
+  "idx": [
+   4397
+  ],
+  "jp": "[f5]　ふんばれ！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4398",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "270212",
+  "end": "270228",
+  "slots": [
+   "253120"
+  ],
+  "idx": [
+   4398
+  ],
+  "jp": "[f5]が　負けるなんて！[end]",
+  "en": ""
+ },
+ {
+  "id": "M4399",
+  "kind": "msg",
+  "dialect": "btl",
+  "off": "270228",
+  "end": "27023C",
+  "slots": [
+   "253124"
+  ],
+  "idx": [
+   4399
+  ],
+  "jp": "まさか　[f5]が・・・[end]",
+  "en": ""
+ }
+]

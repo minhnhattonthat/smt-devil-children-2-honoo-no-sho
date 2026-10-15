@@ -1,0 +1,2417 @@
+[
+ {
+  "id": "M0400",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23561E",
+  "end": "235640",
+  "slots": [
+   "24F2A8"
+  ],
+  "idx": [
+   400
+  ],
+  "jp": "[name:22][face:7]・・・　・・・　・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0401",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235640",
+  "end": "235660",
+  "slots": [
+   "24F2AC"
+  ],
+  "idx": [
+   401
+  ],
+  "jp": "[name:0][face:1]どうか　したのかい？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0402",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235660",
+  "end": "2356AA",
+  "slots": [
+   "24F2B0"
+  ],
+  "idx": [
+   402
+  ],
+  "jp": "[name:22]わたしは　ファルハ[wait][page]おとうさんが　帰ってくるのを[wait][n]まっているの[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0403",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2356AA",
+  "end": "2356C8",
+  "slots": [
+   "24F2B4"
+  ],
+  "idx": [
+   403
+  ],
+  "jp": "[name:0]お父さんを　まってる？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0404",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2356C8",
+  "end": "235786",
+  "slots": [
+   "24F2B8"
+  ],
+  "idx": [
+   404
+  ],
+  "jp": "[name:22]そうなの・・・[wait][page]お父さんと　森に行った時に[n]天使とデビルが現れて[wait][clr]戦いを　始めたの・・・[wait][page]お父さんは　わたしを[n]守ろうとして　戦いにまきこまれて[wait][clr]ゆくえが　わからなくなったの[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0405",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235786",
+  "end": "2357A8",
+  "slots": [
+   "24F2BC"
+  ],
+  "idx": [
+   405
+  ],
+  "jp": "[name:0]戦いに　まきこまれて・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0406",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2357A8",
+  "end": "2357E6",
+  "slots": [
+   "24F2C0"
+  ],
+  "idx": [
+   406
+  ],
+  "jp": "[name:23][face:8]オイ　オマエ！！[wait][n]ファルハ姉ちゃんを　いじめるな[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0407",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2357E6",
+  "end": "235884",
+  "slots": [
+   "24F2C4"
+  ],
+  "idx": [
+   407
+  ],
+  "jp": "[name:22][face:7]だいじょうぶよ　ケルミド！！[wait][n]この人は　いじめてなんかいない[wait][page]ごめんね・・・心配かけて[wait][n]もう　だいじょうぶだから[wait][clr]ケルミドも　元気出してね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0408",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235884",
+  "end": "235902",
+  "slots": [
+   "24F2C8"
+  ],
+  "idx": [
+   408
+  ],
+  "jp": "[name:23][face:8]ファルハ姉ちゃん・・・[wait][n]オレ　ぜったい強くなるからね[wait][page]強くなって　ファルハ姉ちゃんを[wait][n]守ってやるからね・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0409",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235902",
+  "end": "23591E",
+  "slots": [
+   "24F2CC"
+  ],
+  "idx": [
+   409
+  ],
+  "jp": "[name:22][face:7][f3]　気をつけてね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0410",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23591E",
+  "end": "235940",
+  "slots": [
+   "24F2D0"
+  ],
+  "idx": [
+   410
+  ],
+  "jp": "[name:23][face:8]・・・　・・・　・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0411",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235940",
+  "end": "235962",
+  "slots": [
+   "24F2D4"
+  ],
+  "idx": [
+   411
+  ],
+  "jp": "[name:23]なんだよ　ジロジロ見るなよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0412",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235962",
+  "end": "235978",
+  "slots": [
+   "24F2D8"
+  ],
+  "idx": [
+   412
+  ],
+  "jp": "[name:0]どうしたんだ？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0413",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235978",
+  "end": "2359BA",
+  "slots": [
+   "24F2DC"
+  ],
+  "idx": [
+   413
+  ],
+  "jp": "[name:23]・・・　・・・　・・・[wait][page]オレ　ぜったい強くなってやるんだ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0414",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2359BA",
+  "end": "2359E2",
+  "slots": [
+   "24F2E0"
+  ],
+  "idx": [
+   414
+  ],
+  "jp": "[name:0]どうして　強くなりたいんだよ？？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0415",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2359E2",
+  "end": "235A4C",
+  "slots": [
+   "24F2E4"
+  ],
+  "idx": [
+   415
+  ],
+  "jp": "[name:23]そんなの　決まってんじゃん[wait][page]だれにも負けないぐらい　強くなれば[n]みんなを　守ってやれるじゃんか！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0416",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235A4C",
+  "end": "235A6A",
+  "slots": [
+   "24F2E8"
+  ],
+  "idx": [
+   416
+  ],
+  "jp": "[name:0]・・・　・・・　・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0417",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235A6A",
+  "end": "235AA6",
+  "slots": [
+   "24F2EC"
+  ],
+  "idx": [
+   417
+  ],
+  "jp": "[name:23][face:8]アーアッ　どうしたら[n]強くなれるんだろう・・・？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0418",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235AA6",
+  "end": "235ADC",
+  "slots": [
+   "24F2F0"
+  ],
+  "idx": [
+   418
+  ],
+  "jp": "[name:23][face:8]チクショー[n]絶対　強くなってやるからな！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0419",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235ADC",
+  "end": "235B10",
+  "slots": [
+   "24F2F4"
+  ],
+  "idx": [
+   419
+  ],
+  "jp": "[name:22][face:7]そこにあるオハカは[n]お母さんのオハカなの[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0420",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235B10",
+  "end": "235B4E",
+  "slots": [
+   "24F2F8"
+  ],
+  "idx": [
+   420
+  ],
+  "jp": "[name:22][face:7]ケルミド　どこに行ったのかしら？[wait][page]心配だわ・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0421",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235B4E",
+  "end": "235B82",
+  "slots": [
+   "24F2FC"
+  ],
+  "idx": [
+   421
+  ],
+  "jp": "[name:1][face:255][f3]　見たか？[wait][page]ラクシュミが　変身したぞ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0422",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235B82",
+  "end": "235BBE",
+  "slots": [
+   "24F300"
+  ],
+  "idx": [
+   422
+  ],
+  "jp": "[name:0][face:1]ああ・・・たしかに[n]見たこともない　やつだったな[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0423",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235BBE",
+  "end": "235C10",
+  "slots": [
+   "24F304"
+  ],
+  "idx": [
+   423
+  ],
+  "jp": "[name:1][face:255]あんなやつは　オレも[n]見たことがないぜ[wait][page]いったい　どうなってるんだ？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0424",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235C10",
+  "end": "235C32",
+  "slots": [
+   "24F308"
+  ],
+  "idx": [
+   424
+  ],
+  "jp": "[name:0][face:1]・・・　・・・　？？？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0425",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235C32",
+  "end": "235C56",
+  "slots": [
+   "24F30C"
+  ],
+  "idx": [
+   425
+  ],
+  "jp": "[name:0][face:1][f2][n]また　変身したぞ！？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0426",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235C56",
+  "end": "235CD6",
+  "slots": [
+   "24F310"
+  ],
+  "idx": [
+   426
+  ],
+  "jp": "[name:1][face:255]ああ　こんどのやつも[n]いままでに　見たことがないぜ[wait][page][f3][n]あいつらは　ただの天使どもじゃ[wait][clr]ないのかも　しれないぜ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0427",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235CD6",
+  "end": "235D16",
+  "slots": [
+   "24F314",
+   "24F318",
+   "24F31C"
+  ],
+  "idx": [
+   427,
+   428,
+   429
+  ],
+  "jp": "[name:28][face:20]何か　困ったことがあったら[n]そうだんに　来るといいよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0430",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235D16",
+  "end": "235D2E",
+  "slots": [
+   "24F320"
+  ],
+  "idx": [
+   430
+  ],
+  "jp": "[name:28][face:20]来たわね　[f3][wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0431",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235D2E",
+  "end": "235D6E",
+  "slots": [
+   "24F324"
+  ],
+  "idx": [
+   431
+  ],
+  "jp": "[name:28]レジーヌには　ないしょだけど[n]わたしは　女とうぞくなのよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0432",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235D6E",
+  "end": "235D96",
+  "slots": [
+   "24F328"
+  ],
+  "idx": [
+   432
+  ],
+  "jp": "[name:28][face:20][f3][n]氷の使徒を　たおしたのね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0433",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235D96",
+  "end": "235EBC",
+  "slots": [
+   "24F32C"
+  ],
+  "idx": [
+   433
+  ],
+  "jp": "[name:28]お城の中で　聞いたうわさだと[n]レナは　お城の外へ[wait][clr]厘れて行かれたらしいわよ[wait][page]何でも　橋をわたって行ったとか[wait][page][f3][n]あきらめないでね！[wait][page]あなたなら　きっとレナを[n]見つけ出すことが　できるわよ[wait][page]あっ　それからこれは[n]お城の中で　手に入れたものなの[wait][page]きっと　あなたの役にたつはずだわ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0434",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235EBC",
+  "end": "235EEC",
+  "slots": [
+   "24F330"
+  ],
+  "idx": [
+   434
+  ],
+  "jp": "[f3]は　セクから[n]ベストリのカギを　受け取った[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0435",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235EEC",
+  "end": "235F32",
+  "slots": [
+   "24F334"
+  ],
+  "idx": [
+   435
+  ],
+  "jp": "[name:28][face:20][f3][n]それじゃあ　気をつけてね[wait][page]レナを　助けてあげて・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0436",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235F32",
+  "end": "235F56",
+  "slots": [
+   "24F338"
+  ],
+  "idx": [
+   436
+  ],
+  "jp": "[name:29][f3][n]それじゃあ　気をつけてね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0437",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235F56",
+  "end": "235F90",
+  "slots": [
+   "24F33C"
+  ],
+  "idx": [
+   437
+  ],
+  "jp": "[name:0]ああ・・・　・・・[wait][page]だけど　レナはいなかったんだ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0438",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235F90",
+  "end": "235FCE",
+  "slots": [
+   "24F340",
+   "24F344",
+   "24F348"
+  ],
+  "idx": [
+   438,
+   439,
+   440
+  ],
+  "jp": "マジッスか？　そんなことなら[wait][n]オレに　まかしてほしいッス[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0441",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "235FCE",
+  "end": "236030",
+  "slots": [
+   "24F34C"
+  ],
+  "idx": [
+   441
+  ],
+  "jp": "[name:8][face:44][f3][n]この子たちは　オレが[wait][clr]安全な所へ　つれて行くッス[wait][page]さあ　みんなこっちに来るッス[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0442",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236030",
+  "end": "236048",
+  "slots": [
+   "24F350"
+  ],
+  "idx": [
+   442
+  ],
+  "jp": "[name:8][face:44]それッス！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0443",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236048",
+  "end": "236084",
+  "slots": [
+   "24F354"
+  ],
+  "idx": [
+   443
+  ],
+  "jp": "[name:8][face:44]さあ　[f3]　これで[n]子供たちは　ダイジョーブッスよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0444",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236084",
+  "end": "2360B2",
+  "slots": [
+   "24F358"
+  ],
+  "idx": [
+   444
+  ],
+  "jp": "[name:0][face:1]ああパク　たすかったよ[n]ありがとう[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0445",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2360B2",
+  "end": "2361AC",
+  "slots": [
+   "24F35C"
+  ],
+  "idx": [
+   445
+  ],
+  "jp": "[name:8][face:44]へへへ　マジッスか・・・？[wait][page]オレみたいな　やつでも[n]やくにたつッスよね！[wait][page]でも　気をつけてほしいッスよ[wait][n]この奥にいる　エノクは[wait][clr]けっこう強いッス[wait][page]ちゃんと　じゅんびしてから[n]行ったほうが　いいッスよ[wait][page]そんじゃあ　オレは行くッス[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0446",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2361AC",
+  "end": "2361CA",
+  "slots": [
+   "24F360"
+  ],
+  "idx": [
+   446
+  ],
+  "jp": "[name:0][face:1]なんだ　これは！？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0447",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2361CA",
+  "end": "236204",
+  "slots": [
+   "24F364"
+  ],
+  "idx": [
+   447
+  ],
+  "jp": "[name:0][face:1]いったい　ここは！？[wait][page]まるで　ハイキョだぜ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0448",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236204",
+  "end": "236262",
+  "slots": [
+   "24F368"
+  ],
+  "idx": [
+   448
+  ],
+  "jp": "[name:1][face:255]ああ　だけどなんとなく[n]みおぼえが　ある気がするぜ[wait][page][f3][n]気をつけたほうがいいぜ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0449",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236262",
+  "end": "236286",
+  "slots": [
+   "24F36C",
+   "24F370"
+  ],
+  "idx": [
+   449,
+   450
+  ],
+  "jp": "[name:36]レナ　いよいよ行くのですね？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0451",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236286",
+  "end": "2362D4",
+  "slots": [
+   "24F374"
+  ],
+  "idx": [
+   451
+  ],
+  "jp": "[name:6][face:2]ええ　そろそろ行くわ[wait][page]その時のゲートには[n]原宿から　行けるのね？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0452",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2362D4",
+  "end": "23632C",
+  "slots": [
+   "24F378"
+  ],
+  "idx": [
+   452
+  ],
+  "jp": "[name:36]そうです　そしてその先に[n]わたしたちの　ふるさとが[wait][clr]あなたを　まっているのです[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0453",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23632C",
+  "end": "2363A0",
+  "slots": [
+   "24F37C"
+  ],
+  "idx": [
+   453
+  ],
+  "jp": "[name:6][face:2]わたしは　そこで[n]氷の使徒に　会えばいいのね[wait][page]でも　わたしを追ってくる[n]デビルチルドレンは　どうする？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0454",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2363A0",
+  "end": "236404",
+  "slots": [
+   "24F380"
+  ],
+  "idx": [
+   454
+  ],
+  "jp": "[name:36][f3]のことは[n]わたしに　まかせてください[wait][page]二度とあなたの前に[n]姿をあらわすことは　ありません[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0455",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236404",
+  "end": "236452",
+  "slots": [
+   "24F384"
+  ],
+  "idx": [
+   455
+  ],
+  "jp": "[name:6][face:2]・・・　・・・　・・・[wait][page]わかったわ　それじゃあ[n]わたしは　行くわ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0456",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236452",
+  "end": "2364C4",
+  "slots": [
+   "24F388"
+  ],
+  "idx": [
+   456
+  ],
+  "jp": "[name:36]ふ　ふふふ・・・・[wait][n]こむすめが　いい気になって[wait][page]何が　自分の身に起こるのか[n]知りもせずに・・・　・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0457",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2364C4",
+  "end": "2365D4",
+  "slots": [
+   "24F38C"
+  ],
+  "idx": [
+   457
+  ],
+  "jp": "そこのトビラのむこうには[n]バビロンの迷宮が　あるんだが[wait][clr]天使たちが　せめこんできたんで[wait][clr]閉じておくことにしたんだ[wait][page]だけど　天使たちは[n]トラポートという　マホウを使って[wait][clr]いろんな所に　あらわれるらしいよ[wait][page]まっ　アクマのカギがあれば[n]そのトビラは　開くらしいがね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0458",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2365D4",
+  "end": "236606",
+  "slots": [
+   "24F390"
+  ],
+  "idx": [
+   458
+  ],
+  "jp": "重そうなトビラで[n]閉ざされている・・・　・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0459",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236606",
+  "end": "236696",
+  "slots": [
+   "24F394"
+  ],
+  "idx": [
+   459
+  ],
+  "jp": "この間まで　ここに[n]ケルミドっていう[wait][clr]デビルが　いたんだけれどさ[wait][page]ゼッタイ強くなるんだって[n]はりきっていたけど[wait][clr]どうしたかなあ・・・？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0460",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236696",
+  "end": "2366D6",
+  "slots": [
+   "24F398"
+  ],
+  "idx": [
+   460
+  ],
+  "jp": "ほかのデビルを　助けるなんて[n]ケルミドも　強くなったのかもね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0461",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2366D6",
+  "end": "23670A",
+  "slots": [
+   "24F39C"
+  ],
+  "idx": [
+   461
+  ],
+  "jp": "[name:23][face:8]ファルハ父さん！！[wait][n]しっかりしなよ！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0462",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23670A",
+  "end": "236728",
+  "slots": [
+   "24F3A0"
+  ],
+  "idx": [
+   462
+  ],
+  "jp": "ウーン・・・フゥフゥ・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0463",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236728",
+  "end": "23676E",
+  "slots": [
+   "24F3A4"
+  ],
+  "idx": [
+   463
+  ],
+  "jp": "[name:23][face:8]うーん！！　ヨイショ！！[wait][n]クソー！！　ヨイショ　ヨイショ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0464",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23676E",
+  "end": "2367B2",
+  "slots": [
+   "24F3A8"
+  ],
+  "idx": [
+   464
+  ],
+  "jp": "[name:23][face:8]うーん！！　ヨイショ！！[wait][n]よーし　もうチョットだぞ！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0465",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2367B2",
+  "end": "2367EE",
+  "slots": [
+   "24F3AC"
+  ],
+  "idx": [
+   465
+  ],
+  "jp": "[name:23][face:8]うーん！！　ヨイショ！！[wait][n]よーし　ソーレッ！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0466",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2367EE",
+  "end": "236848",
+  "slots": [
+   "24F3B0"
+  ],
+  "idx": [
+   466
+  ],
+  "jp": "[name:23][face:8]フーッ　やったぜ！！[wait][page]あとは　ファルハねえちゃんに[n]知らせれば　いいんだな！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0467",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236848",
+  "end": "23687C",
+  "slots": [
+   "24F3B4"
+  ],
+  "idx": [
+   467
+  ],
+  "jp": "うーん・・・　・・・[wait][n]・・・　ファルハ　・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0468",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23687C",
+  "end": "236894",
+  "slots": [
+   "24F3B8"
+  ],
+  "idx": [
+   468
+  ],
+  "jp": "[name:23][face:8]あっ　[f3]だ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0469",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236894",
+  "end": "23691C",
+  "slots": [
+   "24F3BC"
+  ],
+  "idx": [
+   469
+  ],
+  "jp": "[name:23]ここに　ねてるのが[n]ファルハねえちゃんの[wait][clr]父さんなんだ[wait][page]森の中で　たおれているのを[wait][n]見つけて　ここまで[wait][clr]運んできたんだよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0470",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23691C",
+  "end": "236956",
+  "slots": [
+   "24F3C0"
+  ],
+  "idx": [
+   470
+  ],
+  "jp": "[name:0]そうか・・・[n]エライぞ　ケルミド[wait][page]強くなったなあ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0471",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236956",
+  "end": "2369DE",
+  "slots": [
+   "24F3C4"
+  ],
+  "idx": [
+   471
+  ],
+  "jp": "[name:23][face:8]そんなことより[n]ファルハねえちゃんを　ここへ[wait][clr]よんできて　くれないかなあ？[wait][page]そしたら　父さん[n]キット　よくなると思うんだ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0472",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2369DE",
+  "end": "236A74",
+  "slots": [
+   "24F3C8"
+  ],
+  "idx": [
+   472
+  ],
+  "jp": "[name:23][face:8]ねえ　[f3][wait][n]イネルスタウンまで　行って[wait][clr]ファルハねえちゃんを　ここへ[wait][clr]よんできてくれよ[wait][page]そしたら　父さん[n]キット　よくなると思うんだ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0473",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236A74",
+  "end": "236A9A",
+  "slots": [
+   "24F3CC"
+  ],
+  "idx": [
+   473
+  ],
+  "jp": "[name:22][face:7]あらっ　[f3][wait][n]どうしたの？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0474",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236A9A",
+  "end": "236B02",
+  "slots": [
+   "24F3D0"
+  ],
+  "idx": [
+   474
+  ],
+  "jp": "[name:0]ファルハ　キミの父さんが[wait][n]見つかったんだ[wait][page]アンヌンの町で　ケルミドが[n]めんどうを　見てるんだ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0475",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236B02",
+  "end": "236B44",
+  "slots": [
+   "24F3D4"
+  ],
+  "idx": [
+   475
+  ],
+  "jp": "[name:22]えっ　アンヌンの町で！！[wait][page]ケルミドが　見つけてくれたの？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0476",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236B44",
+  "end": "236B90",
+  "slots": [
+   "24F3D8"
+  ],
+  "idx": [
+   476
+  ],
+  "jp": "[name:22][face:7][f3][wait][n]じゅんびしてから　行くから[wait][clr]先に　アンヌンの町へ行ってて[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0477",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236B90",
+  "end": "236BD2",
+  "slots": [
+   "24F3DC"
+  ],
+  "idx": [
+   477
+  ],
+  "jp": "いっしょうけんめい　ガンバッテル[n]男の子って　ちょっといいわね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0478",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236BD2",
+  "end": "236C06",
+  "slots": [
+   "24F3E0"
+  ],
+  "idx": [
+   478
+  ],
+  "jp": "[name:23][face:8]あっ　[f3][wait][n]ファルハねえちゃんは・・・？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0479",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236C06",
+  "end": "236C3C",
+  "slots": [
+   "24F3E4"
+  ],
+  "idx": [
+   479
+  ],
+  "jp": "[name:0][face:1]もう　そろそろ[wait][n]来るはずだけどなあ・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0480",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236C3C",
+  "end": "236C80",
+  "slots": [
+   "24F3E8"
+  ],
+  "idx": [
+   480
+  ],
+  "jp": "[name:22][face:7]はあ　はあ・・・　・・・[wait][n]・・・　・・・　お父さん！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0481",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236C80",
+  "end": "236CC4",
+  "slots": [
+   "24F3EC"
+  ],
+  "idx": [
+   481
+  ],
+  "jp": "[name:23][face:8]あっ　ファルハねえちゃん[wait][n]お父さんはそのベッドで・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0482",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236CC4",
+  "end": "236D06",
+  "slots": [
+   "24F3F0"
+  ],
+  "idx": [
+   482
+  ],
+  "jp": "[name:22][face:7]はあ　はあ・・・　・・・[wait][n]お父さん　しっかりして！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0483",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236D06",
+  "end": "236D28",
+  "slots": [
+   "24F3F4"
+  ],
+  "idx": [
+   483
+  ],
+  "jp": "[name:71]おおファルハじゃないか！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0484",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236D28",
+  "end": "236D8E",
+  "slots": [
+   "24F3F8"
+  ],
+  "idx": [
+   484
+  ],
+  "jp": "[name:22][face:7]お父さん　気がついたのね[wait][n]よかった！！[wait][page]ここにいるみんなが[n]父さんを　助けてくれたのよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0485",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236D8E",
+  "end": "236DB2",
+  "slots": [
+   "24F3FC"
+  ],
+  "idx": [
+   485
+  ],
+  "jp": "[name:71]そうか　おかげで助かったわい[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0486",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236DB2",
+  "end": "236DD2",
+  "slots": [
+   "24F400"
+  ],
+  "idx": [
+   486
+  ],
+  "jp": "[name:23][face:8]おじさん　よかったね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0487",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236DD2",
+  "end": "236E38",
+  "slots": [
+   "24F404"
+  ],
+  "idx": [
+   487
+  ],
+  "jp": "[name:71]おお　ケルミドじゃないか[wait][page]少し　見ない間に[wait][n]たくましくなったな[wait][page]もうリッパな　大人じゃな[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0488",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236E38",
+  "end": "236E9E",
+  "slots": [
+   "24F408"
+  ],
+  "idx": [
+   488
+  ],
+  "jp": "[name:23][face:8]そんなことないよ[wait][page]でも　おじさんが帰ってきて[wait][n]ファルハねえちゃん[wait][clr]うれしそうだよ！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0489",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236E9E",
+  "end": "236F6C",
+  "slots": [
+   "24F40C"
+  ],
+  "idx": [
+   489
+  ],
+  "jp": "[name:71]見も知らぬ　わしのために[n]ごくろうを　おかけしましたな[wait][page]おお　そうじゃ[n]これは　わしが[wait][clr]森の中で　迷っている時に[wait][clr]見つけたものですじゃ[wait][page]何かの　役に立つかもしれないから[wait][n]受け取ってくだされ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0490",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236F6C",
+  "end": "236FE2",
+  "slots": [
+   "24F410"
+  ],
+  "idx": [
+   490
+  ],
+  "jp": "[name:71]本当に　ありがとうございました[wait][page]わしらは　これで帰りますが[wait][n]何かの時には　いつでも[wait][clr]たずねてきてくだされ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0491",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "236FE2",
+  "end": "237006",
+  "slots": [
+   "24F414"
+  ],
+  "idx": [
+   491
+  ],
+  "jp": "[f3]は[n]アクマのカギを　手に入れた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0492",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237006",
+  "end": "23703E",
+  "slots": [
+   "24F418"
+  ],
+  "idx": [
+   492
+  ],
+  "jp": "[name:22][face:7][f3]　ありがとう！[wait][n]このことは　わすれないわ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0493",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23703E",
+  "end": "2370F2",
+  "slots": [
+   "24F41C"
+  ],
+  "idx": [
+   493
+  ],
+  "jp": "[name:23][face:8][f3]　ありがとう[wait][page]オレ　強くなるってことが[wait][n]どういうことなのか　ちょっと[wait][clr]わかった気がするんだ！！[wait][page]だから　オレも[wait][n][f3]みたいに[wait][clr]強くなれるように　がんばるよ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0494",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2370F2",
+  "end": "237128",
+  "slots": [
+   "24F420"
+  ],
+  "idx": [
+   494
+  ],
+  "jp": "[name:22][face:7][f3]　ありがとう！[wait][page]あなたも　がんばってね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0495",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237128",
+  "end": "237148",
+  "slots": [
+   "24F424"
+  ],
+  "idx": [
+   495
+  ],
+  "jp": "[f3]は[n]アクマのカギを　使った[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0496",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237148",
+  "end": "2371EE",
+  "slots": [
+   "24F428"
+  ],
+  "idx": [
+   496
+  ],
+  "jp": "おやっ　いつのまにか[n]トビラが　なくなったな[wait][page]まあ　いいんじゃないか[wait][page]どうせ　天使たちは[n]トラポートという　マホウを使って[wait][clr]いろんな所に　あらわれるんだから[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0497",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2371EE",
+  "end": "2371F8",
+  "slots": [
+   "24F42C",
+   "24F430"
+  ],
+  "idx": [
+   497,
+   498
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0499",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2371F8",
+  "end": "23721C",
+  "slots": [
+   "24F434",
+   "24F438"
+  ],
+  "idx": [
+   499,
+   500
+  ],
+  "jp": "あら　[f3]くん！[n]どこに　行くの？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0501",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23721C",
+  "end": "23723C",
+  "slots": [
+   "24F43C"
+  ],
+  "idx": [
+   501
+  ],
+  "jp": "トビラは　固くとざされている[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0502",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23723C",
+  "end": "23725C",
+  "slots": [
+   "24F440"
+  ],
+  "idx": [
+   502
+  ],
+  "jp": "[f3]は[n]ベストリのカギを使った[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0503",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23725C",
+  "end": "237270",
+  "slots": [
+   "24F444"
+  ],
+  "idx": [
+   503
+  ],
+  "jp": "トビラが　開いた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0504",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237270",
+  "end": "237288",
+  "slots": [
+   "24F448"
+  ],
+  "idx": [
+   504
+  ],
+  "jp": "[f3]は[n]宝箱を　開けた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0505",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237288",
+  "end": "2372C0",
+  "slots": [
+   "24F44C"
+  ],
+  "idx": [
+   505
+  ],
+  "jp": "光の紋章を　見つけた[wait][page][f3]は[n]光の紋章を　手に入れた[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0506",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2372C0",
+  "end": "2372E4",
+  "slots": [
+   "24F450"
+  ],
+  "idx": [
+   506
+  ],
+  "jp": "何かを　はめるようなヘコミがある[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0507",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2372E4",
+  "end": "237316",
+  "slots": [
+   "24F454"
+  ],
+  "idx": [
+   507
+  ],
+  "jp": "[f3]は[n]光の紋章を　はめた[wait][page]闇の封印が　とける[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0508",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237316",
+  "end": "237338",
+  "slots": [
+   "24F458"
+  ],
+  "idx": [
+   508
+  ],
+  "jp": "宝箱には　なにもはいっていない[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0509",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237338",
+  "end": "237370",
+  "slots": [
+   "24F45C",
+   "24F460"
+  ],
+  "idx": [
+   509,
+   510
+  ],
+  "jp": "モーッ　また朝ゴハン[n]いっぱい　食べてたんでしょ！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0511",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237370",
+  "end": "2373A6",
+  "slots": [
+   "24F464"
+  ],
+  "idx": [
+   511
+  ],
+  "jp": "さーっ　今日もビシビシ[n]子供たちを　しごかなきゃー[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0512",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2373A6",
+  "end": "2373EC",
+  "slots": [
+   "24F468"
+  ],
+  "idx": [
+   512
+  ],
+  "jp": "[name:7][f3]　ありがとう[wait][page]あなたのおかげで[n]全ての世界が　すくわれたわ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0513",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2373EC",
+  "end": "237466",
+  "slots": [
+   "24F46C"
+  ],
+  "idx": [
+   513
+  ],
+  "jp": "[name:0]そんなセリフは　ナシだよ[wait][page]本当に　世界をすくったのは[wait][n]自分をギセイにしてまで[wait][clr]世界をすくおうとした　アミだよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0514",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237466",
+  "end": "2374A6",
+  "slots": [
+   "24F470"
+  ],
+  "idx": [
+   514
+  ],
+  "jp": "[name:7]レナ！！[wait][n]もどってきたんだ！！[wait][page]ぶじで　ヨカッタ！！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0515",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2374A6",
+  "end": "237516",
+  "slots": [
+   "24F474"
+  ],
+  "idx": [
+   515
+  ],
+  "jp": "[name:6]へへへ・・・[wait][n]みんな　元気！？[wait][page]今度は　ちょっとキツカッタかな？[wait][page]でも　ケッコウおもしろかったよね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0516",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237516",
+  "end": "237574",
+  "slots": [
+   "24F478"
+  ],
+  "idx": [
+   516
+  ],
+  "jp": "[name:5]レナ　天使にさらわれたんだって？[wait][page]まったく　いつもの事だけど[wait][n]止まらないやつだよな[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0517",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237574",
+  "end": "2375FE",
+  "slots": [
+   "24F47C"
+  ],
+  "idx": [
+   517
+  ],
+  "jp": "[name:6]チガウヨ！！　止まらないのは[wait][n]いつだって　[f3]の[wait][clr]ほうなんだから[wait][page]マッ　わたしのおかげで[wait][n][f3]は　いつも[wait][clr]楽しんでるんだから[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0518",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2375FE",
+  "end": "237662",
+  "slots": [
+   "24F480"
+  ],
+  "idx": [
+   518
+  ],
+  "jp": "[name:0]ふーっ　まったく[n]いいかげんにしろよ！！[wait][page]アキラ　つかれたぜ[wait][n]そろそろ　オワリにしようか[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0519",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237662",
+  "end": "2376C4",
+  "slots": [
+   "24F484"
+  ],
+  "idx": [
+   519
+  ],
+  "jp": "[name:6]ダメだよー　これからが[wait][n]おもしろいんだから[wait][page]もっと　アソボーよ[wait][n]ねー　そうでしょアミ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0520",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2376C4",
+  "end": "2376FA",
+  "slots": [
+   "24F488"
+  ],
+  "idx": [
+   520
+  ],
+  "jp": "[name:7]そうね　いろんなデビルが[n]いっぱい　いるものね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0521",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2376FA",
+  "end": "237752",
+  "slots": [
+   "24F48C"
+  ],
+  "idx": [
+   521
+  ],
+  "jp": "[name:6]そうよ・・・　・・・[wait][page]あっ　それにさあ　最後に[wait][n]ちゃんと　アイサツしなきゃ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0522",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237752",
+  "end": "237772",
+  "slots": [
+   "24F490"
+  ],
+  "idx": [
+   522
+  ],
+  "jp": "[name:5]アイサツって・・・？？？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0523",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237772",
+  "end": "237792",
+  "slots": [
+   "24F494"
+  ],
+  "idx": [
+   523
+  ],
+  "jp": "[name:0]ダレに　・・・　だよ！？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0524",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237792",
+  "end": "2377E4",
+  "slots": [
+   "24F498"
+  ],
+  "idx": [
+   524
+  ],
+  "jp": "みんな　どうもアリガトウ！！[wait][page]これからも　デビチルを[wait][n]　ヨ　ロ　シ　ク　ね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0525",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2377E4",
+  "end": "237826",
+  "slots": [
+   "24F49C",
+   "24F4A0",
+   "24F4A4",
+   "24F4A8",
+   "24F4AC",
+   "24F4B0"
+  ],
+  "idx": [
+   525,
+   526,
+   527,
+   528,
+   529,
+   530
+  ],
+  "jp": "[name:28]へーっ　この氷の世界の[wait][n]ダレが　そんなことをしたんだい？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0531",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237826",
+  "end": "2378C0",
+  "slots": [
+   "24F4B4"
+  ],
+  "idx": [
+   531
+  ],
+  "jp": "[name:0]氷の使徒に　したがうやつらだ[wait][page]だけど　氷の使徒がダレで[n]何のためにレナを　オレの友達を[wait][clr]この世界に　つれてきたのか[wait][clr]よくわからないんだ・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0532",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2378C0",
+  "end": "237A7C",
+  "slots": [
+   "24F4B8"
+  ],
+  "idx": [
+   532
+  ],
+  "jp": "[name:28]氷の使徒というのは[wait][n]このニフルヘイムという[wait][clr]氷の世界を　治めているのさ[wait][page]この世界には　氷の世界と炎の世界[n]そしてその二つをつなぐ[wait][clr]巨大な橋によって　できているのよ[wait][page]そして　氷の使徒のもつ氷のチカラと[wait][n]ムスペルヘイムという炎の世界を[wait][clr]治める　炎の使徒の　炎のチカラが[wait][clr]おたがいに　戦いをいどみ[wait][clr]この世界を　終わりのない[wait][clr]戦いの世界に　しているのさ[wait][page]おかげで　私たちも[n]戦いにまきこまれて[wait][clr]ひどいめに　あっているのさ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0533",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237A7C",
+  "end": "237BA4",
+  "slots": [
+   "24F4BC"
+  ],
+  "idx": [
+   533
+  ],
+  "jp": "[name:28][face:20]でもね　こんな世界でも[wait][n]私たちにとっては　生きるための[wait][clr]ダイジな世界なんだよ[wait][page]みんな　この世界の中で[n]一生けんめい　生きているんだよ[wait][page]それはそうと　あんたの[wait][n]友達の話は　わかったわ[wait][page]わたしも　心当たりをさがして[wait][n]そのレナっていう子のことが[wait][clr]何かわかったら　教えてあげる[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0534",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237BA4",
+  "end": "237BE0",
+  "slots": [
+   "24F4C0"
+  ],
+  "idx": [
+   534
+  ],
+  "jp": "[name:0][face:1]レナは　氷の使徒の城へ[n]厘れていかれたらしいんだ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0535",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237BE0",
+  "end": "237D28",
+  "slots": [
+   "24F4C4"
+  ],
+  "idx": [
+   535
+  ],
+  "jp": "[name:28][face:20]そうなんだ・・・　・・・[wait][page]お城の城下町は　この町から[n]東のほうに　行けばあるのよ[wait][page]だけど　お城の入り口は[wait][n]げんじゅうなケイカイで[wait][clr]かんたんには　入れないわよ[wait][page]でも　いいわ！　わかった！！[wait][n]あたしが　調べてみるわ[wait][page]レジーヌ　あたし　また[n]出かけちゃうけど　心配しないで[wait][page]アンタのことは　ちゃんとするから[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0536",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237D28",
+  "end": "237D52",
+  "slots": [
+   "24F4C8"
+  ],
+  "idx": [
+   536
+  ],
+  "jp": "[name:26][face:11]うん　あたし　ダイジョウブだよ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0537",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237D52",
+  "end": "237D8C",
+  "slots": [
+   "24F4CC"
+  ],
+  "idx": [
+   537
+  ],
+  "jp": "[name:0]女とうぞくって・・・？？[wait][page]ドロボーなのかよ・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0538",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237D8C",
+  "end": "237E8C",
+  "slots": [
+   "24F4D0"
+  ],
+  "idx": [
+   538
+  ],
+  "jp": "[name:28]ドロボーって言えば　まあ・・・[wait][page]でもね　お金にこまってる人や[n]りっぱな人には　手をださないよ[wait][page]私が　手をだすのは[n]人をだましたり　おどしたりして[wait][clr]お金を　手に入れている[wait][clr]悪いやつだけだからね[wait][page]でも　そんな事より[n]あなたの友達の　話だけれど[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0539",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237E8C",
+  "end": "237EB4",
+  "slots": [
+   "24F4D4"
+  ],
+  "idx": [
+   539
+  ],
+  "jp": "[name:0]レナのことで　何かわかったのか？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0540",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237EB4",
+  "end": "237F4A",
+  "slots": [
+   "24F4D8"
+  ],
+  "idx": [
+   540
+  ],
+  "jp": "[name:28]たしかに　うわさだと[n]お城の中に　いるらしいんだけど[wait][page]私が　いくらさがしても[n]見つからないのよ・・・[wait][page]まあもう少し　さがしてみるけど・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0541",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237F4A",
+  "end": "237F6C",
+  "slots": [
+   "24F4DC"
+  ],
+  "idx": [
+   541
+  ],
+  "jp": "[name:0]オレも　いっしょに行くぜ！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0542",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "237F6C",
+  "end": "238032",
+  "slots": [
+   "24F4E0"
+  ],
+  "idx": [
+   542
+  ],
+  "jp": "[name:28]ダメよ　二人だと[n]すぐに　見つかってしまうわ[wait][page]これも　ウワサだけど[n]どこかに　お城にはいる[wait][clr]ヌケミチが　あるらしいの[wait][page]アンタは　そのヌケミチを見つけて[wait][n]そこから入るのが　いいと思うわ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0543",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238032",
+  "end": "238052",
+  "slots": [
+   "24F4E4"
+  ],
+  "idx": [
+   543
+  ],
+  "jp": "[name:0]城に入るヌケミチか・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0544",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238052",
+  "end": "238118",
+  "slots": [
+   "24F4E8"
+  ],
+  "idx": [
+   544
+  ],
+  "jp": "[name:28]それと　もうひとつ[n]お城の中で　聞いた話だけど[wait][page]氷の使徒は　時々[n]守護神のほこらに　行って[wait][clr]守護神に　あっているらしいの[wait][page]そこで　何が話されてるのかまでは[n]ダレも知らないみたいだけどね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0545",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238118",
+  "end": "238198",
+  "slots": [
+   "24F4EC"
+  ],
+  "idx": [
+   545
+  ],
+  "jp": "[name:28][face:20]ともかく　お城に入る方法を[n]見つけることね[wait][page]ここであまり話してると[wait][n]めだっちゃって　だめだわ[wait][page]さあ　早く行って[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0546",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238198",
+  "end": "2381A2",
+  "slots": [
+   "24F4F0",
+   "24F4F4",
+   "24F4F8",
+   "24F4FC"
+  ],
+  "idx": [
+   546,
+   547,
+   548,
+   549
+  ],
+  "jp": "開発中[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0550",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2381A2",
+  "end": "23820A",
+  "slots": [
+   "24F500"
+  ],
+  "idx": [
+   550
+  ],
+  "jp": "いらっしゃいませ！[wait][page]ここのショップは[n]天界で１番の品ぞろえですよ！[wait][page]ささ！　見ていってください！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0551",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23820A",
+  "end": "2382B0",
+  "slots": [
+   "24F504"
+  ],
+  "idx": [
+   551
+  ],
+  "jp": "オマエ　このへんじゃ[n]あまり　見ないカオですね・・・[wait][page]まぁ　いいでしょう[n]お金さえ　持っていれば　ダレだって[wait][clr]お客さんですから・・・[wait][page]で　何か　買いますか？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0552",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2382B0",
+  "end": "2382E2",
+  "slots": [
+   "24F508"
+  ],
+  "idx": [
+   552
+  ],
+  "jp": "いらっしゃい・・・[wait][page]何かごようですか・・・？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0553",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2382E2",
+  "end": "238388",
+  "slots": [
+   "24F50C"
+  ],
+  "idx": [
+   553
+  ],
+  "jp": "アナタは　このニフルヘイムの[n]人間じゃないみたいですね[wait][page]でも　どんな方でも[n]お客さんは　カミさまですから[wait][clr]なんでも　売りますよ！[wait][page]さ！　見ていってください！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0554",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238388",
+  "end": "2383DC",
+  "slots": [
+   "24F510"
+  ],
+  "idx": [
+   554
+  ],
+  "jp": "いらっしゃいませ！[wait][page]お客さん！[n]いいもの　ありますよ！[wait][page]見ていってください！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0555",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2383DC",
+  "end": "23844C",
+  "slots": [
+   "24F514"
+  ],
+  "idx": [
+   555
+  ],
+  "jp": "いらっしゃいませ！[n]ここは　氷の使徒さまのおひざもと！[wait][page]品ぞろえなら　ニフル１です！[n]見ていってください！[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0556",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23844C",
+  "end": "2384CC",
+  "slots": [
+   "24F518"
+  ],
+  "idx": [
+   556
+  ],
+  "jp": "いらっしゃいませ！[wait][page]いざと言うとき　たよりになるのは[n]アイテムですよ！[wait][page]ちゃんとジュンビしておくのが[n]ジョウシキですよね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0557",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2384CC",
+  "end": "238576",
+  "slots": [
+   "24F51C"
+  ],
+  "idx": [
+   557
+  ],
+  "jp": "いらっしゃい！[wait][page]ギンヌンガガップゆいいつの[n]ショップへ　ようこそ！[wait][page]ここでしか手に入らない[n]きちょうなアイテムも売ってますので[wait][clr]おきがるに　見ていってくださいね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0558",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238576",
+  "end": "2385F2",
+  "slots": [
+   "24F520"
+  ],
+  "idx": [
+   558
+  ],
+  "jp": "ここアウドムラの町は[n]ギンヌンガガップ　ゆいいつの町です[wait][page]旅をするなら　ちゃんとここで[n]ジュンビをしていってくださいね[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0559",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2385F2",
+  "end": "238654",
+  "slots": [
+   "24F524"
+  ],
+  "idx": [
+   559
+  ],
+  "jp": "[name:64][face:19]じつはな・・・最近[n]ちがうくんれんをはじめたんだ！[wait][page]どうだい？[n]ためしてみないかい？[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0560",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238654",
+  "end": "238672",
+  "slots": [
+   "24F528"
+  ],
+  "idx": [
+   560
+  ],
+  "jp": "ためしてみる[n]また　こんどね[end]",
+  "en": ""
+ },
+ {
+  "id": "M0561",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238672",
+  "end": "238746",
+  "slots": [
+   "24F52C"
+  ],
+  "idx": [
+   561
+  ],
+  "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]未来の天界へと　その身をいざなう[wait][clr]時のゲート・・・[wait][page]未来の世界をかえるのは　現代での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0562",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238746",
+  "end": "238826",
+  "slots": [
+   "24F530"
+  ],
+  "idx": [
+   562
+  ],
+  "jp": "光のチカラを　うけつぎし者よ・・・[wait][page]この先は　時のカベをこえ[n]過去のギンヌンガガップへと[wait][clr]その身をいざなう　時のゲート・・・[wait][page]現代の世界をかえるのは　過去での[n]オマエの行動だ・・・[wait][page]こころして　かかるがいい・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0563",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238826",
+  "end": "238878",
+  "slots": [
+   "24F534",
+   "24F538",
+   "24F53C",
+   "24F540",
+   "24F544",
+   "24F548",
+   "24F54C",
+   "24F550",
+   "24F554"
+  ],
+  "idx": [
+   563,
+   564,
+   565,
+   566,
+   567,
+   568,
+   569,
+   570,
+   571
+  ],
+  "jp": "[name:20]天使のチカラをもった少女よ・・・[wait][n]もうすぐ　オマエは[wait][clr]カミと　なるのだ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0572",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238878",
+  "end": "2388CE",
+  "slots": [
+   "24F558"
+  ],
+  "idx": [
+   572
+  ],
+  "jp": "[name:20]オマエのなかに　やどった[wait][n]新しい世界が　もうすぐ[wait][clr]うまれようとしているのだ[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0573",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2388CE",
+  "end": "238906",
+  "slots": [
+   "24F55C"
+  ],
+  "idx": [
+   573
+  ],
+  "jp": "[name:20]その世界もまた　戦いに[wait][n]みちあふれているだろう[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0574",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238906",
+  "end": "238926",
+  "slots": [
+   "24F560"
+  ],
+  "idx": [
+   574
+  ],
+  "jp": "[name:20]光と闇・・・炎と氷・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0575",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238926",
+  "end": "23897A",
+  "slots": [
+   "24F564"
+  ],
+  "idx": [
+   575
+  ],
+  "jp": "[name:20]二つのチカラが　すべての[n]あらそいの　もととなり[wait][clr]はてしのない　戦いが続く[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0576",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "23897A",
+  "end": "2389B4",
+  "slots": [
+   "24F568"
+  ],
+  "idx": [
+   576
+  ],
+  "jp": "[name:20]そんな世界を　もうすぐ[wait][n]オマエは　うみだすだろう[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0577",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "2389B4",
+  "end": "238A12",
+  "slots": [
+   "24F56C"
+  ],
+  "idx": [
+   577
+  ],
+  "jp": "[name:20]そして　戦いの続く世界を[wait][n]見守り　そだてていくのが[wait][clr]このわしの　やくめなのだ・・・[wait][end]",
+  "en": ""
+ },
+ {
+  "id": "M0578",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "238A12",
+  "end": "238A28",
+  "slots": [
+   "24F570",
+   "24F574",
+   "24F578",
+   "24F57C",
+   "24F580",
+   "24F584",
+   "24F588",
+   "24F58C",
+   "24F590",
+   "24F594",
+   "24F598",
+   "24F59C",
+   "24F5A0",
+   "24F5A4",
+   "24F5A8",
+   "24F5AC",
+   "24F5B0",
+   "24F5B4",
+   "24F5B8",
+   "24F5BC",
+   "24F5C0",
+   "24F5C4"
+  ],
+  "idx": [
+   578,
+   579,
+   580,
+   581,
+   582,
+   583,
+   584,
+   585,
+   586,
+   587,
+   588,
+   589,
+   590,
+   591,
+   592,
+   593,
+   594,
+   595,
+   596,
+   597,
+   598,
+   599
+  ],
+  "jp": "[f4]を　手に入れた！[wait][end]",
+  "en": ""
+ }
+]

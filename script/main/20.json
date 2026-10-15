@@ -1,0 +1,1307 @@
+[
+ {
+  "id": "M4000",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A46C",
+  "end": "27A472",
+  "slots": [
+   "252AE8"
+  ],
+  "idx": [
+   4000
+  ],
+  "jp": "天界[end]",
+  "en": ""
+ },
+ {
+  "id": "M4001",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A472",
+  "end": "27A482",
+  "slots": [
+   "252AEC"
+  ],
+  "idx": [
+   4001
+  ],
+  "jp": "ムスペルヘイム[end]",
+  "en": ""
+ },
+ {
+  "id": "M4002",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A482",
+  "end": "27A490",
+  "slots": [
+   "252AF0"
+  ],
+  "idx": [
+   4002
+  ],
+  "jp": "ニフルヘイム[end]",
+  "en": ""
+ },
+ {
+  "id": "M4003",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A490",
+  "end": "27A4A2",
+  "slots": [
+   "252AF4"
+  ],
+  "idx": [
+   4003
+  ],
+  "jp": "ギンヌンガガップ[end]",
+  "en": ""
+ },
+ {
+  "id": "M4004",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A4A2",
+  "end": "27A4B0",
+  "slots": [
+   "252AF8"
+  ],
+  "idx": [
+   4004
+  ],
+  "jp": "世界のハザマ[end]",
+  "en": ""
+ },
+ {
+  "id": "M4005",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A4B0",
+  "end": "27A4C2",
+  "slots": [
+   "252AFC"
+  ],
+  "idx": [
+   4005
+  ],
+  "jp": "ハイエストピーク[end]",
+  "en": ""
+ },
+ {
+  "id": "M4006",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A4C2",
+  "end": "27A4CE",
+  "slots": [
+   "252B00"
+  ],
+  "idx": [
+   4006
+  ],
+  "jp": "原宿大通り[end]",
+  "en": ""
+ },
+ {
+  "id": "M4007",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A4CE",
+  "end": "27A4D8",
+  "slots": [
+   "252B04"
+  ],
+  "idx": [
+   4007
+  ],
+  "jp": "原宿公園[end]",
+  "en": ""
+ },
+ {
+  "id": "M4008",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A4D8",
+  "end": "27A4E4",
+  "slots": [
+   "252B08"
+  ],
+  "idx": [
+   4008
+  ],
+  "jp": "原宿小学校[end]",
+  "en": ""
+ },
+ {
+  "id": "M4009",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A4E4",
+  "end": "27A4F4",
+  "slots": [
+   "252B0C"
+  ],
+  "idx": [
+   4009
+  ],
+  "jp": "アクマのホコラ[end]",
+  "en": ""
+ },
+ {
+  "id": "M4010",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A4F4",
+  "end": "27A4FE",
+  "slots": [
+   "252B10"
+  ],
+  "idx": [
+   4010
+  ],
+  "jp": "天使の塔[end]",
+  "en": ""
+ },
+ {
+  "id": "M4011",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A4FE",
+  "end": "27A510",
+  "slots": [
+   "252B14"
+  ],
+  "idx": [
+   4011
+  ],
+  "jp": "セントラルランド[end]",
+  "en": ""
+ },
+ {
+  "id": "M4012",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A510",
+  "end": "27A520",
+  "slots": [
+   "252B18"
+  ],
+  "idx": [
+   4012
+  ],
+  "jp": "ヘイルダム平原[end]",
+  "en": ""
+ },
+ {
+  "id": "M4013",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A520",
+  "end": "27A52E",
+  "slots": [
+   "252B1C"
+  ],
+  "idx": [
+   4013
+  ],
+  "jp": "ダークパレス[end]",
+  "en": ""
+ },
+ {
+  "id": "M4014",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A52E",
+  "end": "27A53E",
+  "slots": [
+   "252B20"
+  ],
+  "idx": [
+   4014
+  ],
+  "jp": "アケロンリバー[end]",
+  "en": ""
+ },
+ {
+  "id": "M4015",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A53E",
+  "end": "27A546",
+  "slots": [
+   "252B24"
+  ],
+  "idx": [
+   4015
+  ],
+  "jp": "黒い森[end]",
+  "en": ""
+ },
+ {
+  "id": "M4016",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A546",
+  "end": "27A556",
+  "slots": [
+   "252B28"
+  ],
+  "idx": [
+   4016
+  ],
+  "jp": "イネルスタウン[end]",
+  "en": ""
+ },
+ {
+  "id": "M4017",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A556",
+  "end": "27A566",
+  "slots": [
+   "252B2C"
+  ],
+  "idx": [
+   4017
+  ],
+  "jp": "パンデモニウム[end]",
+  "en": ""
+ },
+ {
+  "id": "M4018",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A566",
+  "end": "27A572",
+  "slots": [
+   "252B30"
+  ],
+  "idx": [
+   4018
+  ],
+  "jp": "時のゲート[end]",
+  "en": ""
+ },
+ {
+  "id": "M4019",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A572",
+  "end": "27A580",
+  "slots": [
+   "252B34"
+  ],
+  "idx": [
+   4019
+  ],
+  "jp": "落とし穴の森[end]",
+  "en": ""
+ },
+ {
+  "id": "M4020",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A580",
+  "end": "27A58A",
+  "slots": [
+   "252B38"
+  ],
+  "idx": [
+   4020
+  ],
+  "jp": "地下世界[end]",
+  "en": ""
+ },
+ {
+  "id": "M4021",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A58A",
+  "end": "27A598",
+  "slots": [
+   "252B3C"
+  ],
+  "idx": [
+   4021
+  ],
+  "jp": "アンヌンの町[end]",
+  "en": ""
+ },
+ {
+  "id": "M4022",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A598",
+  "end": "27A5A8",
+  "slots": [
+   "252B40"
+  ],
+  "idx": [
+   4022
+  ],
+  "jp": "バビロンの迷宮[end]",
+  "en": ""
+ },
+ {
+  "id": "M4023",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A5A8",
+  "end": "27A5B2",
+  "slots": [
+   "252B44"
+  ],
+  "idx": [
+   4023
+  ],
+  "jp": "異界の門[end]",
+  "en": ""
+ },
+ {
+  "id": "M4024",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A5B2",
+  "end": "27A5C0",
+  "slots": [
+   "252B48"
+  ],
+  "idx": [
+   4024
+  ],
+  "jp": "水の天使の町[end]",
+  "en": ""
+ },
+ {
+  "id": "M4025",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A5C0",
+  "end": "27A5CE",
+  "slots": [
+   "252B4C"
+  ],
+  "idx": [
+   4025
+  ],
+  "jp": "水の巨大水門[end]",
+  "en": ""
+ },
+ {
+  "id": "M4026",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A5CE",
+  "end": "27A5E0",
+  "slots": [
+   "252B50"
+  ],
+  "idx": [
+   4026
+  ],
+  "jp": "ロテュスしつげん[end]",
+  "en": ""
+ },
+ {
+  "id": "M4027",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A5E0",
+  "end": "27A5F2",
+  "slots": [
+   "252B54"
+  ],
+  "idx": [
+   4027
+  ],
+  "jp": "ミッドキングダム[end]",
+  "en": ""
+ },
+ {
+  "id": "M4028",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A5F2",
+  "end": "27A600",
+  "slots": [
+   "252B58"
+  ],
+  "idx": [
+   4028
+  ],
+  "jp": "ライトパレス[end]",
+  "en": ""
+ },
+ {
+  "id": "M4029",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A600",
+  "end": "27A610",
+  "slots": [
+   "252B5C"
+  ],
+  "idx": [
+   4029
+  ],
+  "jp": "ディオースの森[end]",
+  "en": ""
+ },
+ {
+  "id": "M4030",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A610",
+  "end": "27A61E",
+  "slots": [
+   "252B60"
+  ],
+  "idx": [
+   4030
+  ],
+  "jp": "土の天使の町[end]",
+  "en": ""
+ },
+ {
+  "id": "M4031",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A61E",
+  "end": "27A628",
+  "slots": [
+   "252B64"
+  ],
+  "idx": [
+   4031
+  ],
+  "jp": "土の樹海[end]",
+  "en": ""
+ },
+ {
+  "id": "M4032",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A628",
+  "end": "27A634",
+  "slots": [
+   "252B68"
+  ],
+  "idx": [
+   4032
+  ],
+  "jp": "バベルの塔[end]",
+  "en": ""
+ },
+ {
+  "id": "M4033",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A634",
+  "end": "27A642",
+  "slots": [
+   "252B6C"
+  ],
+  "idx": [
+   4033
+  ],
+  "jp": "風の天使の町[end]",
+  "en": ""
+ },
+ {
+  "id": "M4034",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A642",
+  "end": "27A652",
+  "slots": [
+   "252B70"
+  ],
+  "idx": [
+   4034
+  ],
+  "jp": "世捨て人の洞寓[end]",
+  "en": ""
+ },
+ {
+  "id": "M4035",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A652",
+  "end": "27A65C",
+  "slots": [
+   "252B74"
+  ],
+  "idx": [
+   4035
+  ],
+  "jp": "風の風穴[end]",
+  "en": ""
+ },
+ {
+  "id": "M4036",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A65C",
+  "end": "27A66A",
+  "slots": [
+   "252B78"
+  ],
+  "idx": [
+   4036
+  ],
+  "jp": "火の天使の町[end]",
+  "en": ""
+ },
+ {
+  "id": "M4037",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A66A",
+  "end": "27A676",
+  "slots": [
+   "252B7C"
+  ],
+  "idx": [
+   4037
+  ],
+  "jp": "ゼーレ平原[end]",
+  "en": ""
+ },
+ {
+  "id": "M4038",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A676",
+  "end": "27A682",
+  "slots": [
+   "252B80"
+  ],
+  "idx": [
+   4038
+  ],
+  "jp": "火の機械山[end]",
+  "en": ""
+ },
+ {
+  "id": "M4039",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A682",
+  "end": "27A68E",
+  "slots": [
+   "252B84"
+  ],
+  "idx": [
+   4039
+  ],
+  "jp": "修行者の村[end]",
+  "en": ""
+ },
+ {
+  "id": "M4040",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A68E",
+  "end": "27A69A",
+  "slots": [
+   "252B88"
+  ],
+  "idx": [
+   4040
+  ],
+  "jp": "修行者の道[end]",
+  "en": ""
+ },
+ {
+  "id": "M4041",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A69A",
+  "end": "27A6A6",
+  "slots": [
+   "252B8C"
+  ],
+  "idx": [
+   4041
+  ],
+  "jp": "エデンの都[end]",
+  "en": ""
+ },
+ {
+  "id": "M4042",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A6A6",
+  "end": "27A6B6",
+  "slots": [
+   "252B90"
+  ],
+  "idx": [
+   4042
+  ],
+  "jp": "炎の使徒城下町[end]",
+  "en": ""
+ },
+ {
+  "id": "M4043",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A6B6",
+  "end": "27A6C4",
+  "slots": [
+   "252B94"
+  ],
+  "idx": [
+   4043
+  ],
+  "jp": "炎の使徒の城[end]",
+  "en": ""
+ },
+ {
+  "id": "M4044",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A6C4",
+  "end": "27A6D4",
+  "slots": [
+   "252B98"
+  ],
+  "idx": [
+   4044
+  ],
+  "jp": "ソールフィヨル[end]",
+  "en": ""
+ },
+ {
+  "id": "M4045",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A6D4",
+  "end": "27A6E2",
+  "slots": [
+   "252B9C"
+  ],
+  "idx": [
+   4045
+  ],
+  "jp": "ロガフィエル[end]",
+  "en": ""
+ },
+ {
+  "id": "M4046",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A6E2",
+  "end": "27A6F4",
+  "slots": [
+   "252BA0"
+  ],
+  "idx": [
+   4046
+  ],
+  "jp": "ハートゥーン高地[end]",
+  "en": ""
+ },
+ {
+  "id": "M4047",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A6F4",
+  "end": "27A702",
+  "slots": [
+   "252BA4"
+  ],
+  "idx": [
+   4047
+  ],
+  "jp": "ミーミルの泉[end]",
+  "en": ""
+ },
+ {
+  "id": "M4048",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A702",
+  "end": "27A712",
+  "slots": [
+   "252BA8"
+  ],
+  "idx": [
+   4048
+  ],
+  "jp": "スズリのホコラ[end]",
+  "en": ""
+ },
+ {
+  "id": "M4049",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A712",
+  "end": "27A724",
+  "slots": [
+   "252BAC"
+  ],
+  "idx": [
+   4049
+  ],
+  "jp": "アウストのホコラ[end]",
+  "en": ""
+ },
+ {
+  "id": "M4050",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A724",
+  "end": "27A736",
+  "slots": [
+   "252BB0"
+  ],
+  "idx": [
+   4050
+  ],
+  "jp": "ルロウのタミの村[end]",
+  "en": ""
+ },
+ {
+  "id": "M4051",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A736",
+  "end": "27A744",
+  "slots": [
+   "252BB4"
+  ],
+  "idx": [
+   4051
+  ],
+  "jp": "ヨウセイの町[end]",
+  "en": ""
+ },
+ {
+  "id": "M4052",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A744",
+  "end": "27A754",
+  "slots": [
+   "252BB8"
+  ],
+  "idx": [
+   4052
+  ],
+  "jp": "氷の使徒城下町[end]",
+  "en": ""
+ },
+ {
+  "id": "M4053",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A754",
+  "end": "27A762",
+  "slots": [
+   "252BBC"
+  ],
+  "idx": [
+   4053
+  ],
+  "jp": "氷の使徒の城[end]",
+  "en": ""
+ },
+ {
+  "id": "M4054",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A762",
+  "end": "27A772",
+  "slots": [
+   "252BC0"
+  ],
+  "idx": [
+   4054
+  ],
+  "jp": "スネーフィヨル[end]",
+  "en": ""
+ },
+ {
+  "id": "M4055",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A772",
+  "end": "27A780",
+  "slots": [
+   "252BC4"
+  ],
+  "idx": [
+   4055
+  ],
+  "jp": "ギムレー雪原[end]",
+  "en": ""
+ },
+ {
+  "id": "M4056",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A780",
+  "end": "27A78E",
+  "slots": [
+   "252BC8"
+  ],
+  "idx": [
+   4056
+  ],
+  "jp": "ニザフィヨル[end]",
+  "en": ""
+ },
+ {
+  "id": "M4057",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A78E",
+  "end": "27A7A0",
+  "slots": [
+   "252BCC"
+  ],
+  "idx": [
+   4057
+  ],
+  "jp": "フヴェルゲルミル[end]",
+  "en": ""
+ },
+ {
+  "id": "M4058",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A7A0",
+  "end": "27A7B2",
+  "slots": [
+   "252BD0"
+  ],
+  "idx": [
+   4058
+  ],
+  "jp": "ノルズリのホコラ[end]",
+  "en": ""
+ },
+ {
+  "id": "M4059",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A7B2",
+  "end": "27A7C4",
+  "slots": [
+   "252BD4"
+  ],
+  "idx": [
+   4059
+  ],
+  "jp": "ベストリのホコラ[end]",
+  "en": ""
+ },
+ {
+  "id": "M4060",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A7C4",
+  "end": "27A7D2",
+  "slots": [
+   "252BD8"
+  ],
+  "idx": [
+   4060
+  ],
+  "jp": "ダークノース[end]",
+  "en": ""
+ },
+ {
+  "id": "M4061",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A7D2",
+  "end": "27A7E2",
+  "slots": [
+   "252BDC"
+  ],
+  "idx": [
+   4061
+  ],
+  "jp": "アウドムラの町[end]",
+  "en": ""
+ },
+ {
+  "id": "M4062",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A7E2",
+  "end": "27A7F0",
+  "slots": [
+   "252BE0"
+  ],
+  "idx": [
+   4062
+  ],
+  "jp": "守護神の洞寓[end]",
+  "en": ""
+ },
+ {
+  "id": "M4063",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A7F0",
+  "end": "27A7FA",
+  "slots": [
+   "252BE4"
+  ],
+  "idx": [
+   4063
+  ],
+  "jp": "巨大な橋[end]",
+  "en": ""
+ },
+ {
+  "id": "M4064",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A7FA",
+  "end": "27A804",
+  "slots": [
+   "252BE8"
+  ],
+  "idx": [
+   4064
+  ],
+  "jp": "橋の洞寓[end]",
+  "en": ""
+ },
+ {
+  "id": "M4065",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A804",
+  "end": "27A812",
+  "slots": [
+   "252BEC"
+  ],
+  "idx": [
+   4065
+  ],
+  "jp": "封印の深えん[end]",
+  "en": ""
+ },
+ {
+  "id": "M4066",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A812",
+  "end": "27A81E",
+  "slots": [
+   "252BF0"
+  ],
+  "idx": [
+   4066
+  ],
+  "jp": "ベリトの間[end]",
+  "en": ""
+ },
+ {
+  "id": "M4067",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A81E",
+  "end": "27A82E",
+  "slots": [
+   "252BF4"
+  ],
+  "idx": [
+   4067
+  ],
+  "jp": "フェゴールの間[end]",
+  "en": ""
+ },
+ {
+  "id": "M4068",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A82E",
+  "end": "27A83A",
+  "slots": [
+   "252BF8"
+  ],
+  "idx": [
+   4068
+  ],
+  "jp": "ゼブルの間[end]",
+  "en": ""
+ },
+ {
+  "id": "M4069",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A83A",
+  "end": "27A84C",
+  "slots": [
+   "252BFC"
+  ],
+  "idx": [
+   4069
+  ],
+  "jp": "原宿小学校　校庭[end]",
+  "en": ""
+ },
+ {
+  "id": "M4070",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A84C",
+  "end": "27A852",
+  "slots": [
+   "252C00"
+  ],
+  "idx": [
+   4070
+  ],
+  "jp": "教室[end]",
+  "en": ""
+ },
+ {
+  "id": "M4071",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A852",
+  "end": "27A85E",
+  "slots": [
+   "252C04"
+  ],
+  "idx": [
+   4071
+  ],
+  "jp": "しょく員室[end]",
+  "en": ""
+ },
+ {
+  "id": "M4072",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A85E",
+  "end": "27A866",
+  "slots": [
+   "252C08"
+  ],
+  "idx": [
+   4072
+  ],
+  "jp": "保健室[end]",
+  "en": ""
+ },
+ {
+  "id": "M4073",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A866",
+  "end": "27A872",
+  "slots": [
+   "252C0C"
+  ],
+  "idx": [
+   4073
+  ],
+  "jp": "原宿地下街[end]",
+  "en": ""
+ },
+ {
+  "id": "M4074",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A872",
+  "end": "27A880",
+  "slots": [
+   "252C10"
+  ],
+  "idx": [
+   4074
+  ],
+  "jp": "デビル合体屋[end]",
+  "en": ""
+ },
+ {
+  "id": "M4075",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A880",
+  "end": "27A88A",
+  "slots": [
+   "252C14"
+  ],
+  "idx": [
+   4075
+  ],
+  "jp": "ショップ[end]",
+  "en": ""
+ },
+ {
+  "id": "M4076",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A88A",
+  "end": "27A892",
+  "slots": [
+   "252C18"
+  ],
+  "idx": [
+   4076
+  ],
+  "jp": "ホテル[end]",
+  "en": ""
+ },
+ {
+  "id": "M4077",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A892",
+  "end": "27A8A2",
+  "slots": [
+   "252C1C"
+  ],
+  "idx": [
+   4077
+  ],
+  "jp": "原宿マンション[end]",
+  "en": ""
+ },
+ {
+  "id": "M4078",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A8A2",
+  "end": "27A8AA",
+  "slots": [
+   "252C20"
+  ],
+  "idx": [
+   4078
+  ],
+  "jp": "真っ黒[end]",
+  "en": ""
+ },
+ {
+  "id": "M4079",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A8AA",
+  "end": "27A8B2",
+  "slots": [
+   "252C24"
+  ],
+  "idx": [
+   4079
+  ],
+  "jp": "真っ白[end]",
+  "en": ""
+ },
+ {
+  "id": "M4080",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A8B2",
+  "end": "27A8C2",
+  "slots": [
+   "252C28"
+  ],
+  "idx": [
+   4080
+  ],
+  "jp": "ルシファーの間[end]",
+  "en": ""
+ },
+ {
+  "id": "M4081",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A8C2",
+  "end": "27A8D2",
+  "slots": [
+   "252C2C"
+  ],
+  "idx": [
+   4081
+  ],
+  "jp": "ヴィネセンター[end]",
+  "en": ""
+ },
+ {
+  "id": "M4082",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A8D2",
+  "end": "27A8DA",
+  "slots": [
+   "252C30"
+  ],
+  "idx": [
+   4082
+  ],
+  "jp": "カジノ[end]",
+  "en": ""
+ },
+ {
+  "id": "M4083",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A8DA",
+  "end": "27A8E2",
+  "slots": [
+   "252C34"
+  ],
+  "idx": [
+   4083
+  ],
+  "jp": "みんか[end]",
+  "en": ""
+ },
+ {
+  "id": "M4084",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A8E2",
+  "end": "27A8EE",
+  "slots": [
+   "252C38"
+  ],
+  "idx": [
+   4084
+  ],
+  "jp": "天使長の間[end]",
+  "en": ""
+ },
+ {
+  "id": "M4085",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A8EE",
+  "end": "27A8F6",
+  "slots": [
+   "252C3C"
+  ],
+  "idx": [
+   4085
+  ],
+  "jp": "山小屋[end]",
+  "en": ""
+ },
+ {
+  "id": "M4086",
+  "kind": "msg",
+  "dialect": "dlg",
+  "off": "27A8F6",
+  "end": "27A908",
+  "slots": [
+   "252C40"
+  ],
+  "idx": [
+   4086
+  ],
+  "jp": "氷の使徒の城下町[end]",
+  "en": ""
+ }
+]
