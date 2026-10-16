@@ -90,11 +90,16 @@ def wrap(text, dialect='dlg'):
             elif name == 'clr':
                 line, x = 1, 0
                 pending_space = False
-            if name in VAR_W:
+            if name in VAR_W:               # a variable is a word: the space before it stays before it
                 w = enc.text_width(tok, var_w=VAR_W)
-                if x and x + w > limit:
+                sp = enc.text_width(' ') if (pending_space and x) else 0
+                if x and x + sp + w > limit:
                     brk()
-                x += w
+                    sp = 0
+                if sp:
+                    out.append(' ')
+                x += sp + w
+                pending_space = False
             out.append(tok)
             continue
         if tok == ' ':
@@ -125,9 +130,16 @@ def fit(text, width):
         cur, x, pend = '', 0, False
         for kind, tok in tokens(para):
             if kind == 'c':
-                cur += tok
                 if tok[1:-1].split(':')[0] in VAR_W:
-                    x += enc.text_width(tok, var_w=VAR_W)
+                    w = enc.text_width(tok, var_w=VAR_W)
+                    sp = enc.text_width(' ') if (pend and x) else 0
+                    if x and x + sp + w > width:
+                        out_lines.append((cur, x))
+                        cur, x, sp = '', 0, 0
+                    cur += ' ' if sp else ''
+                    x += sp + w
+                    pend = False
+                cur += tok
                 continue
             if tok == ' ':
                 pend = True

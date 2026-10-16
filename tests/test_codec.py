@@ -27,3 +27,17 @@ def test_glyph_index_code_inverse():
     import font as F
     for i in range(1240):
         assert F.code_to_index(F.index_to_code(i)) == i
+
+
+def test_wrap_keeps_space_before_variable():
+    import wrap as W
+    assert W.wrap('So you are called [f3].[wait][end]')[0] == 'So you are called [f3].[wait][end]'
+    assert W.fit('Use it on [f5]?[end]', 216)[0] == 'Use it on [f5]?[end]'
+
+
+def test_str_ends_on_zero_unit():
+    import enc
+    for t in ('Pixie', ' joined', 'ab'):
+        b = enc.encode_str(t)
+        assert len(b) % 2 == 0 and b[-2:] == b'\0\0' and b'\0' not in b[:-2]
+    assert enc.encode_field('Pixie') == b'Pixie\x7f' + b'\x81\x40' * 5
