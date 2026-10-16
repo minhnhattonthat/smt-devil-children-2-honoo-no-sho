@@ -227,6 +227,7 @@ def build(mode='en', only=None, out=OUT, arrays=True):
         gfx.append(itemtabs.gen_bg())
         import namebuttons
         gfx.append(namebuttons.gen())
+        gfx += namebuttons.gen_single()
         import nameprompt
         gfx.append(nameprompt.gen())
         import titlelogo, vinecom
@@ -234,6 +235,8 @@ def build(mode='en', only=None, out=OUT, arrays=True):
         gfx += vinecom.gen()
         import headers
         gfx += headers.gen()
+        import bigsmall
+        gfx.append(bigsmall.gen())
         for slots, blob in gfx:
             at = space.put(blob, align=4)
             for so in slots:
