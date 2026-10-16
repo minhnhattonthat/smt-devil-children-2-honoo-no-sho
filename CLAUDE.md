@@ -10,7 +10,9 @@ Batch brief: H:/translation/batch/projects/BATCH_BRIEF.md (all rulings pre-appro
 - Intro route: `--route-str "600 -;6 start;120 -;6 a;120 -;6 a;120 -;6 a" --frames 6000 --mash 50 --mash-key a` (dialogue from ~f3700)
 - Translation: `tools/batches.py split|check bNNN|merge bNNN|status`; brief docs/translator-brief.md; style docs/style-reference.md.
   Batch files in work/tl (gitignored; merged English lives in script/*.json). Extract: `tools/extract.py` (never --force: clobbers en).
-- Release:  (not yet) BPS via skill bps.py; release/<slug>_en.zip local only.
+- Release:  `python -X utf8 tools/release.py` (build, romdiff, BPS made+verified, README from tools/README.release.txt,
+  release/<slug>_en.zip). Local only, never publish.
+- QA sheets: `tools/debug/msgtour.py 0-5330 --jobs 4 --regen` then `tools/debug/boxsheet.py` (work/qa/boxsheets).
 
 ## Paths
 - Original ROM: `rom/honoo.gba` (8 MiB, SHA-1 8c29d692..., DEBITIRUFLAMB, SRAM save). Ref only: `rom/ref/ice_ref.gba`
@@ -37,5 +39,6 @@ Batch brief: H:/translation/batch/projects/BATCH_BRIEF.md (all rulings pre-appro
 - Translation 7139/7149 (10 keep: kana grid, arrays, false ptr), all batches reviewed + fixes applied (fixes/*.tsv).
 - Graphics done: title logo, field menu labels, item tabs, name entry; battle menu x fix; condensed en8 font.
 - Fixed: strs now end on a 0000 unit (game strcpy is unit-wise: recruiting a demon hung); wrap kept space before vars.
-- Phase 8 QA in progress: msgtour all main ids (work/qa/msgs), then save/load, staff roll, battle, jp_left, release.
+- RELEASED v1.0 (local zip). Patch SHA-1 b11c5236897e9f6dc88c8e737bef84bc6fa6da28, ROM SHA-1 acacd07d...
+- Graphics also: Vinecom, ally-screen plates, settings buttons, 2nd name buttons. Known: settings cursor box JP width.
 - Debug: work/walk4_20k.txt from work/states/s020000.mss reaches a Pixie recruit battle (~+3000 f).

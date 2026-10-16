@@ -40,6 +40,10 @@ Known limits
 - A few labels drawn in tiny fixed boxes use short forms: the item tabs (HEAL, FIGHT, BOOST,
   OTHER, GEAR, FOSSIL) and the name-entry page buttons (Hira, Kata).
 - Some place names on fixed-width labels are shortened slightly.
+- On the Settings screen the cursor highlight keeps the width of the Japanese word, so it
+  covers some English labels only partly.
+- Menus were tested up to the mid game; a picture-drawn label on a late-game screen may still
+  be Japanese.
 
 Credits
 -------
