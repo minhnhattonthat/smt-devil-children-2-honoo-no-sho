@@ -70,7 +70,7 @@ def save_blocks(im):
 FONTS = 'C:/Windows/Fonts/'
 ORB = (87, 74, 12.5)          # pentagram orb in the banner (centre x, y, radius): kept when the title is erased
 OUTLINE, CLEAR = 33, 0
-GOLD = [58, 57, 55, 54, 53, 51, 48, 46, 45]           # DEVIL CHILDREN fill, top -> bottom (as the katakana)
+GOLD = [58, 57, 55, 54, 53, 51, 48, 46, 45]           # DEMIKIDS fill, top -> bottom (as the katakana)
 RED = [41, 40, 39, 38, 37, 37]                         # SHIN MEGAMI TENSEI fill, outline white
 WHITE = 60
 
@@ -94,7 +94,7 @@ def grow(px, n):
 
 
 def make():
-    """English logo from the original: SHIN MEGAMI TENSEI / DEVIL CHILDREN / Book of Fire (banner and orb kept)."""
+    """English logo from the original: SHIN MEGAMI TENSEI / DEMIKIDS / Book of Fire (banner and orb kept)."""
     im = load()
     ox, oy, rr = ORB
     for y in range(64):                  # erase the JP title above the banner, keep the orb
@@ -116,8 +116,9 @@ def make():
     # canvas x 88 = screen centre (the banner is centred there too)
     top = mask('SHIN MEGAMI TENSEI', 'ariblk.ttf', 12, 124, 11)
     paint(top, 88 - 62, 3, RED, WHITE, 1)
-    main = mask('DEVIL CHILDREN', 'impact.ttf', 40, 172, 34)
-    mx = 88 - 86
+    # official English series name (the in-game term is DemiKid too)
+    main = mask('DEMIKIDS', 'impact.ttf', 40, 156, 36)
+    mx = 88 - 78
     # drop shadow (outline colour, 2 px down-right), then outline + gold fill
     shadow = {(x + 2, y + 2) for x, y in grow(main, 2)}
     for x, y in shadow:
