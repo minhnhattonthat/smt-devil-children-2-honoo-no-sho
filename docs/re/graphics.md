@@ -12,7 +12,8 @@ All UI graphics found so far are BIOS LZ77 blocks (tools/lz.py; `lz.py scan` dum
 | Name entry | prompt 名前を入力して下さい (BG 96x16, tiles 12-35) | 0x126A3C (4 slots) | "Enter a name." (tools/nameprompt.py) |
 | Name entry | page tabs ひらがな カタカナ 英数・記号 | text: fixed 10-byte strs 0x277A06/10/1A | Hiragana / Katakana / ABC/123!? |
 | Name entry | kana grid | text msgs T2777A0... | kept Japanese on purpose (input charset); ABC page is English |
-| Title | logo 真・女神転生 デビルチルドレン 炎の書 | (not located yet) | TODO |
+| Title | logo 真・女神転生 デビルチルドレン 炎の書 (8 OBJ sprites, 8bpp, 224x128) | 0x0FCF98..0x0FEFB4 (slots 0x0072D8.., 0x0F98C0..) | SHIN MEGAMI TENSEI / DEVIL CHILDREN / Book of Fire (tools/titlelogo.py) |
+| Battle | command menu x per row (centred JP by length) | bytes 0x1031FB | rows left-aligned (build.py BYTE_PATCHES) |
 | Title | PUSH START, New Game, Continue | text (strs, fullwidth via [fw]) | English |
 | Yes/No prompt | はい/いいえ | text | English |
 | Staff roll | names/roles | text (main table 5131-5271) | English; "PRESENTED BY ATLUS" already English |
