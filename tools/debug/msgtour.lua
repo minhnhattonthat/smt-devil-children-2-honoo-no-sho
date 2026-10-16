@@ -33,6 +33,7 @@ L.on_frame(function(f)
   if due and f >= due then
     due = nil
     L.shot(string.format("m%04d_%02d%s.png", cur, page, endpending and "e" or ""))
+    if DUMP then L.dump_ppu(string.format("m%04d_%02d", cur, page)) end
     page = page + 1
     if endpending then
       L.load_state(STATE, nextmsg)

@@ -212,6 +212,10 @@ def build(mode='en', only=None, out=OUT, arrays=True):
         gfx = [((menulabels.TABLE + 4 * idx,), blob) for idx, blob in menulabels.gen().items()]
         gfx.append(itemtabs.gen())
         gfx.append(itemtabs.gen_bg())
+        import namebuttons
+        gfx.append(namebuttons.gen())
+        import nameprompt
+        gfx.append(nameprompt.gen())
         for slots, blob in gfx:
             at = space.put(blob, align=4)
             for so in slots:

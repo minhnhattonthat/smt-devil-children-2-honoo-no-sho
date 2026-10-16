@@ -4278,5 +4278,38 @@
   ],
   "jp": "かけ数",
   "en": "Bet"
+ },
+ {
+  "id": "S277A06",
+  "kind": "str",
+  "off": "277A06",
+  "end": "277A10",
+  "cap": 10,
+  "slots": [],
+  "jp": "ひらがな　",
+  "en": "Hiragana",
+  "notes": "name-entry tab label: fixed 10-byte field (no terminator in JP)"
+ },
+ {
+  "id": "S277A10",
+  "kind": "str",
+  "off": "277A10",
+  "end": "277A1A",
+  "cap": 10,
+  "slots": [],
+  "jp": "カタカナ　",
+  "en": "Katakana",
+  "notes": "name-entry tab label: fixed 10-byte field (no terminator in JP)"
+ },
+ {
+  "id": "S277A1A",
+  "kind": "str",
+  "off": "277A1A",
+  "end": "277A24",
+  "cap": 10,
+  "slots": [],
+  "jp": "英数・記号",
+  "en": "ABC/123!?",
+  "notes": "name-entry tab label: fixed 10-byte field (no terminator in JP)"
  }
 ]
