@@ -235,8 +235,9 @@ def build(mode='en', only=None, out=OUT, arrays=True):
         gfx += vinecom.gen()
         import headers
         gfx += headers.gen()
-        import bigsmall
+        import bigsmall, settingsgfx
         gfx.append(bigsmall.gen())
+        gfx.append(settingsgfx.gen())
         for slots, blob in gfx:
             at = space.put(blob, align=4)
             for so in slots:
