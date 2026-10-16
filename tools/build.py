@@ -232,6 +232,8 @@ def build(mode='en', only=None, out=OUT, arrays=True):
         import titlelogo, vinecom
         gfx += titlelogo.gen()
         gfx += vinecom.gen()
+        import headers
+        gfx += headers.gen()
         for slots, blob in gfx:
             at = space.put(blob, align=4)
             for so in slots:
