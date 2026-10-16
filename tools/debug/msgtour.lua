@@ -26,7 +26,7 @@ end)
 
 L.on_exec(ENDMSG, ENDMSG, function()
   if busy or not cur then return end
-  busy, endpending, due = true, true, L.frame + 2
+  busy, endpending, due = true, true, L.frame + (ENDDELAY or 2)   -- ENDDELAY: let choice boxes finish
 end)
 
 L.on_frame(function(f)
