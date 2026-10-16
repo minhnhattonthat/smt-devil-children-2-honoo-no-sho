@@ -25,6 +25,8 @@ TEXT_BASE = 0x810000           # relocated text goes here (engine + fonts live a
 # fixed-length JP-encoded data outside the script (fullwidth Latin renders as proportional English)
 PATCHES = [
     (0x0FA3B4, 'Ｊｉｎ　　　　　'),     # default hero name (was ジン), 8 units
+    (0x0FA440, 'Ｒａｎｄ　　　　'),    # default partner name (was ランド), 8 units
+    (0x276A64, 'Ｒａｎｄ　　　　'),    # second copy of the partner's default name
 ]
 # Packed fixed-stride name arrays read by getters (0x08038298 race, 0x080382C0 element): the caller copies the
 # element's units, so each element becomes the 2-byte long-name escape 01 nn (+ zero pad) -> any English length.
