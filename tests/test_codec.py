@@ -33,6 +33,7 @@ def test_wrap_keeps_space_before_variable():
     import wrap as W
     assert W.wrap('So you are called [f3].[wait][end]')[0] == 'So you are called [f3].[wait][end]'
     assert W.fit('Use it on [f5]?[end]', 216)[0] == 'Use it on [f5]?[end]'
+    assert '[n]〒[ec:0]' in W.wrap('The attack [f4] will be 〒[ec:0].[end]')[0]
 
 
 def test_str_ends_on_zero_unit():

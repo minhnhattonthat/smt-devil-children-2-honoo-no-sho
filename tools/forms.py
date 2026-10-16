@@ -1,7 +1,7 @@
 """Text form of each script entry and its English limits (shared by batches.py, lint.py, build.py).
 
 Forms (msg entries are classified from their JP and main-table index):
-  dlg     dialogue with [wait]: free text, the build auto-wraps (216 px/line, 192 with a portrait, 2 lines/box).
+  dlg     dialogue with [wait]: free text, the build auto-wraps (216 px/line, 190 with a portrait, 2 lines/box).
   prompt  yes/no question ending [fb:N]: at most 2 lines of 216 px (auto-wrapped, no extra boxes).
   choice  option list (lines split by [n], one option per line): same number of lines; each line <= max(JP px, 120).
   desc    one-line help text (skills/items/maps, idx 2611-3439): 1 line <= 216 px.
@@ -51,7 +51,7 @@ def jp_px(line):
 def limit_text(e):
     f = form_of(e)
     if f == 'dlg':
-        return 'auto-wrap (216px lines, 192 with portrait, 2 lines/box)'
+        return 'auto-wrap (216px lines, 190 with portrait, 2 lines/box)'
     if f == 'prompt':
         return '<=2 lines x 216px'
     if f == 'choice':

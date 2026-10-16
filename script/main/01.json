@@ -860,7 +860,7 @@
    261
   ],
   "jp": "[name:50]フフフ・・・[wait][n]思い出さぬか・・・・[wait][page]天界で　エノクとして戦った[wait][n]オレさまの　姿を・・・[wait][end]",
-  "en": "[name:50]Heh heh heh...[wait][n]You don't remember....[wait][page]How I fought in Heaven[wait][n]as Enoch...?[wait][end]"
+  "en": "[name:50]Heh heh heh...[wait][n]You don't remember...?[wait][page]How I fought in Heaven[wait][n]as Enoch...?[wait][end]"
  },
  {
   "id": "M0262",
@@ -1347,7 +1347,7 @@
    303
   ],
   "jp": "[name:13]また始まる・・・・[wait][page]光と闇の・・・[wait][page]チカラとチカラの　戦いが・・・[wait][end]",
-  "en": "[name:13]It begins again....[wait][page]Of light and darkness...[wait][page]The battle of power against power...[wait][end]"
+  "en": "[name:13]It begins again...[wait][page]Of light and darkness...[wait][page]The battle of power against power...[wait][end]"
  },
  {
   "id": "M0304",

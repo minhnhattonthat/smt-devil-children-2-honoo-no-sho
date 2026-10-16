@@ -1662,7 +1662,7 @@
    710
   ],
   "jp": "[name:35]こんにちわ[n]ワシは　ルロウの合体研究家じゃ[wait][page]実は　おもしろい伝説を聞いてのぉ[wait][page]それが　本当なのかたしかめたくて[n]旅を続けているわけじゃ[wait][end]",
-  "en": "[name:35]Hello there. I am a wandering Fusion Researcher.[wait][page]You see, I heard an interesting legend.[wait][page]I've been traveling to find out whether it's really true.[wait][end]"
+  "en": "[name:35]Hello there. I am a wandering Fusion Scholar.[wait][page]You see, I heard an interesting legend.[wait][page]I've been traveling to find out whether it's really true.[wait][end]"
  },
  {
   "id": "M0711",
@@ -1932,7 +1932,7 @@
    728
   ],
   "jp": "[name:8]まじッスか！？[n]いっしょに　いくッスか！？[wait][page]・・・でも・・・・[wait][end]",
-  "en": "[name:8]Whoa, seriously!? We're goin' together!?[wait][page]...But.....[wait][end]"
+  "en": "[name:8]Whoa, seriously!? We're goin' together!?[wait][page]...But...[wait][end]"
  },
  {
   "id": "M0729",

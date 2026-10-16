@@ -30,7 +30,10 @@ PATCHES = [
 ]
 # raw byte patches: battle command menu x per row (0x081031FB, read at 0x080A52B4) centred the JP words by length;
 # English rows are left-aligned at x 8
-BYTE_PATCHES = [(0x1031FB, bytes([8] * 7))]
+BYTE_PATCHES = [(0x1031FB, bytes([8] * 7)),
+                # portrait shown ([face:N] handler 0x08032CD4/DC): text x 32 -> 34, else the portrait frame covers
+                # the first pixel column (JP glyphs had a blank one; wrap.W_FACE is 190 to match)
+                (0x032CD4, b'\x22'), (0x032CDC, b'\x22')]
 # Packed fixed-stride name arrays read by getters (0x08038298 race, 0x080382C0 element): the caller copies the
 # element's units, so each element becomes the 2-byte long-name escape 01 nn (+ zero pad) -> any English length.
 ARRAYS = [

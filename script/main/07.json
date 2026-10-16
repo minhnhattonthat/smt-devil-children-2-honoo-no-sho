@@ -27,7 +27,7 @@
    1401
   ],
   "jp": "[name:54]オレさまは　オロファト！[n]よろしくな！！[wait][end]",
-  "en": "[name:54]I'm the great Orofat! Good to have ya!![wait][end]"
+  "en": "[name:54]I'm the great Olofat! Good to have ya!![wait][end]"
  },
  {
   "id": "M1402",
@@ -42,7 +42,7 @@
    1402
   ],
   "jp": "オロファトが　ナカマになった！[wait][end]",
-  "en": "Orofat became your ally![wait][end]"
+  "en": "Olofat became your ally![wait][end]"
  },
  {
   "id": "M1403",

@@ -2592,7 +2592,7 @@
    1372
   ],
   "jp": "[name:35]こんにちわ[n]ワシは　旅の合体研究家じゃ[wait][page]もう何百年と　合体の研究を[n]つづけておる・・・[wait][page]そして　ワシは　ついに！！[n]合体を　きわめたのじゃ！！[wait][page]どうじゃ　おヌシ・・・[n]合体をためしてみんか？[wait][end]",
-  "en": "[name:35]Hello there. I'm a traveling Fusion Researcher.[wait][page]I've been studying fusion for hundreds of years now...[wait][page]And at long last!! I have mastered fusion!![wait][page]What say you, youngster... Care to try a fusion?[wait][end]"
+  "en": "[name:35]Hello there. I'm a traveling Fusion Scholar.[wait][page]I've been studying fusion for hundreds of years now...[wait][page]And at long last!! I have mastered fusion!![wait][page]What say you, youngster... Care to try a fusion?[wait][end]"
  },
  {
   "id": "M1373",
@@ -2982,7 +2982,7 @@
    1398
   ],
   "jp": "[name:54]オレさまは　オロファト[n]この　ハイエストピークの住人さ[wait][page]ここまで　来たってことは[n]ペクヨンの　ぼっちゃんを[wait][clr]たおしたってことなんだろうけど[wait][page]オレさまは　そうはいかねぇぜぇ[wait][page]カクゴしな！！[wait][end]",
-  "en": "[name:54]I'm the great Orofat, resident of this here Highest Peak.[wait][page]If you made it this far, I guess that means you[wait][clr]beat little master Paekyong, huh?[wait][page]Well, I ain't gonna go down that easy![wait][page]Get ready!![wait][end]"
+  "en": "[name:54]I'm the great Olofat, resident of this here Highest Peak.[wait][page]If you made it this far, I guess that means you[wait][clr]beat little master Paekyong, huh?[wait][page]Well, I ain't gonna go down that easy![wait][page]Get ready!![wait][end]"
  },
  {
   "id": "M1399",

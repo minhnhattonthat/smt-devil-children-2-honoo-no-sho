@@ -50,7 +50,7 @@ The lint enforces the Avoid column.
 | スサノオ | Susano-o | | | |
 | ツクヨミ | Tsukuyomi | | | |
 | ナシュア | Nashua | | | |
-| 合体研究家 | Fusion Researcher | | | |
+| 合体研究家 | Fusion Scholar | | was Fusion Researcher: too wide for the speaker tab | |
 | エノク | Enoch | | | |
 | ダークノース村長 | Dark North Chief | | | |
 | グランガチ | Grangach | | | |
@@ -139,7 +139,7 @@ The lint enforces the Avoid column.
 | 氷の使徒さま | the great Ice Apostle | | no "Lord" except Michael/Lucifer-level masters | |
 | エノクさま | Lord Enoch | | | |
 | ケイヤクの言葉 | password | | the phrase a demon asks for before it joins | contract words |
-| 合体研究家 | Fusion Researcher | | ルロウの合体研究家 = the wandering Fusion Researcher | Fusion Expert |
+| 合体研究家 | Fusion Scholar | | ルロウの合体研究家 = the wandering Fusion Scholar | Fusion Expert, Fusion Researcher |
 | ルロウのタミ | the Wanderers (流浪の民) | | ルロウのタミの村 = Village of the Wanderers | |
 | 天使の聖水 | Angel's Holy Water | | | |
 | アクマのタマゴ | Devil Egg | | | |
@@ -147,7 +147,7 @@ The lint enforces the Avoid column.
 | ～フロスト (イチゴ/メロン/レモン) | Strawberry/Melon/Lemon Frost; フロストトリオ = Frost Trio | | | |
 | イネルスタウン | Inels Town | | | |
 | 光の紋章 | Light Crest | | | |
-| 修行者の道 / 修行者の村 | Ascetic's Path / Ascetics' Village | | | |
+| 修行者の道 / 修行者の村 | Ascetics' Path / Ascetics' Village | | | |
 | ナカマがいっぱい | "You have too many allies" | | standard full-party line | |
 | ライザー (alone) | Demiloc | | | |
 | こんごとも よろしく (demon joins) | "I look forward to working with you!" | | SMT stock join line; keep identical everywhere | |

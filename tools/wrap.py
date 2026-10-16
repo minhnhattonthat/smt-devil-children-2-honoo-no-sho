@@ -15,7 +15,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import enc
 
-W_PLAIN, W_FACE = 216, 192
+W_PLAIN, W_FACE = 216, 190      # face: text starts at x 34 (build.py BYTE_PATCHES), was 32
 VAR_W = {'f3': 48, 'f4': 84, 'ef': 84, 'e8': 84, 'f2': 84, 'f1': 84, 'eb': 84, 'ed': 84, 'ec': 48, 'f5': 84,
          'f8': 84, 'e6': 84, 'e7': 84, 'e9': 84, 'ea': 84, 'f0': 84}
 NEWBOX = {'page', 'e5'}
@@ -94,8 +94,15 @@ def wrap(text, dialect='dlg'):
                 w = enc.text_width(tok, var_w=VAR_W)
                 sp = enc.text_width(' ') if (pending_space and x) else 0
                 if x and x + sp + w > limit:
+                    glued = None
+                    if not sp and len(out) > 1 and out[-2] == ' ' and not out[-1].startswith('['):
+                        glued = out.pop()       # '〒[ec:0]': the word touching the variable moves with it
+                        out.pop()
                     brk()
                     sp = 0
+                    if glued:
+                        out.append(glued)
+                        x = enc.text_width(glued)
                 if sp:
                     out.append(' ')
                 x += sp + w
