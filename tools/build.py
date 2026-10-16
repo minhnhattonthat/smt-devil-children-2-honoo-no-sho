@@ -28,6 +28,9 @@ PATCHES = [
     (0x0FA440, 'Ｒａｎｄ　　　　'),    # default partner name (was ランド), 8 units
     (0x276A64, 'Ｒａｎｄ　　　　'),    # second copy of the partner's default name
 ]
+# raw byte patches: battle command menu x per row (0x081031FB, read at 0x080A52B4) centred the JP words by length;
+# English rows are left-aligned at x 8
+BYTE_PATCHES = [(0x1031FB, bytes([8] * 7))]
 # Packed fixed-stride name arrays read by getters (0x08038298 race, 0x080382C0 element): the caller copies the
 # element's units, so each element becomes the 2-byte long-name escape 01 nn (+ zero pad) -> any English length.
 ARRAYS = [
@@ -133,6 +136,9 @@ def build(mode='en', only=None, out=OUT, arrays=True):
     for off, text in PATCHES:
         data = codec.encode_jp(text)
         assert rom[off:off + len(data)] != data or True
+        rom[off:off + len(data)] = data
+        ranges.append((off, off + len(data)))
+    for off, data in BYTE_PATCHES:
         rom[off:off + len(data)] = data
         ranges.append((off, off + len(data)))
     space = Space(rom, TEXT_BASE)

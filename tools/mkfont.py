@@ -49,7 +49,25 @@ EN8_HAND = {  # 8 rows each; glyphs the game font lacks
     0x5F: ['....', '....', '....', '....', '....', '....', '....', '###.'],
     0x23: ['......', '.#.#..', '#####.', '.#.#..', '#####.', '.#.#..', '......', '......'],
     0x5E: ['.#..', '#.#.', '....', '....', '....', '....', '....', '....'],
+    # condensed forms: status lists give a race 4 JP cells (32 px), "Monster" must fit
+    0x2D: ['....', '....', '....', '###.', '....', '....', '....', '....'],
+    0x4D: ['#...#.', '##.##.', '#.#.#.', '#.#.#.', '#...#.', '#...#.', '#...#.', '......'],
+    0x72: ['....', '....', '#.#.', '##..', '#...', '#...', '#...', '....'],
 }
+
+
+def condense(rows):
+    """Drop one ink column that repeats its right neighbour (the one nearest the middle) from glyphs >= 5 px ink:
+    the game's 8 px Latin is ~1 px wider than the UI fields sized for 8 px kana."""
+    ink = len(rows[0]) - 1
+    if ink < 5:
+        return rows
+    cols = [''.join(r[x] for r in rows) for x in range(len(rows[0]))]
+    cand = [x for x in range(ink - 1) if cols[x] == cols[x + 1] and '#' in cols[x]]
+    if not cand:
+        return rows
+    del cols[min(cand, key=lambda c: abs(c - (ink - 1) / 2))]
+    return [''.join(c[y] for c in cols) for y in range(len(rows))]
 
 
 def gen_en8():
@@ -64,7 +82,7 @@ def gen_en8():
             g = F.glyph(rom, F.FONTS['f8'], EN8_FROM_GAME[c])
             cols = [x for x in range(8) if any(g[y][x] for y in range(8))]
             x0, x1 = (cols[0], cols[-1]) if cols else (0, 1)
-            rows = [''.join('#' if g[y][x] else '.' for x in range(x0, x1 + 1)) + '.' for y in range(8)]
+            rows = condense([''.join('#' if g[y][x] else '.' for x in range(x0, x1 + 1)) + '.' for y in range(8)])
         else:
             rows = ['#.#.', '.#..', '#.#.', '....', '....', '....', '....', '....']   # placeholder
         out.append('= %02X %d' % (c, len(rows[0])))
