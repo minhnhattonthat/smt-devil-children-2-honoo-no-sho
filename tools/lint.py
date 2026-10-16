@@ -101,7 +101,7 @@ def check_entry(e, en):
     elif e['kind'] == 'str':
         try:
             b = enc.encode_str(en)
-            if len(b) > e['cap'] and not e['slots']:
+            if not e['slots'] and enc.encode_str_inplace(en, e['cap']) is None:
                 errs.append('str too long: %d bytes > %d (no pointer to relocate)' % (len(b), e['cap']))
         except ValueError as x:
             errs.append(str(x))

@@ -133,15 +133,28 @@ def encode_str(text):
             out += bytes([code >> 8, code & 0xFF])
         else:
             raise ValueError('unencodable char %r' % ch)
-    return bytes(out) + b'\x00'
+    # The game copies/joins strings by u16 units up to a 0000 unit (strcpy 0x080C0C6C, strcat 0x080C0CDC): end on a
+    # whole zero unit, 0x7F (zero-width) pads odd lengths. A lone 0 byte inside a unit made strcpy run on (hang).
+    if len(out) % 2:
+        out.append(0x7F)
+    return bytes(out) + b'\x00\x00'
+
+
+def encode_str_inplace(text, cap):
+    """Bytes for a str written over its JP original (cap bytes), or None. Falls back to a single 0 byte end when the
+    0000 unit does not fit: only for strs with no pointer (fixed-offset headers drawn directly, never strcpy'd)."""
+    b = encode_str(text)
+    if len(b) <= cap:
+        return b
+    b = b[:-2].rstrip(b'\x7f') + b'\x00'
+    return b if len(b) <= cap else None
 
 
 def encode_field(text, size=16):
-    b = encode_str(text)            # includes the 0 terminator
-    if len(b) == size + 1:          # exactly 16 chars: no terminator, like a full 8-glyph JP name
-        return b[:size]
-    if len(b) % 2:
-        b += b'\x00'
+    # No 0 terminator: like the JP names, pad with fullwidth spaces (81 40). The game trims those when it joins a
+    # name with a particle ("Pixie" + " joined"); a 0 byte inside the copied units would end the joined line.
+    # Odd length: 0x7F (zero-width pad) keeps the 81 40 pads unit-aligned.
+    b = encode_str(text)[:-2]       # drop the 0000 unit (encode_str already 0x7F-pads odd lengths)
     if len(b) > size:
         raise ValueError('field too long (%d > %d bytes): %r' % (len(b), size, text))
     while len(b) < size:

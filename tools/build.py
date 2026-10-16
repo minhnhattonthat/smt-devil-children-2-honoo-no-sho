@@ -173,6 +173,8 @@ def build(mode='en', only=None, out=OUT, arrays=True):
             elif e['kind'] == 'str':
                 data = enc.encode_str(en)
                 off = int(e['off'], 16)
+                if not e['slots']:
+                    data = enc.encode_str_inplace(en, e['cap']) or data
                 if len(data) <= e['cap']:
                     rom[off:off + e['cap']] = data + b'\x00' * (e['cap'] - len(data))
                     ranges.append((off, off + e['cap']))
@@ -195,7 +197,7 @@ def build(mode='en', only=None, out=OUT, arrays=True):
                         at = space.put(enc.encode_str(en))
                         struct.pack_into('<I', rom, LONGNAMES + 4 * k, 0x08000000 + at)
                         longnames[en] = k
-                    data = bytes([1, longnames[en], 0, 0]) + b'\x81\x40' * 6
+                    data = bytes([1, longnames[en]]) + b'\x81\x40' * 7    # no 0: see enc.encode_field
                 else:
                     data = enc.encode_field(en)
                 off = int(e['off'], 16)
