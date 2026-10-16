@@ -34,8 +34,8 @@ Batch brief: H:/translation/batch/projects/BATCH_BRIEF.md (all rulings pre-appro
   Cross-batch spellings: tools/normalize.tsv -> tools/normalize.py.
 
 ## Status (2026-10-16)
-- All 7137 entries translated (b000-b055) and merged. Reviews of batches in progress.
-- Done: Step 0, recon (encoding, fonts, all text located), extraction (4910 msgs, 517 strs, 1719 fields), VWF engine, marker build
-  boots through intro to field, pilot b000 merged; batches b001-b055 split; b001-b004 dispatched.
-- Next: dispatch remaining batches; English name entry screen; debug states (menus, battle, shops); graphics survey; width gate
-  for desc/ddesc/choice/menus/fields (provisional limits in tools/forms.py).
+- Translation 7139/7149 (10 keep: kana grid, arrays, false ptr), all batches reviewed + fixes applied (fixes/*.tsv).
+- Graphics done: title logo, field menu labels, item tabs, name entry; battle menu x fix; condensed en8 font.
+- Fixed: strs now end on a 0000 unit (game strcpy is unit-wise: recruiting a demon hung); wrap kept space before vars.
+- Phase 8 QA in progress: msgtour all main ids (work/qa/msgs), then save/load, staff roll, battle, jp_left, release.
+- Debug: work/walk4_20k.txt from work/states/s020000.mss reaches a Pixie recruit battle (~+3000 f).
