@@ -58,6 +58,9 @@ def wrap(text, dialect='dlg'):
         x = 0
 
     text = re.sub(r'\[n\](?=  )', '[N]', text)      # [n] before an indent (centred lines) stays a hard break
+    head, sep, tail = text.rpartition('[page]')
+    if sep and '[wait]' not in tail and '[fb:' not in tail:
+        text = head + sep + tail.replace('[n]', '[N]')  # a last box with no [wait] is an option list: one per line
     for kind, tok in tokens(text):
         if kind == 'c':
             if tok == '[N]':
@@ -115,8 +118,16 @@ def wrap(text, dialect='dlg'):
         w = enc.text_width(tok)
         sp = enc.text_width(' ') if (pending_space and x) else 0
         if x and x + sp + w > limit:
+            glued = None
+            if not sp and out and TOKS.fullmatch(out[-1]) and out[-1][1:-1].split(':')[0] in VAR_W:
+                glued = out.pop()           # '[f3],': punctuation touching a variable takes it to the next line
+                if out and out[-1] == ' ':
+                    out.pop()
             brk()
             sp = 0
+            if glued:
+                out.append(glued)
+                x = enc.text_width(glued, var_w=VAR_W)
         if sp:
             out.append(' ')
         if w > limit:
