@@ -477,7 +477,7 @@
    4431
   ],
   "jp": "[name:4]！！！[n]（じしんがありそうだ！）[wait][name:65535][end]",
-  "en": "[name:4]!!! (Looks confident!)[wait][name:65535][end]"
+  "en": "[name:4]!!![n](Looks confident!)[wait][name:65535][end]"
  },
  {
   "id": "M4432",

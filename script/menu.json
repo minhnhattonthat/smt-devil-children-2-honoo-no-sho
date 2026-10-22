@@ -2523,7 +2523,7 @@
   "cap": 12,
   "slots": [],
   "jp": "わかれる",
-  "en": "Release"
+  "en": "Dismiss"
  },
  {
   "id": "S2762BA",
@@ -2880,7 +2880,7 @@
   "cap": 14,
   "slots": [],
   "jp": "わかれる",
-  "en": "Release"
+  "en": "Dismiss"
  },
  {
   "id": "S276464",

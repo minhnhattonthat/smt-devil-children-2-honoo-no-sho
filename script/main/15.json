@@ -102,7 +102,7 @@
    3006
   ],
   "jp": "敵１体を　眠らせる[end]",
-  "en": "Puts one enemy to sleep.[end]"
+  "en": "Puts one foe to sleep.[end]"
  },
  {
   "id": "M3007",
@@ -117,7 +117,7 @@
    3007
   ],
   "jp": "敵１体の　やる気を無くさせる[end]",
-  "en": "Saps one enemy's will to fight.[end]"
+  "en": "Saps one foe's will to fight.[end]"
  },
  {
   "id": "M3008",
@@ -132,7 +132,7 @@
    3008
   ],
   "jp": "敵１体に　毒を与える[end]",
-  "en": "Poisons one enemy.[end]"
+  "en": "Poisons one foe.[end]"
  },
  {
   "id": "M3009",
@@ -147,7 +147,7 @@
    3009
   ],
   "jp": "敵１体を　誘惑する[end]",
-  "en": "Charms one enemy.[end]"
+  "en": "Charms one foe.[end]"
  },
  {
   "id": "M3010",
@@ -162,7 +162,7 @@
    3010
   ],
   "jp": "敵１体を　マヒさせる[end]",
-  "en": "Paralyzes one enemy.[end]"
+  "en": "Paralyzes one foe.[end]"
  },
  {
   "id": "M3011",
@@ -177,7 +177,7 @@
    3011
   ],
   "jp": "敵１体を　バクダンに変える[end]",
-  "en": "Turns one enemy into a bomb.[end]"
+  "en": "Turns one foe into a bomb.[end]"
  },
  {
   "id": "M3012",
@@ -192,7 +192,7 @@
    3012
   ],
   "jp": "敵１体の　魔法を封じる[end]",
-  "en": "Seals one enemy's magic.[end]"
+  "en": "Seals one foe's magic.[end]"
  },
  {
   "id": "M3013",
@@ -207,7 +207,7 @@
    3013
   ],
   "jp": "敵１体を　混乱させる[end]",
-  "en": "Confuses one enemy.[end]"
+  "en": "Confuses one foe.[end]"
  },
  {
   "id": "M3014",
@@ -222,7 +222,7 @@
    3014
   ],
   "jp": "敵全体の　アタックを下げる[end]",
-  "en": "Lowers the Attack of all enemies.[end]"
+  "en": "Lowers the Attack of all foes.[end]"
  },
  {
   "id": "M3015",
@@ -237,7 +237,7 @@
    3015
   ],
   "jp": "敵全体の　ガードを下げる[end]",
-  "en": "Lowers the Guard of all enemies.[end]"
+  "en": "Lowers the Guard of all foes.[end]"
  },
  {
   "id": "M3016",
@@ -252,7 +252,7 @@
    3016
   ],
   "jp": "敵全体の　命中率を下げる[end]",
-  "en": "Lowers the accuracy of all enemies.[end]"
+  "en": "Lowers the accuracy of all foes.[end]"
  },
  {
   "id": "M3017",
@@ -267,7 +267,7 @@
    3017
   ],
   "jp": "敵全体の全パラメータアップ効果を消す[end]",
-  "en": "Cancels all stat boosts on all enemies.[end]"
+  "en": "Cancels all stat boosts on all foes.[end]"
  },
  {
   "id": "M3018",
@@ -282,7 +282,7 @@
    3018
   ],
   "jp": "呪いで　敵１体に小ダメージと気絶効果[end]",
-  "en": "Curse: light damage and faint, one enemy.[end]"
+  "en": "Curse: light damage and faint, one foe.[end]"
  },
  {
   "id": "M3019",
@@ -447,7 +447,7 @@
    3029
   ],
   "jp": "敵全体に大ダメージと　自分の状態回復[end]",
-  "en": "Big damage to all enemies; cures self.[end]"
+  "en": "Big damage to all foes; cures self.[end]"
  },
  {
   "id": "M3030",
@@ -462,7 +462,7 @@
    3030
   ],
   "jp": "光で　敵全体に３回攻撃する[end]",
-  "en": "Light strikes all enemies 3 times.[end]"
+  "en": "Light strikes all foes 3 times.[end]"
  },
  {
   "id": "M3031",
@@ -477,7 +477,7 @@
    3031
   ],
   "jp": "闇で　敵全体に３回攻撃する[end]",
-  "en": "Darkness strikes all enemies 3 times.[end]"
+  "en": "Darkness strikes all foes 3 times.[end]"
  },
  {
   "id": "M3032",
@@ -567,7 +567,7 @@
    3037
   ],
   "jp": "敵１体に小ダメージと　自分の状態回復[end]",
-  "en": "Light damage to one enemy; cures self.[end]"
+  "en": "Light damage to one foe; cures self.[end]"
  },
  {
   "id": "M3038",
@@ -582,7 +582,7 @@
    3038
   ],
   "jp": "敵２体に小ダメージと　自分の状態回復[end]",
-  "en": "Light damage to two enemies; cures self.[end]"
+  "en": "Light damage to two foes; cures self.[end]"
  },
  {
   "id": "M3039",
@@ -612,7 +612,7 @@
    3040
   ],
   "jp": "敵１体に　ガード無視の２回攻撃[end]",
-  "en": "Hits one enemy twice, ignoring Guard.[end]"
+  "en": "Hits one foe twice, ignoring Guard.[end]"
  },
  {
   "id": "M3041",

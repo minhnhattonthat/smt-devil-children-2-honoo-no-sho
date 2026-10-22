@@ -105,7 +105,8 @@ def encode_msg(text, dialect='dlg'):
 FW_SRC = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
 FW_DST = '０１２３４５６７８９ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ'
 FW_MAP = dict(zip(FW_SRC, FW_DST))
-FW_MAP.update({' ': '　', '!': '！', '?': '？', '.': '。', '-': '－', '/': '／', ':': '：', '(': '（', ')': '）', '+': '＋'})
+# space: ASCII space + 0x7F zero-width pad = one unit like the other cells, but 3 px instead of the 12 px '　'
+FW_MAP.update({' ': ' \x7f', '!': '！', '?': '？', '.': '。', '-': '－', '/': '／', ':': '：', '(': '（', ')': '）', '+': '＋'})
 
 
 def encode_str(text):
@@ -126,7 +127,7 @@ def encode_str(text):
             continue
         ch = m.group(4)
         o = ord(ch)
-        if 0x20 <= o < 0x7F:
+        if 0x20 <= o <= 0x7F:
             out.append(o)
         elif ch in C.REV:
             code = C.REV[ch]

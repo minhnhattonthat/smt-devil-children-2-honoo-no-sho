@@ -37,6 +37,79 @@ LineHeight      equ 0x080C21A1      ; () -> current font glyph height
 .align 4
 DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     push    {r4-r7, lr}
+    ; help lines: these callers copy at most 18 units (36 ASCII chars) of a ROM message into a stack buffer.
+    ; Draw the whole ROM message instead (pointer from the caller's r7 frame), centred on its real width.
+    ldr     r5, =HELPSITES
+@@site:
+    ldr     r6, [r5]
+    cmp     r6, #0
+    beq     @@start
+    cmp     r6, lr
+    beq     @@help
+    add     r5, #8
+    b       @@site
+@@help:
+    ldr     r6, [r5, #4]            ; frame offset of the source pointer | 0x100 = centred
+    lsl     r4, r6, #24
+    lsr     r4, r4, #24
+    ldr     r1, [r7, r4]
+    lsr     r6, r6, #8
+    beq     @@start
+    push    {r0, r3}
+    ldr     r2, =CUR_FONT
+    ldr     r2, [r2]
+    ldr     r3, =FONT12_OBJ
+    ldr     r6, =EN8_OBJ
+    cmp     r2, r3
+    bne     @@mfont
+    ldr     r6, =EN12_OBJ
+@@mfont:
+    ldr     r6, [r6, #0x18]         ; English width table
+    ldr     r2, [r2]
+    ldrb    r2, [r2, #0x0A]         ; game font fixed advance
+    mov     r4, r1
+    mov     r5, #0
+@@m:
+    ldrb    r0, [r4]
+    add     r4, #1
+    cmp     r0, #0
+    beq     @@mend
+    cmp     r0, #0xFF
+    beq     @@mend
+    cmp     r0, #0x80
+    bhs     @@mjp
+    cmp     r0, #0x20
+    blo     @@m
+    ldrb    r0, [r6, r0]
+    add     r5, r5, r0
+    b       @@m
+@@mjp:
+    add     r4, #1
+    add     r5, r5, r2
+    b       @@m
+@@mend:
+    lsr     r5, r5, #1
+    mov     r2, #0x70
+    sub     r2, r2, r5
+    pop     {r0, r3}
+@@start:
+    ; menus: English glyphs have no left bearing, so text at x 0 touches or loses a column to the window edge.
+    ; Start it at x 2, except the dialogue engine (0x08032000-0x08033FFF) and the battle box scroller, which place
+    ; each unit themselves.
+    cmp     r2, #0
+    bne     @@go
+    mov     r4, lr
+    ldr     r5, =0x08032000
+    sub     r4, r4, r5
+    ldr     r5, =0x2000
+    cmp     r4, r5
+    blo     @@go
+    mov     r4, lr
+    ldr     r5, =0x080B1D45
+    cmp     r4, r5
+    beq     @@go
+    mov     r2, #2
+@@go:
     sub     sp, #12
     mov     r4, r0
     mov     r5, r1
@@ -49,8 +122,11 @@ DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
 @@loop:
     ldrb    r0, [r5]
     add     r5, #1
+    cmp     r0, #0xFF               ; FF 00 = message [end] unit (help lines drawn straight from the ROM)
+    beq     @@end
     cmp     r0, #0
     bne     @@notend
+@@end:
     ldr     r0, [sp, #8]            ; end of an expanded long name: resume the outer string
     cmp     r0, #0
     beq     @@done
@@ -170,3 +246,14 @@ DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     ldr     r0, =LineHeight
     bx      r0
 .pool
+.align 4
+HELPSITES:                          ; return address of the bl DrawString (|1), source frame offset | 0x100 centred
+    .word   0x08016D21, 0x11C       ; Vinecom status skills, Magic pick
+    .word   0x08016E1D, 0x11C
+    .word   0x0801C011, 0x020
+    .word   0x08025BA1, 0x11C
+    .word   0x08029FC3, 0x118
+    .word   0x0802AC23, 0x020
+    .word   0x08057E9F, 0x118
+    .word   0x080DEDB7, 0x118
+    .word   0

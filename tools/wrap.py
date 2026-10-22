@@ -16,7 +16,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import enc
 
 W_PLAIN, W_FACE = 216, 190      # face: text starts at x 34 (build.py BYTE_PATCHES), was 32
-VAR_W = {'f3': 48, 'f4': 84, 'ef': 84, 'e8': 84, 'f2': 84, 'f1': 84, 'eb': 84, 'ed': 84, 'ec': 48, 'f5': 84,
+VAR_W = {'f3': 56,'f4': 84, 'ef': 84, 'e8': 84, 'f2': 84, 'f1': 84, 'eb': 84, 'ed': 84, 'ec': 48, 'f5': 84,
          'f8': 84, 'e6': 84, 'e7': 84, 'e9': 84, 'ea': 84, 'f0': 84}
 NEWBOX = {'page', 'e5'}
 TOKS = re.compile(r'(\[[^\]]*\])')

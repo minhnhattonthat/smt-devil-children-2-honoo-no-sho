@@ -57,7 +57,7 @@
    3
   ],
   "jp": "[f3]と　いうのか[wait][page]よかろう　それでは旅立つがよい[wait][n]この　光の彼方の世界へ・・・[wait][end]",
-  "en": "So you are called [f3].[wait][page]Very well. Then set out on your journey.[wait][n]Go, to the world beyond this light...[wait][end]"
+  "en": "So you are called [f3].[wait][page]Very well. Then set out on your journey.[wait][n]Go to the world beyond this light...[wait][end]"
  },
  {
   "id": "M0004",
@@ -117,7 +117,7 @@
    7
   ],
   "jp": "[name:8][face:44]エーッ　・・・！！[wait][n]イヤッ　なんでもないッス[wait][page]オレッ　ちょっと急ぐッスから[n]・・・　・・・　・・・[wait][end]",
-  "en": "[name:8][face:44]Whaaa... !![wait][n]Uh, n-nothing![wait][page]I-I'm kinda in a hurry, so...[n]... ... ...[wait][end]"
+  "en": "[name:8][face:44]Whaaa...!![wait][n]Uh, n-nothing![wait][page]I-I'm kinda in a hurry, so...[n]... ... ...[wait][end]"
  },
  {
   "id": "M0008",
@@ -132,7 +132,7 @@
    8
   ],
   "jp": "[name:9][face:45]あいかわらずだね　パクって[wait][page]でも　あのオトボケが[n]パクなんだもんね[wait][page]アッ　こんなことしてられないわ[wait][n]急がなくっちゃ・・・[wait][page]デビルチルドレンを　見つけるのね[wait][end]",
-  "en": "[name:9][face:45]Same old Paku.[wait][page]But then, that airhead[n]wouldn't be Paku otherwise.[wait][page]Oh! I can't stand around like this.[wait][n]I have to hurry...[wait][page]I have to find the DemiKid.[wait][end]"
+  "en": "[name:9][face:45]Same old Paku.[wait][page]Then again, Paku wouldn't be[n]Paku without being an airhead.[wait][page]Oh! I can't stand around like this.[wait][n]I have to hurry...[wait][page]I have to find the DemiKid.[wait][end]"
  },
  {
   "id": "M0009",
@@ -222,7 +222,7 @@
    14
   ],
   "jp": "[name:19]ナマイキな　人間のこどもね[wait][n]でもサバキの時は　来たのです[wait][page]あなたがた　人間も[n]サバキを　受けて[wait][clr]ほろびていく　運命なのよ[wait][end]",
-  "en": "[name:19]What a cheeky human child.[wait][n]But the time of Judgment has come.[wait][page]You humans, too,[n]will face Judgment[wait][clr]and be destroyed. That is your fate.[wait][end]"
+  "en": "[name:19]What a cheeky human child.[wait][n]But the time of judgment has come.[wait][page]You humans, too,[n]will face judgment[wait][clr]and be destroyed. That is your fate.[wait][end]"
  },
  {
   "id": "M0015",
@@ -807,7 +807,7 @@
    53
   ],
   "jp": "[name:0][face:1]空が　・・・？？[wait][end]",
-  "en": "[name:0][face:1]The sky... ??[wait][end]"
+  "en": "[name:0][face:1]The sky...??[wait][end]"
  },
  {
   "id": "M0054",
