@@ -67,7 +67,7 @@ def save_blocks(im):
     return out
 
 
-FONTS = 'C:/Windows/Fonts/'
+FONTS = str(ROOT / 'font') + '/'
 ORB = (87, 74, 12.5)          # pentagram orb in the banner (centre x, y, radius): kept when the title is erased
 OUTLINE, CLEAR = 33, 0
 GOLD = [58, 57, 55, 54, 53, 51, 48, 46, 45]           # DEMIKIDS fill, top -> bottom (as the katakana)
@@ -114,10 +114,10 @@ def make():
             im.putpixel((x0 + x, y0 + y), fill[min(len(fill) - 1, y * len(fill) // h)])
 
     # canvas x 88 = screen centre (the banner is centred there too)
-    top = mask('SHIN MEGAMI TENSEI', 'ariblk.ttf', 12, 124, 11)
+    top = mask('SHIN MEGAMI TENSEI', 'ArchivoBlack-Regular.ttf', 12, 124, 11)
     paint(top, 88 - 62, 3, RED, WHITE, 1)
     # official English series name (the in-game term is DemiKid too)
-    main = mask('DEMIKIDS', 'impact.ttf', 40, 156, 36)
+    main = mask('DEMIKIDS', 'Anton-Regular.ttf', 40, 156, 36)
     mx = 88 - 78
     # drop shadow (outline colour, 2 px down-right), then outline + gold fill
     shadow = {(x + 2, y + 2) for x, y in grow(main, 2)}
@@ -125,7 +125,7 @@ def make():
         if 0 <= mx + x < W and 0 <= 19 + y < H:
             im.putpixel((mx + x, 19 + y), OUTLINE)
     paint(main, mx, 19, GOLD, OUTLINE, 2)
-    sub = mask('Book of Fire', 'tahomabd.ttf', 11, 58, 9)
+    sub = mask('Book of Fire', 'LiberationSans-Bold.ttf', 11, 58, 9)
     for x, y in sub:
         im.putpixel((103 + x, 70 + y), WHITE)
     return im

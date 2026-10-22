@@ -11,13 +11,14 @@ from PIL import Image, ImageDraw, ImageFont
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import lz
 
+ROOT = Path(__file__).resolve().parents[1]
 TABLE = 0x223BCC
 LABELS = [(0, 'Vinecom'), (2, 'Magic'), (4, 'Items'), (6, 'Settings'), (8, 'Save')]
 W, H = 64, 16
 
 
 def render(text):
-    f = ImageFont.truetype('C:/Windows/Fonts/tahomabd.ttf', 11)
+    f = ImageFont.truetype(str(ROOT / 'font/LiberationSans-Bold.ttf'), 11)
     m = Image.new('L', (W + 8, H), 0)
     d = ImageDraw.Draw(m)
     d.fontmode = '1'
