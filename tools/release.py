@@ -6,7 +6,8 @@ import hashlib, subprocess, sys, zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-SKILL = Path('H:/translation/batch/.claude/skills/translate-retro-game/scripts')
+sys.path.insert(0, str(ROOT / 'tools'))
+from skill import SCRIPTS as SKILL  # noqa: E402
 SLUG = 'smt-devil-children-2-honoo-no-sho'
 PY = [sys.executable, '-X', 'utf8']
 

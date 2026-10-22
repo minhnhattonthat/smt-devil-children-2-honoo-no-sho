@@ -3,7 +3,7 @@
 Script text = stream of u16 little-endian units:
   0x00E5..0x00FE  control codes (some take one u16 argument), 0x00FF = end of message;
   >= 0x0100       a character: bytes (lo, hi) in ROM are the glyph code high byte, low byte (SJIS-like, tbl/jp.tbl);
-  in the English build, a unit may instead hold two ASCII bytes (see docs/re/README.md).
+  in the English build, a unit may instead hold two ASCII bytes (see docs/re/engine.md).
 Readable form: characters as text, controls as [name] or [name:arg], unknown units as [#XXXX].
 """
 import re

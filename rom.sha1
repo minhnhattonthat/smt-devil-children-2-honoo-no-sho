@@ -1,0 +1,2 @@
+# SHA-1 of the supported dump, in sha1sum format (`sha1sum -c rom.sha1` works too). One line per file for discs.
+8c29d6921e7db8b0e71094d32e32066ac13c500d  rom/honoo.gba

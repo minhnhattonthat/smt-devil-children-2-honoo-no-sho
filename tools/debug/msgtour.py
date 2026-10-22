@@ -9,8 +9,9 @@ import argparse, subprocess, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-SKILL = Path('H:/translation/batch/.claude/skills/translate-retro-game')
-EMU = [sys.executable, '-X', 'utf8', str(SKILL / 'scripts/emu.py')]
+sys.path.insert(0, str(ROOT / 'tools'))
+from skill import SCRIPTS  # noqa: E402
+EMU = [sys.executable, '-X', 'utf8', str(SCRIPTS / 'emu.py')]
 ROUTE = '600 -;6 start;120 -;6 a;120 -;6 a;120 -;6 a'
 
 

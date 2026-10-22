@@ -10,6 +10,7 @@ import argparse, json, struct, subprocess, sys, glob
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import check_rom
 import enc
 import forms
 import mkfont
@@ -266,5 +267,6 @@ if __name__ == '__main__':
     ap.add_argument('--out')
     ap.add_argument('--no-arrays', action='store_true')
     a = ap.parse_args()
-    mode = 'identity' if a.identity else ('marker' if a.marker else 'en')
+    check_rom.check()
+    mode ='identity' if a.identity else ('marker' if a.marker else 'en')
     build(mode, set(a.only.split(',')) if a.only else None, Path(a.out) if a.out else OUT, not a.no_arrays)
