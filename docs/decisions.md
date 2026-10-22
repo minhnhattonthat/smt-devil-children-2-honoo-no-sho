@@ -15,3 +15,4 @@ D1-D7 come from the batch brief (all recommended options pre-approved by the use
 | D5 | 2026-10-16 | Graphics text left in Japanese | none (default), list | None: all graphics text in scope. Name-entry kana grid stays (it is the input set). |
 | D6 | 2026-10-16 | Specs and plans | need approval, pre-approved | Pre-approved through release. |
 | D7 | 2026-10-16 | Publishing | publish, local only | Local release zip only; never push or publish without the user. |
+| D8 | 2026-10-22 | Publishing v1.1 | publish, local only | User asked: public repo minhnhattonthat/smt-devil-children-2-honoo-no-sho, GitHub release v1.1 with the zip. Further pushes/releases still need the user. |
