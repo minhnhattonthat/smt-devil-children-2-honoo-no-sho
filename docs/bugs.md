@@ -51,3 +51,23 @@ Evidence: `work/playtest/ev_pA/NNNN.png|.sheetK.png|.<state>`, presses in `log.t
 - [ ] step 0082 - wording - Rand: line 1 wraps early (sized for long name) - "Partner to the DemiKid Jin, the / chosen one," (hero name is budgeted at 56 px; a runtime wrap would be needed)
 - [ ] step 0015 - text - portrait boxes: text flush against the portrait edge - "Paku, what are you up to?"
 - [x] (found by the controller) title menu "New    Game": [fw] space was the 12 px fullwidth space (fixed: space + 7F pad)
+
+## 2026-10-22 playtest round 2 - build after 366f5db
+Evidence: `work/playtest/r1/NNNN.png|.mss` (story from jin_start.sav), `work/playtest/r2/` (new game "Wolfgang").
+r1 steps 0100+ ran on a ROM rebuilt mid-session.
+
+- [x] r2 step 0022-0040 - text - name entry ABC grid: 12 px cursor over proportional letters - "ABCDEFGHIJ" (fixed: grid message uses 02 cc fixed-cell escapes)
+- [x] r2 step 0024-0050 - text - name entry field: slot cursor over proportional name - "Wolfgan [ ]" (fixed: field drawn in 12 px cells)
+- [ ] r2 step 0062 - text - Items footer gap - "Recovery      Items" (JP layout: category right-aligned, "Items" at a fixed x; left as is)
+- [ ] r2 step 0073 - wording - Mom: sentence split over two waits - "Once you make up your mind," / "you never listen to a word I say."
+- [x] r1 step 0058, 0111 - text - battle Skill help line cut at 36 chars - "Light wave: small damage to all foes" (fixed: battle box draws ROM sources whole)
+- [x] r1 step 0050, 0091, 0103 - text - battle command labels clipped by the 2 px margin - "Combc" (fixed: margin limited to the target's free pixels)
+- [x] r1 step 0075 - text - Vinecom Status race label clipped - "Monste" (fixed, same)
+- [x] r1 step 0058 - text - broken "H" in highlighted skill row - "Light Fowling" (not reproduced on the current build)
+- [x] r1 step 0099 - text - JP Macca line after a recruit - "0のマッカを手に入れた" (not a bug: emulator loaded a half-written ROM during a rebuild)
+- [ ] r1 step 0095 - text - talk hand cursor still touches the first letter by 1 px - "Soothe"
+- [ ] r1 step 0066, 0085 - text - choice bracket touches the first letter - "[Do nothing" (dialogue choices sit at x 0; readable)
+- [x] r1 step 0090 - wording - preemptive line 2 starts with a colon - ": surprise attack launched!" (fixed: "Surprise attack launched!")
+- [x] r1 step 0069 - wording - wrap splits "R / Button." (fixed; also M2516 "B / Button" reworded)
+- [ ] r1 step 0062 - wording - Arianrhod "Ngh... ..." then a wait mid-sentence
+- [ ] r1 step 0047/0063 - wording - Rand greets Jin twice in one scene (check JP)

@@ -52,65 +52,62 @@ DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     ldr     r6, [r5, #4]            ; frame offset of the source pointer | 0x100 = centred
     lsl     r4, r6, #24
     lsr     r4, r4, #24
-    ldr     r1, [r7, r4]
+    ldr     r4, [r7, r4]
+    lsr     r5, r4, #27             ; ROM sources only (the battle box also copies the game's RAM line buffers)
+    cmp     r5, #1
+    bne     @@start
+    mov     r1, r4
     lsr     r6, r6, #8
     beq     @@start
     push    {r0, r3}
-    ldr     r2, =CUR_FONT
-    ldr     r2, [r2]
-    ldr     r3, =FONT12_OBJ
-    ldr     r6, =EN8_OBJ
-    cmp     r2, r3
-    bne     @@mfont
-    ldr     r6, =EN12_OBJ
-@@mfont:
-    ldr     r6, [r6, #0x18]         ; English width table
-    ldr     r2, [r2]
-    ldrb    r2, [r2, #0x0A]         ; game font fixed advance
-    mov     r4, r1
-    mov     r5, #0
-@@m:
-    ldrb    r0, [r4]
-    add     r4, #1
-    cmp     r0, #0
-    beq     @@mend
-    cmp     r0, #0xFF
-    beq     @@mend
-    cmp     r0, #0x80
-    bhs     @@mjp
-    cmp     r0, #0x20
-    blo     @@m
-    ldrb    r0, [r6, r0]
-    add     r5, r5, r0
-    b       @@m
-@@mjp:
-    add     r4, #1
-    add     r5, r5, r2
-    b       @@m
-@@mend:
-    lsr     r5, r5, #1
+    bl      @@measure
+    lsr     r0, r0, #1
     mov     r2, #0x70
-    sub     r2, r2, r5
+    sub     r2, r2, r0
     pop     {r0, r3}
 @@start:
     ; menus: English glyphs have no left bearing, so text at x 0 touches or loses a column to the window edge.
-    ; Start it at x 2, except the dialogue engine (0x08032000-0x08033FFF) and the battle box scroller, which place
-    ; each unit themselves.
+    ; Start it at x 2 (less if the text would then overrun its target, e.g. battle command labels), except the
+    ; dialogue engine (0x08032000-0x08033FFF) and the battle box scroller, which place each unit themselves.
+    ; The caller's lr is read from the stack ([sp+16]): bl @@measure clobbers lr.
     cmp     r2, #0
     bne     @@go
-    mov     r4, lr
+    ldr     r4, [sp, #16]
     ldr     r5, =0x08032000
     sub     r4, r4, r5
     ldr     r5, =0x2000
     cmp     r4, r5
     blo     @@go
-    mov     r4, lr
+    ldr     r4, [sp, #16]
     ldr     r5, =0x080B1D45
     cmp     r4, r5
     beq     @@go
+    push    {r0, r3}
+    bl      @@measure
+    ldr     r2, [sp]                ; target: width in tiles at +4
+    ldrh    r2, [r2, #4]
+    lsl     r2, r2, #3
+    sub     r2, r2, r0              ; free pixels
+    pop     {r0, r3}
+    cmp     r2, #0
+    bge     @@mg
+    mov     r2, #0
+@@mg:
+    cmp     r2, #2
+    ble     @@go
     mov     r2, #2
 @@go:
-    sub     sp, #12
+    sub     sp, #16
+    ; [sp+12] = fixed cells: every glyph centred in 12 px, advance 12. Set for the name-entry name field (its slot
+    ; cursor steps 12 px) and by the 02 cc escape (ABC grid of the name entry).
+    ldr     r4, [sp, #32]           ; caller's lr
+    ldr     r5, =0x08035B2B
+    mov     r6, #0
+    cmp     r4, r5
+    bne     @@fixset
+    mov     r6, #1
+@@fixset:
+    str     r6, [sp, #12]
     mov     r4, r0
     mov     r5, r1
     mov     r6, r2
@@ -145,6 +142,14 @@ DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     ldr     r5, [r1, r0]
     b       @@loop
 @@notlong:
+    cmp     r0, #0x02               ; 02 cc = ASCII cc in a fixed 12 px cell
+    bne     @@notfix
+    ldrb    r0, [r5]
+    add     r5, #1
+    mov     r1, #1
+    str     r1, [sp, #12]
+    b       @@ascii
+@@notfix:
     cmp     r0, #0x0A
     bne     @@notlf
     ldr     r6, [sp, #4]
@@ -175,8 +180,18 @@ DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     ldr     r0, =EN12_OBJ
 @@set:
     str     r0, [r2]
-    mov     r0, r4
     mov     r2, r6
+    ldr     r3, [sp, #20]           ; fixed cells ([sp+12] before the push)
+    cmp     r3, #0
+    beq     @@xok
+    ldr     r3, [r0, #0x18]
+    ldrb    r3, [r3, r1]
+    neg     r3, r3
+    add     r3, #12
+    asr     r3, r3, #1
+    add     r2, r2, r3
+@@xok:
+    mov     r0, r4
     mov     r3, r7
     bl      @@callDrawGlyph
     pop     {r1, r3}
@@ -185,6 +200,11 @@ DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     str     r3, [r2]                ; restore game font
     ldr     r0, [r0, #0x18]
     ldrb    r0, [r0, r1]
+    ldr     r2, [sp, #12]
+    cmp     r2, #0
+    beq     @@adv
+    mov     r0, #12
+@@adv:
     add     r6, r6, r0
     b       @@loop
 @@jp:
@@ -232,10 +252,72 @@ DrawStringVWF:                      ; r0 target, r1 str, r2 x, r3 y
     sub     r0, r6, r0
     ldr     r1, =LAST_ADV
     str     r0, [r1]
-    add     sp, #12
+    add     sp, #16
     pop     {r4-r7}
     pop     {r0}
     bx      r0
+@@measure:                          ; r1 str -> r0 width in px of its first line, as drawn (keeps r1-r7)
+    push    {r1-r7, lr}
+    ldr     r2, =CUR_FONT
+    ldr     r2, [r2]
+    ldr     r3, =FONT12_OBJ
+    ldr     r6, =EN8_OBJ
+    cmp     r2, r3
+    bne     @@mfont
+    ldr     r6, =EN12_OBJ
+@@mfont:
+    ldr     r6, [r6, #0x18]         ; English width table
+    ldr     r2, [r2]
+    ldrb    r2, [r2, #0x0A]         ; game font fixed advance (JP glyphs; fullwidth Latin counted the same)
+    mov     r4, r1
+    mov     r5, #0
+    mov     r7, #0                  ; resume pointer after a long name
+@@m:
+    ldrb    r0, [r4]
+    add     r4, #1
+    cmp     r0, #0xFF
+    beq     @@mstop
+    cmp     r0, #0
+    bne     @@m1
+@@mstop:
+    cmp     r7, #0
+    beq     @@mend
+    mov     r4, r7
+    mov     r7, #0
+    b       @@m
+@@m1:
+    cmp     r0, #0x01
+    bne     @@m2
+    ldrb    r0, [r4]
+    add     r4, #1
+    mov     r7, r4
+    lsl     r0, r0, #2
+    ldr     r1, =LONGNAMES
+    ldr     r4, [r1, r0]
+    b       @@m
+@@m2:
+    cmp     r0, #0x02
+    bne     @@m3
+    add     r4, #1
+    add     r5, #12
+    b       @@m
+@@m3:
+    cmp     r0, #0x0A
+    beq     @@mend
+    cmp     r0, #0x80
+    bhs     @@mjp
+    cmp     r0, #0x20
+    blo     @@m
+    ldrb    r0, [r6, r0]
+    add     r5, r5, r0
+    b       @@m
+@@mjp:
+    add     r4, #1
+    add     r5, r5, r2
+    b       @@m
+@@mend:
+    mov     r0, r5
+    pop     {r1-r7, pc}
 @@callDrawGlyph:                    ; veneer: keep r0-r3 (args), jump via r12
     push    {r0}
     ldr     r0, =DrawGlyph
@@ -256,4 +338,5 @@ HELPSITES:                          ; return address of the bl DrawString (|1), 
     .word   0x0802AC23, 0x020
     .word   0x08057E9F, 0x118
     .word   0x080DEDB7, 0x118
+    .word   0x080B1D45, 0x04C       ; battle box scroller (skill help in battle); x = its 32 px chunk offset
     .word   0

@@ -58,8 +58,9 @@ calls as the command that makes it.
 - A confirms/advances, B cancels, START opens the field menu (Vinecom, Magic, Items, Settings, Save).
 - Monster-collecting RPG: random battles, recruit demons by talking, fuse them. Kana grid on name entry stays
   Japanese by design (not a bug). Known open bug: settings-screen cursor box keeps the Japanese word width.
-- Savestates `work/states/sNNNNNN.mss` = a random walk from cold boot, one every 5000 frames (s020000 is ~3000
-  frames before a Pixie recruit battle). Start a session from one with `--state`.
+- Start from an in-game save: `--sav work/states/jin_start.sav --wait 600`, then `"start*6"` twice and Continue
+  (down, a, then Yes). Savestates (`.mss`) made on an older build show garbled or stale text (RAM points into moved
+  ROM text, names saved by older builds): don't use `work/states/sNNNNNN.mss`, and don't report what only they show.
 
 ## Genre notes
 - **RPG / adventure:** A confirms and advances text, B cancels or backs out. Read every dialogue page; at a choice

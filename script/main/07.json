@@ -942,7 +942,7 @@
    1462
   ],
   "jp": "[name:1][face:255]歩いている時に[n]オレと　話したかったら[wait][clr]Ｂボタンを　押してくれ[wait][page]それから　デビルがおそってくる[n]所だったら　オレに乗れるぜ[wait][page]乗りたかったら　Ｒボタンを[n]押してみてくれ[wait][end]",
-  "en": "[name:1][face:255]If you wanna talk to me while you're walking around,[wait][clr]press the B Button.[wait][page]And in places where demons attack, you can ride on me.[wait][page]If you wanna ride, try pressing the R Button.[wait][end]"
+  "en": "[name:1][face:255]If you wanna talk to me while you're walking around,[wait][clr]press the B Button.[wait][page]And in places where demons attack, you can ride on me.[wait][page]Wanna ride? Then press the R Button.[wait][end]"
  },
  {
   "id": "M1463",

@@ -1751,7 +1751,7 @@
    2518
   ],
   "jp": "十字ボタンの左右で　カーソルの移動[n]十字ボタンの上下で　数字のへんこうを[wait][clr]します[wait][page]決定ならば　Ａボタン[n]キャンセルならば　Ｂボタンです[wait][end]",
-  "en": "Left and right on the +Control Pad move the cursor. Up and down change the numbers[wait][clr]shown.[wait][page]Press the A Button to confirm, or the B Button to cancel.[wait][end]"
+  "en": "+Control Pad left/right: move the cursor.[wait][clr]Up/down: change the numbers.[wait][page]A Button: confirm. B Button: cancel.[wait][end]"
  },
  {
   "id": "M2519",
