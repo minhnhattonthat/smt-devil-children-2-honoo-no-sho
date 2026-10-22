@@ -1242,7 +1242,7 @@
    1960
   ],
   "jp": "ＭＨＰが[f7:3][ec:0][f7:1]に[n]ＭＭＰが[f7:3][ec:1][f7:1]になりました[wait][end]",
-  "en": "Max HP is now [f7:3][ec:0][f7:1], and Max MP is now [f7:3][ec:1][f7:1].[wait][end]"
+  "en": "Max HP: [f7:3][ec:0][f7:1], Max MP: [f7:3][ec:1][f7:1].[wait][end]"
  },
  {
   "id": "M1961",

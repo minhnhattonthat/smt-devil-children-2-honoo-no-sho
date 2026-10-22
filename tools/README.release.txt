@@ -1,5 +1,5 @@
 Shin Megami Tensei: DemiKids - Book of Fire (Devil Children 2 Honoo no Sho, GBA)
-English translation patch, version 1.1
+English translation patch, version 1.2
 ==========================================================================
 
 What it is

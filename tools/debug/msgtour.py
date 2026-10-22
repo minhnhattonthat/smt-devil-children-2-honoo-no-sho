@@ -35,6 +35,8 @@ def main():
     ap.add_argument('--rom', default='build/honoo_en.gba')
     ap.add_argument('--regen', action='store_true')
     ap.add_argument('--frames-per', type=int, default=700)
+    ap.add_argument('--delay', type=int, default=12, help='frames to wait before a [wait] shot')
+    ap.add_argument('--end-delay', type=int, default=2, help='frames to wait before the [end] shot (choice boxes)')
     a = ap.parse_args()
     rom = str(ROOT / a.rom)
     state = ROOT / 'work/states/show.mss'
@@ -53,7 +55,8 @@ def main():
         out.mkdir(parents=True, exist_ok=True)
         cmd = EMU + [rom, '--out', str(out), '--frames', str(a.frames_per * len(ch) + 600), 
                      '--timeout', '3600', '--script', str(ROOT / 'tools/debug/msgtour.lua'),
-                     '--var', 'IDS="{%s}"' % ','.join(map(str, ch)), '--var', "STATE='%s'" % state.as_posix()]
+                     '--var', 'IDS="{%s}"' % ','.join(map(str, ch)), '--var', "STATE='%s'" % state.as_posix(),
+                     '--var', 'DELAY=%d' % a.delay, '--var', 'ENDDELAY=%d' % a.end_delay]
         procs.append(subprocess.Popen(cmd, stdout=subprocess.DEVNULL))
     for p in procs:
         p.wait()

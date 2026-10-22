@@ -6,3 +6,5 @@ M0261	[name:50]Heh heh heh...[wait][n]You don't remember...?[wait][page]How I fo
 M0303	[name:13]It begins again...[wait][page]Of light and darkness...[wait][page]The battle of power against power...[wait][end]
 M0728	[name:8]Whoa, seriously!? We're goin' together!?[wait][page]...But...[wait][end]
 M0063	[name:0]Lena...?[wait][page]Don't give me that![wait][page]Lena would never[n]say something like that![wait][page]Where did you[n]take Lena?[wait][end]
+# v1.2 QA gate: second number wrapped alone onto line 2
+M1960	Max HP: [f7:3][ec:0][f7:1], Max MP: [f7:3][ec:1][f7:1].[wait][end]

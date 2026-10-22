@@ -1,4 +1,4 @@
-"""Release: build, romdiff against build/ranges.txt, BPS patch (made + re-applied + verified), README, zip.
+"""Release: QA gate, build, romdiff against build/ranges.txt, BPS patch (made + re-applied + verified), README, zip.
 
 python -X utf8 tools/release.py   -> release/smt-devil-children-2-honoo-no-sho_en.zip (patch + README only). Local only.
 """
@@ -19,6 +19,8 @@ def run(*a):
 
 
 def main():
+    # visual QA gate: every msgtour sheet has a reviewer verdict ok/fixed (work/qa, see docs/status.md)
+    run(*PY, str(SKILL / 'qa_gate.py'), 'check', 'work/qa/manifest.tsv', 'work/qa/verdicts')
     run(*PY, 'tools/build.py')
     rs = sorted(tuple(int(x, 16) for x in l.split('-')) for l in (ROOT / 'build/ranges.txt').read_text().split())
     merged = []

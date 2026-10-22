@@ -2,9 +2,14 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9 (v1.1 published on GitHub 2026-10-22: github.com/minhnhattonthat/smt-devil-children-2-honoo-no-sho).
-- **Release v1.1:** patch SHA-1 41242f6abe5609bf38ca5c088c08779983e4d6af, patched ROM SHA-1
-  b509d2ef369d0c630b1a09418e41fcd8bcdc0f06 (CRC32 31842A45); includes the 2026-10-22 playtest fixes.
+- **Phase:** 9 (v1.2 published on GitHub 2026-10-22: github.com/minhnhattonthat/smt-devil-children-2-honoo-no-sho).
+- **Release v1.2:** patch SHA-1 810649eaa9a2b770b0213294c2ddcd4bf72f5426, patched ROM SHA-1
+  9443bea3d521bd3d28d2613bdda78a78cd152cdd (CRC32 840A7BE0). v1.1 had the playtest fixes; v1.2 adds the QA-gate fixes.
+- **QA gate (2026-10-22):** msgtour 0-5330 -> 164 boxsheets, 4 reviewer agents, work/qa/manifest.tsv + verdicts/;
+  tools/release.py now runs `qa_gate.py check` first (re-init the manifest after a new tour). Fixed: option lists after
+  [page] (m2281-2290) and var+punctuation wrap (m1473) in wrap.py, m1960 wording. Tour artefacts, not bugs: battle-dialect
+  msgs (m4382-4413 [f5], m4518-4557 [ec]: field engine reads an arg there), ids 4087-4293 (not text), end shots of
+  [end]-only msgs (race: msgtour --end-delay 4 shows them), Yes/No fade-in. JP ROM shows the same in each case.
 - **Done:** Translation 7139/7149 (10 kept: kana grid, arrays, false ptr); all batches reviewed, fixes applied (fixes/*.tsv).
   Graphics: title logo, field menu labels, item tabs, name entry (both button sets, Big/Small), Vinecom, ally-screen
   plates, settings buttons; battle menu x fix; condensed en8 font. Strs end on a 0000 unit (game strcpy is unit-wise:
