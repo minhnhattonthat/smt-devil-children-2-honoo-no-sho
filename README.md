@@ -9,6 +9,20 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
+## Translation status
+
+| Part | Status |
+|---|---|
+| Dialogue / story | Translated |
+| Menus, items, battle and system messages | Translated |
+| Title logo and menu graphics | Translated (late-game graphics labels not yet checked in play) |
+| Name entry | Translated (kana pages kept as Japanese input; ABC page in English) |
+| Staff roll | Translated |
+| Story past Harajuku Avenue | Not checked in play |
+
+Known issues: the settings screen cursor box keeps the Japanese word width; item tabs use short labels (GEAR for
+Arcane Items). Full list: [docs/bugs.md](docs/bugs.md).
+
 ## What's here
 
 | Path | What it is |
